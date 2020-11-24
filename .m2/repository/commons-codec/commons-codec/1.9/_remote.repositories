@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Tue Jul 14 15:54:26 CDT 2020
+commons-codec-1.9.jar>central=
+commons-codec-1.9.pom>central=
+commons-codec-1.9-sources.jar>central=

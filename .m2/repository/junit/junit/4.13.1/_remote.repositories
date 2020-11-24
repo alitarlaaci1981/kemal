@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Thu Oct 15 17:47:19 CDT 2020
+junit-4.13.1.jar>central=
+junit-4.13.1-sources.jar>central=
+junit-4.13.1.pom>central=

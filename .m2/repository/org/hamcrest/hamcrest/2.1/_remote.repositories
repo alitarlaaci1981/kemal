@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Tue Jul 14 15:54:27 CDT 2020
+hamcrest-2.1.pom>central=
+hamcrest-2.1.jar>central=
+hamcrest-2.1-sources.jar>central=

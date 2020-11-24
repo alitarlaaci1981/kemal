@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<setup:User
+    xmi:version="2.0"
+    xmlns:xmi="http://www.omg.org/XMI"
+    xmlns:setup="http://www.eclipse.org/oomph/setup/1.0"
+    name="kemal">
+  <acceptedLicense>DEFAULT_LICENSE Marker to remember license pre-prompting</acceptedLicense>
+  <acceptedLicense>6a3d083ad2bd7d3a80ee293235f8c5b1 Eclipse Foundation Software User Agreement</acceptedLicense>
+  <acceptedLicense>abc76a6cc9d06e4684ff61ed74a972c Eclipse Foundation Software User Agreement</acceptedLicense>
+  <acceptedCertificate>T5y7Fh6UH0KcgshSpLscHxs36JA= CN=&quot;Eclipse Foundation, Inc.&quot;, OU=Java Software Code Signing, O=Sun Microsystems Inc</acceptedCertificate>
+  <acceptedCertificate>GRIR6SdtaLnfYMFIp3cuVnBtIpA= CN=JCE Code Signing CA, OU=Java Software Code Signing, O=Sun Microsystems Inc, L=Palo Alto, ST=CA, C=US</acceptedCertificate>
+  <acceptedCertificate>4ZhdJKvF6nGvSHtFl+/jgLm65Mc= CN=&quot;Eclipse.org Foundation, Inc.&quot;, OU=IT, O=&quot;Eclipse.org Foundation, Inc.&quot;, L=Ottawa, ST=Ontario, C=CA</acceptedCertificate>
+  <acceptedCertificate>tJZh2hU5KnqPrEeuc53mrDp4ROY= CN=DigiCert High Assurance Code Signing CA-1, OU=www.digicert.com, O=DigiCert Inc, C=US</acceptedCertificate>
+  <acceptedCertificate>VJn0AMraVI05FoBx2w9S9LwQixQ= CN=DigiCert High Assurance EV Root CA, OU=www.digicert.com, O=DigiCert Inc, C=US</acceptedCertificate>
+  <acceptedCertificate>7E2hb80ATfmRA6ZISRkbS+aEedc= CN=GTE CyberTrust Global Root, OU=&quot;GTE CyberTrust Solutions, Inc.&quot;, O=GTE Corporation, C=US</acceptedCertificate>
+</setup:User>
