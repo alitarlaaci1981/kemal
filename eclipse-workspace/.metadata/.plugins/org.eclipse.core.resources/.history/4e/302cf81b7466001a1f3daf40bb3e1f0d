@@ -1,0 +1,21 @@
+package com.syntax.class11;
+
+public class StringManupulations {
+
+	public static void main(String[] args) {
+		String s= "benim adim ali tarlaci";
+		//System.out.println("10. karakter:"+s.charAt(10));
+		s=s.toUpperCase();
+		int ilkBosluk =s.indexOf(" ");
+		String ilkKelime=s.substring(0, ilkBosluk);
+		int sonBosluk=s.lastIndexOf(" ");
+		String sonKelime=s.substring(sonBosluk);
+		//System.out.println("dizgi " +s+ ilkBosluk);
+		//System.out.println("ilk kelime degiskeni "+ilkKelime);
+		//System.out.println(" son kelime: "+sonKelime);
+		String userName="aktar749";
+		String password="12345";
+	    System.out.println(userName.toUpperCase());
+	}
+
+}

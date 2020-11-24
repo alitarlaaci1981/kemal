@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="com.syntax.class01.SystemProgrammer"/>
+    <fullyQualifiedTypeName name="com.sun.tools.javac.launcher.Main"/>
+    <fullyQualifiedTypeName name="java.lang.String"/>
+    <fullyQualifiedTypeName name="java.lang.StrictMath"/>
+    <fullyQualifiedTypeName name="reviewclass03.ScannerLoop"/>
+    <fullyQualifiedTypeName name="java.lang.System"/>
+    <fullyQualifiedTypeName name="java.util.Scanner"/>
+</qualifiedTypeNameHistroy>

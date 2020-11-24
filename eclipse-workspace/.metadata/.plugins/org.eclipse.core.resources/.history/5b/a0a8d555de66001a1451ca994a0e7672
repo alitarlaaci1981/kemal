@@ -1,0 +1,11 @@
+package com.syntax.class12;
+
+public class Tassk1 {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+ String str1="Sunday";
+ System.out.println(str1.indexOf("Sunday"));
+	}
+
+}

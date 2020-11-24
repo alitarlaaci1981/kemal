@@ -1,0 +1,24 @@
+package com.sysntax.repl;
+
+import java.util.Scanner;
+
+public class Arrays76Repl {
+
+	public static void main(String[] args) {
+		Scanner scan=new Scanner(System.in);
+		String day[]=new String[7];
+		for(int row=0; row<7; row++) {
+			System.out.println("Please enter day "+(row+1)+" of the week");
+			day[row]=scan.next();
+			
+		}
+		for(int i=0; i<day.length-1;i++) {
+			System.out.println(day[i]+1);
+		}
+		
+		
+		
+
+	}
+
+}

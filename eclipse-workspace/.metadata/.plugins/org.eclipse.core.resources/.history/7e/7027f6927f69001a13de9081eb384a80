@@ -1,0 +1,28 @@
+package com.syntax.class13;
+
+public class InterviewQuestions1 {
+
+	public static void main(String[] args) {
+	
+		
+		
+		
+		int a=10;
+		int b=20;
+		a=a+b;//30
+		b=a-b;//30-20=10
+		a=a-b;
+		System.out.println("the value of a="+a);
+		System.out.println("the value of b="+b);
+		
+		String str1="day";
+		String str2="night";
+		str1=str1+str2;//DayNight
+		str2=str1.substring(0, 3);//Day
+		str1=str1.substring(3);//Night
+		System.out.println("the value of str1="+str1);
+		System.out.println("the value of str1="+str2);
+	}
+	}
+
+}

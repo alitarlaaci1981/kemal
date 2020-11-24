@@ -1,0 +1,15 @@
+package com.syntax.class02;
+
+public class Aritmetic {
+	public static void main(String[] args) {
+	
+		int num1=200;
+		int num2=100;
+		
+		int sum1 =num1+num2;
+		
+		System.out.println(num1+num2+("is equal to") +sum1);
+		
+	}
+
+}

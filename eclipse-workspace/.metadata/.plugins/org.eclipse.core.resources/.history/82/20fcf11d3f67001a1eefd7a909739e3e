@@ -1,0 +1,12 @@
+package com.syntax.class11;
+
+public class Repl {
+
+	public static void main(String[] args) {
+		 String str = "abracadabra alakazam";
+		    String target1 = "dab";
+		    String target2 = "ABRA";
+		    System.out.println();
+	}
+
+}

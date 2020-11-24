@@ -1,0 +1,19 @@
+package com.syntax.class02;
+
+public class AritmeticOperationDeneme1 {
+	public static void main(String[]args) {
+	int num1= 22;
+	int num2= 2;
+	
+	int  sum1 =num1 +num2;
+	int sum2=num1-num2;
+	int sum3=num1*num2;
+	int sum4=num1/num2;
+	System.out.println("the adding of 2 numbers "+ num1+ " and "+ num2+" is equal to "+sum1);
+	System.out.println("the subtracting of 2 numbers "+ num1+ " and "+ num2+" is equal to "+sum2);
+	System.out.println("the multiple of 2 numbers "+ num1+ " and "+ num2+" is equal to "+sum3);
+	System.out.println("the dividing of 2 numbers "+ num1+ " and "+ num2+" is equal to "+sum4);}
+	
+	
+
+}

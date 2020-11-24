@@ -1,0 +1,12 @@
+package com.syntax.class12;
+
+public class Recap {
+
+	public static void main(String[] args) {
+		String str="";
+		System.out.println(str.isEmpty());
+		String str1=null;
+		System.out.println(str1.isEmpty());
+	}
+
+}

@@ -1,0 +1,12 @@
+package com.syntax.class12;
+
+public class MoreStringFunctions {
+
+	public static void main(String[] args) {
+		
+String str="Phone is 123456789";
+str=str.replaceAll("[A-Z]","");
+System.out.println(str);
+	}
+
+}

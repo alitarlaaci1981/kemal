@@ -1,0 +1,16 @@
+package com.syntax.class11;
+
+public class StringManupulations {
+
+	public static void main(String[] args) {
+		String cumle1 = new String("Welcome ali");
+		String cumle2 = new String("selam" );
+		
+		System.out.print("String Length :" ); 
+		System.out.println(cumle1.length());
+		
+		System.out.print("String Length :" );
+		System.out.println(cumle2.length()); }
+		}
+			
+	

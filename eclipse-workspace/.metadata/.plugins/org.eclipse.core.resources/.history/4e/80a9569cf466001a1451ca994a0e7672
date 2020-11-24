@@ -1,0 +1,12 @@
+package com.syntax.class12;
+
+public class Tas2 {
+
+	public static void main(String[] args) {
+		String sinif="today is march 15 year 2020";
+		String yenisinif=sinif.replaceAll(" "," ");
+		System.out.println(yenisinif);
+		
+	}
+
+}

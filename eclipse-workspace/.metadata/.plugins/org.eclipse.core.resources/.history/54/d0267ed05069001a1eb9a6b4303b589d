@@ -1,0 +1,35 @@
+package com.syntax.class13;
+
+class araba{
+	//class                                            object                         method()
+	//template,blueprint                         data,behavior
+	String color;//data
+	int mpg;     //data
+	int speed;   //data
+	String make;  //data
+	
+	void speak(){
+		System.out.println("my colur is "+ color +"I m made in "+make+" and my cunsumption is "+mpg+"my speed is "+speed);
+	}
+	
+	}public class ObjectOriented {
+
+	public static void main(String[] args) {
+	araba lexus=new araba();
+	araba audi=new araba();
+	araba saab=new araba();
+	
+	lexus.color="silver";
+	lexus.make="japan";
+	lexus.mpg=20;
+	lexus.speed=80;
+	
+	audi.color="blue";
+	audi.make="german";
+	audi.mpg=80;
+	audi.speed=160;
+	lexus.speak();
+	audi.speak();
+	}
+
+}

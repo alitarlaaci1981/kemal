@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="NewWizardAction">
+		<item key="NewWizardSelectionPage.STORE_SELECTED_ID" value="org.eclipse.jdt.ui.wizards.JavaProjectWizard"/>
+		<list key="NewWizardSelectionPage.STORE_EXPANDED_CATEGORIES_ID">
+			<item value="org.eclipse.jdt.ui.java"/>
+			<item value="org.eclipse.jdt.ui.java/org.eclipse.jdt.debug.ui.java"/>
+			<item value="org.eclipse.jdt.ui.java/org.eclipse.jdt.junit"/>
+		</list>
+	</section>
+	<section name="org.eclipse.ui.internal.QuickAccess">
+		<item key="org.eclipse.ui.internal.quickaccess.QuickAccessDialogDIALOG_WIDTH" value="450"/>
+		<item key="org.eclipse.ui.internal.quickaccess.QuickAccessDialogDIALOG_HEIGHT" value="506"/>
+		<item key="org.eclipse.ui.internal.quickaccess.QuickAccessDialogDIALOG_USE_PERSISTED_SIZE" value="true"/>
+		<item key="org.eclipse.ui.internal.quickaccess.QuickAccessDialogDIALOG_USE_PERSISTED_LOCATION" value="false"/>
+		<list key="orderedElements">
+			<item value="search.in.help"/>
+			<item value="org.eclipse.mylyn.tasks.ui.views.tasks"/>
+			<item value="org.eclipse.jdt.ui.PackageExplorer"/>
+		</list>
+		<list key="orderedProviders">
+			<item value="search.help"/>
+			<item value="org.eclipse.e4.ui.parts"/>
+			<item value="org.eclipse.e4.ui.parts"/>
+		</list>
+		<list key="textEntries">
+			<item value="1"/>
+			<item value="1"/>
+			<item value="1"/>
+		</list>
+		<list key="textArray">
+			<item value="charat"/>
+			<item value="task "/>
+			<item value="package "/>
+		</list>
+	</section>
+	<section name="WorkbenchPreferenceDialogSettings">
+		<item key="DIALOG_X_ORIGIN" value="622"/>
+		<item key="DIALOG_Y_ORIGIN" value="158"/>
+	</section>
+	<section name="ImportExportAction">
+		<item key="ImportExportPage.STORE_SELECTED_IMPORT_WIZARD_ID" value="org.eclipse.ui.wizards.import.ExternalProject"/>
+		<list key="ImportExportPage.STORE_EXPANDED_IMPORT_CATEGORIES">
+			<item value="org.eclipse.ui.Basic"/>
+		</list>
+	</section>
+</section>

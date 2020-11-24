@@ -1,0 +1,27 @@
+package com.sysntax.repl;
+
+public class Arrays2dRepl80 {
+
+	public static void main(String[] args)
+	{   int total=0;
+		int[][] a = {
+			{-5,-2,-3,7},
+			{1,-5,-2, 2},
+			{1,-2, 3,-4}
+			
+		};
+		int sum[] = new int[3];
+		for(int i=0;i<a.length; i++){
+		    for (int j = 0; j < a[i].length; j++){
+		     total=total+a[i][j];
+		     sum[i]=total;
+		     System.out.println(total);
+		    }
+		}
+	
+	
+	
+	}
+	}
+
+

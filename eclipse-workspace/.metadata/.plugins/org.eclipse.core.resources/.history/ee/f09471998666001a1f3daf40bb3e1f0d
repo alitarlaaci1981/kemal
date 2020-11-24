@@ -1,0 +1,13 @@
+package com.syntax.class11;
+
+public class StringManupulations {
+
+	public static void main(String[] args) {
+		
+		String ali=new String("Welcome to my world");
+		System.out.println(ali);
+	}
+		
+		}
+			
+	

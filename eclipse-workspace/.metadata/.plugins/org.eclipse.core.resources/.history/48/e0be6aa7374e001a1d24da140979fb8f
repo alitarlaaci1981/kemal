@@ -1,0 +1,13 @@
+package com.syntax.class02;
+
+public class Quiz {
+
+	public static void main(String[] args) {
+        String con1 ="syntaxtechs";
+        String con2 ="com";
+        
+		System.out.print(con1);
+		System.out.print(con2);
+		System.out.print(con1+"."+con2);
+	}
+}

@@ -1,0 +1,13 @@
+package com.syntax.class11;
+
+public class StringDemo {
+
+	public static void main(String[] args) {
+		String school="syntax";
+		String str=new String("hello");
+		String str1=" this is String 57484564";
+		//how many characters String hass
+		System.out.println(school.length());
+	}
+
+}

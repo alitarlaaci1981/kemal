@@ -1,0 +1,18 @@
+package com.syntax.class12;
+
+public class Tassk1 {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		String str1="Sunday";
+		char day;
+		for( int i=0; i<=0; i++) {
+		day=str1.charAt(i);
+		System.out.print(day);
+		}
+		System.out.println();
+
+ 
+	}
+
+}

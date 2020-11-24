@@ -1,0 +1,30 @@
+package com.syntax.class13;
+class Arearec{
+	int length;
+	int width;
+	int input(int l,int w){
+		width=w;
+		length=l;
+		int area=w*l;
+		return area;
+	}
+	
+	
+	
+}
+
+
+
+
+
+
+
+public class AreaRectangele {
+
+	public static void main(String[] args) {
+		Arearec a1=new Arearec();
+		Arearec a2=new Arearec();
+		System.out.println(a1.input(30, 40));
+	}
+
+}

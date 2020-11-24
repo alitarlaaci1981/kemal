@@ -1,0 +1,15 @@
+package com.syntax.class09;
+
+public class MoreArrays {
+
+	public static void main(String[] args) {
+		String[]student=new String[3];
+		student[0]="Hasna";
+		student[1]="Faisal";
+		student[2]="Kemal";
+		student[3]="Aaron";
+		
+System.out.println(student[3]);
+	}
+
+}

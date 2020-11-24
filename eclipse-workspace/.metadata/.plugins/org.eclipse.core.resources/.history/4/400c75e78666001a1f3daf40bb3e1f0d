@@ -1,0 +1,14 @@
+package com.syntax.class11;
+
+public class StringManupulations {
+
+	public static void main(String[] args) {
+		
+		String ali=new String("Ali Kemal Tarlaci");
+		System.out.println(ali);
+		System.out.println(ali.toLowerCase());
+	}
+		
+		}
+			
+	

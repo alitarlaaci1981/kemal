@@ -1,0 +1,16 @@
+package com.sysntax.repl;
+
+public class Arrays2dRepl85 {
+
+	public static void main(String[] args) {
+		int[] numbers2 = { 4, 6, 8, 9, 15 };
+		System.out.println("Length is " + numbers2.length);
+
+		System.out.println("For Loop");
+		for (int j = 0; j < numbers2.length; j++) {
+			System.out.println(numbers2[j]);
+		}
+
+	}
+
+}

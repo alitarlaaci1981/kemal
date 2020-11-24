@@ -1,0 +1,13 @@
+package com.syntax.class02;
+
+public class Aritmetic {
+	public static void main(String[] args) {
+		
+		float variable1 = 8.2f;
+		float variable2 = 8.2f;
+		double mult = variable1*variable2;
+		
+		System.out.println("the multiplication of "+variable1+" value with itself is equal to" +variable2);
+	}
+
+}

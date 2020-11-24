@@ -1,0 +1,19 @@
+package com.syntax.class11;
+
+public class StringManupulations {
+
+	public static void main(String[] args) {
+	String ali1=new String("this is very high");
+	String ali2=ali1;
+	String ali3="this is really high";
+	boolean veli;
+	veli=ali1.equals(ali2);
+	System.out.println("value="+veli);
+	veli=ali1.equals(ali3);
+	System.out.println("value="+veli);
+	
+	}
+		
+		}
+			
+	
