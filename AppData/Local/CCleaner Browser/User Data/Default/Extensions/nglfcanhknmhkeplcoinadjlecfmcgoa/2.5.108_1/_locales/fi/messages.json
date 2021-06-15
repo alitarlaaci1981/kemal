@@ -1,0 +1,239 @@
+{
+   "adBlock": {
+      "message": "Mainostenesto"
+   },
+   "adBlockSettings": {
+      "message": "Mainostenesto – Asetukset"
+   },
+   "adblockIsOff": {
+      "message": "Mainostenesto on poistettu käytöstä"
+   },
+   "adblockIsPaused": {
+      "message": "Mainostenesto on keskeytetty kaikilla sivustoilla"
+   },
+   "adblockIsPausedOnSite": {
+      "message": "Mainostenesto on keskeytetty tällä sivustolla"
+   },
+   "addSite": {
+      "message": "Lisää sivusto"
+   },
+   "addWebsiteToAllowAds": {
+      "message": "Lisää ”sivusto” mainosten sallimiseksi"
+   },
+   "adsAreAllowed": {
+      "message": "Mainokset sallitaan tällä sivustolla"
+   },
+   "adsBlocked": {
+      "message": "Mainoksia estetty: "
+   },
+   "allowAdsOnSite": {
+      "message": "Salli mainokset tällä sivustolla"
+   },
+   "alwaysAllowAdsOnSites": {
+      "message": "Salli mainokset aina näillä sivustoilla"
+   },
+   "balancedBlocking": {
+      "message": "Tasapainotettu esto"
+   },
+   "balancedBlockingName": {
+      "message": "Tasapainotettu"
+   },
+   "blockAdsOnThisSite": {
+      "message": "Estä mainokset tällä sivustolla"
+   },
+   "blockingOptions": {
+      "message": "Estovaihtoehdot"
+   },
+   "btnAdd": {
+      "message": "Lisää"
+   },
+   "cancel": {
+      "message": "Peruuta"
+   },
+   "cancelAddSiteOperation": {
+      "message": "Peru sivuston lisäystoiminto"
+   },
+   "cancelEditSiteOperation": {
+      "message": "Peru sivuston muokkaustoiminto"
+   },
+   "cancelSetStrict": {
+      "message": "Peru Tiukan tilan käyttöönottotoiminto"
+   },
+   "edit": {
+      "message": "Muokkaa"
+   },
+   "editFromWhitelist": {
+      "message": "Muokkaa sivustoa sallittujen luettelosta"
+   },
+   "editSiteFromWhitelist": {
+      "message": "Muokkaa sivustoa sallittujen luettelosta"
+   },
+   "essentialBlocking": {
+      "message": "Perusesto"
+   },
+   "essentialBlockingName": {
+      "message": "Perus"
+   },
+   "extShortDesc": {
+      "message": "Vihdoinkin tehokas mainosten esto. Ei rasita liikaa suoritinta eikä muistia."
+   },
+   "generalSettings": {
+      "message": "Yleiset asetukset"
+   },
+   "hideAmountAds": {
+      "message": "Piilota estettyjen mainosten lukumäärä"
+   },
+   "indexDescription": {
+      "message": "Estä mainokset sekä selaa nopeammin ja turvallisemmin"
+   },
+   "keep_balanced": {
+      "message": "Pidä tasapainotettu"
+   },
+   "keep_essential": {
+      "message": "Pidä perusesto"
+   },
+   "learnMore": {
+      "message": "Lisätietoja"
+   },
+   "learnMoreAAS": {
+      "message": "Lisätietoja hyväksyttävien mainosten ehdoista"
+   },
+   "learnMoreAboutAdBLock": {
+      "message": "Lue lisää Mainostenestosta"
+   },
+   "learnMoreUblock": {
+      "message": "Lisätietoja uBlockista"
+   },
+   "modifyWhitelistedSite": {
+      "message": "Muokkaa sallittujen luetteloon lisättyä sivustoa"
+   },
+   "noAdsToBlock": {
+      "message": "Ei estettäviä mainoksia tällä sivulla"
+   },
+   "openSettings": {
+      "message": "Avaa asetukset"
+   },
+   "pauseAdBlock": {
+      "message": "Keskeytä Mainostenesto"
+   },
+   "pauseAdBlockOnAllSites": {
+      "message": "Keskeytä Mainostenesto kaikilla sivustoilla"
+   },
+   "pauseAdsOnAllSites": {
+      "message": "Keskeytä mainokset kaikilla sivustoilla"
+   },
+   "pauseAdsOnSite": {
+      "message": "Keskeytä mainokset tällä sivustolla"
+   },
+   "pauseOnAllSites": {
+      "message": "Keskeytä kaikilla sivustoilla"
+   },
+   "pauseOnThisSite": {
+      "message": "Keskeytä tällä sivustolla"
+   },
+   "poweredByUblock": {
+      "message": "Palvelun tarjoaa \u003Cu>\u003Ca style='color: inherit;' target='_blank' href='__SET_HREF__'>uBlock\u003C/a>\u003C/u>"
+   },
+   "remove": {
+      "message": "Poista"
+   },
+   "removeFromWhitelist": {
+      "message": "Poista sivusto sallittujen luettelosta"
+   },
+   "save": {
+      "message": "Tallenna"
+   },
+   "saveSiteIntoWhitelist": {
+      "message": "Tallenna sivusto sallittujen luetteloon"
+   },
+   "setBalancedMode": {
+      "message": "Ota tasapainotettu tila käyttöön"
+   },
+   "setEssentialMode": {
+      "message": "Ota perustila käyttöön"
+   },
+   "setStrict": {
+      "message": "Aseta tiukka esto"
+   },
+   "setStrictDescription_avast": {
+      "message": "Jotkin harvat häiritsemättömät mainokset auttavat meitä rahoittamaan Avast Secure Browserin toimintaa. Ne eivät keskeytä selaamista, ja selain pysyy niiden ansiosta ilmaisena. Voit osoittaa rakkautesi meitä kohtaan sallimalla nämä mainokset."
+   },
+   "setStrictDescription_avg": {
+      "message": "Jotkin harvat häiritsemättömät mainokset auttavat meitä rahoittamaan AVG Secure Browserin kehitystä. Ne eivät keskeytä selaamista, ja selain pysyy niiden ansiosta ilmaisena. Voit osoittaa rakkautesi meitä kohtaan sallimalla nämä mainokset."
+   },
+   "setStrictDescription_ccleaner": {
+      "message": "Jotkin harvat häiritsemättömät mainokset auttavat meitä rahoittamaan CCleaner Browserin kehitystä. Ne eivät keskeytä selaamista, ja selain pysyy niiden ansiosta ilmaisena. Voit osoittaa rakkautesi meitä kohtaan sallimalla nämä mainokset."
+   },
+   "setStrictMode": {
+      "message": "Ota tiukka tila käyttöön"
+   },
+   "setStrictTitle": {
+      "message": "Aseta Mainostenesto tiukkaan tilaan"
+   },
+   "settingsCardAcceptableAds": {
+      "message": "Estä häiritsevät mainokset, jotka eivät täytä \u003Cu>\u003Ca style='color: inherit;' target='_blank' href='__SET_HREF__'>hyväksyttävien mainosten ehtoja\u003C/a>\u003C/u>."
+   },
+   "settingsCardAcceptableAdsBlocks": {
+      "message": "\u003Cb>Suositeltu\u003C/b> – Estä useimmat mainokset, niin voit selata nettiä nopeammin ja selkeämmin."
+   },
+   "settingsCardAcceptableAdsBlocksNearly": {
+      "message": "Estä lähes kaikki mainokset, niin voit selata nettiä nopeammin ja selkeämmin.\u003Cb>Tämä saattaa rikkoa joidenkin sivustojen toimintoja.\u003C/b>"
+   },
+   "settingsCardDisruptive": {
+      "message": "Muut häiritsevät mainokset"
+   },
+   "settingsCardOtherAds": {
+      "message": "99 % muista mainoksista"
+   },
+   "settingsCardPopups": {
+      "message": "Ponnahdusmainokset ja -bannerit"
+   },
+   "settingsCardSocialMedia": {
+      "message": "Jotkin sosiaalisen median mainokset"
+   },
+   "settingsShowNumberBadge": {
+      "message": "Näytä estettyjen mainosten määrä kuvakkeessa"
+   },
+   "showAmountAds": {
+      "message": "Näytä estettyjen mainosten lukumäärä"
+   },
+   "site": {
+      "message": "Sivusto"
+   },
+   "sitesYouHaveAllowed": {
+      "message": "Tässä näytetään sivustot, joilla olet sallinut mainokset"
+   },
+   "stayOn_balanced": {
+      "message": "Pysy tasapainotetussa tilassa"
+   },
+   "stayOn_essential": {
+      "message": "Pysy perustilassa"
+   },
+   "strictBlocking": {
+      "message": "Tiukka esto"
+   },
+   "strictBlockingName": {
+      "message": "Tiukka"
+   },
+   "turnAdblockOn": {
+      "message": "Kytke päälle"
+   },
+   "turnOff": {
+      "message": "Ota Mainostenesto pois päältä"
+   },
+   "turnOn": {
+      "message": "Kytke Mainostenesto päälle"
+   },
+   "unpauseAdBlockAllSites": {
+      "message": "Jatka Mainostenestoa kaikilla sivustoilla"
+   },
+   "unpauseAdblockOnAllSites": {
+      "message": "Jatka"
+   },
+   "whitelistModalDescription": {
+      "message": "Millä sivustolla haluat sallia mainokset?"
+   },
+   "youHaveAllowAdsOnThisSite": {
+      "message": "Olet sallinut mainokset tällä sivustolla "
+   }
+}

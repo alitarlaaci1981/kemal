@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfTreeViewNode xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <TreeViewNode xsi:type="BookmarkNode">
+    <Level>0</Level>
+    <IsExpanded>false</IsExpanded>
+    <IsLeaf>true</IsLeaf>
+    <Name>bitbucketwithsourcetree</Name>
+    <Children />
+    <CanSelect>true</CanSelect>
+    <HasError>false</HasError>
+    <Path>C:\BitBucketCode\bitbucketwithsourcetree</Path>
+    <RepoType>Git</RepoType>
+  </TreeViewNode>
+  <TreeViewNode xsi:type="BookmarkNode">
+    <Level>0</Level>
+    <IsExpanded>false</IsExpanded>
+    <IsLeaf>true</IsLeaf>
+    <Name>bitbucketwithsourcetree(1)</Name>
+    <Children />
+    <CanSelect>true</CanSelect>
+    <HasError>false</HasError>
+    <Path>C:\Users\kemal\Documents\bitbucketwithsourcetree</Path>
+    <RepoType>Git</RepoType>
+  </TreeViewNode>
+  <TreeViewNode xsi:type="BookmarkNode">
+    <Level>0</Level>
+    <IsExpanded>false</IsExpanded>
+    <IsLeaf>true</IsLeaf>
+    <Name>idealimage</Name>
+    <Children />
+    <CanSelect>true</CanSelect>
+    <HasError>false</HasError>
+    <Path>C:\Users\kemal\Documents\idealimage</Path>
+    <RepoType>Git</RepoType>
+  </TreeViewNode>
+  <TreeViewNode xsi:type="BookmarkNode">
+    <Level>0</Level>
+    <IsExpanded>false</IsExpanded>
+    <IsLeaf>true</IsLeaf>
+    <Name>idealimagehome</Name>
+    <Children />
+    <CanSelect>true</CanSelect>
+    <HasError>false</HasError>
+    <Path>C:\Users\kemal\Documents\idealimagehome</Path>
+    <RepoType>Git</RepoType>
+  </TreeViewNode>
+</ArrayOfTreeViewNode>

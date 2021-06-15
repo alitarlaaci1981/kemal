@@ -1,0 +1,239 @@
+{
+   "adBlock": {
+      "message": "ضدتبلیغات"
+   },
+   "adBlockSettings": {
+      "message": "ضدتبلیغات - تنظیمات"
+   },
+   "adblockIsOff": {
+      "message": "ضدتبلیغات خاموش است"
+   },
+   "adblockIsPaused": {
+      "message": "ضدتبلیغات در همه سایت‌ها مکث شده است"
+   },
+   "adblockIsPausedOnSite": {
+      "message": "ضدتبلیغات در این سایت مکث شده است"
+   },
+   "addSite": {
+      "message": "افزودن سایت"
+   },
+   "addWebsiteToAllowAds": {
+      "message": "افزودن \"وب‌سایت\" به اجازه دادن تبلیغات"
+   },
+   "adsAreAllowed": {
+      "message": "تبلیغات در این سایت اجازه داده شده‌اند"
+   },
+   "adsBlocked": {
+      "message": "تبلیغات مسدود شدند: "
+   },
+   "allowAdsOnSite": {
+      "message": "اجازه دادن تبلیغات در این سایت"
+   },
+   "alwaysAllowAdsOnSites": {
+      "message": "همیشه تبلیغات برای سایت‌های زیر اجازه داده شوند"
+   },
+   "balancedBlocking": {
+      "message": "مسدود کردن متعادل"
+   },
+   "balancedBlockingName": {
+      "message": "متعادل شد"
+   },
+   "blockAdsOnThisSite": {
+      "message": "مسدود کردن تبلیغات در این سایت"
+   },
+   "blockingOptions": {
+      "message": "گزینه‌های مسدود کردن"
+   },
+   "btnAdd": {
+      "message": "افزودن"
+   },
+   "cancel": {
+      "message": "لغو"
+   },
+   "cancelAddSiteOperation": {
+      "message": "لغو عملیات افزودن سایت"
+   },
+   "cancelEditSiteOperation": {
+      "message": "لغو عملیات ویرایش سایت"
+   },
+   "cancelSetStrict": {
+      "message": "لغو عملیات تنظیم سختگیرانه"
+   },
+   "edit": {
+      "message": "ویرایش"
+   },
+   "editFromWhitelist": {
+      "message": "ویرایش سایت از لیست موارد مجاز"
+   },
+   "editSiteFromWhitelist": {
+      "message": "ویرایش سایت از لیست موارد مجاز"
+   },
+   "essentialBlocking": {
+      "message": "مسدود کردن ضروری"
+   },
+   "essentialBlockingName": {
+      "message": "ضروری"
+   },
+   "extShortDesc": {
+      "message": "در نهایت، یک مسدودکننده کارآمد. به راحتی در CPU و حافظه."
+   },
+   "generalSettings": {
+      "message": "تنظیمات کلی"
+   },
+   "hideAmountAds": {
+      "message": "پنهان کردن تعداد تبلیغات مسدود شده"
+   },
+   "indexDescription": {
+      "message": "مسدود کردن تبلیغات برای افزایش سرعت و امنیت گشت‌وگذار"
+   },
+   "keep_balanced": {
+      "message": "حالت متعادل"
+   },
+   "keep_essential": {
+      "message": "حفظ موارد اساسی"
+   },
+   "learnMore": {
+      "message": "بیشتر بدانید"
+   },
+   "learnMoreAAS": {
+      "message": "درباره استانداردهای تبلیغات قابل قبول بیشتر بیاموزید"
+   },
+   "learnMoreAboutAdBLock": {
+      "message": "درباره ضدتبلیغات بیشتر بیاموزید"
+   },
+   "learnMoreUblock": {
+      "message": "درباره uBlock بیشتر بیاموزید"
+   },
+   "modifyWhitelistedSite": {
+      "message": "تغییر دادن سایت موارد مجاز"
+   },
+   "noAdsToBlock": {
+      "message": "تبلیغاتی جهت مسدود کردن در این صفحه وجود ندارد"
+   },
+   "openSettings": {
+      "message": "باز کردن تنظیمات"
+   },
+   "pauseAdBlock": {
+      "message": "مکث کردن ضدتبلیغات"
+   },
+   "pauseAdBlockOnAllSites": {
+      "message": "مکث کردن ضدتبلیغات در همه سایت‌ها"
+   },
+   "pauseAdsOnAllSites": {
+      "message": "مکث کردن تبلیغات در همه سایت‌ها"
+   },
+   "pauseAdsOnSite": {
+      "message": "مکث کردن تبلیغات در این سایت"
+   },
+   "pauseOnAllSites": {
+      "message": "مکث کردن در همه سایت‌ها"
+   },
+   "pauseOnThisSite": {
+      "message": "مکث کردن در این سایت"
+   },
+   "poweredByUblock": {
+      "message": "تحت پشتیبانی \u003Cu>\u003Ca style='color: inherit;' target='_blank' href='__SET_HREF__'>uBlock\u003C/a>\u003C/u>"
+   },
+   "remove": {
+      "message": "برداشتن"
+   },
+   "removeFromWhitelist": {
+      "message": "حذف سایت از لیست موارد مجاز"
+   },
+   "save": {
+      "message": "ذخیره"
+   },
+   "saveSiteIntoWhitelist": {
+      "message": "ذخیره کردن سایت در لیست موارد مجاز"
+   },
+   "setBalancedMode": {
+      "message": "تنظیم حالت متعادل"
+   },
+   "setEssentialMode": {
+      "message": "تنظیم حالت ضروری"
+   },
+   "setStrict": {
+      "message": "تنظیم درجه سختگیری"
+   },
+   "setStrictDescription_avast": {
+      "message": "چند تبلیغات بی‌ضرر به ما کمک می کنند هزینه های Avast Secure Browser را تأمین کنیم. آنها مزاحمتی برای وب‌گردی شما ایجاد نمی‌ کنند و ما را در ارائه خدمات رایگان یاری می‌رسانند. لطفاً با اجازه دادن به این تبلیغات از ما حمایت کنید."
+   },
+   "setStrictDescription_avg": {
+      "message": "چند تبلیغات بی‌ضرر به ما کمک می کنند هزینه های AVG Secure Browser را تأمین کنیم. آنها مزاحمتی برای وب‌گردی شما ایجاد نمی‌ کنند و ما را در ارائه خدمات رایگان یاری می‌رسانند. لطفاً با اجازه دادن به این تبلیغات از ما حمایت کنید."
+   },
+   "setStrictDescription_ccleaner": {
+      "message": "چند تبلیغات بی‌ضرر به ما کمک می کنند هزینه های CCleaner Browser را تأمین کنیم. آنها مزاحمتی برای وب‌گردی شما ایجاد نمی‌ کنند و ما را در ارائه خدمات رایگان یاری می‌رسانند. لطفاً با اجازه دادن به این تبلیغات از ما حمایت کنید."
+   },
+   "setStrictMode": {
+      "message": "تنظیم حالت سختگیرانه"
+   },
+   "setStrictTitle": {
+      "message": "تنظیم ضدتبلیغات روی حالت سختگیرانه"
+   },
+   "settingsCardAcceptableAds": {
+      "message": "مسدود کردن تبلیغات مزاحم که \u003Cu>\u003Ca style='color: inherit;' target='_blank' href='__SET_HREF__'>استانداردهای تبلیغات قابل قبول\u003C/a>\u003C/u> را نقض می‌کنند."
+   },
+   "settingsCardAcceptableAdsBlocks": {
+      "message": "\u003Cb>توصیه شده\u003C/b> – مسدود کردن اکثر تبلیغات برای وب‌گردی سریعتر و تمیزتر."
+   },
+   "settingsCardAcceptableAdsBlocksNearly": {
+      "message": "تقریباً تمام تبلیغات را برای وب‌گردی سریعتر و تمیزتر مسدود می‌کند. \u003Cb>این امر ممکن است دسترسی به برخی سایت‌ها را متوقف کند.\u003C/b>"
+   },
+   "settingsCardDisruptive": {
+      "message": "سایر تبلیغات مزاحم"
+   },
+   "settingsCardOtherAds": {
+      "message": "۹۹٪ سایر تبلیغات"
+   },
+   "settingsCardPopups": {
+      "message": "تبلیغات و بنرهای بالاآمدنی"
+   },
+   "settingsCardSocialMedia": {
+      "message": "برخی تبلیغات رسانه‌های اجتماعی"
+   },
+   "settingsShowNumberBadge": {
+      "message": "نمایش تعداد تبلیغات مسدودشده روی آیکون"
+   },
+   "showAmountAds": {
+      "message": "نمایش تعداد تبلیغات مسدود شده"
+   },
+   "site": {
+      "message": "سایت"
+   },
+   "sitesYouHaveAllowed": {
+      "message": "سایت‌هایی که اجازه نمایش تبلیغات به آنها دادید در اینجا نشان داده می‌شوند"
+   },
+   "stayOn_balanced": {
+      "message": "ادامه استفاده از حالت متعادل"
+   },
+   "stayOn_essential": {
+      "message": "ادامه استفاده از حالت ضروری"
+   },
+   "strictBlocking": {
+      "message": "مسدود کردن سختگیرانه"
+   },
+   "strictBlockingName": {
+      "message": "سختگیرانه"
+   },
+   "turnAdblockOn": {
+      "message": "روشن کردن"
+   },
+   "turnOff": {
+      "message": "خاموش کردن ضدتبلیغات"
+   },
+   "turnOn": {
+      "message": "روشن کردن ضدتبلیغات"
+   },
+   "unpauseAdBlockAllSites": {
+      "message": "لغو مکث ضدتبلیغات در همه سایت‌ها"
+   },
+   "unpauseAdblockOnAllSites": {
+      "message": "لغو مکث"
+   },
+   "whitelistModalDescription": {
+      "message": "کدام سایت را برای اجازه دادن تبلیغات در نظر دارید؟"
+   },
+   "youHaveAllowAdsOnThisSite": {
+      "message": "شما اجازه نمایش تبلیغات در این سایت را دادید "
+   }
+}

@@ -1,0 +1,28 @@
+{
+   "appDescription": {
+      "message": "Disfressa l'empremta digital del navegador i limita el seguiment en línia"
+   },
+   "appName": {
+      "message": "Antimarcatge"
+   },
+   "popupStatusDisabled": {
+      "description": "Popup label shown when afp is disabled for current website",
+      "message": "La protecció amb empremta digital està inhabilitada en aquest lloc"
+   },
+   "popupStatusEnabled": {
+      "description": "Popup label shown when afp is enabled for current website",
+      "message": "La protecció amb empremta digital està habilitada en aquest lloc"
+   },
+   "popupTotalFingerprintsAttemptsDetected": {
+      "description": "Popup total fingerprints attempts detected label",
+      "message": "Total d'intents amb empremta digital detectats"
+   },
+   "settingsAdvanced": {
+      "description": "Settings page title",
+      "message": "Configuració avançada de l'antimarcatge"
+   },
+   "settingsSocialMediaLoginDetectionPrevention": {
+      "description": "Settings page social media login detection prevention title",
+      "message": "Prevenció de detecció d'inici de sessió a xarxes socials"
+   }
+}

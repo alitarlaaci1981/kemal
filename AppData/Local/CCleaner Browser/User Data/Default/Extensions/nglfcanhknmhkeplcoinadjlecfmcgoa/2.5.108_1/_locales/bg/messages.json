@@ -1,0 +1,239 @@
+{
+   "adBlock": {
+      "message": "Блокиране на реклами"
+   },
+   "adBlockSettings": {
+      "message": "Блокиране на реклами – настройки"
+   },
+   "adblockIsOff": {
+      "message": "Блокирането на реклами е изключено"
+   },
+   "adblockIsPaused": {
+      "message": "Блокирането на реклами е поставено на пауза за всички сайтове"
+   },
+   "adblockIsPausedOnSite": {
+      "message": "Блокирането на реклами е поставено на пауза за този сайт"
+   },
+   "addSite": {
+      "message": "Добавяне на сайт"
+   },
+   "addWebsiteToAllowAds": {
+      "message": "Добавяне на „уеб сайт“ за позволяване на реклами"
+   },
+   "adsAreAllowed": {
+      "message": "Рекламите са разрешени на този сайт"
+   },
+   "adsBlocked": {
+      "message": "Блокирани реклами: "
+   },
+   "allowAdsOnSite": {
+      "message": "Позволете рекламите за този сайт"
+   },
+   "alwaysAllowAdsOnSites": {
+      "message": "Винаги позволява реклами за следните сайтове"
+   },
+   "balancedBlocking": {
+      "message": "Балансирано блокиране"
+   },
+   "balancedBlockingName": {
+      "message": "Балансирано"
+   },
+   "blockAdsOnThisSite": {
+      "message": "Блокирайте рекламите за този сайт"
+   },
+   "blockingOptions": {
+      "message": "Блокиране на опциите"
+   },
+   "btnAdd": {
+      "message": "Добавяне"
+   },
+   "cancel": {
+      "message": "Отказ"
+   },
+   "cancelAddSiteOperation": {
+      "message": "Отмяна на операцията за добавяне на сайт"
+   },
+   "cancelEditSiteOperation": {
+      "message": "Отмяна на операцията за редакция на сайт"
+   },
+   "cancelSetStrict": {
+      "message": "Отмяна на операцията за задаване на строг режим"
+   },
+   "edit": {
+      "message": "Редактиране"
+   },
+   "editFromWhitelist": {
+      "message": "Редактиране на сайт от белия списък"
+   },
+   "editSiteFromWhitelist": {
+      "message": "Редактиране на сайт от белия списък"
+   },
+   "essentialBlocking": {
+      "message": "Основно блокиране"
+   },
+   "essentialBlockingName": {
+      "message": "Основно"
+   },
+   "extShortDesc": {
+      "message": "Най-сетне ефективна блокираща програма. Щадяща процесора и паметта."
+   },
+   "generalSettings": {
+      "message": "Общи настройки"
+   },
+   "hideAmountAds": {
+      "message": "Скрий количеството блокирани реклами"
+   },
+   "indexDescription": {
+      "message": "Блокиране на рекламите за по-бързо и по-безопасно сърфиране"
+   },
+   "keep_balanced": {
+      "message": "Запазване на баланс"
+   },
+   "keep_essential": {
+      "message": "Запазване на основните"
+   },
+   "learnMore": {
+      "message": "Научете повече"
+   },
+   "learnMoreAAS": {
+      "message": "Научете повече за стандарта за приемливи реклами"
+   },
+   "learnMoreAboutAdBLock": {
+      "message": "Научете повече за блокирането на реклами"
+   },
+   "learnMoreUblock": {
+      "message": "Научете повече за отблокирането"
+   },
+   "modifyWhitelistedSite": {
+      "message": "Промяна на сайт в белия списък"
+   },
+   "noAdsToBlock": {
+      "message": "Няма реклами, които да блокират тази страница"
+   },
+   "openSettings": {
+      "message": "Отваряне на настройките"
+   },
+   "pauseAdBlock": {
+      "message": "На пауза на блокирането на реклами"
+   },
+   "pauseAdBlockOnAllSites": {
+      "message": "На пауза на блокирането на реклами на всички сайтове"
+   },
+   "pauseAdsOnAllSites": {
+      "message": "Паузирайте рекламите на всички сайтове"
+   },
+   "pauseAdsOnSite": {
+      "message": "Паузирайте рекламите на този сайт"
+   },
+   "pauseOnAllSites": {
+      "message": "На пауза за всички сайтове"
+   },
+   "pauseOnThisSite": {
+      "message": "На пауза за този сайт"
+   },
+   "poweredByUblock": {
+      "message": "Поддържано от \u003Cu>\u003Ca style='color: inherit;' target='_blank' href='__SET_HREF__'>uBlock\u003C/a>\u003C/u>"
+   },
+   "remove": {
+      "message": "Премахване"
+   },
+   "removeFromWhitelist": {
+      "message": "Премахване на сайта от белия списък"
+   },
+   "save": {
+      "message": "Запазване"
+   },
+   "saveSiteIntoWhitelist": {
+      "message": "Запазете сайтове в белия списък"
+   },
+   "setBalancedMode": {
+      "message": "Задаване на балансиран режим"
+   },
+   "setEssentialMode": {
+      "message": "Задаване на основен режим"
+   },
+   "setStrict": {
+      "message": "Задаване на стриктно"
+   },
+   "setStrictDescription_avast": {
+      "message": "Много малко ненастъпателни реклами ни помагат да финансираме Avast Secure Browser. Те не прекъсват търсенето ви и помагат браузърът да бъде безплатен. Покажете ни, че ни харесвате, като позволите тези реклами."
+   },
+   "setStrictDescription_avg": {
+      "message": "Много малко ненастъпателни реклами ни помагат да финансираме AVG Secure Browser. Те не прекъсват търсенето ви и помагат браузърът да бъде безплатен. Покажете ни, че ни харесвате, като позволите тези реклами."
+   },
+   "setStrictDescription_ccleaner": {
+      "message": "Много малко ненастъпателни реклами ни помагат да финансираме CCleaner Browser. Те не прекъсват търсенето ви и помагат браузърът да бъде безплатен. Покажете ни, че ни харесвате, като позволите тези реклами."
+   },
+   "setStrictMode": {
+      "message": "Задаване на строг режим"
+   },
+   "setStrictTitle": {
+      "message": "Задайте блокирането на реклами на стриктно"
+   },
+   "settingsCardAcceptableAds": {
+      "message": "Блокиране на смущаващите реклами, които нарушават\n\u003Cu>\u003Ca style='color: inherit;' target='_blank' href='__SET_HREF__'>Приемливите стандарти за реклами\u003C/a>\u003C/u>."
+   },
+   "settingsCardAcceptableAdsBlocks": {
+      "message": "\u003Cb>Препоръчано\u003C/b> – блокиране на повечето реклами за по-бързо и по-чисто сърфиране."
+   },
+   "settingsCardAcceptableAdsBlocksNearly": {
+      "message": "Блокира почти всички реклами за по-бързо и по-чисто сърфиране. \u003Cb>Това може да прекъсне някои сайтове.\u003C/b>"
+   },
+   "settingsCardDisruptive": {
+      "message": "Други смущаващи реклами"
+   },
+   "settingsCardOtherAds": {
+      "message": "99% от другите реклами"
+   },
+   "settingsCardPopups": {
+      "message": "Изскачащи реклами и банери"
+   },
+   "settingsCardSocialMedia": {
+      "message": "Реклами на някои социални медии"
+   },
+   "settingsShowNumberBadge": {
+      "message": "Показва броя блокирани реклами на иконата"
+   },
+   "showAmountAds": {
+      "message": "Покажи количеството блокирани реклами"
+   },
+   "site": {
+      "message": "Сайт"
+   },
+   "sitesYouHaveAllowed": {
+      "message": "Сайтовете, на които сте позволили рекламите, ще се показват тук"
+   },
+   "stayOn_balanced": {
+      "message": "Остани в балансиран режим"
+   },
+   "stayOn_essential": {
+      "message": "Остани в основен режим"
+   },
+   "strictBlocking": {
+      "message": "Стриктно блокиране"
+   },
+   "strictBlockingName": {
+      "message": "Стриктно"
+   },
+   "turnAdblockOn": {
+      "message": "Включване"
+   },
+   "turnOff": {
+      "message": "Изключи блокирането на реклами"
+   },
+   "turnOn": {
+      "message": "Включи блокирането на реклами"
+   },
+   "unpauseAdBlockAllSites": {
+      "message": "Махни паузата на блокиране на реклами на всички сайтове"
+   },
+   "unpauseAdblockOnAllSites": {
+      "message": "Прекъсване на паузата"
+   },
+   "whitelistModalDescription": {
+      "message": "На кой сайт искате да позволите рекламите?"
+   },
+   "youHaveAllowAdsOnThisSite": {
+      "message": "Позволили сте реклами за този сайт"
+   }
+}

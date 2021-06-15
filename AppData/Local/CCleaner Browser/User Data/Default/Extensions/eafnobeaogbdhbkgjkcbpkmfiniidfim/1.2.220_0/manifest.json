@@ -1,0 +1,31 @@
+{
+   "author": "Avast Software",
+   "background": {
+      "persistent": true,
+      "scripts": [ "js/background.bundle.js" ]
+   },
+   "browser_action": {
+      "default_icon": "img/icon-16-active.png",
+      "default_popup": "views/popup.html",
+      "default_title": "Tabs Consumption"
+   },
+   "content_scripts": [ {
+      "js": [ "js/content.bundle.js" ],
+      "matches": [ "\u003Call_urls>" ],
+      "run_at": "document_end"
+   } ],
+   "content_security_policy": "default-src 'self'; font-src *; script-src 'self' http://localhost:3000 https://localhost:8000/* 'unsafe-eval'; connect-src *; style-src * 'unsafe-inline' 'self' blob:; img-src * data:;",
+   "description": "An extension which saves battery life from inactive tabs and improves browser performance",
+   "icons": {
+      "128": "img/icon-128.png",
+      "16": "img/icon-16.png",
+      "48": "img/icon-48.png"
+   },
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA3oK4aTKNrX/bEwoslGumTGo2ws4rcDssGTnSlNbk5npr8fuGbVXRXfG01/3iugfoTnmtmqN0daTUvNsrW81kmhFNxZCPgCaAi/1yaYqyiSOiR/2+JLy2ukyNVIAPo93VNPm7YXb7nyzcbtO89l+YfjaYAvakhCqU/0Se5ZZg219DOTlMQ+JILhAe78BTS9MpOr8QTy4gQr740kvK+oJZ2vSnZGrurQ31PRJeeBlAuyU7sFoLwRI08jaLxlqQiWw6J/BVBimSTfyGL9nnAnuQdMMBU3VsnYDINYtP8GaPf8QAKj35lVSJbTRFB7k3MX5CX1tsmw9myFPmtwbKwmmoNQIDAQAB",
+   "manifest_version": 2,
+   "minimum_chrome_version": "79.0",
+   "name": "CCleaner Performance Manager",
+   "permissions": [ "processes", "tabs", "contextMenus", "storage", "system.memory" ],
+   "version": "1.2.220",
+   "web_accessible_resources": [ "img/*" ]
+}

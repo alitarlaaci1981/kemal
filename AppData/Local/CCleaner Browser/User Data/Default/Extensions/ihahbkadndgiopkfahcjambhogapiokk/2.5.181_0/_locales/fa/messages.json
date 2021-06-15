@@ -1,0 +1,28 @@
+{
+   "appDescription": {
+      "message": "اثر انگشت مرورگرتان را پنهان کرده و ردیابی آنلاین شما را محدود می‌کند"
+   },
+   "appName": {
+      "message": "ضد اثر انگشت"
+   },
+   "popupStatusDisabled": {
+      "description": "Popup label shown when afp is disabled for current website",
+      "message": "محافظت اثر انگشت در این سایت غیرفعال است"
+   },
+   "popupStatusEnabled": {
+      "description": "Popup label shown when afp is enabled for current website",
+      "message": "محافظت اثر انگشت در این سایت فعال است"
+   },
+   "popupTotalFingerprintsAttemptsDetected": {
+      "description": "Popup total fingerprints attempts detected label",
+      "message": "مجموع تلاش‌های اثرانگشت تشخیص داده شده"
+   },
+   "settingsAdvanced": {
+      "description": "Settings page title",
+      "message": "تنظیمات پیشرفته ضد اثر انگشت"
+   },
+   "settingsSocialMediaLoginDetectionPrevention": {
+      "description": "Settings page social media login detection prevention title",
+      "message": "پیشگیری از تشخیص اطلاعات ورود توسط شبکه‌های اجتماعی"
+   }
+}

@@ -1,0 +1,117 @@
+{
+    "appName": {
+        "message": "ویڈیو ڈاؤن لوڈر"
+    },
+    "appDesc": {
+        "message": "آف لائن طور پر دیکھنے کے لیے ویڈوز ڈاؤن لوڈ کریں"
+    },
+    "barMediaBtn": {
+        "message": "میڈیا",
+        "description": "The Media button text as visible on the floating bar"
+    },
+    "barDownloadBtn": {
+        "message": "ڈاؤن لوڈ کریں",
+        "description": "The Download button text as visible on the floating bar"
+    },
+    "barDetachBtn": {
+        "message": "علیحدہ کریں",
+        "description": "The Detach button text as visible on the floating bar"
+    },
+    "barSettingsTitle": {
+        "message": "سيٹنگز",
+        "description": "Settings popup title in the floating bar"
+    },
+    "barSettingsDoNotShow": {
+        "message": "دوبارہ نہ دکھائیں",
+        "description": "Button in settings popup disabling video-downloader"
+    },
+    "barSettingsDoNotShowForSite": {
+        "message": "اس سائٹ پر نہ دکھائیں",
+        "description": "Button in settings popup disabling video-downloader for exact site"
+    },
+    "barSettingsAbout": {
+        "message": "مزيد معلومات",
+        "description": "About Button in settings popup"
+    },
+    "barQualityVideo": {
+        "message": "ویڈیو",
+        "description": "Video title"
+    },
+    "barQualityAudio": {
+        "message": "آڈیو",
+        "description": "Audio title"
+    },
+    "barSettingsDescription": {
+        "message": "CCleanerSecure Browser کے ذریعے جاری کردہ",
+        "description": "Video download feature description in settings popup"
+    },
+    "barSettingsBtn": {
+        "message": "سيٹنگز",
+        "description": "The Settings button text as visible on the floating bar"
+    },
+    "extensionName": {
+        "message": "ویڈیو ڈاؤن لوڈر",
+        "description": "Name shown in the extension button in SZB Control Center."
+    },
+    "extensionTitle": {
+        "message": "آف لائن طور پر دیکھنے کے لیے ویڈوز ڈاؤن لوڈ کریں۔",
+        "description": "Title shown on hover over the extension button in SZB Control Center."
+    },
+    "popupAudioHeading": {
+        "message": "آڈیو",
+        "description": "The heading of the audio section in the media popup list"
+    },
+    "popupVideoHeading": {
+        "message": "ویڈیو",
+        "description": "The heading of the video section in the media popup list"
+    },
+    "popupDownloadBtn": {
+        "message": "ڈاؤن لوڈ کریں",
+        "description": "The Download button text as visible in the media popup list"
+    },
+    "reattachBtn": {
+        "message": "دوبارہ منسلک کریں",
+        "description": "The Reattach button text as visible on the detached video page"
+    },
+    "optionUnknownSize": {
+        "message": "نامعلوم سائز",
+        "description": "Videa or audio download option of unknown size"
+    },
+    "popupNoVideos": {
+        "message": "اس صفحہ پر ڈاؤن لوڈ کرنے کیلئے کوئی ویڈیوز نہیں ہیں",
+        "description": "Page does not contain any videos"
+    },
+    "popupNoVideos_v2": {
+        "message": "ایک ویڈیو ڈاؤن لوڈ کرنے کے لئے، اس کی تفصیل کے صفحہ پر جائیں۔",
+        "description": ""
+    },
+    "popupDisabledFor": {
+        "message": "ویڈیو ڈاؤن لوڈرغیر فعال شدہ برائے",
+        "description": "Page was disabled for video downloader"
+    },
+    "popupEnable": {
+        "message": "فعال کریں",
+        "description": "Enable video downloader for current page"
+    },
+    "eulaText": {
+        "message": "ہمارے <div><a target='blank' href='$link$'>انتہائی صارف لائسنس معاہدہ<\/a><\/div> (EULA) کو قبول کرتے ہوئے، آپ تسلیم اور اتفاق کرتے ہیں کہ قابل اطلاق کاپی رائٹ قوانین اور کسی بھی ویب سائٹ کے استعمال کی شرائط کے مطابق ویڈیو ڈاؤن لوڈر کا استعمال آپ کی ذمہ داری ہے۔",
+        "description": "EULA message displayed to the user",
+        "placeholders": {
+            "link": {
+                "content": "$1"
+            }
+        }
+    },
+    "eulaTitle": {
+        "message": "آپ ڈاؤن لوڈ کریں اس سے پہلے",
+        "description": "EULA popup title"
+    },
+    "eulaUnderstandAccept": {
+        "message": "میں EULA کو سمجھتا اور قبول کرتا ہوں",
+        "description": "EULA user agreement checkbox text"
+    },
+    "eulaContinue": {
+        "message": "جاری رکھیں",
+        "description": "EUlA continue button"
+    }
+}

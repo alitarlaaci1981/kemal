@@ -1,0 +1,39 @@
+{
+   "author": "CCleaner",
+   "background": {
+      "persistent": true,
+      "scripts": [ "js/background.bundle.js" ]
+   },
+   "browser_action": {
+      "default_icon": {
+         "16": "assets/img/icon16_light.png",
+         "32": "assets/img/icon32_light.png"
+      },
+      "default_popup": "views/popup.html",
+      "default_title": "CCleaner Video Downloader"
+   },
+   "content_scripts": [ {
+      "all_frames": false,
+      "js": [ "js/content.bundle.js" ],
+      "match_about_blank": false,
+      "matches": [ "\u003Call_urls>", "http://*/*", "https://*/*" ],
+      "run_at": "document_idle"
+   } ],
+   "content_security_policy": "script-src 'self' 'unsafe-eval'; object-src 'self'",
+   "dataKeys": [ "VDLData" ],
+   "default_locale": "en",
+   "description": "__MSG_appDesc__",
+   "differential_fingerprint": "",
+   "icons": {
+      "128": "assets/img/icon128.png",
+      "16": "assets/img/icon16_light.png",
+      "32": "assets/img/icon32_light.png",
+      "64": "assets/img/icon64.png"
+   },
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA4RgZD9vrVfiUzMhuD4mTk+eomcgJIcoI3qY+EsRk30y/wppagNFjDabIZ0NTQ70s7o03nwyj2UA1KNfD1Of34rwBV6xCPymS+mVzxB5oa2Gh9/ll9lwEYIjRymOp6u/OYkrksoPXcymFbNShHLwMuP3OsFtkJwjSnsCSJj5tPB4E4sYhIiC2cmLaJ2pL5aCjecSZr+Uj1UmtRbtCcrTwBb4TpcmaIm8VFNH9OcUdh7MNc0sq6FzLflkYYTTVSICtvQQHkX53VmaXnfgg6G2/4oLs3Dhsl9b2cZ/ZMAhQtgP0AVCtD7Zt45I5RJNZJKVfkdyI15G2sqiSD/HFegZpzwIDAQAB",
+   "manifest_version": 2,
+   "name": "CCleaner __MSG_appName__",
+   "permissions": [ "activeTab", "downloads", "management", "storage", "tabs", "webRequest", "webRequestBlocking", "\u003Call_urls>" ],
+   "version": "2.5.143",
+   "web_accessible_resources": [ "assets/**", "js/content.bundle.js", "content.bundle.js", "content.js" ]
+}

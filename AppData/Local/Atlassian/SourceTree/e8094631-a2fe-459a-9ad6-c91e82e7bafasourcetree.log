@@ -1,0 +1,16 @@
+2021-02-10T12:20:49: LogHost: Initializing to normal mode
+2021-02-10T12:20:50: Could not obtain git dir, C:\Users\kemal\Documents\idealimage is not a git repo.
+2021-02-10T12:20:50: Could not obtain git dir, C:\Users\kemal\Documents\idealimagehome is not a git repo.
+2021-02-10T12:20:51: Could not obtain git dir, C:\Users\kemal\AppData\Local\SourceTree\app-3.3.9 is not a git repo.
+2021-02-10T12:20:51: Could not obtain git dir, C:\Users\kemal\AppData\Local\SourceTree is not a git repo.
+2021-02-10T12:20:51: Could not obtain git dir, C:\Users\kemal\AppData\Local is not a git repo.
+2021-02-10T12:20:51: Could not obtain git dir, C:\Users\kemal\AppData is not a git repo.
+2021-02-10T12:20:51: ReactiveList`1: Property change notifications are enabled and type SourceTree.Model.RepositoryRemoteProjectLink isn't INotifyPropertyChanged or IReactiveObject
+2021-02-10T12:20:51: ReactiveList`1: Property change notifications are enabled and type SourceTree.Model.RepositoryRemoteProjectLink isn't INotifyPropertyChanged or IReactiveObject
+2021-02-10T12:20:51: ReactiveList`1: Property change notifications are enabled and type SourceTree.Model.RepositoryRemoteProjectLink isn't INotifyPropertyChanged or IReactiveObject
+2021-02-10T12:20:51: ReactiveList`1: Property change notifications are enabled and type SourceTree.Model.RepositoryRemoteProjectLink isn't INotifyPropertyChanged or IReactiveObject
+2021-02-10T12:20:51: ReactiveList`1: Property change notifications are enabled and type SourceTree.Model.RepositoryRemoteProjectLink isn't INotifyPropertyChanged or IReactiveObject
+2021-02-10T12:27:21: Error checking IsBinaryFile for C:\Users\kemal\NTUSER.DAT, System.IO.IOException: The process cannot access the file 'C:\Users\kemal\NTUSER.DAT' because it is being used by another process.
+
+2021-02-10T12:27:21: Error checking IsBinaryFile for C:\Users\kemal\NTUSER.DAT, System.IO.IOException: The process cannot access the file 'C:\Users\kemal\NTUSER.DAT' because it is being used by another process.
+

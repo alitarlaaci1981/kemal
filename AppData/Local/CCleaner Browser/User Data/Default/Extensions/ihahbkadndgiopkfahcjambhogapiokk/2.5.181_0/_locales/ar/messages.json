@@ -1,0 +1,28 @@
+{
+   "appDescription": {
+      "message": "تمويه بصمة إصبع المتصفح الخاص بك والحد من التعقب عبر الإنترنت"
+   },
+   "appName": {
+      "message": "مضاد التعرف ببصمة الإصبع"
+   },
+   "popupStatusDisabled": {
+      "description": "Popup label shown when afp is disabled for current website",
+      "message": "تم إلغاء تفعيل الحماية ببصمة الإصبع لهذا الموقع"
+   },
+   "popupStatusEnabled": {
+      "description": "Popup label shown when afp is enabled for current website",
+      "message": "تم تفعيل الحماية ببصمة الإصبع لهذا الموقع"
+   },
+   "popupTotalFingerprintsAttemptsDetected": {
+      "description": "Popup total fingerprints attempts detected label",
+      "message": "تم اكتشاف مجموع محاولات استخدام بصمة الإصبع"
+   },
+   "settingsAdvanced": {
+      "description": "Settings page title",
+      "message": "الإعدادات المتقدمة لمضاد التعرف ببصمة الإصبع"
+   },
+   "settingsSocialMediaLoginDetectionPrevention": {
+      "description": "Settings page social media login detection prevention title",
+      "message": "منع اكتشاف تسجيل الدخول إلى وسائل التواصل الاجتماعي"
+   }
+}

@@ -1,0 +1,860 @@
+{
+   "1pApplyChanges": {
+      "message": "Pritaikyti pakeitimus"
+   },
+   "1pExport": {
+      "message": "Eksportuoti"
+   },
+   "1pFormatHint": {
+      "message": "Po vieną filtrą eilutėje. Filtras gali būti tiesiog pagrindinio kompiuterio vardas arba su „Adblock-Plus“ suderinamas filtras. Eilutės, pradedamos &lsquo;!&rsquo;, bus ignoruojamos."
+   },
+   "1pImport": {
+      "message": "Importuoti ir pridėti"
+   },
+   "1pPageName": {
+      "message": " Mano filtrai"
+   },
+   "3pApplyChanges": {
+      "message": "Pritaikyti pakeitimus"
+   },
+   "3pAutoUpdatePrompt1": {
+      "message": "Automatiškai naujinti filtrų sąrašus"
+   },
+   "3pExternalListObsolete": {
+      "message": "Pasenęs."
+   },
+   "3pExternalListsHint": {
+      "message": "Po vieną URL eilutėje. Eilutės, pradedamos &lsquo;!&rsquo;, bus ignoruojamos. Klaidingi URL bus tyliai ignoruojami."
+   },
+   "3pGroupAds": {
+      "message": "Reklama"
+   },
+   "3pGroupAnnoyances": {
+      "message": "Erzinantys elementai"
+   },
+   "3pGroupCustom": {
+      "message": "Pasirinktinis"
+   },
+   "3pGroupDefault": {
+      "message": "Tinklo ir pagražinimo elementų filtrai"
+   },
+   "3pGroupMalware": {
+      "message": "Kenkimo programų sritis"
+   },
+   "3pGroupMultipurpose": {
+      "message": "Universalus"
+   },
+   "3pGroupPrivacy": {
+      "message": "Privatumas"
+   },
+   "3pGroupRegions": {
+      "message": "Regionai, kalbos"
+   },
+   "3pIgnoreGenericCosmeticFilters": {
+      "message": "Ignoruoti bendrojo pobūdžio nežymius filtrus"
+   },
+   "3pIgnoreGenericCosmeticFiltersInfo": {
+      "message": "\u003Cp>Bendrojo pobūdžio nežymūs filtrai yra tokie nežymūs filtrai, kuriuos reikia taikyti visose interneto svetainėse.\u003Cp>Nors juos efektyviai valdo CCleaner Anti-Tracking, bendrojo pobūdžio nežymūs filtrai vis tiek gali žymiai padidinti atminties ir mikroprocesoriaus naudojimą kai kuriose interneto svetainėse, ypač didelėse ir senose.\u003Cp>Įjungus šią parinktį, bendrojo pobūdžio nežymūs filtrai papildomai nebeapkraus atminties ir mikroprocesoriaus naršant po interneto svetaines bei sumažins CCleaner Anti-Tracking atminties naudojimą.\u003Cp>Rekomenduojama įjungti šią parinktį ne tokiuose galinguose prietaisuose."
+   },
+   "3pImport": {
+      "message": "Importuoti..."
+   },
+   "3pLastUpdate": {
+      "message": "Paskutinis atnaujinimas: {{ago}}.\nSpauskite, kad naujintumėte dabar."
+   },
+   "3pListsOfBlockedHostsHeader": {
+      "message": "Blokuotų pagrindinių kompiuterių sąrašas"
+   },
+   "3pListsOfBlockedHostsPerListStats": {
+      "message": "{{used}} naudojama iš {{total}}"
+   },
+   "3pListsOfBlockedHostsPrompt": {
+      "message": "{{netFilterCount}} tinklo filtrai ＋ {{cosmeticFilterCount}} nežymūs filtrai iš:"
+   },
+   "3pNetworkError": {
+      "message": "Dėl tinklo klaidos nepavyko atnaujinti ištekliaus."
+   },
+   "3pPageName": {
+      "message": "Trečiųjų šalių filtrai"
+   },
+   "3pParseAllABPHideFiltersInfo": {
+      "message": "\u003Cp>Ši parinktis leidžia analizuoti ir priverstinai naudoti \u003Ca href=\"https://adblockplus.org/en/faq_internal#elemhide\">su „Adblock Plus“ suderinamus &ldquo;elementų slėpimo&rdquo; filtrus\u003C/a>. Šie filtrai yra nežymūs, jie paslepia tinklalapio elementus, kurie yra vizualiai įkyrūs ir kurių negali užblokuoti filtravimo modulis, paremtas tinklo užklausomis.\u003C/p>\u003Cp>Įjungus šią funkciją, padidėja CCleaner Anti-Tracking's atminties naudojimas.\u003C/p>"
+   },
+   "3pParseAllABPHideFiltersPrompt1": {
+      "message": "Analizuoti ir priverstinai naudoti nežymius filtrus"
+   },
+   "3pPurgeAll": {
+      "message": "Valyti visus podėlius"
+   },
+   "3pUpdateNow": {
+      "message": "Atnaujinti dabar"
+   },
+   "3pUpdating": {
+      "message": "Atnaujinama..."
+   },
+   "aboutBackupDataButton": {
+      "message": "Sukurti atsarginę kopiją faile"
+   },
+   "aboutBackupFilename": {
+      "message": "CCleaner Anti-Tracking-backup_{{datetime}}.txt"
+   },
+   "aboutChangelog": {
+      "message": "Keitimų žurnalas"
+   },
+   "aboutCode": {
+      "message": "Pirminis programos tekstas (GPlv3)"
+   },
+   "aboutContributors": {
+      "message": "Autoriai"
+   },
+   "aboutDependencies": {
+      "message": "Išorinės priklausomybės (suderinta su GPLv3):"
+   },
+   "aboutIssues": {
+      "message": "Problemų tikrintuvas"
+   },
+   "aboutPageName": {
+      "message": "Apie"
+   },
+   "aboutResetDataButton": {
+      "message": "Atkurti numatytąsias nuostatas..."
+   },
+   "aboutResetDataConfirm": {
+      "message": "Visos jūsų nuostatos bus pašalintos, ir CCleaner Anti-Tracking bus paleista iš naujo.\n\nGrąžinti CCleaner Anti-Tracking gamyklines nuostatas?"
+   },
+   "aboutRestoreDataButton": {
+      "message": "Atkurti iš failo..."
+   },
+   "aboutRestoreDataConfirm": {
+      "message": "Visos jūsų nuostatos bus pakeistos naudojant atsarginę duomenų kopiją, padarytą {{time}}, ir CCleaner Anti-Tracking bus paleista iš naujo.\n\nPakeisti visas esamas nuostatas naudojant atsarginę duomenų kopiją?"
+   },
+   "aboutRestoreDataError": {
+      "message": "Duomenų nepavyko nuskaityti arba jie yra klaidingi"
+   },
+   "aboutSupport": {
+      "message": "Pagalba"
+   },
+   "aboutWiki": {
+      "message": "Vikipedija"
+   },
+   "advancedSettingsPageName": {
+      "message": "Išplėstinės nuostatos"
+   },
+   "advancedSettingsWarning": {
+      "message": "Dėmesio! Atsižvelkite į tai, kad keisdami šias išplėstines nuostatas, rizikuojate patys."
+   },
+   "assetViewerPageName": {
+      "message": "uBlock? ? aprašo žiūryklė"
+   },
+   "cloudDeviceNamePrompt": {
+      "message": "Šio įrenginio pavadinimas:"
+   },
+   "cloudPull": {
+      "message": "Importuoti iš debesų saugyklos"
+   },
+   "cloudPullAndMerge": {
+      "message": "Importuoti iš debesų saugyklos ir sujungti su dabartinėmis nuostatomis"
+   },
+   "cloudPush": {
+      "message": "Eksportuoti į debesų saugyklą"
+   },
+   "contextMenuTemporarilyAllowLargeMediaElements": {
+      "message": "Laikinai leisti didelius medijos elementus"
+   },
+   "dashboardName": {
+      "message": "CCleaner Anti-Tracking — Reikmenų skydelis"
+   },
+   "docblockedBack": {
+      "message": "Atgal"
+   },
+   "docblockedClose": {
+      "message": "Užverti šį langą"
+   },
+   "docblockedDisablePermanent": {
+      "message": "Visam laikui"
+   },
+   "docblockedDisableTemporary": {
+      "message": "Laikinai"
+   },
+   "docblockedFoundIn": {
+      "message": "Rasta:"
+   },
+   "docblockedNoParamsPrompt": {
+      "message": "be parametrų"
+   },
+   "docblockedProceed": {
+      "message": "Išjungti griežtą {{hostname}} blokavimą"
+   },
+   "docblockedPrompt1": {
+      "message": "CCleaner Anti-Tracking neleido įkelti šio tinklalapio:"
+   },
+   "docblockedPrompt2": {
+      "message": "Dėl šio filtro"
+   },
+   "dummy": {
+      "message": "Šis įrašas turi būti paskutinis"
+   },
+   "elapsedManyDaysAgo": {
+      "message": "prieš {{value}} dienas"
+   },
+   "elapsedManyHoursAgo": {
+      "message": "prieš {{value}} valandas"
+   },
+   "elapsedManyMinutesAgo": {
+      "message": "prieš {{value}} minutes"
+   },
+   "elapsedOneDayAgo": {
+      "message": "prieš dieną"
+   },
+   "elapsedOneHourAgo": {
+      "message": "prieš valandą"
+   },
+   "elapsedOneMinuteAgo": {
+      "message": "prieš minutę"
+   },
+   "errorCantConnectTo": {
+      "message": "Tinklo klaida: {{msg}}"
+   },
+   "extShortDesc": {
+      "message": "Blokuoti įkyrius interneto sekiklius."
+   },
+   "extra1pPageNameDesc": {
+      "message": "Tvarkykite savo pasirinktinius filtrus"
+   },
+   "extra3pPageNameDesc": {
+      "message": "Sekikliai ir trečiųjų šalių privatumo filtrai"
+   },
+   "extraAddFilter": {
+      "message": "Pridėti filtrą"
+   },
+   "extraAddRrule": {
+      "message": "Pridėti laikinąją taisyklę"
+   },
+   "extraAddSetting": {
+      "message": "Pridėti nuostatą"
+   },
+   "extraAddSite": {
+      "message": "Pridėti svetainę"
+   },
+   "extraAdsFilters": {
+      "message": "Reklamų filtrai"
+   },
+   "extraAdvancedUserSettings": {
+      "message": "Išplėstinės naudotojo nuostatos"
+   },
+   "extraAllowOnSites": {
+      "message": "Leisti sekiklius šiame tinklalapyje"
+   },
+   "extraBlockMediaElementsLargerThan": {
+      "message": "Blokuoti medijų elementus, didesnius nei"
+   },
+   "extraBtnAdd": {
+      "message": "pridėti"
+   },
+   "extraBtnCancel": {
+      "message": "atšaukti"
+   },
+   "extraBtnEdit": {
+      "message": "Redaguoti"
+   },
+   "extraBtnExport": {
+      "message": "eksportuoti"
+   },
+   "extraBtnImport": {
+      "message": "importuoti"
+   },
+   "extraBtnRemove": {
+      "message": "Pašalinti"
+   },
+   "extraBtnUpdateAll": {
+      "message": "atnaujinti viską"
+   },
+   "extraDefaultBehaviour": {
+      "message": "Numatytasis elgesys"
+   },
+   "extraEditFilter": {
+      "message": "Redaguoti filtrą"
+   },
+   "extraEditRule": {
+      "message": "Redaguoti laikinąją taisyklę"
+   },
+   "extraEditSetting": {
+      "message": "Redaguoti nuostatą"
+   },
+   "extraEditSite": {
+      "message": "Redaguoti svetainę"
+   },
+   "extraGeneralSettings": {
+      "message": "Bendrosios nuostatos"
+   },
+   "extraGeneralSettingsDesc": {
+      "message": "Tvarkykite, kokia informacija rodoma CCleaner Anti-Tracking"
+   },
+   "extraIndexDescription": {
+      "message": "Blokuoti sekiklius greitesniam ir saugesniam naršymui"
+   },
+   "extraIndexFooter": {
+      "message": "„uBlock Origin“ paslaugos."
+   },
+   "extraIndexHeader": {
+      "message": "CCleaner Anti-Tracking Išplėstinės nuostatos"
+   },
+   "extraInterstitialBlocking": {
+      "message": "Įjungti tarpinių reklamos svetainių blokavimą"
+   },
+   "extraLabelFilter": {
+      "message": "Filtras"
+   },
+   "extraLearnMore": {
+      "message": "Sužinoti daugiau"
+   },
+   "extraManageFilters": {
+      "message": "Tvarkyti filtrus"
+   },
+   "extraMyCustomFilter": {
+      "message": "Mano pasirinktiniai filtrai"
+   },
+   "extraPrivacy": {
+      "message": "Privatumas"
+   },
+   "extraRule": {
+      "message": "Taisyklė"
+   },
+   "extraRuleDefinition": {
+      "message": "Taisyklės apibrėžtis"
+   },
+   "extraRuleSyntax": {
+      "message": "Taisyklės sintaksė"
+   },
+   "extraRulesPageNameDesc": {
+      "message": "Jūsų dinamiškų filtravimo taisyklių sąrašas"
+   },
+   "extraSetting": {
+      "message": "Nuostata"
+   },
+   "extraShowMore": {
+      "message": "Rodyti daugiau"
+   },
+   "extraSite": {
+      "message": "Interneto svetainė"
+   },
+   "extraSlider0": {
+      "message": "Neblokuoti reklamos"
+   },
+   "extraSlider100": {
+      "message": "Didžiausias reklamos blokavimas"
+   },
+   "extraSlider50": {
+      "message": "Vidutinis reklamos blokavimas"
+   },
+   "extraSourceDestinationTypeAction": {
+      "message": "šaltinis vieta rūšis veiksmas."
+   },
+   "extraWhitelistPageNameDesc": {
+      "message": "Tinklalapių sąrašas su leistinomis sekimo programomis"
+   },
+   "fennecMenuItemBlockingOff": {
+      "message": "išjungta"
+   },
+   "genericApplyChanges": {
+      "message": "Pritaikyti pakeitimus"
+   },
+   "genericBytes": {
+      "message": "baitai"
+   },
+   "genericCopyToClipboard": {
+      "message": "Kopijuoti į iškarpinę"
+   },
+   "genericMergeViewScrollLock": {
+      "message": "Įjungti / išjungti fiksuotą slinkimą"
+   },
+   "genericRevert": {
+      "message": "Grįžti"
+   },
+   "genericSubmit": {
+      "message": "Nusiųsti"
+   },
+   "logAll": {
+      "message": "Visi"
+   },
+   "logBehindTheScene": {
+      "message": "Užkulisinis"
+   },
+   "logFilterPrompt": {
+      "message": "filtruoti žurnalo įrašus"
+   },
+   "logMaxEntriesTip": {
+      "message": "Maksimalus žurnalo įrašų skaičius"
+   },
+   "logRequestsHeaderDomain": {
+      "message": "Sritis"
+   },
+   "logRequestsHeaderFilter": {
+      "message": "Filtras"
+   },
+   "logRequestsHeaderType": {
+      "message": "Rūšis"
+   },
+   "logRequestsHeaderURL": {
+      "message": "URL"
+   },
+   "loggerClearTip": {
+      "message": "Išvalyti žurnalą"
+   },
+   "loggerCurrentTab": {
+      "message": "Dabartinis skirtukas"
+   },
+   "loggerDomInspectorTip": {
+      "message": "Įjungti / išjungti DOM tikrintuvą"
+   },
+   "loggerEntryDetailsContext": {
+      "message": "Kontekstas"
+   },
+   "loggerEntryDetailsFilter": {
+      "message": "Filtras"
+   },
+   "loggerEntryDetailsFilterList": {
+      "message": "Filtrų sąrašas"
+   },
+   "loggerEntryDetailsHeader": {
+      "message": "Išsami informacija"
+   },
+   "loggerEntryDetailsPartyness": {
+      "message": "Šališkumas"
+   },
+   "loggerEntryDetailsRootContext": {
+      "message": "Pagrindinis kontekstas"
+   },
+   "loggerEntryDetailsRule": {
+      "message": "Taisyklė"
+   },
+   "loggerEntryDetailsType": {
+      "message": "Tipas"
+   },
+   "loggerEntryDetailsURL": {
+      "message": "URL"
+   },
+   "loggerExportEncodeMarkdown": {
+      "message": "Pažymėti"
+   },
+   "loggerExportEncodePlain": {
+      "message": "Vientisas"
+   },
+   "loggerExportFormatList": {
+      "message": "Sąrašas"
+   },
+   "loggerExportFormatTable": {
+      "message": "Lentelė"
+   },
+   "loggerInfoTip": {
+      "message": "uBlock Origin vikiteka: žurnalas"
+   },
+   "loggerPauseTip": {
+      "message": "Sustabdyti žurnalą (atmesti visus gaunamus duomenis)"
+   },
+   "loggerPopupPanelTip": {
+      "message": "Įjungti / išjungti iššokantįjį skydelį"
+   },
+   "loggerReloadTip": {
+      "message": "Iš naujo įkelti skirtuko turinį"
+   },
+   "loggerRowFiltererBuiltin1p": {
+      "message": "1-oji šalis"
+   },
+   "loggerRowFiltererBuiltin3p": {
+      "message": "3-oji šalis"
+   },
+   "loggerRowFiltererBuiltinAllowed": {
+      "message": "leista"
+   },
+   "loggerRowFiltererBuiltinBlocked": {
+      "message": "blokuota"
+   },
+   "loggerRowFiltererBuiltinEventful": {
+      "message": "turintis įvykių"
+   },
+   "loggerRowFiltererBuiltinNot": {
+      "message": "Ne"
+   },
+   "loggerRowFiltererBuiltinTip": {
+      "message": "Žurnalo filtravimo parinktys"
+   },
+   "loggerRowFiltererButtonTip": {
+      "message": "Įjungti / išjungti žurnalo filtravimą"
+   },
+   "loggerSettingDiscardPrompt": {
+      "message": "Žurnalo įrašai, neatitinkantys trijų toliau nurodytų sąlygų, bus automatiškai atmesti:"
+   },
+   "loggerSettingHideColumnContext": {
+      "message": "{{input}} Kontekstas"
+   },
+   "loggerSettingHideColumnFilter": {
+      "message": "{{input}} Filtras / taisyklė"
+   },
+   "loggerSettingHideColumnPartyness": {
+      "message": "{{input}} Šališkumas"
+   },
+   "loggerSettingHideColumnTime": {
+      "message": "{{input}} Laikas"
+   },
+   "loggerSettingHideColumnsPrompt": {
+      "message": "Slėpti stulpelius:"
+   },
+   "loggerSettingPerEntryLineCount": {
+      "message": "Naudoti {{input}} eilutes įrašui vertikaliame išskleidimo režime"
+   },
+   "loggerSettingPerEntryMaxAge": {
+      "message": "Išsaugoti įrašus iš paskutinio {{input}} protokolo"
+   },
+   "loggerSettingPerTabMaxEntries": {
+      "message": "Išsaugoti daugiausia {{input}} įrašų skirtukui"
+   },
+   "loggerSettingPerTabMaxLoads": {
+      "message": "Išsaugoti daugiausia {{input}} puslapio įkėlimų vienam skirtukui"
+   },
+   "loggerStaticFilteringFinderSentence1": {
+      "message": "Statiškas filtras \u003Ccode>{{filter}}\u003C/code> rastas:"
+   },
+   "loggerStaticFilteringFinderSentence2": {
+      "message": "Statiškas filtras \u003Ccode>{{filter}}\u003C/code> nerastas nei viename iš šiuo metu įjungtų filtrų sąrašų"
+   },
+   "loggerStaticFilteringHeader": {
+      "message": "Statiškas filtravimas"
+   },
+   "loggerStaticFilteringSentence": {
+      "message": "{{action}} tinklo užklausoms {{type}} {{br}}, kurių URL adresas sutampa {{url}} {{br}} ir kurios atsiranda iš {{origin}},{{br}}{{importance}} yra atitinkantis išimčių filtras."
+   },
+   "loggerStaticFilteringSentencePartAllow": {
+      "message": "Leisti"
+   },
+   "loggerStaticFilteringSentencePartAnyOrigin": {
+      "message": "iš bet kur"
+   },
+   "loggerStaticFilteringSentencePartAnyType": {
+      "message": "bet koks tipas"
+   },
+   "loggerStaticFilteringSentencePartBlock": {
+      "message": "Blokuoti"
+   },
+   "loggerStaticFilteringSentencePartImportant": {
+      "message": "net jei"
+   },
+   "loggerStaticFilteringSentencePartNotImportant": {
+      "message": "išskyrus, kai"
+   },
+   "loggerStaticFilteringSentencePartOrigin": {
+      "message": "iš ?{{origin}}?"
+   },
+   "loggerStaticFilteringSentencePartType": {
+      "message": "tipas ?{{type}}?"
+   },
+   "loggerURLFilteringContextLabel": {
+      "message": "Kontekstas:"
+   },
+   "loggerURLFilteringHeader": {
+      "message": "Dinamiškas URL filtravimas"
+   },
+   "loggerURLFilteringTypeLabel": {
+      "message": "Tipas:"
+   },
+   "loggerUnpauseTip": {
+      "message": "Išjungti žurnalo sustabdymą"
+   },
+   "pickerContextMenuEntry": {
+      "message": "Blokuoti elementą"
+   },
+   "pickerCosmeticFilters": {
+      "message": "Nežymūs filtrai"
+   },
+   "pickerCosmeticFiltersHint": {
+      "message": "Spustelėti, „Ctrl“ ir spustelėti"
+   },
+   "pickerCreate": {
+      "message": "Kurti"
+   },
+   "pickerNetFilters": {
+      "message": "Tinklo filtrai"
+   },
+   "pickerPick": {
+      "message": "Rinktis"
+   },
+   "pickerPreview": {
+      "message": "Peržiūra"
+   },
+   "pickerQuit": {
+      "message": "Baigti"
+   },
+   "popup1pScriptRulePrompt": {
+      "message": "1-osios šalies rašmenos"
+   },
+   "popup3pAnyRulePrompt": {
+      "message": "3-oji šalis"
+   },
+   "popup3pFrameRulePrompt": {
+      "message": "3-osios šalies rėmeliai"
+   },
+   "popup3pPassiveRulePrompt": {
+      "message": "3-osios šalies css / vaizdai"
+   },
+   "popup3pScriptRulePrompt": {
+      "message": "3-osios šalies rašmenos"
+   },
+   "popupAdvancedSettings": {
+      "message": "Išplėstinės nuostatos"
+   },
+   "popupAnyRulePrompt": {
+      "message": "viskas"
+   },
+   "popupExtraAdsAllowedOnSites": {
+      "message": "Šiame tinklalapyje leidžiami sekikliai"
+   },
+   "popupExtraAdsBlockedOnPage": {
+      "message": "Šiame tinklalapyje užblokuoti sekikliai"
+   },
+   "popupExtraAdsBlockedOnSites": {
+      "message": "Šiame tinklalapyje užblokuotos sekimo programos"
+   },
+   "popupExtraAdsBlockedTotal": {
+      "message": "Iš viso užblokuoti sekikliai"
+   },
+   "popupExtraLessOptions": {
+      "message": "Mažiau parinkčių"
+   },
+   "popupExtraListAllowedSites": {
+      "message": "Leidžiamų interneto svetainių sąrašas"
+   },
+   "popupExtraMoreInformation": {
+      "message": "Daugiau informacijos"
+   },
+   "popupExtraMoreOptions": {
+      "message": "Daugiau parinkčių"
+   },
+   "popupExtraNoSitesAddedYet": {
+      "message": "Dar nepridėta interneto svetainių"
+   },
+   "popupExtraProtectionCanNotEnabled": {
+      "message": "Negalima įjungti apsaugos šioje interneto svetainėje"
+   },
+   "popupExtraProtectionDisabledForSession": {
+      "message": "Šios sesijos apsaugos negalima įjungti"
+   },
+   "popupExtraSeeListAllowedSites": {
+      "message": "Žiūrėti visą leidžiamų interneto svetainių sąrašą"
+   },
+   "popupHitDomainCount": {
+      "message": "{{count}} iš {{total}}"
+   },
+   "popupHitDomainCountPrompt": {
+      "message": "prijungti domenai"
+   },
+   "popupImageRulePrompt": {
+      "message": "vaizdai"
+   },
+   "popupInlineScriptRulePrompt": {
+      "message": "įterptosios rašmenos"
+   },
+   "popupTipDashboard": {
+      "message": "Atidaryti skydelį"
+   },
+   "popupTipGlobalRules": {
+      "message": "Visuotinės taisyklės: šis stulpelis skirtas taisyklėms, kurios taikomos visoms svetainėms."
+   },
+   "popupTipLocalRules": {
+      "message": "Vietinės taisyklės: šis stulpelis skirtas taisyklėms, kurios taikomos tik dabartinei svetainei. Vietinės taisyklės turi didesnę galią nei visuotinės."
+   },
+   "popupTipLog": {
+      "message": "Atidaryti įrašų žurnalą"
+   },
+   "popupTipNoCosmeticFiltering": {
+      "message": "Šioje svetainėje įjunkite / išjunkite kosmetinį filtrą"
+   },
+   "popupTipNoCosmeticFiltering1": {
+      "message": "Paspauskite, kad šioje svetainėje išjungtumėte kosmetinį filtrą"
+   },
+   "popupTipNoCosmeticFiltering2": {
+      "message": "Paspauskite, kad šioje svetainėje įjungtumėte kosmetinį filtrą"
+   },
+   "popupTipNoLargeMedia": {
+      "message": "Įjunkite / išjunkite didelių medijos elementų blokavimą šioje svetainėje"
+   },
+   "popupTipNoLargeMedia1": {
+      "message": "Paspauskite, kad blokuotumėte didelius medijos elementus šioje svetainėje"
+   },
+   "popupTipNoLargeMedia2": {
+      "message": "Paspauskite, kad daugiau nebeblokuotumėte didelių medijos elementų šioje svetainėje"
+   },
+   "popupTipNoPopups": {
+      "message": "Įjungti / išjungti visų iššokančiųjų langų blokavimą šioje svetainėje"
+   },
+   "popupTipNoPopups1": {
+      "message": "Paspauskite, kad užblokuotumėte visus šios svetainės iššokančiuosius langus"
+   },
+   "popupTipNoPopups2": {
+      "message": "Paspauskite, kad daugiau nebeblokuotumėte visų šios svetainės iššokančiųjų langų"
+   },
+   "popupTipNoRemoteFonts": {
+      "message": "Įjunkite / išjunkite nuotolinių šriftų blokavimą šioje svetainėje"
+   },
+   "popupTipNoRemoteFonts1": {
+      "message": "Paspauskite, kad blokuotumėte nuotolinius šriftus šioje svetainėje"
+   },
+   "popupTipNoRemoteFonts2": {
+      "message": "Paspauskite, kad daugiau nebeblokuotumėte nuotolinių šriftų šioje svetainėje"
+   },
+   "popupTipNoScripting1": {
+      "message": "Paspauskite, kad šioje svetainėje išjungtumėte „JavaScript“"
+   },
+   "popupTipNoScripting2": {
+      "message": "Paspauskite, kad šioje svetainėje nebetaikytumėte „JavaScript“ išjungimo"
+   },
+   "popupTipPicker": {
+      "message": "Pereiti į elementų parinkimo režimą"
+   },
+   "popupTipRevertRules": {
+      "message": "Paspauskite, kad atšauktumėte pakeitimus."
+   },
+   "popupTipSaveRules": {
+      "message": "Paspauskite, kad išsaugotumėte pakeitimus."
+   },
+   "popupTipZapper": {
+      "message": "Pereiti į elementų panaikinimo režimą"
+   },
+   "rulesCommit": {
+      "message": "Nusiųsti"
+   },
+   "rulesEdit": {
+      "message": "Redaguoti"
+   },
+   "rulesEditDiscard": {
+      "message": "Atmesti"
+   },
+   "rulesEditSave": {
+      "message": "Įrašyti"
+   },
+   "rulesExport": {
+      "message": "Eksportuoti į failą"
+   },
+   "rulesFormatHint": {
+      "message": "Taisyklės sintaksė: \u003Ccode>šaltinis tikslas rūšis veiksmas\u003C/code> (\u003Ca href='https://github.com/gorhill/uBlock/wiki/Dynamic-filtering:-rule-syntax'>visa dokumentacija\u003C/a>)."
+   },
+   "rulesHint": {
+      "message": "Jūsų dinamiškų filtravimo taisyklių sąrašas."
+   },
+   "rulesImport": {
+      "message": "Importuoti iš failo..."
+   },
+   "rulesPageName": {
+      "message": "Mano taisyklės"
+   },
+   "rulesPermanentHeader": {
+      "message": "Nuolatinės taisyklės"
+   },
+   "rulesRevert": {
+      "message": "Grįžti"
+   },
+   "rulesTemporaryHeader": {
+      "message": "Laikinosios taisyklės"
+   },
+   "settingPerSiteSwitchGroup": {
+      "message": "Numatytoji elgsena"
+   },
+   "settingPerSiteSwitchGroupSynopsis": {
+      "message": "Šią numatytąją elgseną galima keisti kiekvienoje svetainėje"
+   },
+   "settingsAdvancedUserPrompt": {
+      "message": "Esu patyręs naudotojas (\u003Ca href='https://github.com/gorhill/uBlock/wiki/Advanced-user-features'>būtina perskaityti\u003C/a>)"
+   },
+   "settingsAdvancedUserSettings": {
+      "message": "išplėstinės nuostatos"
+   },
+   "settingsCloudStorageEnabledPrompt": {
+      "message": "Įjungti debesų saugyklos palaikymą"
+   },
+   "settingsCollapseBlockedPrompt": {
+      "message": "Slėpti blokuojamų elementų vietaženklius"
+   },
+   "settingsColorBlindPrompt": {
+      "message": "Pritaikyta daltonikams"
+   },
+   "settingsContextMenuPrompt": {
+      "message": "Naudokite kontekstinius meniu, kur galima"
+   },
+   "settingsHyperlinkAuditingDisabledPrompt": {
+      "message": "Išjungti saitų ryšio patikrą"
+   },
+   "settingsIconBadgePrompt": {
+      "message": "Rodyti blokuotų užklausų skaičių piktogramoje"
+   },
+   "settingsLastBackupPrompt": {
+      "message": "Paskutinė atsarginė kopija:"
+   },
+   "settingsLastRestorePrompt": {
+      "message": "Paskutinis atkūrimas:"
+   },
+   "settingsNoCSPReportsPrompt": {
+      "message": "Blokuoti CPS ataskaitas"
+   },
+   "settingsNoCosmeticFilteringPrompt": {
+      "message": "Išjungti nežymius filtrus"
+   },
+   "settingsNoLargeMediaPrompt": {
+      "message": "Užblokuoti medijos elementus, kurie didesni nei {{input:number}} kB"
+   },
+   "settingsNoRemoteFontsPrompt": {
+      "message": "Blokuoti nuotolinius šriftus"
+   },
+   "settingsNoScriptingPrompt": {
+      "message": "Išjungti „JavaScript“"
+   },
+   "settingsPageName": {
+      "message": "Nuostatos"
+   },
+   "settingsPrefetchingDisabledPrompt": {
+      "message": "Išjungti išankstinį siuntimą (siekiant užkirsti užblokuotų tinklo užklausų prisijungimą)"
+   },
+   "settingsStorageUsed": {
+      "message": "Naudojama vieta: {{value}} baitai"
+   },
+   "settingsTooltipsPrompt": {
+      "message": "Išjungti mygtukų etiketes"
+   },
+   "settingsWebRTCIPAddressHiddenPrompt": {
+      "message": "Neleisti WebRTC nutekinti vietos IP adresus"
+   },
+   "shortcutCapturePlaceholder": {
+      "message": "Įveskite nuorodą"
+   },
+   "shortcutsPageName": {
+      "message": "Nuorodos"
+   },
+   "showDashboardButton": {
+      "message": "Rodyti reikmenų skydelį"
+   },
+   "showNetworkLogButton": {
+      "message": "Rodyti fiksavimo programą"
+   },
+   "statsPageName": {
+      "message": "CCleaner Anti-Tracking — Fiksavimo programa"
+   },
+   "subscriberConfirm": {
+      "message": "CCleaner Anti-Tracking: įtraukti šį URL į jūsų pasirinktinių filtrų sąrašą?\n\nPavadinimas: \"{{title}}\"\nURL: {{url}}"
+   },
+   "whitelistApply": {
+      "message": "Pritaikyti pakeitimus"
+   },
+   "whitelistExport": {
+      "message": "Eksportuoti"
+   },
+   "whitelistExportFilename": {
+      "message": "CCleaner Anti-Tracking-whitelist_{{datetime}}.txt"
+   },
+   "whitelistImport": {
+      "message": "Importuoti ir pridėti"
+   },
+   "whitelistPageName": {
+      "message": "Baltasis sąrašas"
+   },
+   "whitelistPrompt": {
+      "message": "Baltojo sąrašo direktyvos nurodo, kuriose interneto svetainėse CCleaner Anti-Tracking bus išjungta. Po vieną įrašą eilutėje. Klaidingos direktyvos bus tyliai ignoruojamos ir pašalinamos paverčiant komentarais."
+   }
+}

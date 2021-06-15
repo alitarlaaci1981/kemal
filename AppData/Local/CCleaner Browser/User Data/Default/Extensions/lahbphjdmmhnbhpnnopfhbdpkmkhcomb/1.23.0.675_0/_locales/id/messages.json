@@ -1,0 +1,863 @@
+{
+   "1pApplyChanges": {
+      "message": "Terapkan perubahan"
+   },
+   "1pExport": {
+      "message": "Ekspor"
+   },
+   "1pFormatHint": {
+      "message": "Satu filter per baris. Filter dapat berupa nama host biasa, atau filter yang kompatibel dengan Adblock Plus. Baris yang diawali dengan &lsquo;!&rsquo; akan diabaikan."
+   },
+   "1pImport": {
+      "message": "Impor dan tambahkan"
+   },
+   "1pPageName": {
+      "message": " Filter saya"
+   },
+   "3pApplyChanges": {
+      "message": "Terapkan perubahan"
+   },
+   "3pAutoUpdatePrompt1": {
+      "message": "Daftar filter pembaruan otomatis"
+   },
+   "3pExternalListObsolete": {
+      "message": "Tidak mutakhir."
+   },
+   "3pExternalListsHint": {
+      "message": "Satu URL per baris. Baris yang diawali dengan &lsquo;!&rsquo; akan diabaikan. URL yang tidak valid akan secara diam-diam diabaikan."
+   },
+   "3pGroupAds": {
+      "message": "Iklan"
+   },
+   "3pGroupAnnoyances": {
+      "message": "Gangguan"
+   },
+   "3pGroupCustom": {
+      "message": "Khusus"
+   },
+   "3pGroupDefault": {
+      "message": "Filter jaringan & kosmetik"
+   },
+   "3pGroupMalware": {
+      "message": "Domain malware"
+   },
+   "3pGroupMultipurpose": {
+      "message": "Serbaguna"
+   },
+   "3pGroupPrivacy": {
+      "message": "Privasi"
+   },
+   "3pGroupRegions": {
+      "message": "Wilayah, bahasa"
+   },
+   "3pIgnoreGenericCosmeticFilters": {
+      "message": "Abaikan filter kosmetik generik"
+   },
+   "3pIgnoreGenericCosmeticFiltersInfo": {
+      "message": "\u003Cp>Filter kosmetik generik adalah filter kosmetik yang dimaksudkan untuk diterapkan pada semua halaman web.\u003Cp>Meski ditangani secara efektif oleh CCleaner Anti-Tracking, filter ini tetap dapat menyebabkan penggunaan memori dan CPU terukur yang berlebihan pada halaman web tertentu, terutama untuk halaman web yang besar dan digunakan dalam jangka waktu lama.\u003Cp>Jika diaktifkan, opsi ini akan menghapus pemakaian memori dan CPU berlebih yang ditambahkan ke halaman web sebagai buah penanganan filter kosmetik generik, dan menurunkan penggunaan memori pada CCleaner Anti-Tracking.\u003Cp>Disarankan untuk mengaktifkan opsi ini pada perangkat yang tidak terlalu canggih."
+   },
+   "3pImport": {
+      "message": "Impor..."
+   },
+   "3pLastUpdate": {
+      "message": "Pembaruan terakhir: {{ago}}. \nKlik untuk memaksa pembaruan."
+   },
+   "3pListsOfBlockedHostsHeader": {
+      "message": "Daftar host yang diblokir"
+   },
+   "3pListsOfBlockedHostsPerListStats": {
+      "message": "{{used}} dari {{total}} telah digunakan"
+   },
+   "3pListsOfBlockedHostsPrompt": {
+      "message": "{{netFilterCount}} filter jaringan ＋ {{cosmeticFilterCount}} filter kosmetik dari:"
+   },
+   "3pNetworkError": {
+      "message": "Kesalahan jaringan mencegah sumber daya diperbarui."
+   },
+   "3pPageName": {
+      "message": "Filter pihak ketiga"
+   },
+   "3pParseAllABPHideFiltersInfo": {
+      "message": "\u003Cp>Opsi ini mengaktifkan penguraian dan penerapan \u003Ca href=\"https://adblockplus.org/en/faq_internal#elemhide\">filter &ldquo;penyembunyian elemen&rdquo; yang kompatibel dengan Adblock Plus\u003C/a>. Filter tersebut pada dasarnya adalah filter kosmetik, yang berfungsi menyembunyikan elemen di dalam suatu halaman web yang dianggap mengganggu secara visual, dan yang tidak dapat diblokir oleh mesin pemfilteran berbasis permintaan internet.\u003C/p>\u003Cp>Jika diaktifkan, fitur ini akan meningkatkan penggunaan memori CCleaner Anti-Tracking.\u003C/p>"
+   },
+   "3pParseAllABPHideFiltersPrompt1": {
+      "message": "Uraikan dan terapkan filter kosmetik"
+   },
+   "3pPurgeAll": {
+      "message": "Bersihkan semua cache"
+   },
+   "3pUpdateNow": {
+      "message": "Perbarui sekarang"
+   },
+   "3pUpdating": {
+      "message": "Memperbarui..."
+   },
+   "aboutBackupDataButton": {
+      "message": "Cadangkan ke file"
+   },
+   "aboutBackupFilename": {
+      "message": "CCleaner Anti-Tracking-backup_{{datetime}}.txt"
+   },
+   "aboutChangelog": {
+      "message": "Log perubahan"
+   },
+   "aboutCode": {
+      "message": "Kode sumber (GPLv3)"
+   },
+   "aboutContributors": {
+      "message": "Kontributor"
+   },
+   "aboutDependencies": {
+      "message": "Ketergantungan eksternal (kompatibel dengan GPLv3):"
+   },
+   "aboutIssues": {
+      "message": "Pelacak permasalahan"
+   },
+   "aboutPageName": {
+      "message": "Tentang"
+   },
+   "aboutResetDataButton": {
+      "message": "Atur ulang ke pengaturan default..."
+   },
+   "aboutResetDataConfirm": {
+      "message": "Semua pengaturan Anda akan dihapus, dan CCleaner Anti-Tracking akan melakukan restart.\n\nAtur ulang CCleaner Anti-Tracking ke pengaturan pabrik?"
+   },
+   "aboutRestoreDataButton": {
+      "message": "Pulihkan dari file..."
+   },
+   "aboutRestoreDataConfirm": {
+      "message": "Semua pengaturan Anda akan ditimpa dengan data yang dicadangkan pada {{time}}, dan CCleaner Anti-Tracking akan melakukan restart.\n\nTimpa semua data yang ada dengan data yang dicadangkan?"
+   },
+   "aboutRestoreDataError": {
+      "message": "Data tidak terbaca atau tidak sah"
+   },
+   "aboutSupport": {
+      "message": "Dukungan"
+   },
+   "aboutWiki": {
+      "message": "Wiki"
+   },
+   "advancedSettingsPageName": {
+      "message": "Pengaturan lanjutan"
+   },
+   "advancedSettingsWarning": {
+      "message": "Peringatan! Ubah pengaturan lanjutan ini atas risiko Anda sendiri."
+   },
+   "assetViewerPageName": {
+      "message": "uBlock? ? Tampilan aset"
+   },
+   "cloudDeviceNamePrompt": {
+      "message": "Nama perangkat ini:"
+   },
+   "cloudPull": {
+      "message": "Impor dari penyimpanan cloud"
+   },
+   "cloudPullAndMerge": {
+      "message": "Impor dari penyimpanan cloud dan gabungkan dengan pengaturan saat ini"
+   },
+   "cloudPush": {
+      "message": "Ekspor ke penyimpanan cloud"
+   },
+   "contextMenuTemporarilyAllowLargeMediaElements": {
+      "message": "Untuk sementara mengizinkan elemen media besar"
+   },
+   "dashboardName": {
+      "message": "CCleaner Anti-Tracking — Dasbor"
+   },
+   "docblockedBack": {
+      "message": "Kembali"
+   },
+   "docblockedClose": {
+      "message": "Tutup jendela ini"
+   },
+   "docblockedDisablePermanent": {
+      "message": "Untuk permanen"
+   },
+   "docblockedDisableTemporary": {
+      "message": "Untuk sementara"
+   },
+   "docblockedFoundIn": {
+      "message": "Ditemukan dalam:"
+   },
+   "docblockedNoParamsPrompt": {
+      "message": "tanpa parameter"
+   },
+   "docblockedProceed": {
+      "message": "Nonaktifkan pemblokiran ketat untuk {{hostname}}"
+   },
+   "docblockedPrompt1": {
+      "message": "CCleaner Anti-Tracking mencegah halaman berikut dimuat:"
+   },
+   "docblockedPrompt2": {
+      "message": "Karena filter berikut"
+   },
+   "dummy": {
+      "message": "Entri ini harus menjadi yang terakhir"
+   },
+   "elapsedManyDaysAgo": {
+      "message": "{{value}} hari yang lalu"
+   },
+   "elapsedManyHoursAgo": {
+      "message": "{{value}} jam yang lalu"
+   },
+   "elapsedManyMinutesAgo": {
+      "message": "{{value}} menit yang lalu"
+   },
+   "elapsedOneDayAgo": {
+      "message": "satu hari yang lalu"
+   },
+   "elapsedOneHourAgo": {
+      "message": "satu jam yang lalu"
+   },
+   "elapsedOneMinuteAgo": {
+      "message": "satu menit yang lalu"
+   },
+   "errorCantConnectTo": {
+      "message": "Kesalahan jaringan: {{msg}}"
+   },
+   "extShortDesc": {
+      "message": "Memblokir para pelacak web yang mengganggu."
+   },
+   "extra1pPageNameDesc": {
+      "message": "Kelola filter khusus Anda"
+   },
+   "extra3pPageNameDesc": {
+      "message": "Filter pelacak dan privasi dari pihak ke-3"
+   },
+   "extraAddFilter": {
+      "message": "Tambah filter"
+   },
+   "extraAddRrule": {
+      "message": "Tambah aturan sementara"
+   },
+   "extraAddSetting": {
+      "message": "Tambah pengaturan"
+   },
+   "extraAddSite": {
+      "message": "Tambah situs"
+   },
+   "extraAdsFilters": {
+      "message": "Filter iklan"
+   },
+   "extraAdvancedUserSettings": {
+      "message": "Pengaturan pengguna lanjutan"
+   },
+   "extraAllowOnSites": {
+      "message": "Izinkan pelacak di situs-situs berikut"
+   },
+   "extraBlockMediaElementsLargerThan": {
+      "message": "Blokir elemen media yang lebih besar dari"
+   },
+   "extraBtnAdd": {
+      "message": "tambah"
+   },
+   "extraBtnCancel": {
+      "message": "batal"
+   },
+   "extraBtnEdit": {
+      "message": "Edit"
+   },
+   "extraBtnExport": {
+      "message": "ekspor"
+   },
+   "extraBtnImport": {
+      "message": "impor"
+   },
+   "extraBtnRemove": {
+      "message": "Hapus"
+   },
+   "extraBtnUpdateAll": {
+      "message": "perbarui semua"
+   },
+   "extraDefaultBehaviour": {
+      "message": "Perilaku default"
+   },
+   "extraEditFilter": {
+      "message": "Edit filter"
+   },
+   "extraEditRule": {
+      "message": "Edit peraturan sementara"
+   },
+   "extraEditSetting": {
+      "message": "Edit pengaturan"
+   },
+   "extraEditSite": {
+      "message": "Edit situs"
+   },
+   "extraGeneralSettings": {
+      "message": "Pengaturan umum"
+   },
+   "extraGeneralSettingsDesc": {
+      "message": "Atur CCleaner Anti-Tracking informasi yang ditunjukkan"
+   },
+   "extraIndexDescription": {
+      "message": "Blokir pelacak agar penjelajahan jadi lebih cepat & aman"
+   },
+   "extraIndexFooter": {
+      "message": "Didukung oleh uBlock Origin."
+   },
+   "extraIndexHeader": {
+      "message": "Pengaturan Lanjutan CCleaner Anti-Tracking"
+   },
+   "extraIndexTitle": {
+      "message": "CCleaner Anti-Tracking"
+   },
+   "extraInterstitialBlocking": {
+      "message": "Aktifkan pemblokiran interstisial"
+   },
+   "extraLabelFilter": {
+      "message": "Filter"
+   },
+   "extraLearnMore": {
+      "message": "Pelajari lebih lanjut"
+   },
+   "extraManageFilters": {
+      "message": "Atur filter"
+   },
+   "extraMyCustomFilter": {
+      "message": "Filter khusus saya"
+   },
+   "extraPrivacy": {
+      "message": "Privasi"
+   },
+   "extraRule": {
+      "message": "Aturan"
+   },
+   "extraRuleDefinition": {
+      "message": "Definisi aturan"
+   },
+   "extraRuleSyntax": {
+      "message": "Sintaksis aturan"
+   },
+   "extraRulesPageNameDesc": {
+      "message": "Daftar aturan filter dinamis Anda"
+   },
+   "extraSetting": {
+      "message": "Pengaturan"
+   },
+   "extraShowMore": {
+      "message": "Selengkapnya"
+   },
+   "extraSite": {
+      "message": "Situs"
+   },
+   "extraSlider0": {
+      "message": "Jangan blokir iklan"
+   },
+   "extraSlider100": {
+      "message": "Pemblokiran Iklan Maksimal"
+   },
+   "extraSlider50": {
+      "message": "Pemblokiran Iklan Seperlunya"
+   },
+   "extraSourceDestinationTypeAction": {
+      "message": "tindakan jenis tujuan sumber."
+   },
+   "extraWhitelistPageNameDesc": {
+      "message": "Daftar situs yang mengizinkan pelacak"
+   },
+   "fennecMenuItemBlockingOff": {
+      "message": "mati"
+   },
+   "genericApplyChanges": {
+      "message": "Terapkan perubahan"
+   },
+   "genericBytes": {
+      "message": "byte"
+   },
+   "genericCopyToClipboard": {
+      "message": "Salin ke clipboard"
+   },
+   "genericMergeViewScrollLock": {
+      "message": "Alihkan gulir yang terkunci"
+   },
+   "genericRevert": {
+      "message": "Kembali"
+   },
+   "genericSubmit": {
+      "message": "Kirim"
+   },
+   "logAll": {
+      "message": "Semua"
+   },
+   "logBehindTheScene": {
+      "message": "Di balik layar"
+   },
+   "logFilterPrompt": {
+      "message": "entri log filter"
+   },
+   "logMaxEntriesTip": {
+      "message": "Jumlah maksimum entri log"
+   },
+   "logRequestsHeaderDomain": {
+      "message": "Domain"
+   },
+   "logRequestsHeaderFilter": {
+      "message": "Filter"
+   },
+   "logRequestsHeaderType": {
+      "message": "Jenis"
+   },
+   "logRequestsHeaderURL": {
+      "message": "URL"
+   },
+   "loggerClearTip": {
+      "message": "Bersihkan logger"
+   },
+   "loggerCurrentTab": {
+      "message": "Tab saat ini"
+   },
+   "loggerDomInspectorTip": {
+      "message": "Alihkan inspektur DOM"
+   },
+   "loggerEntryDetailsContext": {
+      "message": "Konteks"
+   },
+   "loggerEntryDetailsFilter": {
+      "message": "Filter"
+   },
+   "loggerEntryDetailsFilterList": {
+      "message": "Daftar filter"
+   },
+   "loggerEntryDetailsHeader": {
+      "message": "Perincian"
+   },
+   "loggerEntryDetailsPartyness": {
+      "message": "Partyness"
+   },
+   "loggerEntryDetailsRootContext": {
+      "message": "Konteks root"
+   },
+   "loggerEntryDetailsRule": {
+      "message": "Aturan"
+   },
+   "loggerEntryDetailsType": {
+      "message": "Tipe"
+   },
+   "loggerEntryDetailsURL": {
+      "message": "URL"
+   },
+   "loggerExportEncodeMarkdown": {
+      "message": "Penurunan harga"
+   },
+   "loggerExportEncodePlain": {
+      "message": "Biasa"
+   },
+   "loggerExportFormatList": {
+      "message": "Daftar"
+   },
+   "loggerExportFormatTable": {
+      "message": "Tabel"
+   },
+   "loggerInfoTip": {
+      "message": "uBlock Origin wiki: Logger"
+   },
+   "loggerPauseTip": {
+      "message": "Jeda logger (buang semua data masuk)"
+   },
+   "loggerPopupPanelTip": {
+      "message": "Alihkan panel pop-up"
+   },
+   "loggerReloadTip": {
+      "message": "Muat kembali konten tab"
+   },
+   "loggerRowFiltererBuiltin1p": {
+      "message": "pihak pertama"
+   },
+   "loggerRowFiltererBuiltin3p": {
+      "message": "pihak ketiga"
+   },
+   "loggerRowFiltererBuiltinAllowed": {
+      "message": "diizinkan"
+   },
+   "loggerRowFiltererBuiltinBlocked": {
+      "message": "diblokir"
+   },
+   "loggerRowFiltererBuiltinEventful": {
+      "message": "penting"
+   },
+   "loggerRowFiltererBuiltinNot": {
+      "message": "Tidak"
+   },
+   "loggerRowFiltererBuiltinTip": {
+      "message": "Pilihan memfilter logger"
+   },
+   "loggerRowFiltererButtonTip": {
+      "message": "Alihkan memfilter logger"
+   },
+   "loggerSettingDiscardPrompt": {
+      "message": "Entri logger yang tidak memenuhi persyaratan di bawah ini akan otomatis dibuang:"
+   },
+   "loggerSettingHideColumnContext": {
+      "message": "{{input}} Konteks"
+   },
+   "loggerSettingHideColumnFilter": {
+      "message": "{{input}} Filter/aturan"
+   },
+   "loggerSettingHideColumnPartyness": {
+      "message": "{{input}} Partyness"
+   },
+   "loggerSettingHideColumnTime": {
+      "message": "{{input}} Waktu"
+   },
+   "loggerSettingHideColumnsPrompt": {
+      "message": "Sembunyikan kolom:"
+   },
+   "loggerSettingPerEntryLineCount": {
+      "message": "Gunakan {{input}} baris per entri pada mode yang diperluas secara vertikal"
+   },
+   "loggerSettingPerEntryMaxAge": {
+      "message": "Simpan entri dari menit {{input}} terakhir"
+   },
+   "loggerSettingPerTabMaxEntries": {
+      "message": "Simpan paling banyak {{input}} entri per tab"
+   },
+   "loggerSettingPerTabMaxLoads": {
+      "message": "Simpan paling banyak {{input}} pemuatan halaman per tab"
+   },
+   "loggerStaticFilteringFinderSentence1": {
+      "message": "Filter statis \u003Ccode>{{filter}}\u003C/code> ditemukan pada:"
+   },
+   "loggerStaticFilteringFinderSentence2": {
+      "message": "Filter statis \u003Ccode>{{filter}}\u003C/code> tidak dapat ditemukan pada daftar filter yang saat ini diaktifkan"
+   },
+   "loggerStaticFilteringHeader": {
+      "message": "Pemfilteran statis"
+   },
+   "loggerStaticFilteringSentence": {
+      "message": "{{action}} permintaan jaringan {{type}} {{br}}memiliki alamat URL yang cocok dengan {{url}} {{br}}dan berasal dari {{origin}},{{br}}{{importance}} ada filter pengecualian yang cocok."
+   },
+   "loggerStaticFilteringSentencePartAllow": {
+      "message": "Izinkan"
+   },
+   "loggerStaticFilteringSentencePartAnyOrigin": {
+      "message": "dari mana saja"
+   },
+   "loggerStaticFilteringSentencePartAnyType": {
+      "message": "tipe apa saja"
+   },
+   "loggerStaticFilteringSentencePartBlock": {
+      "message": "Blokir"
+   },
+   "loggerStaticFilteringSentencePartImportant": {
+      "message": "bahkan saat"
+   },
+   "loggerStaticFilteringSentencePartNotImportant": {
+      "message": "kecuali saat"
+   },
+   "loggerStaticFilteringSentencePartOrigin": {
+      "message": "dari ?{{origin}}?"
+   },
+   "loggerStaticFilteringSentencePartType": {
+      "message": "tipe ?{{type}}?"
+   },
+   "loggerURLFilteringContextLabel": {
+      "message": "Konteks:"
+   },
+   "loggerURLFilteringHeader": {
+      "message": "Pemfilteran URL yang dinamis"
+   },
+   "loggerURLFilteringTypeLabel": {
+      "message": "Tipe:"
+   },
+   "loggerUnpauseTip": {
+      "message": "Berhenti menjeda logger"
+   },
+   "pickerContextMenuEntry": {
+      "message": "Blokir elemen"
+   },
+   "pickerCosmeticFilters": {
+      "message": "Filter kosmetik"
+   },
+   "pickerCosmeticFiltersHint": {
+      "message": "Klik, Ctrl-klik"
+   },
+   "pickerCreate": {
+      "message": "Buat"
+   },
+   "pickerNetFilters": {
+      "message": "Filter jaringan"
+   },
+   "pickerPick": {
+      "message": "Pilih"
+   },
+   "pickerPreview": {
+      "message": "Pratinjau"
+   },
+   "pickerQuit": {
+      "message": "Berhenti"
+   },
+   "popup1pScriptRulePrompt": {
+      "message": "skrip pihak pertama"
+   },
+   "popup3pAnyRulePrompt": {
+      "message": "pihak ketiga"
+   },
+   "popup3pFrameRulePrompt": {
+      "message": "kerangka pihak ketiga"
+   },
+   "popup3pPassiveRulePrompt": {
+      "message": "css/gambar pihak ketiga"
+   },
+   "popup3pScriptRulePrompt": {
+      "message": "skrip pihak ketiga"
+   },
+   "popupAdvancedSettings": {
+      "message": "Pengaturan lanjutan"
+   },
+   "popupAnyRulePrompt": {
+      "message": "semua"
+   },
+   "popupExtraAdsAllowedOnSites": {
+      "message": "Pelacak diizinkan di situs ini"
+   },
+   "popupExtraAdsBlockedOnPage": {
+      "message": "Pelacak yang diblokir di situs ini"
+   },
+   "popupExtraAdsBlockedOnSites": {
+      "message": "Pelacak diblokir di situs ini"
+   },
+   "popupExtraAdsBlockedTotal": {
+      "message": "Total pelacak yang diblokir"
+   },
+   "popupExtraLessOptions": {
+      "message": "Pilihan lebih ringkas"
+   },
+   "popupExtraListAllowedSites": {
+      "message": "Daftar situs yang diizinkan"
+   },
+   "popupExtraMoreInformation": {
+      "message": "Informasi lebih lanjut"
+   },
+   "popupExtraMoreOptions": {
+      "message": "Pilihan selengkapnya"
+   },
+   "popupExtraNoSitesAddedYet": {
+      "message": "Belum ada situs yang ditambahkan"
+   },
+   "popupExtraProtectionCanNotEnabled": {
+      "message": "Perlindungan di situs ini tidak dapat diaktifkan"
+   },
+   "popupExtraProtectionDisabledForSession": {
+      "message": "Perlindungan untuk sesi ini tidak dapat diaktifkan"
+   },
+   "popupExtraSeeListAllowedSites": {
+      "message": "Lihat daftar situs yang diizinkan"
+   },
+   "popupHitDomainCount": {
+      "message": "{{count}} dari {{total}}"
+   },
+   "popupHitDomainCountPrompt": {
+      "message": "domain terhubung"
+   },
+   "popupImageRulePrompt": {
+      "message": "gambar"
+   },
+   "popupInlineScriptRulePrompt": {
+      "message": "skrip sebaris"
+   },
+   "popupTipDashboard": {
+      "message": "Buka dasbor"
+   },
+   "popupTipGlobalRules": {
+      "message": "Aturan global: kolom ini untuk aturan yang berlaku di semua situs."
+   },
+   "popupTipLocalRules": {
+      "message": "Aturan lokal: kolom ini untuk aturan yang berlaku di situs saat ini saja. Aturan lokal menggantikan aturan global."
+   },
+   "popupTipLog": {
+      "message": "Buka logger"
+   },
+   "popupTipNoCosmeticFiltering": {
+      "message": "Alihkan filter kosmetik untuk situs ini"
+   },
+   "popupTipNoCosmeticFiltering1": {
+      "message": "Klik untuk menonaktifkan filter kosmetik di situs ini"
+   },
+   "popupTipNoCosmeticFiltering2": {
+      "message": "Klik untuk mengaktifkan filter kosmetik di situs ini"
+   },
+   "popupTipNoLargeMedia": {
+      "message": "Alihkan pemblokiran elemen media besar untuk situs ini"
+   },
+   "popupTipNoLargeMedia1": {
+      "message": "Klik untuk memblokir elemen media besar di situs ini"
+   },
+   "popupTipNoLargeMedia2": {
+      "message": "Klik untuk tidak lagi memblokir elemen media besar di situs ini"
+   },
+   "popupTipNoPopups": {
+      "message": "Alihkan pemblokiran semua pop-up untuk situs ini"
+   },
+   "popupTipNoPopups1": {
+      "message": "Klik untuk memblokir semua pop-up di situs ini"
+   },
+   "popupTipNoPopups2": {
+      "message": "Klik untuk tidak lagi memblokir semua pintasan di situs ini"
+   },
+   "popupTipNoRemoteFonts": {
+      "message": "Alihkan pemblokiran font jauh untuk situs ini"
+   },
+   "popupTipNoRemoteFonts1": {
+      "message": "Klik untuk memblokir font jauh di situs ini"
+   },
+   "popupTipNoRemoteFonts2": {
+      "message": "Klik untuk tidak lagi memblokir font jauh di situs ini"
+   },
+   "popupTipNoScripting1": {
+      "message": "Klik untuk menonaktifkan JavaScript di situs ini"
+   },
+   "popupTipNoScripting2": {
+      "message": "Klik untuk tidak lagi menonaktifkan JavaScript di situs ini"
+   },
+   "popupTipPicker": {
+      "message": "Masuk ke mode pemilih elemen"
+   },
+   "popupTipRevertRules": {
+      "message": "Klik untuk mengembalikan perubahan."
+   },
+   "popupTipSaveRules": {
+      "message": "Klik untuk mengganti perubahan secara permanen."
+   },
+   "popupTipZapper": {
+      "message": "Masuk ke mode zapper elemen"
+   },
+   "rulesCommit": {
+      "message": "Terapkan"
+   },
+   "rulesEdit": {
+      "message": "Edit"
+   },
+   "rulesEditDiscard": {
+      "message": "Buang"
+   },
+   "rulesEditSave": {
+      "message": "Simpan"
+   },
+   "rulesExport": {
+      "message": "Ekspor ke file"
+   },
+   "rulesFormatHint": {
+      "message": "Sintaksis aturan: \u003Ccode>tindakan jenis tujuan sumber\u003C/code> (\u003Ca href='https://github.com/gorhill/uBlock/wiki/Dynamic-filtering:-rule-syntax'>dokumentasi lengkap\u003C/a>)."
+   },
+   "rulesHint": {
+      "message": "Daftar aturan filter dinamis Anda."
+   },
+   "rulesImport": {
+      "message": "Impor dari file..."
+   },
+   "rulesPageName": {
+      "message": "Aturan saya"
+   },
+   "rulesPermanentHeader": {
+      "message": "Aturan permanen"
+   },
+   "rulesRevert": {
+      "message": "Kembali"
+   },
+   "rulesTemporaryHeader": {
+      "message": "Aturan sementara"
+   },
+   "settingPerSiteSwitchGroup": {
+      "message": "Perilaku default"
+   },
+   "settingPerSiteSwitchGroupSynopsis": {
+      "message": "Perilaku default berikut ini dapat diabaikan berdasarkan pada setiap situs"
+   },
+   "settingsAdvancedUserPrompt": {
+      "message": "Saya seorang pengguna lanjutan (\u003Ca href='https://github.com/gorhill/uBlock/wiki/Advanced-user-features'>bacaan yang diperlukan\u003C/a>)"
+   },
+   "settingsAdvancedUserSettings": {
+      "message": "pengaturan lanjutan"
+   },
+   "settingsCloudStorageEnabledPrompt": {
+      "message": "Aktifkan dukungan penyimpanan cloud"
+   },
+   "settingsCollapseBlockedPrompt": {
+      "message": "Sembunyikan placeholder elemen yang diblokir"
+   },
+   "settingsColorBlindPrompt": {
+      "message": "Ramah bagi penyandang buta warna"
+   },
+   "settingsContextMenuPrompt": {
+      "message": "Gunakan menu konteks jika perlu"
+   },
+   "settingsHyperlinkAuditingDisabledPrompt": {
+      "message": "Nonaktifkan pengauditan hyperlink"
+   },
+   "settingsIconBadgePrompt": {
+      "message": "Tampilkan jumlah permintaan yang diblokir di ikon"
+   },
+   "settingsLastBackupPrompt": {
+      "message": "Pencadangan terakhir:"
+   },
+   "settingsLastRestorePrompt": {
+      "message": "Pemulihan terakhir:"
+   },
+   "settingsNoCSPReportsPrompt": {
+      "message": "Blokir laporan CSP"
+   },
+   "settingsNoCosmeticFilteringPrompt": {
+      "message": "Nonaktifkan pemfilteran kosmetik"
+   },
+   "settingsNoLargeMediaPrompt": {
+      "message": "Blokir elemen media yang lebih besar dari {{input:number}} kB"
+   },
+   "settingsNoRemoteFontsPrompt": {
+      "message": "Blokir font jauh"
+   },
+   "settingsNoScriptingPrompt": {
+      "message": "JavaScript dinonaktifkan"
+   },
+   "settingsPageName": {
+      "message": "Pengaturan"
+   },
+   "settingsPrefetchingDisabledPrompt": {
+      "message": "Nonaktifkan pengambilan di awal (guna mencegah sambungan koneksi untuk permintaan jaringan yang diblokir)"
+   },
+   "settingsStorageUsed": {
+      "message": "Penyimpanan yang digunakan: {{value}} byte"
+   },
+   "settingsTooltipsPrompt": {
+      "message": "Nonaktifkan tooltip"
+   },
+   "settingsWebRTCIPAddressHiddenPrompt": {
+      "message": "Cegah WebRTC agar tidak membocorkan alamat IP lokal"
+   },
+   "shortcutCapturePlaceholder": {
+      "message": "Masukkan pintasan"
+   },
+   "shortcutsPageName": {
+      "message": "Pintasan"
+   },
+   "showDashboardButton": {
+      "message": "Tampilkan Dasbor"
+   },
+   "showNetworkLogButton": {
+      "message": "Tampilkan Logger"
+   },
+   "statsPageName": {
+      "message": "CCleaner Anti-Tracking — Logger"
+   },
+   "subscriberConfirm": {
+      "message": "CCleaner Anti-Tracking: Tambahkan URL berikut ke daftar filter khusus Anda?\n\nJudul: \"{{title}}\"\nURL: {{url}}"
+   },
+   "whitelistApply": {
+      "message": "Terapkan perubahan"
+   },
+   "whitelistExport": {
+      "message": "Ekspor"
+   },
+   "whitelistExportFilename": {
+      "message": "CCleaner Anti-Tracking-whitelist_{{datetime}}.txt"
+   },
+   "whitelistImport": {
+      "message": "Impor dan tambahkan"
+   },
+   "whitelistPageName": {
+      "message": "Daftar putih"
+   },
+   "whitelistPrompt": {
+      "message": "Arahan daftar putih menentukan CCleaner Anti-Tracking halaman web mana yang perlu dinonaktifkan. Satu entri per baris. Arahan yang tidak sah akan secara diam-diam diabaikan dan dikecualikan."
+   }
+}

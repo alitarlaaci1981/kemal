@@ -1,0 +1,117 @@
+{
+   "appDesc": {
+      "message": "오프라인으로 볼 수 있도록 동영상 다운로드"
+   },
+   "appName": {
+      "message": "동영상 다운로더"
+   },
+   "barDetachBtn": {
+      "description": "The Detach button text as visible on the floating bar",
+      "message": "분리"
+   },
+   "barDownloadBtn": {
+      "description": "The Download button text as visible on the floating bar",
+      "message": "다운로드"
+   },
+   "barMediaBtn": {
+      "description": "The Media button text as visible on the floating bar",
+      "message": "미디어"
+   },
+   "barQualityAudio": {
+      "description": "Audio title",
+      "message": "오디오"
+   },
+   "barQualityVideo": {
+      "description": "Video title",
+      "message": "동영상"
+   },
+   "barSettingsAbout": {
+      "description": "About Button in settings popup",
+      "message": "자세한 정보"
+   },
+   "barSettingsBtn": {
+      "description": "The Settings button text as visible on the floating bar",
+      "message": "설정"
+   },
+   "barSettingsDescription": {
+      "description": "Video download feature description in settings popup",
+      "message": "CCleanerSecure Browser 제공"
+   },
+   "barSettingsDoNotShow": {
+      "description": "Button in settings popup disabling video-downloader",
+      "message": "다시 표시 안 함"
+   },
+   "barSettingsDoNotShowForSite": {
+      "description": "Button in settings popup disabling video-downloader for exact site",
+      "message": "이 사이트에 표시 안 함"
+   },
+   "barSettingsTitle": {
+      "description": "Settings popup title in the floating bar",
+      "message": "설정"
+   },
+   "eulaContinue": {
+      "description": "EUlA continue button",
+      "message": "계속"
+   },
+   "eulaText": {
+      "description": "EULA message displayed to the user",
+      "message": "\u003Cdiv>\u003Ca target='blank' href='$link$'>최종 사용자 라이선스 계약\u003C/a>\u003C/div>(EULA)에 동의하면 귀하는 동영상 다운로더의 사용에 있어 해당 저작권법 및 웹 사이트의 이용 약관을 준수해야 하는 책임을 인정하고 동의하게 됩니다.",
+      "placeholders": {
+         "link": {
+            "content": "$1"
+         }
+      }
+   },
+   "eulaTitle": {
+      "description": "EULA popup title",
+      "message": "다운로드하기 전에"
+   },
+   "eulaUnderstandAccept": {
+      "description": "EULA user agreement checkbox text",
+      "message": "EULA를 이해하고 동의합니다"
+   },
+   "extensionName": {
+      "description": "Name shown in the extension button in SZB Control Center.",
+      "message": "동영상 다운로더"
+   },
+   "extensionTitle": {
+      "description": "Title shown on hover over the extension button in SZB Control Center.",
+      "message": "오프라인으로 볼 수 있도록 동영상을 다운로드합니다."
+   },
+   "optionUnknownSize": {
+      "description": "Videa or audio download option of unknown size",
+      "message": "알 수 없는 크기"
+   },
+   "popupAudioHeading": {
+      "description": "The heading of the audio section in the media popup list",
+      "message": "오디오"
+   },
+   "popupDisabledFor": {
+      "description": "Page was disabled for video downloader",
+      "message": "동영상 다운로더를 사용할 수 없음:"
+   },
+   "popupDownloadBtn": {
+      "description": "The Download button text as visible in the media popup list",
+      "message": "다운로드"
+   },
+   "popupEnable": {
+      "description": "Enable video downloader for current page",
+      "message": "사용"
+   },
+   "popupNoVideos": {
+      "description": "Page does not contain any videos",
+      "message": "이 페이지에서 다운로드할 동영상 없음"
+   },
+   "popupNoVideos_v2": {
+      "description": "",
+      "message": "동영상을 다운로드하려면 해당 동영상의 세부정보 페이지로 이동하십시오."
+   },
+   "popupVideoHeading": {
+      "description": "The heading of the video section in the media popup list",
+      "message": "동영상"
+   },
+   "reattachBtn": {
+      "description": "The Reattach button text as visible on the detached video page",
+      "message": "다시 연결"
+   }
+}

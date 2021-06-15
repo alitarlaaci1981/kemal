@@ -1,0 +1,28 @@
+{
+   "appDescription": {
+      "message": "Oculta la huella digital del navegador para limitar el rastreo en línea"
+   },
+   "appName": {
+      "message": "Bloqueo del reconocimiento"
+   },
+   "popupStatusDisabled": {
+      "description": "Popup label shown when afp is disabled for current website",
+      "message": "La protección de huella digital está desactivada para este sitio"
+   },
+   "popupStatusEnabled": {
+      "description": "Popup label shown when afp is enabled for current website",
+      "message": "La protección de huella digital está activada para este sitio"
+   },
+   "popupTotalFingerprintsAttemptsDetected": {
+      "description": "Popup total fingerprints attempts detected label",
+      "message": "Total de intentos de huella digital detectados"
+   },
+   "settingsAdvanced": {
+      "description": "Settings page title",
+      "message": "Opciones avanzadas de Bloqueo del reconocimiento"
+   },
+   "settingsSocialMediaLoginDetectionPrevention": {
+      "description": "Settings page social media login detection prevention title",
+      "message": "Prevención de detección de inicio de sesión en redes sociales"
+   }
+}

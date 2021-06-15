@@ -1,0 +1,117 @@
+{
+   "appDesc": {
+      "message": "Stáhněte si videa pro prohlížení offline"
+   },
+   "appName": {
+      "message": "Stahovač videí"
+   },
+   "barDetachBtn": {
+      "description": "The Detach button text as visible on the floating bar",
+      "message": "Odpojit"
+   },
+   "barDownloadBtn": {
+      "description": "The Download button text as visible on the floating bar",
+      "message": "Stáhnout"
+   },
+   "barMediaBtn": {
+      "description": "The Media button text as visible on the floating bar",
+      "message": "Média"
+   },
+   "barQualityAudio": {
+      "description": "Audio title",
+      "message": "Zvuk"
+   },
+   "barQualityVideo": {
+      "description": "Video title",
+      "message": "Video"
+   },
+   "barSettingsAbout": {
+      "description": "About Button in settings popup",
+      "message": "Více informací"
+   },
+   "barSettingsBtn": {
+      "description": "The Settings button text as visible on the floating bar",
+      "message": "Nastavení"
+   },
+   "barSettingsDescription": {
+      "description": "Video download feature description in settings popup",
+      "message": "Využívá CCleaner Secure Browser"
+   },
+   "barSettingsDoNotShow": {
+      "description": "Button in settings popup disabling video-downloader",
+      "message": "Příště již nezobrazovat"
+   },
+   "barSettingsDoNotShowForSite": {
+      "description": "Button in settings popup disabling video-downloader for exact site",
+      "message": "Na tomto webu nezobrazovat"
+   },
+   "barSettingsTitle": {
+      "description": "Settings popup title in the floating bar",
+      "message": "Nastavení"
+   },
+   "eulaContinue": {
+      "description": "EUlA continue button",
+      "message": "Pokračovat"
+   },
+   "eulaText": {
+      "description": "EULA message displayed to the user",
+      "message": "Přijetím našeho \u003Cdiv>\u003Ca target='blank' href='$link$'>licenčního ujednání s koncovým uživatelem\u003C/a>\u003C/div> (EULA) potvrdíte a odsouhlasíte, že se při používání Stahovače videí budete řídit platnými zákony na ochranu autorských práv a podmínkami používání příslušných webových stránek.",
+      "placeholders": {
+         "link": {
+            "content": "$1"
+         }
+      }
+   },
+   "eulaTitle": {
+      "description": "EULA popup title",
+      "message": "Před stažením"
+   },
+   "eulaUnderstandAccept": {
+      "description": "EULA user agreement checkbox text",
+      "message": "Chápu a přijímám dokument EULA"
+   },
+   "extensionName": {
+      "description": "Name shown in the extension button in SZB Control Center.",
+      "message": "Stahovač videí"
+   },
+   "extensionTitle": {
+      "description": "Title shown on hover over the extension button in SZB Control Center.",
+      "message": "Stáhněte si videa pro prohlížení offline."
+   },
+   "optionUnknownSize": {
+      "description": "Videa or audio download option of unknown size",
+      "message": "neznámá velikost"
+   },
+   "popupAudioHeading": {
+      "description": "The heading of the audio section in the media popup list",
+      "message": "Zvuk"
+   },
+   "popupDisabledFor": {
+      "description": "Page was disabled for video downloader",
+      "message": "Stahovač videí je vypnutý pro"
+   },
+   "popupDownloadBtn": {
+      "description": "The Download button text as visible in the media popup list",
+      "message": "Stáhnout"
+   },
+   "popupEnable": {
+      "description": "Enable video downloader for current page",
+      "message": "Zapnout"
+   },
+   "popupNoVideos": {
+      "description": "Page does not contain any videos",
+      "message": "Na této stránce nejsou žádná videa ke stažení"
+   },
+   "popupNoVideos_v2": {
+      "description": "",
+      "message": "Chcete-li stáhnout video, přejděte na příslušnou stránku s podrobnostmi."
+   },
+   "popupVideoHeading": {
+      "description": "The heading of the video section in the media popup list",
+      "message": "Video"
+   },
+   "reattachBtn": {
+      "description": "The Reattach button text as visible on the detached video page",
+      "message": "Znovu připojit"
+   }
+}

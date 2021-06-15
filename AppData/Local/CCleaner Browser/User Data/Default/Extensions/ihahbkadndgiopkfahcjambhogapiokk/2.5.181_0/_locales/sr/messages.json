@@ -1,0 +1,28 @@
+{
+   "appDescription": {
+      "message": "Maskira otisak pregledača i ograničava praćenje na mreži"
+   },
+   "appName": {
+      "message": "Zaštita otisaka prstiju"
+   },
+   "popupStatusDisabled": {
+      "description": "Popup label shown when afp is disabled for current website",
+      "message": "Zaštita otisaka pristiju nije omogućena na ovoj lokaciji"
+   },
+   "popupStatusEnabled": {
+      "description": "Popup label shown when afp is enabled for current website",
+      "message": "Zaštita otisaka pristiju omogućena je na ovoj lokaciji"
+   },
+   "popupTotalFingerprintsAttemptsDetected": {
+      "description": "Popup total fingerprints attempts detected label",
+      "message": "Ukupno otkrivenih pokušaja korišćenja otisaka prstiju"
+   },
+   "settingsAdvanced": {
+      "description": "Settings page title",
+      "message": "Napredne postavke zaštite otisaka prstiju"
+   },
+   "settingsSocialMediaLoginDetectionPrevention": {
+      "description": "Settings page social media login detection prevention title",
+      "message": "Sprečavanje detekcije prijavljivanja na društvene mreže"
+   }
+}

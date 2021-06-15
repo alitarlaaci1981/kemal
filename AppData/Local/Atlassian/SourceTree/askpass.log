@@ -1,0 +1,4 @@
+2020-11-26T20:54:09: Failed to save key/value store 'C:\Users\kemal\AppData\Local\Atlassian\SourceTree\passwd: System.IO.IOException: The process cannot access the file 'C:\Users\kemal\AppData\Local\Temp\sudn3hxo.v4j' because it is being used by another process.
+
+2020-11-26T20:57:24: Failed to save key/value store 'C:\Users\kemal\AppData\Local\Atlassian\SourceTree\passwd: System.IO.IOException: The process cannot access the file 'C:\Users\kemal\AppData\Local\Temp\5xlqr2sm.4hw' because it is being used by another process.
+

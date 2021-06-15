@@ -1,0 +1,117 @@
+{
+   "appDesc": {
+      "message": "অফলাইনে দেখার জন্য ভিডিওগুলি ডাউনলোড করুন"
+   },
+   "appName": {
+      "message": "ভিডিও ডাউনলোডার"
+   },
+   "barDetachBtn": {
+      "description": "The Detach button text as visible on the floating bar",
+      "message": "সংযোগ বিচ্ছিন্ন করুন"
+   },
+   "barDownloadBtn": {
+      "description": "The Download button text as visible on the floating bar",
+      "message": "ডাউনলোড করুন"
+   },
+   "barMediaBtn": {
+      "description": "The Media button text as visible on the floating bar",
+      "message": "মিডিয়া"
+   },
+   "barQualityAudio": {
+      "description": "Audio title",
+      "message": "অডিও"
+   },
+   "barQualityVideo": {
+      "description": "Video title",
+      "message": "ভিডিও"
+   },
+   "barSettingsAbout": {
+      "description": "About Button in settings popup",
+      "message": "আরও তথ্য"
+   },
+   "barSettingsBtn": {
+      "description": "The Settings button text as visible on the floating bar",
+      "message": "সেটিংস"
+   },
+   "barSettingsDescription": {
+      "description": "Video download feature description in settings popup",
+      "message": " CCleaner Secure Browser দ্বারা পরিচালিত"
+   },
+   "barSettingsDoNotShow": {
+      "description": "Button in settings popup disabling video-downloader",
+      "message": "আবার দেখাবেন না"
+   },
+   "barSettingsDoNotShowForSite": {
+      "description": "Button in settings popup disabling video-downloader for exact site",
+      "message": "এই সাইটটে আবার দেখাবেন না"
+   },
+   "barSettingsTitle": {
+      "description": "Settings popup title in the floating bar",
+      "message": "সেটিংস"
+   },
+   "eulaContinue": {
+      "description": "EUlA continue button",
+      "message": "চালিয়ে যান"
+   },
+   "eulaText": {
+      "description": "EULA message displayed to the user",
+      "message": "আমাদের  \u003Cdiv>\u003Ca target='blank' href='$link$'> অন্তিম ব্যবহারকারীর লাইসেন্স চুক্ত\u003C/a>\u003C/div> (EULA), স্বীকার করে, আপনি স্বীকৃতি দিয়েছেন এবং সম্মত হয়েছেন যে প্রযোজ্য কপিরাইট আইন এবং যেকোনো ওয়েবসাইট ব্যবহারের শর্তাবলী মেনে নিয়ে ভিডিও ডাউনলোডকারী ব্যবহার করা আপনার দায়িত্ব।",
+      "placeholders": {
+         "link": {
+            "content": "$1"
+         }
+      }
+   },
+   "eulaTitle": {
+      "description": "EULA popup title",
+      "message": "আপনি ডাউনলোড করার আগে"
+   },
+   "eulaUnderstandAccept": {
+      "description": "EULA user agreement checkbox text",
+      "message": "আমি EULA সম্পর্কে জেনেছি এবং গ্রহণ করছি"
+   },
+   "extensionName": {
+      "description": "Name shown in the extension button in SZB Control Center.",
+      "message": "ভিডিও ডাউনলোডার"
+   },
+   "extensionTitle": {
+      "description": "Title shown on hover over the extension button in SZB Control Center.",
+      "message": "অফলাইনে দেখার জন্য ভিডিওগুলি ডাউনলোড করুন।"
+   },
+   "optionUnknownSize": {
+      "description": "Videa or audio download option of unknown size",
+      "message": "অজানা আকার"
+   },
+   "popupAudioHeading": {
+      "description": "The heading of the audio section in the media popup list",
+      "message": "অডিও"
+   },
+   "popupDisabledFor": {
+      "description": "Page was disabled for video downloader",
+      "message": "ভিডিও ডাউনলোডার এর জন্য অক্ষম করা হয়েছে"
+   },
+   "popupDownloadBtn": {
+      "description": "The Download button text as visible in the media popup list",
+      "message": "ডাউনলোড করুন"
+   },
+   "popupEnable": {
+      "description": "Enable video downloader for current page",
+      "message": "সক্ষম করুন"
+   },
+   "popupNoVideos": {
+      "description": "Page does not contain any videos",
+      "message": "এই পৃষ্ঠায় ডাউনলোড করার জন্য আর কোন ভিডিও নেই"
+   },
+   "popupNoVideos_v2": {
+      "description": "",
+      "message": "একটি ভিডিও ডাউনলোড করার জন্য, এই বিষয়ে বিস্তারিত পৃষ্ঠায় যান।"
+   },
+   "popupVideoHeading": {
+      "description": "The heading of the video section in the media popup list",
+      "message": "ভিডিও"
+   },
+   "reattachBtn": {
+      "description": "The Reattach button text as visible on the detached video page",
+      "message": "পুনরায় সংযোগ করুন"
+   }
+}

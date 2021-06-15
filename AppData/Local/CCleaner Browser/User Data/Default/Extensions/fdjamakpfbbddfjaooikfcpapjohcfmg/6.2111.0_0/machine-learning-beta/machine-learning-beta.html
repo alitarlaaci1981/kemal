@@ -1,0 +1,278 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8" />
+    <title>You’ve now got Machine Learning</title>
+    <style type="text/css">
+      /* GT Walsheim Pro */
+
+      @font-face {
+        font-family: 'GT Walsheim Pro';
+        font-weight: 400;
+        font-style: normal;
+        font-stretch: normal;
+        src: local('GTWalsheimPro-Regular'),
+          url('../styles/font/GT-Walsheim-Pro-Regular.woff') format('woff');
+      }
+
+      @font-face {
+        font-family: 'GT Walsheim Pro';
+        font-weight: bold;
+        font-style: normal;
+        font-stretch: normal;
+        src: local('GTWalsheimPro-Bold'),
+          url('../styles/font/GT-Walsheim-Pro-Bold.woff') format('woff');
+      }
+
+      /* Public Sans */
+
+      @font-face {
+        font-family: 'Public Sans';
+        font-weight: 600;
+        font-style: normal;
+        font-stretch: normal;
+        src: local('PublicSans-SemiBold'),
+          url('../styles/font/PublicSans-SemiBold.woff') format('woff');
+      }
+
+      * {
+        margin: 0px;
+        padding: 0px;
+      }
+
+      body {
+        background-color: #f5f7f7;
+        font-family: 'GT Walsheim Pro';
+        font-weight: bold;
+      }
+
+      header {
+        display: flex;
+        align-items: center;
+        font-size: 25px;
+        padding-left: 80px;
+        height: 78px;
+        text-transform: uppercase;
+        color: #0e353d;
+      }
+
+      #logo {
+        margin-right: 10px;
+      }
+
+      #feedback {
+        font-family: 'GT Walsheim Pro';
+        font-style: normal;
+        font-weight: normal;
+        font-size: 18px;
+        line-height: 1.33;
+        color: #0e353d;
+      }
+
+      #feedback a:link {
+        color: #0e6476;
+      }
+
+      #feedback > strong {
+        font-weight: bold;
+        color: black;
+      }
+
+      #betaWarning {
+        margin-bottom: 16px;
+        font-family: 'Public Sans';
+        font-style: normal;
+        font-weight: 600;
+        font-size: 16px;
+        line-height: 1.25;
+        text-transform: uppercase;
+        color: #0e6476;
+      }
+
+      #prose {
+        width: 480px;
+      }
+
+      #prose h1 {
+        margin-top: 0px;
+        margin-bottom: 32px;
+        width: 480px;
+        height: 84px;
+        font-family: 'GT Walsheim Pro';
+        font-size: 40px;
+        line-height: 1.125;
+        font-weight: bold;
+        text-transform: uppercase;
+        color: #0e353d;
+      }
+
+      #description {
+        width: 480px;
+        font-family: 'GT Walsheim Pro';
+        font-style: normal;
+        font-weight: normal;
+        font-size: 18px;
+        line-height: 1.33;
+        color: #0e353d;
+        margin-bottom: 40px;
+      }
+
+      #main {
+        display: flex;
+        align-items: center;
+        justify-content: space-around;
+        position: absolute;
+        top: 78px;
+        bottom: 58px;
+        left: 0px;
+        right: 0px;
+      }
+
+      #imagery {
+        width: 432px;
+        height: 432px;
+        position: relative;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+      }
+
+      #circle {
+        width: 100%;
+        height: 100%;
+        background-color: #3e8391;
+        display: inline-block;
+        border-radius: 432px;
+      }
+
+      #imagery > * {
+        position: absolute;
+      }
+
+      footer {
+        display: flex;
+        flex-direction: row;
+        justify-content: center;
+        align-items: center;
+
+        position: absolute;
+        height: 56px;
+        left: 0px;
+        right: 0px;
+        bottom: 0px;
+
+        /* Primary/DashGreen/00-Main */
+
+        background: #0e353d;
+        color: white;
+
+        font-family: GT Walsheim Pro;
+        font-weight: normal;
+        font-size: 18px;
+        line-height: 1.33;
+        /* identical to box height, or 133% */
+
+        text-align: center;
+      }
+
+      footer a {
+        color: white;
+      }
+
+      #mockup2 {
+        display: none;
+      }
+
+      @media (max-width: 1046px) {
+        * {
+          width: auto;
+        }
+
+        header {
+          margin-left: 20px;
+          margin-bottom: 40px;
+          padding-left: 0px;
+        }
+
+        footer {
+          position: static;
+          display: block;
+          padding: 16px;
+          line-height: 1.5;
+        }
+
+        #main {
+          margin-left: 20px;
+          display: block;
+          flex-direction: column;
+          position: static;
+          justify-content: normal;
+        }
+
+        #prose {
+          display: block;
+          position: static;
+        }
+
+        #prose,
+        #prose * {
+          width: calc(100% - 20px);
+        }
+
+        #imagery {
+          margin-top: 40px;
+          margin-bottom: 40px;
+          width: 100%;
+        }
+
+        #circle {
+          display: none;
+        }
+
+        #mockup {
+          display: none;
+        }
+
+        #mockup2 {
+          display: inline-block;
+          max-width: 431px;
+          height: auto;
+        }
+      }
+    </style>
+  </head>
+  <body>
+    <header>
+      <img id="logo" src="DL_Logomark.png" alt="Dashlane logo" />dashlane
+    </header>
+    <div id="main">
+      <section id="prose">
+        <p id="betaWarning">Currently in beta</p>
+        <h1>Youʼve now got Machine Learning</h1>
+        <p id="description">
+          The way you use the extension and embedded web app will stay the same
+          — but now autofill will start getting faster and more accurate than
+          ever.
+        </p>
+        <p id="feedback">
+          <strong>Feedback?</strong>
+          Please email
+          <a href="mailto:ml-beta@dashlane.com">ml-beta@dashlane.com</a>.
+        </p>
+      </section>
+      <section id="imagery">
+        <span id="circle"> </span><img id="mockup" src="autofill-mockup.png" />
+        <img id="mockup2" src="autofil-mockup-2x.png" alt="autofill mockup" />
+      </section>
+    </div>
+    <footer>
+      <span
+        >To learn more about this release and how you can revert to the old
+        autofill engine,
+        <a href="https://support.dashlane.com/hc/en-us/articles/360006828759"
+          >click here.</a
+        ></span
+      >
+    </footer>
+  </body>
+</html>

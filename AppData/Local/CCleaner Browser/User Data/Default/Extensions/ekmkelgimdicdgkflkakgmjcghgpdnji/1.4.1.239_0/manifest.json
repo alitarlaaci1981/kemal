@@ -1,0 +1,27 @@
+{
+   "background": {
+      "persistent": true,
+      "scripts": [ "background.js" ]
+   },
+   "browser_action": {
+      "default_icon": "img/icons/icon16.png",
+      "default_title": "__MSG_ExtName__"
+   },
+   "default_locale": "en",
+   "description": "__MSG_ExtShortDesc__",
+   "externally_connectable": {
+      "ids": [ "*" ],
+      "matches": [ "*://*.avastbrowser.com/*", "*://*.avgbrowser.com/*", "*://*.ccleanerbrowser.com/*", "*://*.avast.com/*" ]
+   },
+   "icons": {
+      "128": "img/icons/icon128.png",
+      "16": "img/icons/icon16.png",
+      "48": "img/icons/icon48.png"
+   },
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA3BTWwBfAtHTrS14x8DqIPCgqjPBWGyc5I2Ane/yMB7l41KRVFi9NPCH6BVosv+qs10o2WV5ShdtI/xQnN8Nj3ue5VNVo267cjXUcDAmJSYCfXg29FY+mSzwyXb9rrTXqSHwjLCiJ/zBVXES/YijtYSn4We5vRXtIlZt3YKp4pMJQUiFKZvEQls5idJKIENTFAlekxJsZA3Q4dsNzG+PK96mqIixPZfPSQpd+/p7gEFh4BEMMAYhz/FfdYzoEQCuVHsxxlINDbkc7sKVitcSJ1qwtSbD4udoayV2ach2m41kmmRkA3QDLDsVuGaqclZUrNl9M+q6ps0/BR4KD8/PBdQIDAQAB",
+   "manifest_version": 2,
+   "name": "__MSG_ExtName__",
+   "permissions": [ "management", "tabs", "\u003Call_urls>", "storage", "notifications", "unlimitedStorage", "alarms" ],
+   "version": "1.4.1.239",
+   "web_accessible_resources": [ "popup.*" ]
+}

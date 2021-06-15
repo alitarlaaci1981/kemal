@@ -1,0 +1,28 @@
+{
+   "appDescription": {
+      "message": "Álcázza a böngésző ujjlenyomatát és korlátozza az online nyomkövetést"
+   },
+   "appName": {
+      "message": "Ujjlenyomat-védelem"
+   },
+   "popupStatusDisabled": {
+      "description": "Popup label shown when afp is disabled for current website",
+      "message": "Ezen a webhelyen le van tiltva az ujjlenyomat-védelem"
+   },
+   "popupStatusEnabled": {
+      "description": "Popup label shown when afp is enabled for current website",
+      "message": "Ezen a webhelyen engedélyezve van az ujjlenyomat-védelem"
+   },
+   "popupTotalFingerprintsAttemptsDetected": {
+      "description": "Popup total fingerprints attempts detected label",
+      "message": "Ujjlenyomat megállapítására tett összes észlelt kísérlet"
+   },
+   "settingsAdvanced": {
+      "description": "Settings page title",
+      "message": "Az Ujjlenyomat-védelem speciális beállításai"
+   },
+   "settingsSocialMediaLoginDetectionPrevention": {
+      "description": "Settings page social media login detection prevention title",
+      "message": "Közösségi oldalakra való bejelentkezés észlelésének megelőzése"
+   }
+}

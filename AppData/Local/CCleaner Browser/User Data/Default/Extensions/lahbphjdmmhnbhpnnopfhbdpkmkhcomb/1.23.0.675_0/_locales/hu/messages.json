@@ -1,0 +1,857 @@
+{
+   "1pApplyChanges": {
+      "message": "Módosítások alkalmazása"
+   },
+   "1pExport": {
+      "message": "Exportálás"
+   },
+   "1pFormatHint": {
+      "message": "Soronként egy szűrő. A szűrő egy egyszerű gazdagépnév vagy Adblock Plus-kompatiblis szűrő is lehet. A &lsquo;!&rsquo; előtaggal rendelkező sorokat figyelmen kívül hagyja a rendszer."
+   },
+   "1pImport": {
+      "message": "Importálás és hozzáfűzés"
+   },
+   "1pPageName": {
+      "message": " Saját szűrők"
+   },
+   "3pApplyChanges": {
+      "message": "Módosítások alkalmazása"
+   },
+   "3pAutoUpdatePrompt1": {
+      "message": "Szűrőlisták automatikus frissítése"
+   },
+   "3pExternalListObsolete": {
+      "message": "Elavult."
+   },
+   "3pExternalListsHint": {
+      "message": "Soronként egy URL-cím. A &lsquo;!&rsquo; előtaggal rendelkező sorokat figyelmen kívül hagyja a rendszer. Az érvénytelen URL-címeket csendben figyelmen kívül hagyja a rendszer."
+   },
+   "3pGroupAds": {
+      "message": "Hirdetések"
+   },
+   "3pGroupAnnoyances": {
+      "message": "Zavaró tényezők"
+   },
+   "3pGroupCustom": {
+      "message": "Egyéni"
+   },
+   "3pGroupDefault": {
+      "message": "Hálózati és részletes szűrők"
+   },
+   "3pGroupMalware": {
+      "message": "Kártevő tartományok"
+   },
+   "3pGroupMultipurpose": {
+      "message": "Többcélú"
+   },
+   "3pGroupPrivacy": {
+      "message": "Adatvédelem"
+   },
+   "3pGroupRegions": {
+      "message": "Régiók, nyelvek"
+   },
+   "3pIgnoreGenericCosmeticFilters": {
+      "message": "Általános vizuális szűrők figyelmen kívül hagyása"
+   },
+   "3pIgnoreGenericCosmeticFiltersInfo": {
+      "message": "\u003Cp>Az általános vizuális szűrők olyan vizuális szűrők, amelyek minden webhelyen érvényesek.\u003Cp>A(z) CCleaner Anti-Tracking hatékonyan kezeli őket, de az általános vizuális szűrők érzékelhetően növelhetik a memória és a processzor terhelését bizonyos weboldalakon, különösen a nagy és hosszú életű oldalakon.\u003Cp>A beállítás engedélyezése megszünteti az általános vizuális szűrők kezelésével járó extra memória- és processzorterhelést, valamint magának a(z) CCleaner Anti-Tracking programnak a memóriafogyasztását is csökkenti.\u003Cp>A kisebb teljesítményű eszközökön ajánlott ennek a beállításnak az engedélyezése."
+   },
+   "3pImport": {
+      "message": "Importálás..."
+   },
+   "3pLastUpdate": {
+      "message": "Legutóbbi frissítése: {{ago}}.\nFrissítés kényszerítéséhez kattintson ide."
+   },
+   "3pListsOfBlockedHostsHeader": {
+      "message": "Blokkolt gazdagépek listái"
+   },
+   "3pListsOfBlockedHostsPerListStats": {
+      "message": "{{used}} felhasználva, összesen: {{total}}"
+   },
+   "3pListsOfBlockedHostsPrompt": {
+      "message": "{{netFilterCount}} hálózati szűrő + {{cosmeticFilterCount}} kozmetikai szűrő innen:"
+   },
+   "3pNetworkError": {
+      "message": "Egy hálózati hiba megakadályozta az erőforrás frissítését."
+   },
+   "3pPageName": {
+      "message": "Külső felek szűrői"
+   },
+   "3pParseAllABPHideFiltersInfo": {
+      "message": "\u003Cp>Ez a beállítás engedélyezi az \u003Ca href=\"https://adblockplus.org/en/faq_internal#elemhide\">Adblock Plus-kompatibilis &ldquo;element hiding&rdquo; szűrők\u003C/a> elemzését és érvényesítését. Ezek a szűrők alapvetően vizuálisak, és arra szolgálnak, hogy elrejtsék a weboldalak zavaró elemeit, amelyeket a hálózati kérelemalapú szűrőmotorral nem blokkolhatók.\u003C/p>\u003Cp>A funkció bekapcsolása növeli a(z) CCleaner Anti-Tracking memóriafogyasztását.\u003C/p>"
+   },
+   "3pParseAllABPHideFiltersPrompt1": {
+      "message": "Vizuális szűrők elemzése és érvényesítése"
+   },
+   "3pPurgeAll": {
+      "message": "Összes gyorsítótár kiürítése"
+   },
+   "3pUpdateNow": {
+      "message": "Frissítés most"
+   },
+   "3pUpdating": {
+      "message": "Frissítés..."
+   },
+   "aboutBackupDataButton": {
+      "message": "Biztonsági mentés fájlba"
+   },
+   "aboutBackupFilename": {
+      "message": "CCleaner Anti-Tracking-backup_{{datetime}}.txt"
+   },
+   "aboutChangelog": {
+      "message": "Módosításnapló"
+   },
+   "aboutCode": {
+      "message": "Forráskód (GPLv3)"
+   },
+   "aboutContributors": {
+      "message": "Közreműködők"
+   },
+   "aboutDependencies": {
+      "message": "Külső függőségek (GPLv3-kompatibilis):"
+   },
+   "aboutIssues": {
+      "message": "Hibakövető"
+   },
+   "aboutPageName": {
+      "message": "Névjegy"
+   },
+   "aboutResetDataButton": {
+      "message": "Alapértelmezett beállítások visszaállítása..."
+   },
+   "aboutResetDataConfirm": {
+      "message": "Az összes beállítása el lesz távolítva, és a(z) CCleaner Anti-Tracking újraindul.\n\nVisszaállítja a(z) CCleaner Anti-Tracking programot a gyári beállításokra?"
+   },
+   "aboutRestoreDataButton": {
+      "message": "Visszaállítás fájlból..."
+   },
+   "aboutRestoreDataConfirm": {
+      "message": "Minden beállítása felül lesz írva a(z) {{time}} időpontban mentett adatokkal, és a(z) CCleaner Anti-Tracking újraindul. \n\nFelülírja az összes meglévő beállítást a korábban mentett adatokkal?"
+   },
+   "aboutRestoreDataError": {
+      "message": "Az adatok nem olvashatók vagy érvénytelenek"
+   },
+   "aboutSupport": {
+      "message": "Támogatás"
+   },
+   "aboutWiki": {
+      "message": "Wiki"
+   },
+   "advancedSettingsPageName": {
+      "message": "Speciális beállítások"
+   },
+   "advancedSettingsWarning": {
+      "message": "Figyelmeztetés! Ezeket a speciális beállításokat csak saját felelősségére módosítsa."
+   },
+   "assetViewerPageName": {
+      "message": "uBlock? ? objektummegtekintő"
+   },
+   "cloudDeviceNamePrompt": {
+      "message": "Ennek az eszköznek a neve:"
+   },
+   "cloudPull": {
+      "message": "Importálás felhőtárolóból"
+   },
+   "cloudPullAndMerge": {
+      "message": "Importálás felhőtárolóból és egyesítés a jelenlegi beállításokkal"
+   },
+   "cloudPush": {
+      "message": "Exportálás felhőtárolóba"
+   },
+   "contextMenuTemporarilyAllowLargeMediaElements": {
+      "message": "Nagy médiaelemek átmeneti engedélyezése"
+   },
+   "dashboardName": {
+      "message": "CCleaner Anti-Tracking – Irányítópult"
+   },
+   "docblockedBack": {
+      "message": "Vissza"
+   },
+   "docblockedClose": {
+      "message": "Ablak bezárása"
+   },
+   "docblockedDisablePermanent": {
+      "message": "Végleg"
+   },
+   "docblockedDisableTemporary": {
+      "message": "Átmenetileg"
+   },
+   "docblockedFoundIn": {
+      "message": "Észlelés helye:"
+   },
+   "docblockedNoParamsPrompt": {
+      "message": "paraméterek nélkül"
+   },
+   "docblockedProceed": {
+      "message": "Szigorú blokkolás letiltása a következőn: {{hostname}}"
+   },
+   "docblockedPrompt1": {
+      "message": "A(z) CCleaner Anti-Tracking megakadályozta a következő oldal betöltését:"
+   },
+   "docblockedPrompt2": {
+      "message": "A következő szűrő miatt"
+   },
+   "dummy": {
+      "message": "Ennek a bejegyzésnek az utolsónak kell lennie"
+   },
+   "elapsedManyDaysAgo": {
+      "message": "{{value}} napja"
+   },
+   "elapsedManyHoursAgo": {
+      "message": "{{value}} órája"
+   },
+   "elapsedManyMinutesAgo": {
+      "message": "{{value}} perce"
+   },
+   "elapsedOneDayAgo": {
+      "message": "egy napja"
+   },
+   "elapsedOneHourAgo": {
+      "message": "egy órája"
+   },
+   "elapsedOneMinuteAgo": {
+      "message": "egy perce"
+   },
+   "errorCantConnectTo": {
+      "message": "Hálózati hiba: {{msg}}"
+   },
+   "extShortDesc": {
+      "message": "Letiltja a tolakodó webes nyomkövetőket."
+   },
+   "extra1pPageNameDesc": {
+      "message": "Egyéni szűrők kezelése"
+   },
+   "extra3pPageNameDesc": {
+      "message": "Külső felek adatvédelmi és nyomkövetőszűrői"
+   },
+   "extraAddFilter": {
+      "message": "Szűrő hozzáadása"
+   },
+   "extraAddRrule": {
+      "message": "Ideiglenes szabály hozzáadása"
+   },
+   "extraAddSetting": {
+      "message": "Beállítás hozzáadása"
+   },
+   "extraAddSite": {
+      "message": "Oldal hozzáadása"
+   },
+   "extraAdsFilters": {
+      "message": "Szűrők hozzáadása"
+   },
+   "extraAdvancedUserSettings": {
+      "message": "Speciális felhasználói beállítások"
+   },
+   "extraAllowOnSites": {
+      "message": "Nyomkövetők engedélyezése ezen az oldalon"
+   },
+   "extraBlockMediaElementsLargerThan": {
+      "message": "A következőnél nagyobb médiaelemek blokkolása"
+   },
+   "extraBtnAdd": {
+      "message": "hozzáadás"
+   },
+   "extraBtnCancel": {
+      "message": "mégse"
+   },
+   "extraBtnEdit": {
+      "message": "Szerkesztés"
+   },
+   "extraBtnExport": {
+      "message": "exportálás"
+   },
+   "extraBtnImport": {
+      "message": "importálás"
+   },
+   "extraBtnRemove": {
+      "message": "Eltávolítás"
+   },
+   "extraBtnUpdateAll": {
+      "message": "összes frissítése"
+   },
+   "extraDefaultBehaviour": {
+      "message": "Alapértelmezett viselkedés"
+   },
+   "extraEditFilter": {
+      "message": "Szűrő szerkesztése"
+   },
+   "extraEditRule": {
+      "message": "Ideiglenes szabály szerkesztése"
+   },
+   "extraEditSetting": {
+      "message": "Beállítások szerkesztése"
+   },
+   "extraEditSite": {
+      "message": "Oldal szerkesztése"
+   },
+   "extraGeneralSettings": {
+      "message": "Általános beállítások"
+   },
+   "extraGeneralSettingsDesc": {
+      "message": "A(z) CCleaner Anti-Tracking által megjelenített adatok kezelése"
+   },
+   "extraIndexDescription": {
+      "message": "Nyomkövetők blokkolása a gyorsabb és biztonságosabb böngészési élményért"
+   },
+   "extraIndexFooter": {
+      "message": "Technológia: uBlock Origin."
+   },
+   "extraIndexHeader": {
+      "message": "CCleaner Anti-Tracking speciális beállításai"
+   },
+   "extraInterstitialBlocking": {
+      "message": "Közbeszúrt blokkolás engedélyezése"
+   },
+   "extraLabelFilter": {
+      "message": "Szűrő"
+   },
+   "extraLearnMore": {
+      "message": "További információ"
+   },
+   "extraManageFilters": {
+      "message": "Szűrők kezelése"
+   },
+   "extraMyCustomFilter": {
+      "message": "Saját egyéni szűrők"
+   },
+   "extraPrivacy": {
+      "message": "Adatvédelem"
+   },
+   "extraRule": {
+      "message": "Szabály"
+   },
+   "extraRuleDefinition": {
+      "message": "Szabály definíciója"
+   },
+   "extraRuleSyntax": {
+      "message": "Szabály szintaxisa"
+   },
+   "extraRulesPageNameDesc": {
+      "message": "Saját dinamikus szűrési szabályok listája"
+   },
+   "extraSetting": {
+      "message": "Beállítás"
+   },
+   "extraShowMore": {
+      "message": "További részletek"
+   },
+   "extraSite": {
+      "message": "Oldal"
+   },
+   "extraSlider0": {
+      "message": "Hirdetések megjelenítése"
+   },
+   "extraSlider100": {
+      "message": "Maximális hirdetésblokkolás"
+   },
+   "extraSlider50": {
+      "message": "Mérsékelt hirdetésblokkolás"
+   },
+   "extraSourceDestinationTypeAction": {
+      "message": "forrás cél típus művelet."
+   },
+   "extraWhitelistPageNameDesc": {
+      "message": "Nyomkövetők használatára jogosult oldalak listája"
+   },
+   "fennecMenuItemBlockingOff": {
+      "message": "ki"
+   },
+   "genericApplyChanges": {
+      "message": "Módosítások alkalmazása"
+   },
+   "genericBytes": {
+      "message": "bájt"
+   },
+   "genericCopyToClipboard": {
+      "message": "Másolás a vágólapra"
+   },
+   "genericMergeViewScrollLock": {
+      "message": "Rögzített görgetés be- és kikapcsolása"
+   },
+   "genericRevert": {
+      "message": "Visszaállítás"
+   },
+   "genericSubmit": {
+      "message": "Küldés"
+   },
+   "logAll": {
+      "message": "Mind"
+   },
+   "logBehindTheScene": {
+      "message": "A színfalak mögött"
+   },
+   "logFilterPrompt": {
+      "message": "naplóbejegyzések szűrése"
+   },
+   "logMaxEntriesTip": {
+      "message": "Naplóbejegyzések maximális száma"
+   },
+   "logRequestsHeaderDomain": {
+      "message": "Tartomány"
+   },
+   "logRequestsHeaderFilter": {
+      "message": "Szűrő"
+   },
+   "logRequestsHeaderType": {
+      "message": "Típus"
+   },
+   "logRequestsHeaderURL": {
+      "message": "URL-cím"
+   },
+   "loggerClearTip": {
+      "message": "Naplózó törlése"
+   },
+   "loggerCurrentTab": {
+      "message": "Jelenlegi lap"
+   },
+   "loggerDomInspectorTip": {
+      "message": "DOM-vizsgáló ki- és bekapcsolása"
+   },
+   "loggerEntryDetailsContext": {
+      "message": "Környezet"
+   },
+   "loggerEntryDetailsFilter": {
+      "message": "Szűrő"
+   },
+   "loggerEntryDetailsFilterList": {
+      "message": "Szűrőlista"
+   },
+   "loggerEntryDetailsHeader": {
+      "message": "Részletek"
+   },
+   "loggerEntryDetailsPartyness": {
+      "message": "Adatok származása"
+   },
+   "loggerEntryDetailsRootContext": {
+      "message": "Gyökérkörnyezet"
+   },
+   "loggerEntryDetailsRule": {
+      "message": "Szabály"
+   },
+   "loggerEntryDetailsType": {
+      "message": "Típus"
+   },
+   "loggerEntryDetailsURL": {
+      "message": "URL-cím"
+   },
+   "loggerExportEncodeMarkdown": {
+      "message": "Markdown"
+   },
+   "loggerExportEncodePlain": {
+      "message": "Egyszerű"
+   },
+   "loggerExportFormatList": {
+      "message": "Lista"
+   },
+   "loggerExportFormatTable": {
+      "message": "Tábla"
+   },
+   "loggerInfoTip": {
+      "message": "uBlock Origin wiki: a naplózó"
+   },
+   "loggerPauseTip": {
+      "message": "Naplózó szüneteltetése (összes bejövő adat elvetése)"
+   },
+   "loggerPopupPanelTip": {
+      "message": "Előugró panel be- és kikapcsolása"
+   },
+   "loggerReloadTip": {
+      "message": "Lap tartalmának újratöltése"
+   },
+   "loggerRowFiltererBuiltin1p": {
+      "message": "saját gyűjtésű"
+   },
+   "loggerRowFiltererBuiltin3p": {
+      "message": "külső féltől származó"
+   },
+   "loggerRowFiltererBuiltinAllowed": {
+      "message": "engedélyezve"
+   },
+   "loggerRowFiltererBuiltinBlocked": {
+      "message": "blokkolva"
+   },
+   "loggerRowFiltererBuiltinNot": {
+      "message": "Nem"
+   },
+   "loggerRowFiltererBuiltinTip": {
+      "message": "Naplózó szűrési beállításai"
+   },
+   "loggerRowFiltererButtonTip": {
+      "message": "Naplózó szűrésének be- és kikapcsolása"
+   },
+   "loggerSettingDiscardPrompt": {
+      "message": "Azok a naplózóbejegyzések, amelyek nem felelnek meg mindhárom alábbi követelménynek, automatikusan el lesznek vetve:"
+   },
+   "loggerSettingHideColumnContext": {
+      "message": "{{input}} környezet"
+   },
+   "loggerSettingHideColumnFilter": {
+      "message": "{{input}} szűrő/szabály"
+   },
+   "loggerSettingHideColumnPartyness": {
+      "message": "{{input}} adatok származása"
+   },
+   "loggerSettingHideColumnTime": {
+      "message": "{{input}} idő"
+   },
+   "loggerSettingHideColumnsPrompt": {
+      "message": "Oszlopok elrejtése:"
+   },
+   "loggerSettingPerEntryLineCount": {
+      "message": "{{input}} sor használata bejegyzésenként a függőlegesen kiterjesztett módban"
+   },
+   "loggerSettingPerEntryMaxAge": {
+      "message": "Bejegyzések megőrzése az elmúlt {{input}} percből"
+   },
+   "loggerSettingPerTabMaxEntries": {
+      "message": "Laponként legfeljebb {{input}} bejegyzés megtartása"
+   },
+   "loggerSettingPerTabMaxLoads": {
+      "message": "Laponként legfeljebb {{input}} oldalbetöltés megtartása"
+   },
+   "loggerStaticFilteringFinderSentence1": {
+      "message": "\u003Ccode>{{filter}}\u003C/code> statikus kód található itt:"
+   },
+   "loggerStaticFilteringFinderSentence2": {
+      "message": "A(z) \u003Ccode>{{filter}}\u003C/code> statikus szűrő egy jelenleg engedélyezett szűrőlistában sem található"
+   },
+   "loggerStaticFilteringHeader": {
+      "message": "Statikus szűrés"
+   },
+   "loggerStaticFilteringSentence": {
+      "message": "{{action}} művelet végrehajtása a(z) {{type}} típusú hálózati kéréseken,{{br}}amelyek URL-címe egyezik a következővel: {{url}} {{br}}és amely innen származik: {{origin}},{{br}}{{importance}} ha van egyező kivételszűrő."
+   },
+   "loggerStaticFilteringSentencePartAllow": {
+      "message": "Engedélyezés"
+   },
+   "loggerStaticFilteringSentencePartAnyOrigin": {
+      "message": "bárhonnan"
+   },
+   "loggerStaticFilteringSentencePartAnyType": {
+      "message": "bármilyen típus"
+   },
+   "loggerStaticFilteringSentencePartBlock": {
+      "message": "Blokkolás"
+   },
+   "loggerStaticFilteringSentencePartImportant": {
+      "message": "akkor is, ha"
+   },
+   "loggerStaticFilteringSentencePartNotImportant": {
+      "message": "kivéve, ha"
+   },
+   "loggerStaticFilteringSentencePartOrigin": {
+      "message": "innen: ?{{origin}}?"
+   },
+   "loggerStaticFilteringSentencePartType": {
+      "message": "type ?{{type}}?"
+   },
+   "loggerURLFilteringContextLabel": {
+      "message": "Környezet:"
+   },
+   "loggerURLFilteringHeader": {
+      "message": "Dinamikus URL-szűrés"
+   },
+   "loggerURLFilteringTypeLabel": {
+      "message": "Típus:"
+   },
+   "loggerUnpauseTip": {
+      "message": "Naplózó szüneteltetésének befejezése"
+   },
+   "pickerContextMenuEntry": {
+      "message": "Elem blokkolása"
+   },
+   "pickerCosmeticFilters": {
+      "message": "Vizuális szűrők"
+   },
+   "pickerCosmeticFiltersHint": {
+      "message": "Kattintás, Ctrl-kattintás"
+   },
+   "pickerCreate": {
+      "message": "Létrehozás"
+   },
+   "pickerNetFilters": {
+      "message": "Hálózati szűrők"
+   },
+   "pickerPick": {
+      "message": "Kiválasztás"
+   },
+   "pickerPreview": {
+      "message": "Előnézet"
+   },
+   "pickerQuit": {
+      "message": "Kilépés"
+   },
+   "popup1pScriptRulePrompt": {
+      "message": "Saját gyűjtésű adatok"
+   },
+   "popup3pAnyRulePrompt": {
+      "message": "külső féltől származó"
+   },
+   "popup3pFrameRulePrompt": {
+      "message": "Külső felektől származó keretek"
+   },
+   "popup3pPassiveRulePrompt": {
+      "message": "külső féltől származó css/képek"
+   },
+   "popup3pScriptRulePrompt": {
+      "message": "Külső féltől származó adatok"
+   },
+   "popupAdvancedSettings": {
+      "message": "Speciális beállítások"
+   },
+   "popupAnyRulePrompt": {
+      "message": "mind"
+   },
+   "popupExtraAdsAllowedOnSites": {
+      "message": "A nyomkövetők engedélyezve vannak ezen az oldalon"
+   },
+   "popupExtraAdsBlockedOnPage": {
+      "message": "Blokkolt nyomkövetők ezen az oldalon"
+   },
+   "popupExtraAdsBlockedOnSites": {
+      "message": "A nyomkövetők blokkolva vannak ezen az oldalon"
+   },
+   "popupExtraAdsBlockedTotal": {
+      "message": "Összes blokkolt nyomkövető"
+   },
+   "popupExtraLessOptions": {
+      "message": "Kevesebb beállítás"
+   },
+   "popupExtraListAllowedSites": {
+      "message": "Engedélyezett oldalak listája"
+   },
+   "popupExtraMoreInformation": {
+      "message": "További információ"
+   },
+   "popupExtraMoreOptions": {
+      "message": "További beállítások"
+   },
+   "popupExtraNoSitesAddedYet": {
+      "message": "Még nincsenek hozzáadott webhelyek"
+   },
+   "popupExtraProtectionCanNotEnabled": {
+      "message": "A védelem ezen az oldalon nem engedélyezhető"
+   },
+   "popupExtraProtectionDisabledForSession": {
+      "message": "Ennek a munkamenetnek a védelme nem engedélyezhető"
+   },
+   "popupExtraSeeListAllowedSites": {
+      "message": "Az engedélyezett webhelyek listájának megtekintése"
+   },
+   "popupHitDomainCount": {
+      "message": "{{count}}, összesen: {{total}}"
+   },
+   "popupHitDomainCountPrompt": {
+      "message": "csatlakoztatott tartományok"
+   },
+   "popupImageRulePrompt": {
+      "message": "képek"
+   },
+   "popupInlineScriptRulePrompt": {
+      "message": "beágyazott szkriptek"
+   },
+   "popupTipDashboard": {
+      "message": "Irányítópult megnyitása"
+   },
+   "popupTipGlobalRules": {
+      "message": "Globális szabályok: ez az oszlop az összes webhelyre vonatkozó szabályokat tartalmazza."
+   },
+   "popupTipLocalRules": {
+      "message": "Helyi szabályok: ez az oszlop a csak az aktuális webhelyre vonatkozó szabályokat tartalmazza.\nA helyi szabályok felülírják a globális szabályokat."
+   },
+   "popupTipLog": {
+      "message": "Naplózó megnyitása"
+   },
+   "popupTipNoCosmeticFiltering": {
+      "message": "Webhely kozmetikai szűrésének be- és kikapcsolása"
+   },
+   "popupTipNoCosmeticFiltering1": {
+      "message": "Kattintson ide a webhely kozmetikai szűrésének letiltásához"
+   },
+   "popupTipNoCosmeticFiltering2": {
+      "message": "Kattintson ide a webhely kozmetikai szűrésének engedélyezéséhez"
+   },
+   "popupTipNoLargeMedia": {
+      "message": "A webhelyen megjelenő nagy médiatartalmak blokkolásának be- és kikapcsolása"
+   },
+   "popupTipNoLargeMedia1": {
+      "message": "Kattintson ide a webhelyen megjelenő nagy médiatartalmak blokkolásához"
+   },
+   "popupTipNoLargeMedia2": {
+      "message": "Kattintson ide, ha már nem kívánja blokkolni a webhelyen megjelenő nagy médiatartalmakat"
+   },
+   "popupTipNoPopups": {
+      "message": "A webhelyen előugró összes ablak blokkolásának be- vagy kikapcsolása"
+   },
+   "popupTipNoPopups1": {
+      "message": "Kattintson ide a webhelyen megjelenő összes előugró ablak blokkolásához"
+   },
+   "popupTipNoPopups2": {
+      "message": "Kattintson ide, ha már nem kívánja blokkolni a webhelyen megjelenő összes előugró ablakot"
+   },
+   "popupTipNoRemoteFonts": {
+      "message": "A webhelyen használt távoli betűtípusok blokkolásának be- és kikapcsolása"
+   },
+   "popupTipNoRemoteFonts1": {
+      "message": "Kattintson ide a webhelyen megjelenő távoli betűtípusok blokkolásához"
+   },
+   "popupTipNoRemoteFonts2": {
+      "message": "Kattintson ide, ha már nem kívánja blokkolni a webhelyen megjelenő összes távoli betűtípust"
+   },
+   "popupTipNoScripting1": {
+      "message": "Ide kattintva letilthatja a webhelyen a JavaScriptet"
+   },
+   "popupTipNoScripting2": {
+      "message": "Ide kattintva leállíthatja a JavaScript letiltását"
+   },
+   "popupTipPicker": {
+      "message": "Elemválasztó mód megnyitása"
+   },
+   "popupTipRevertRules": {
+      "message": "Kattintson ide a módosítások visszaállításához."
+   },
+   "popupTipSaveRules": {
+      "message": "Kattintson ide a módosítások véglegesítéséhez."
+   },
+   "popupTipZapper": {
+      "message": "Azonnali automatikus elemtörlési mód megnyitása"
+   },
+   "rulesCommit": {
+      "message": "Véglegesítés"
+   },
+   "rulesEdit": {
+      "message": "Szerkesztés"
+   },
+   "rulesEditDiscard": {
+      "message": "Elvetés"
+   },
+   "rulesEditSave": {
+      "message": "Mentés"
+   },
+   "rulesExport": {
+      "message": "Exportálás fájlba"
+   },
+   "rulesFormatHint": {
+      "message": "Szabály szintaxisa: \u003Ccode>source destination type action\u003C/code> (\u003Ca href='https://github.com/gorhill/uBlock/wiki/Dynamic-filtering:-rule-syntax'>teljes dokumentáció\u003C/a>)."
+   },
+   "rulesHint": {
+      "message": "Saját dinamikus szűrési szabályok listája."
+   },
+   "rulesImport": {
+      "message": "Importálás fájlból..."
+   },
+   "rulesPageName": {
+      "message": "Saját szabályok"
+   },
+   "rulesPermanentHeader": {
+      "message": "Állandó szabályok"
+   },
+   "rulesRevert": {
+      "message": "Visszaállítás"
+   },
+   "rulesTemporaryHeader": {
+      "message": "Ideiglenes szabályok"
+   },
+   "settingPerSiteSwitchGroup": {
+      "message": "Alapértelmezett viselkedés"
+   },
+   "settingPerSiteSwitchGroupSynopsis": {
+      "message": "Ezek az alapértelmezett viselkedések webhelyenként felülírhatók"
+   },
+   "settingsAdvancedUserPrompt": {
+      "message": "Tapasztalt felhasználó vagyok (\u003Ca href='https://github.com/gorhill/uBlock/wiki/Advanced-user-features'>kötelező olvasmány\u003C/a>)"
+   },
+   "settingsAdvancedUserSettings": {
+      "message": "speciális beállítások"
+   },
+   "settingsCloudStorageEnabledPrompt": {
+      "message": "Felhőtároló támogatásának engedélyezése"
+   },
+   "settingsCollapseBlockedPrompt": {
+      "message": "Blokkolt elemek helyőrzőinek elrejtése"
+   },
+   "settingsColorBlindPrompt": {
+      "message": "Színvak felhasználók számára használható"
+   },
+   "settingsContextMenuPrompt": {
+      "message": "Helyi menük használata, ahol lehetséges"
+   },
+   "settingsHyperlinkAuditingDisabledPrompt": {
+      "message": "Hivatkozásnaplózás letiltása"
+   },
+   "settingsIconBadgePrompt": {
+      "message": "Blokkolt kérések számának megjelenítése az ikonon"
+   },
+   "settingsLastBackupPrompt": {
+      "message": "Legutóbbi biztonsági mentés:"
+   },
+   "settingsLastRestorePrompt": {
+      "message": "Legutóbbi visszaállítás:"
+   },
+   "settingsNoCSPReportsPrompt": {
+      "message": "CSP-jelentések letiltása"
+   },
+   "settingsNoCosmeticFilteringPrompt": {
+      "message": "Vizuális szűrés letiltása"
+   },
+   "settingsNoLargeMediaPrompt": {
+      "message": "{{input:number}} Kb-nál nagyobb médiaelemek blokkolása"
+   },
+   "settingsNoRemoteFontsPrompt": {
+      "message": "Távoli betűtípusok blokkolása"
+   },
+   "settingsNoScriptingPrompt": {
+      "message": "JavaScript letiltása"
+   },
+   "settingsPageName": {
+      "message": "Beállítások"
+   },
+   "settingsPrefetchingDisabledPrompt": {
+      "message": "Előzetes lekérés engedélyezése (a blokkolt hálózati kérelmek kapcsolatainak megakadályozásához)"
+   },
+   "settingsStorageUsed": {
+      "message": "Felhasznált tárhely: {{value}} bájt"
+   },
+   "settingsTooltipsPrompt": {
+      "message": "Eszköztippek letiltása"
+   },
+   "settingsWebRTCIPAddressHiddenPrompt": {
+      "message": "A helyi IP-címek WebRTC általi kiszivárogtatásának megelőzése"
+   },
+   "shortcutCapturePlaceholder": {
+      "message": "Írjon be egy parancsikont"
+   },
+   "shortcutsPageName": {
+      "message": "Parancsikonok"
+   },
+   "showDashboardButton": {
+      "message": "Irányítópult megjelenítése"
+   },
+   "showNetworkLogButton": {
+      "message": "Naplózó megjelenítése"
+   },
+   "statsPageName": {
+      "message": "CCleaner Anti-Tracking – Naplózó"
+   },
+   "subscriberConfirm": {
+      "message": "CCleaner Anti-Tracking: Hozzáadja a következő URL-címet az egyéni szűrőlistáihoz?\n\nCím: \"{{title}}\"\nURL-cím: {{url}}"
+   },
+   "whitelistApply": {
+      "message": "Módosítások alkalmazása"
+   },
+   "whitelistExport": {
+      "message": "Exportálás"
+   },
+   "whitelistExportFilename": {
+      "message": "CCleaner Anti-Tracking-whitelist_{{datetime}}.txt"
+   },
+   "whitelistImport": {
+      "message": "Importálás és hozzáfűzés"
+   },
+   "whitelistPageName": {
+      "message": "Engedélyezési lista"
+   },
+   "whitelistPrompt": {
+      "message": "Az engedélyezési listák utasításai meghatározzák, hogy melyik weboldalakon kell letiltani a(z) CCleaner Anti-Tracking terméket. Soronként egy bejegyzés. A rendszer csendesen figyelmen kívül hagyja és megjegyzéssé alakítja az érvénytelen utasításokat."
+   }
+}

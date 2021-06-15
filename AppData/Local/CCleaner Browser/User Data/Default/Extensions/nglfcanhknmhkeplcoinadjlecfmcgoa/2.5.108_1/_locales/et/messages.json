@@ -1,0 +1,239 @@
+{
+   "adBlock": {
+      "message": "Adblock"
+   },
+   "adBlockSettings": {
+      "message": "Adblock - seaded"
+   },
+   "adblockIsOff": {
+      "message": "Adblock on välja lülitatud"
+   },
+   "adblockIsPaused": {
+      "message": "Adblock on seatud pausile kõigil lehtedel"
+   },
+   "adblockIsPausedOnSite": {
+      "message": "Adblock on seatud pausile sellel lehel"
+   },
+   "addSite": {
+      "message": "Lisa leht"
+   },
+   "addWebsiteToAllowAds": {
+      "message": "Lisa \"veebileht\", et lubada reklaamid"
+   },
+   "adsAreAllowed": {
+      "message": "Reklaamid on sellel lehel lubatud"
+   },
+   "adsBlocked": {
+      "message": "Reklaamid blokeeritud: "
+   },
+   "allowAdsOnSite": {
+      "message": "Luba reklaamid sellel lehel"
+   },
+   "alwaysAllowAdsOnSites": {
+      "message": "Luba alati reklaamid sellel lehel"
+   },
+   "balancedBlocking": {
+      "message": "Tasakaalusatud blokeerimine"
+   },
+   "balancedBlockingName": {
+      "message": "Tasakaalustatud"
+   },
+   "blockAdsOnThisSite": {
+      "message": "Blokeeri reklaamid sellel lehel"
+   },
+   "blockingOptions": {
+      "message": "Blokeerimise võimalused"
+   },
+   "btnAdd": {
+      "message": "Lisa"
+   },
+   "cancel": {
+      "message": "Tühista"
+   },
+   "cancelAddSiteOperation": {
+      "message": "Tühista lehe lisamine"
+   },
+   "cancelEditSiteOperation": {
+      "message": "Tühista lehe muutmine"
+   },
+   "cancelSetStrict": {
+      "message": "Tühista seadistatud range režiim"
+   },
+   "edit": {
+      "message": "Muuda"
+   },
+   "editFromWhitelist": {
+      "message": "Muuda lehte valgest listist"
+   },
+   "editSiteFromWhitelist": {
+      "message": "Muuda lehte valgest listist"
+   },
+   "essentialBlocking": {
+      "message": "Hädavajalik blokeerimine"
+   },
+   "essentialBlockingName": {
+      "message": "Hädavajalik"
+   },
+   "extShortDesc": {
+      "message": "Lõpuks tõhus blokeerija. Ei koorma protsessorit ega mälu."
+   },
+   "generalSettings": {
+      "message": "Üldised seadistused"
+   },
+   "hideAmountAds": {
+      "message": "Peida blokeeritud reklaamide arv"
+   },
+   "indexDescription": {
+      "message": "Blokeeri reklaamid, et tagada kiirem ja turvalisem sirvimine"
+   },
+   "keep_balanced": {
+      "message": "Jäta tasakaalustatud"
+   },
+   "keep_essential": {
+      "message": "Jäta tavaline"
+   },
+   "learnMore": {
+      "message": "Rohkem teavet"
+   },
+   "learnMoreAAS": {
+      "message": "Loe rohkem aktsepteeritavate reklaamide standarditest"
+   },
+   "learnMoreAboutAdBLock": {
+      "message": "Loe lisateavet Adblocki kohta"
+   },
+   "learnMoreUblock": {
+      "message": "Loe lisateavet uBlocki kohta"
+   },
+   "modifyWhitelistedSite": {
+      "message": "Muuda valge listi leht"
+   },
+   "noAdsToBlock": {
+      "message": "Sellel lehel ei ole reklaame, mida blokeerida"
+   },
+   "openSettings": {
+      "message": "Ava seaded"
+   },
+   "pauseAdBlock": {
+      "message": "Pane Adblock pausile"
+   },
+   "pauseAdBlockOnAllSites": {
+      "message": "Pane Adblock pausile kõikidel lehtedel"
+   },
+   "pauseAdsOnAllSites": {
+      "message": "Pane reklaamid kõikidel lehtedel pausile"
+   },
+   "pauseAdsOnSite": {
+      "message": "Pane reklaamid sellel lehel pausile"
+   },
+   "pauseOnAllSites": {
+      "message": "Pane pausile kõikidel lehtedel"
+   },
+   "pauseOnThisSite": {
+      "message": "Pane pausile sellel lehel"
+   },
+   "poweredByUblock": {
+      "message": " \u003Cu>\u003Ca style='color: inherit;' target='_blank' href='__SET_HREF__'>uBlock\u003C/a>\u003C/u> toel"
+   },
+   "remove": {
+      "message": "Eemalda"
+   },
+   "removeFromWhitelist": {
+      "message": "Eemalda leht valgest listist"
+   },
+   "save": {
+      "message": "Salvesta"
+   },
+   "saveSiteIntoWhitelist": {
+      "message": "Salvesta leht valgesse listi"
+   },
+   "setBalancedMode": {
+      "message": "Lülita sisse tasakaalustatud režiim"
+   },
+   "setEssentialMode": {
+      "message": "Lülita sisse põhirežiim"
+   },
+   "setStrict": {
+      "message": "Määra rangeks"
+   },
+   "setStrictDescription_avast": {
+      "message": "Väga vähesed mitteinvasiivsed reklaamid aitavad meil rahastada Avast Secure Browserit. Need ei katkesta sinu sirvimist ja aitavad sinu brauserit vabana hoida. Näita oma soosingut ja luba need reklaamid."
+   },
+   "setStrictDescription_avg": {
+      "message": "Väga vähesed mitteinvasiivsed reklaamid aitavad meil rahastada AVG Secure Browserit. Need ei katkesta sinu sirvimist ja aitavad sinu brauserit vabana hoida. Näita oma soosingut ja luba need reklaamid."
+   },
+   "setStrictDescription_ccleaner": {
+      "message": "Väga vähesed mitteinvasiivsed reklaamid aitavad meil rahastada CCleaner Browserit. Need ei katkesta sinu sirvimist ja aitavad sinu brauserit vabana hoida. Näita oma soosingut ja luba need reklaamid."
+   },
+   "setStrictMode": {
+      "message": "Lülita sisse range režiim"
+   },
+   "setStrictTitle": {
+      "message": "Määra Adblock rangeks"
+   },
+   "settingsCardAcceptableAds": {
+      "message": "Blokeeri häirivad reklaamid, mis rikuvad \u003Cu>\u003Ca style='color: inherit;' target='_blank' href='__SET_HREF__'>Vastuvõetavad reklaamistandardid\u003C/a>\u003C/u> sätteid."
+   },
+   "settingsCardAcceptableAdsBlocks": {
+      "message": "\u003Cb>Soovitatav\u003C/b> - blokeeri enamik reklaame, et tagada kiirem ja puhtam sirvimiskogemus."
+   },
+   "settingsCardAcceptableAdsBlocksNearly": {
+      "message": "Blokeeri peaaegu kõik reklaamid, et tagada kiirem ja puhtam sirvimiskogemus. \u003Cb>See võib pärssida mõne lehe toimimist.\u003C/b>"
+   },
+   "settingsCardDisruptive": {
+      "message": "Muud häirivad reklaamid"
+   },
+   "settingsCardOtherAds": {
+      "message": "99% teistest reklaamidest"
+   },
+   "settingsCardPopups": {
+      "message": "Hüpikreklaamid ja bännerid"
+   },
+   "settingsCardSocialMedia": {
+      "message": "Mõned sotsiaalmeedia reklaamid"
+   },
+   "settingsShowNumberBadge": {
+      "message": "Kuva ikoonil blokeeritud reklaamide arv"
+   },
+   "showAmountAds": {
+      "message": "Näita blokeeritud reklaamide arvu"
+   },
+   "site": {
+      "message": "Leht"
+   },
+   "sitesYouHaveAllowed": {
+      "message": "Siia kuvatakse lehed, millel sa oled reklaamid lubanud"
+   },
+   "stayOn_balanced": {
+      "message": "Püsi tasakaalustatud režiimil"
+   },
+   "stayOn_essential": {
+      "message": "Püsi põhirežiimil"
+   },
+   "strictBlocking": {
+      "message": "Range blokeering"
+   },
+   "strictBlockingName": {
+      "message": "Range"
+   },
+   "turnAdblockOn": {
+      "message": "Lülita sisse"
+   },
+   "turnOff": {
+      "message": "Lülita Adblock välja"
+   },
+   "turnOn": {
+      "message": "Lülita Adblock sisse"
+   },
+   "unpauseAdBlockAllSites": {
+      "message": "Tühista Adblocki paus kõikidel lehtedel"
+   },
+   "unpauseAdblockOnAllSites": {
+      "message": "Tühista paus"
+   },
+   "whitelistModalDescription": {
+      "message": "Millistele lehtedele sa soovid reklaamid lubada?"
+   },
+   "youHaveAllowAdsOnThisSite": {
+      "message": "Sa oled lubanud reklaamid sellel lehel "
+   }
+}

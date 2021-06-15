@@ -1,0 +1,28 @@
+{
+   "appDescription": {
+      "message": "Masque votre empreinte de navigateur et limite le suivi en ligne"
+   },
+   "appName": {
+      "message": "Anti-empreinte"
+   },
+   "popupStatusDisabled": {
+      "description": "Popup label shown when afp is disabled for current website",
+      "message": "La fonction Anti-empreinte est désactivée sur ce site"
+   },
+   "popupStatusEnabled": {
+      "description": "Popup label shown when afp is enabled for current website",
+      "message": "La fonction Anti-empreinte est activée sur ce site"
+   },
+   "popupTotalFingerprintsAttemptsDetected": {
+      "description": "Popup total fingerprints attempts detected label",
+      "message": "Nombre total de tentatives d'empreinte détectées"
+   },
+   "settingsAdvanced": {
+      "description": "Settings page title",
+      "message": "Paramètres avancés de la fonction Anti-empreinte"
+   },
+   "settingsSocialMediaLoginDetectionPrevention": {
+      "description": "Settings page social media login detection prevention title",
+      "message": "Anti-détection d'une connexion via réseau social"
+   }
+}

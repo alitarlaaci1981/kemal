@@ -1,0 +1,863 @@
+{
+   "1pApplyChanges": {
+      "message": "Aplicare modificări"
+   },
+   "1pExport": {
+      "message": "Export"
+   },
+   "1pFormatHint": {
+      "message": "Un filtru per linie. Un filtru poate fi un simplu nume de gazdă sau un filtru compatibil cu Adblock Plus. Liniile precedate de &lsquo;!&rsquo; vor fi ignorate."
+   },
+   "1pImport": {
+      "message": "Import și adăugare"
+   },
+   "1pPageName": {
+      "message": " Filtrele mele"
+   },
+   "3pApplyChanges": {
+      "message": "Aplicare modificări"
+   },
+   "3pAutoUpdatePrompt1": {
+      "message": "Liste de filtre cu actualizare automată"
+   },
+   "3pExternalListObsolete": {
+      "message": "Învechit."
+   },
+   "3pExternalListsHint": {
+      "message": "O adresă URL per linie. Liniile precedate de &lsquo;!&rsquo; vor fi ignorate. Adresele URL nevalide vor fi ignorate în mod silențios."
+   },
+   "3pGroupAds": {
+      "message": "Reclame"
+   },
+   "3pGroupAnnoyances": {
+      "message": "Inconveniente"
+   },
+   "3pGroupCustom": {
+      "message": "Particularizat"
+   },
+   "3pGroupDefault": {
+      "message": "Rețea și filtre cosmetice"
+   },
+   "3pGroupMalware": {
+      "message": "Domenii de programe malware"
+   },
+   "3pGroupMultipurpose": {
+      "message": "Multifuncțional"
+   },
+   "3pGroupPrivacy": {
+      "message": "Confidențialitate"
+   },
+   "3pGroupRegions": {
+      "message": "Regiuni, limbi"
+   },
+   "3pIgnoreGenericCosmeticFilters": {
+      "message": "Ignorați filtrele cosmetice generice"
+   },
+   "3pIgnoreGenericCosmeticFiltersInfo": {
+      "message": "\u003Cp>Filtrele cosmetice generice sunt filtre cosmetice destinate aplicării la toate site-urile Web.\u003Cp>Deși gestionate eficient prin CCleaner Anti-Tracking, filtrele cosmetice generice pot totuși contribui la suprasolicitarea memoriei și procesorului pe unele pagini Web, îndeosebi la paginile mari și longevive.\u003Cp>Activarea acestei opțiuni va elimina suprasolicitarea memoriei și a procesorului la unele pagini Web, ca urmare a gestionării filtrelor cosmetice generice, și, în plus, reduce amprenta de memorie chiar pentru CCleaner Anti-Tracking.\u003Cp>Se recomandă să activați această opțiune pe dispozitivele mai puțin performante."
+   },
+   "3pImport": {
+      "message": "Se importă..."
+   },
+   "3pLastUpdate": {
+      "message": "Ultima actualizare: {{ago}}.\nFaceți clic pentru a forța o actualizare."
+   },
+   "3pListsOfBlockedHostsHeader": {
+      "message": "Liste de gazde blocate"
+   },
+   "3pListsOfBlockedHostsPerListStats": {
+      "message": "{{used}} utilizate din {{total}}"
+   },
+   "3pListsOfBlockedHostsPrompt": {
+      "message": "{{netFilterCount}} filtre de rețea＋ {{cosmeticFilterCount}} filtre cosmetice din:"
+   },
+   "3pNetworkError": {
+      "message": "O eroare de rețea a împiedicat actualizarea resursei."
+   },
+   "3pPageName": {
+      "message": "Filtre de la terți"
+   },
+   "3pParseAllABPHideFiltersInfo": {
+      "message": "\u003Cp>Această opțiune permite analizarea și aplicarea \u003Ca href=\"https://adblockplus.org/en/faq_internal#elemhide\">filtrelor de &ldquo;ascundere a elementelor&rdquo; compatibile cu Adblock Plus\u003C/a>. Aceste filtre sunt în esență cosmetice și servesc la ascunderea elementelor dintr-o pagină Web care sunt considerate a fi cu probleme de vizualizare și nu pot fi blocate de către motorul de filtrare bazat pe solicitările din rețea.\u003C/p>\u003Cp>Activarea acestei caracteristici mărește amprenta de memorie pentru CCleaner Anti-Tracking.\u003C/p>"
+   },
+   "3pParseAllABPHideFiltersPrompt1": {
+      "message": "Analizați și aplicați filtrele cosmetice"
+   },
+   "3pPurgeAll": {
+      "message": "Goliți toate memoriile cache"
+   },
+   "3pUpdateNow": {
+      "message": "Actualizare acum"
+   },
+   "3pUpdating": {
+      "message": "Se actualizează..."
+   },
+   "aboutBackupDataButton": {
+      "message": "Salvare copie de rezervă în fișier"
+   },
+   "aboutBackupFilename": {
+      "message": "CCleaner Anti-Tracking-backup_{{datetime}}.txt"
+   },
+   "aboutChangelog": {
+      "message": "Jurnal de modificări"
+   },
+   "aboutCode": {
+      "message": "Codul sursă (GPLv3)"
+   },
+   "aboutContributors": {
+      "message": "Contribuitori"
+   },
+   "aboutDependencies": {
+      "message": "Dependențe externe (compatibil GPLv3):"
+   },
+   "aboutIssues": {
+      "message": "Urmărire probleme"
+   },
+   "aboutPageName": {
+      "message": "Despre"
+   },
+   "aboutResetDataButton": {
+      "message": "Restabilire la setările implicite..."
+   },
+   "aboutResetDataConfirm": {
+      "message": "Toate setările vor fi eliminate și se va reporni CCleaner Anti-Tracking.\n\nRestabiliți setările producătorului pentru CCleaner Anti-Tracking?"
+   },
+   "aboutRestoreDataButton": {
+      "message": "Restaurare din fișier..."
+   },
+   "aboutRestoreDataConfirm": {
+      "message": "Vor fi suprascrise toate setările utilizând datele salvate pe {{time}} și se va reporni CCleaner Anti-Tracking.\n\nSuprascrieți toate setările existente utilizând datele salvate în copia de rezervă?"
+   },
+   "aboutRestoreDataError": {
+      "message": "Datele nu au putut fi citite sau nu sunt valide"
+   },
+   "aboutSupport": {
+      "message": "Asistență"
+   },
+   "aboutWiki": {
+      "message": "Wiki"
+   },
+   "advancedSettingsPageName": {
+      "message": "Setări avansate"
+   },
+   "advancedSettingsWarning": {
+      "message": "Avertisment! Modificați aceste setări avansate pe propria răspundere."
+   },
+   "assetViewerPageName": {
+      "message": "uBlock? ? Vizualizator de resurse"
+   },
+   "cloudDeviceNamePrompt": {
+      "message": "Numele acestui dispozitiv:"
+   },
+   "cloudPull": {
+      "message": "Import din stocarea pe cloud"
+   },
+   "cloudPullAndMerge": {
+      "message": "Import din stocarea pe cloud și îmbinare cu setările curente"
+   },
+   "cloudPush": {
+      "message": "Export către stocarea pe cloud"
+   },
+   "contextMenuTemporarilyAllowLargeMediaElements": {
+      "message": "Permiteți temporar elemente multimedia mari"
+   },
+   "dashboardName": {
+      "message": "CCleaner Anti-Tracking – Tablou de bord"
+   },
+   "docblockedBack": {
+      "message": "Revenire"
+   },
+   "docblockedClose": {
+      "message": "Închideți această fereastră"
+   },
+   "docblockedDisablePermanent": {
+      "message": "Permanent"
+   },
+   "docblockedDisableTemporary": {
+      "message": "Temporar"
+   },
+   "docblockedFoundIn": {
+      "message": "Găsit în:"
+   },
+   "docblockedNoParamsPrompt": {
+      "message": "fără parametri"
+   },
+   "docblockedProceed": {
+      "message": "Dezactivare blocare strictă pentru {{hostname}}"
+   },
+   "docblockedPrompt1": {
+      "message": "CCleaner Anti-Tracking a împiedicat încărcarea următoarei pagini:"
+   },
+   "docblockedPrompt2": {
+      "message": "Din cauza filtrului următor"
+   },
+   "dummy": {
+      "message": "Această intrare trebuie să fie ultima"
+   },
+   "elapsedManyDaysAgo": {
+      "message": "cu {{value}} zile în urmă"
+   },
+   "elapsedManyHoursAgo": {
+      "message": "cu {{value}} ore în urmă"
+   },
+   "elapsedManyMinutesAgo": {
+      "message": "cu {{value}} minute în urmă"
+   },
+   "elapsedOneDayAgo": {
+      "message": "cu o zi în urmă"
+   },
+   "elapsedOneHourAgo": {
+      "message": "cu o oră în urmă"
+   },
+   "elapsedOneMinuteAgo": {
+      "message": "cu un minut în urmă"
+   },
+   "errorCantConnectTo": {
+      "message": "Eroare de rețea: {{msg}}"
+   },
+   "extShortDesc": {
+      "message": "Blochează urmăritorii pe Web intruzivi."
+   },
+   "extra1pPageNameDesc": {
+      "message": "Gestionați filtrele particularizate"
+   },
+   "extra3pPageNameDesc": {
+      "message": "Filtre de la terți pentru urmăritori și confidențialitate"
+   },
+   "extraAddFilter": {
+      "message": "Adăugare filtru"
+   },
+   "extraAddRrule": {
+      "message": "Adăugare regulă temporară"
+   },
+   "extraAddSetting": {
+      "message": "Adăugare setare"
+   },
+   "extraAddSite": {
+      "message": "Adăugare site"
+   },
+   "extraAdsFilters": {
+      "message": "Filtre de reclame"
+   },
+   "extraAdvancedUserSettings": {
+      "message": "Setări avansate ale utilizatorului"
+   },
+   "extraAllowOnSites": {
+      "message": "Permiteți urmăritori pe aceste site-uri"
+   },
+   "extraBlockMediaElementsLargerThan": {
+      "message": "Blocare elemente media mai mari de"
+   },
+   "extraBtnAdd": {
+      "message": "adăugare"
+   },
+   "extraBtnCancel": {
+      "message": "anulare"
+   },
+   "extraBtnEdit": {
+      "message": "Editare"
+   },
+   "extraBtnExport": {
+      "message": "export"
+   },
+   "extraBtnImport": {
+      "message": "import"
+   },
+   "extraBtnRemove": {
+      "message": "Eliminare"
+   },
+   "extraBtnUpdateAll": {
+      "message": "actualizare toate"
+   },
+   "extraDefaultBehaviour": {
+      "message": "Comportament implicit"
+   },
+   "extraEditFilter": {
+      "message": "Editare filtru"
+   },
+   "extraEditRule": {
+      "message": "Editare regulă temporară"
+   },
+   "extraEditSetting": {
+      "message": "Editare setare"
+   },
+   "extraEditSite": {
+      "message": "Editare site"
+   },
+   "extraGeneralSettings": {
+      "message": "Setări generale"
+   },
+   "extraGeneralSettingsDesc": {
+      "message": "Gestionați ce informații afișează CCleaner Anti-Tracking"
+   },
+   "extraIndexDescription": {
+      "message": "Blocați urmăritorii pentru o navigare mai rapidă și mai sigură"
+   },
+   "extraIndexFooter": {
+      "message": "Girat de uBlock Origin."
+   },
+   "extraIndexHeader": {
+      "message": "Setări avansate pentru CCleaner Anti-Tracking"
+   },
+   "extraIndexTitle": {
+      "message": "CCleaner Anti-Tracking"
+   },
+   "extraInterstitialBlocking": {
+      "message": "Activați blocarea interstițială"
+   },
+   "extraLabelFilter": {
+      "message": "Filtru"
+   },
+   "extraLearnMore": {
+      "message": "Aflați mai multe"
+   },
+   "extraManageFilters": {
+      "message": "Administrare filtre"
+   },
+   "extraMyCustomFilter": {
+      "message": "Filtrele mele particularizate"
+   },
+   "extraPrivacy": {
+      "message": "Confidențialitate"
+   },
+   "extraRule": {
+      "message": "Regulă"
+   },
+   "extraRuleDefinition": {
+      "message": "Definiție pentru regulă"
+   },
+   "extraRuleSyntax": {
+      "message": "Sintaxă pentru reguli"
+   },
+   "extraRulesPageNameDesc": {
+      "message": "Listă cu regulile dvs. de filtrare dinamică"
+   },
+   "extraSetting": {
+      "message": "Setare"
+   },
+   "extraShowMore": {
+      "message": "Afișați mai multe"
+   },
+   "extraSite": {
+      "message": "Site"
+   },
+   "extraSlider0": {
+      "message": "Nu blocați reclamele"
+   },
+   "extraSlider100": {
+      "message": "Blocare reclame - Maxim"
+   },
+   "extraSlider50": {
+      "message": "Blocare reclame - Moderat"
+   },
+   "extraSourceDestinationTypeAction": {
+      "message": "sursă destinație tip acțiune."
+   },
+   "extraWhitelistPageNameDesc": {
+      "message": "Listă de site-uri unde sunt permiși urmăritori"
+   },
+   "fennecMenuItemBlockingOff": {
+      "message": "oprită"
+   },
+   "genericApplyChanges": {
+      "message": "Aplicare modificări"
+   },
+   "genericBytes": {
+      "message": "byți"
+   },
+   "genericCopyToClipboard": {
+      "message": "Copiere în clipboard"
+   },
+   "genericMergeViewScrollLock": {
+      "message": "Activare/dezactivare defilare blocată"
+   },
+   "genericRevert": {
+      "message": "Revenire"
+   },
+   "genericSubmit": {
+      "message": "Transmitere"
+   },
+   "logAll": {
+      "message": "Toate"
+   },
+   "logBehindTheScene": {
+      "message": "În culise"
+   },
+   "logFilterPrompt": {
+      "message": "intrări în jurnal pentru filtre"
+   },
+   "logMaxEntriesTip": {
+      "message": "Număr maxim de înregistrări în jurnal"
+   },
+   "logRequestsHeaderDomain": {
+      "message": "Domeniu"
+   },
+   "logRequestsHeaderFilter": {
+      "message": "Filtru"
+   },
+   "logRequestsHeaderType": {
+      "message": "Tip"
+   },
+   "logRequestsHeaderURL": {
+      "message": "URL"
+   },
+   "loggerClearTip": {
+      "message": "Golire înregistrator în jurnal"
+   },
+   "loggerCurrentTab": {
+      "message": "Filă actuală"
+   },
+   "loggerDomInspectorTip": {
+      "message": "Activați/dezactivați inspectorul DOM"
+   },
+   "loggerEntryDetailsContext": {
+      "message": "Context"
+   },
+   "loggerEntryDetailsFilter": {
+      "message": "Filtru"
+   },
+   "loggerEntryDetailsFilterList": {
+      "message": "Listă de filtre"
+   },
+   "loggerEntryDetailsHeader": {
+      "message": "Detalii"
+   },
+   "loggerEntryDetailsPartyness": {
+      "message": "Tip parte"
+   },
+   "loggerEntryDetailsRootContext": {
+      "message": "Context rădăcină"
+   },
+   "loggerEntryDetailsRule": {
+      "message": "Regulă"
+   },
+   "loggerEntryDetailsType": {
+      "message": "Tip"
+   },
+   "loggerEntryDetailsURL": {
+      "message": "Adresă URL"
+   },
+   "loggerExportEncodeMarkdown": {
+      "message": "Marcaj"
+   },
+   "loggerExportEncodePlain": {
+      "message": "Simplu"
+   },
+   "loggerExportFormatList": {
+      "message": "Listă"
+   },
+   "loggerExportFormatTable": {
+      "message": "Tabel"
+   },
+   "loggerInfoTip": {
+      "message": "Wiki uBlock Origin: înregistratorul în jurnal"
+   },
+   "loggerPauseTip": {
+      "message": "Întrerupere înregistrator în jurnal (abandonați toate datele de intrare)"
+   },
+   "loggerPopupPanelTip": {
+      "message": "Activați/dezactivați panoul contextual"
+   },
+   "loggerReloadTip": {
+      "message": "Reîncărcați conținutul filei"
+   },
+   "loggerRowFiltererBuiltin1p": {
+      "message": "Primă parte"
+   },
+   "loggerRowFiltererBuiltin3p": {
+      "message": "Terță parte"
+   },
+   "loggerRowFiltererBuiltinAllowed": {
+      "message": "permis"
+   },
+   "loggerRowFiltererBuiltinBlocked": {
+      "message": "blocat"
+   },
+   "loggerRowFiltererBuiltinEventful": {
+      "message": "plin de evenimente"
+   },
+   "loggerRowFiltererBuiltinNot": {
+      "message": "Nu"
+   },
+   "loggerRowFiltererBuiltinTip": {
+      "message": "Opțiuni de filtrare înregistrator în jurnal"
+   },
+   "loggerRowFiltererButtonTip": {
+      "message": "Activare/dezactivare filtrare înregistrator în jurnal"
+   },
+   "loggerSettingDiscardPrompt": {
+      "message": "Intrările înregistratorului în jurnal care nu îndeplinesc toate cele trei condiții de mai jos, vor fi în mod automat abandonate:"
+   },
+   "loggerSettingHideColumnContext": {
+      "message": "Context {{input}}"
+   },
+   "loggerSettingHideColumnFilter": {
+      "message": "Filtru/regulă {{input}}"
+   },
+   "loggerSettingHideColumnPartyness": {
+      "message": "Tip parte {{input}}"
+   },
+   "loggerSettingHideColumnTime": {
+      "message": "Oră {{input}}"
+   },
+   "loggerSettingHideColumnsPrompt": {
+      "message": "Ascundere coloane:"
+   },
+   "loggerSettingPerEntryLineCount": {
+      "message": "Utilizați {{input}} linii per intrare în modul cu desfășurare pe verticală"
+   },
+   "loggerSettingPerEntryMaxAge": {
+      "message": "Păstrați intrările din ultimele {{input}} minute"
+   },
+   "loggerSettingPerTabMaxEntries": {
+      "message": "Păstrați cel mult {{input}} intrări per filă"
+   },
+   "loggerSettingPerTabMaxLoads": {
+      "message": "Păstrați cel mult {{input}} încărcări de pagină per filă"
+   },
+   "loggerStaticFilteringFinderSentence1": {
+      "message": "Filtru static \u003Ccode>{{filter}}\u003C/code> găsit în:"
+   },
+   "loggerStaticFilteringFinderSentence2": {
+      "message": "Filtrul static \u003Ccode>{{filter}}\u003C/code> nu a putut fi găsit în niciuna dintre listele cu filtre activate în acest moment"
+   },
+   "loggerStaticFilteringHeader": {
+      "message": "Filtrare statică"
+   },
+   "loggerStaticFilteringSentence": {
+      "message": "{{action}} solicitări în rețea de tipul {{type}} {{br}}care se potrivesc cu adresa URL {{url}} {{br}}și care provin din {{origin}},{{br}}{{importance}} este un filtru corespunzător pentru excepții."
+   },
+   "loggerStaticFilteringSentencePartAllow": {
+      "message": "Permiteți"
+   },
+   "loggerStaticFilteringSentencePartAnyOrigin": {
+      "message": "de oriunde"
+   },
+   "loggerStaticFilteringSentencePartAnyType": {
+      "message": "orice tip"
+   },
+   "loggerStaticFilteringSentencePartBlock": {
+      "message": "Blocați"
+   },
+   "loggerStaticFilteringSentencePartImportant": {
+      "message": "chiar dacă"
+   },
+   "loggerStaticFilteringSentencePartNotImportant": {
+      "message": "cu excepția cazului când"
+   },
+   "loggerStaticFilteringSentencePartOrigin": {
+      "message": "de la ?{{origin}}?"
+   },
+   "loggerStaticFilteringSentencePartType": {
+      "message": "tip ?{{type}}?"
+   },
+   "loggerURLFilteringContextLabel": {
+      "message": "Context:"
+   },
+   "loggerURLFilteringHeader": {
+      "message": "Filtrare dinamică adrese URL"
+   },
+   "loggerURLFilteringTypeLabel": {
+      "message": "Tip:"
+   },
+   "loggerUnpauseTip": {
+      "message": "Anulare întrerupere înregistrator în jurnal"
+   },
+   "pickerContextMenuEntry": {
+      "message": "Blocare element"
+   },
+   "pickerCosmeticFilters": {
+      "message": "Filtre cosmetice"
+   },
+   "pickerCosmeticFiltersHint": {
+      "message": "Clic, Ctrl-clic"
+   },
+   "pickerCreate": {
+      "message": "Creare"
+   },
+   "pickerNetFilters": {
+      "message": "Filtre de rețea"
+   },
+   "pickerPick": {
+      "message": "Alegere"
+   },
+   "pickerPreview": {
+      "message": "Previzualizare"
+   },
+   "pickerQuit": {
+      "message": "Renunțare"
+   },
+   "popup1pScriptRulePrompt": {
+      "message": "scripturi de la o primă parte"
+   },
+   "popup3pAnyRulePrompt": {
+      "message": "terți"
+   },
+   "popup3pFrameRulePrompt": {
+      "message": "cadre de la o terță parte"
+   },
+   "popup3pPassiveRulePrompt": {
+      "message": "css/imagini de la terți"
+   },
+   "popup3pScriptRulePrompt": {
+      "message": "scripturi de la o terță parte"
+   },
+   "popupAdvancedSettings": {
+      "message": "Setări avansate"
+   },
+   "popupAnyRulePrompt": {
+      "message": "toate"
+   },
+   "popupExtraAdsAllowedOnSites": {
+      "message": "Urmăritorii sunt permiși pe acest site"
+   },
+   "popupExtraAdsBlockedOnPage": {
+      "message": "Urmăritori blocați pe această pagină"
+   },
+   "popupExtraAdsBlockedOnSites": {
+      "message": "Urmăritorii sunt blocați pe acest site"
+   },
+   "popupExtraAdsBlockedTotal": {
+      "message": "Urmăritori blocați în total"
+   },
+   "popupExtraLessOptions": {
+      "message": "Mai puține opțiuni"
+   },
+   "popupExtraListAllowedSites": {
+      "message": "Listă de site-uri permise"
+   },
+   "popupExtraMoreInformation": {
+      "message": "Mai multe informații"
+   },
+   "popupExtraMoreOptions": {
+      "message": "Mai multe opțiuni"
+   },
+   "popupExtraNoSitesAddedYet": {
+      "message": "Nu s-a adăugat încă niciun site"
+   },
+   "popupExtraProtectionCanNotEnabled": {
+      "message": "Protecția pe acest site nu poate fi activată"
+   },
+   "popupExtraProtectionDisabledForSession": {
+      "message": "Nu poate fi activată protecția pentru această sesiune"
+   },
+   "popupExtraSeeListAllowedSites": {
+      "message": "Vedeți lista cu toate site-urile permise"
+   },
+   "popupHitDomainCount": {
+      "message": "{{count}} din {{total}}"
+   },
+   "popupHitDomainCountPrompt": {
+      "message": "domenii conectate"
+   },
+   "popupImageRulePrompt": {
+      "message": "imagini"
+   },
+   "popupInlineScriptRulePrompt": {
+      "message": "scripturi în linie"
+   },
+   "popupTipDashboard": {
+      "message": "Deschideți tabloul de bord"
+   },
+   "popupTipGlobalRules": {
+      "message": "Reguli globale: această coloană este destinată regulilor care se aplică tuturor site-urilor."
+   },
+   "popupTipLocalRules": {
+      "message": "Reguli locale: această coloană este destinată regulilor care se aplică numai site-ului curent.\nRegulile locale au prioritate în fața regulilor globale."
+   },
+   "popupTipLog": {
+      "message": "Deschideți înregistratorul în jurnal"
+   },
+   "popupTipNoCosmeticFiltering": {
+      "message": "Activați/dezactivați filtrarea cosmetică pentru acest site"
+   },
+   "popupTipNoCosmeticFiltering1": {
+      "message": "Faceți clic pentru a dezactiva filtrarea cosmetică pe acest site"
+   },
+   "popupTipNoCosmeticFiltering2": {
+      "message": "Faceți clic pentru a activa filtrarea cosmetică pe acest site"
+   },
+   "popupTipNoLargeMedia": {
+      "message": "Activați/dezactivați blocarea elementelor media de mari dimensiuni pentru acest site"
+   },
+   "popupTipNoLargeMedia1": {
+      "message": "Faceți clic pentru a bloca elementele media de mari dimensiuni de pe acest site"
+   },
+   "popupTipNoLargeMedia2": {
+      "message": "Faceți clic pentru a anula blocarea elementelor media de mari dimensiuni de pe acest site"
+   },
+   "popupTipNoPopups": {
+      "message": "Activați/dezactivați blocarea tuturor ferestrelor contextuale pentru acest site"
+   },
+   "popupTipNoPopups1": {
+      "message": "Faceți clic pentru a bloca toate ferestrele contextuale de pe acest site"
+   },
+   "popupTipNoPopups2": {
+      "message": "Faceți clic pentru a anula blocarea tuturor ferestrele contextuale de pe acest site"
+   },
+   "popupTipNoRemoteFonts": {
+      "message": "Activați/dezactivați blocarea fonturilor la distanță pentru acest site"
+   },
+   "popupTipNoRemoteFonts1": {
+      "message": "Faceți clic pentru a bloca fonturile la distanță de pe acest site"
+   },
+   "popupTipNoRemoteFonts2": {
+      "message": "Faceți clic pentru a anula blocarea fonturilor la distanță de pe acest site"
+   },
+   "popupTipNoScripting1": {
+      "message": "Faceți clic pentru a dezactiva JavaScript pe acest site"
+   },
+   "popupTipNoScripting2": {
+      "message": "Faceți clic pentru a anula dezactivarea JavaScript pe acest site"
+   },
+   "popupTipPicker": {
+      "message": "Întrați în modul selector de elemente"
+   },
+   "popupTipRevertRules": {
+      "message": "Faceți clic pentru a anula modificările."
+   },
+   "popupTipSaveRules": {
+      "message": "Faceți clic pentru ca modificările să devină permanente."
+   },
+   "popupTipZapper": {
+      "message": "Intrați în modul pilotare elemente"
+   },
+   "rulesCommit": {
+      "message": "Validare"
+   },
+   "rulesEdit": {
+      "message": "Editare"
+   },
+   "rulesEditDiscard": {
+      "message": "Renunțare"
+   },
+   "rulesEditSave": {
+      "message": "Salvare"
+   },
+   "rulesExport": {
+      "message": "Export în fișier"
+   },
+   "rulesFormatHint": {
+      "message": "Sintaxa pentru regulă: \u003Ccode>source destination type action\u003C/code> (\u003Ca href='https://github.com/gorhill/uBlock/wiki/Dynamic-filtering:-rule-syntax'>documentația completă\u003C/a>)."
+   },
+   "rulesHint": {
+      "message": "Listă cu regulile dvs. de filtrare dinamică."
+   },
+   "rulesImport": {
+      "message": "Se importă din fișier..."
+   },
+   "rulesPageName": {
+      "message": "Regulile mele"
+   },
+   "rulesPermanentHeader": {
+      "message": "Reguli permanente"
+   },
+   "rulesRevert": {
+      "message": "Revenire"
+   },
+   "rulesTemporaryHeader": {
+      "message": "Reguli temporare"
+   },
+   "settingPerSiteSwitchGroup": {
+      "message": "Comportament implicit"
+   },
+   "settingPerSiteSwitchGroupSynopsis": {
+      "message": "Aceste comportamente implicite pot fi ignorate prin reguli specifice fiecărui site"
+   },
+   "settingsAdvancedUserPrompt": {
+      "message": "Sunt un utilizator avansat (\u003Ca href='https://github.com/gorhill/uBlock/wiki/Advanced-user-features'>obligatoriu de citit\u003C/a>)"
+   },
+   "settingsAdvancedUserSettings": {
+      "message": "setări avansate"
+   },
+   "settingsCloudStorageEnabledPrompt": {
+      "message": "Activare suport de stocare pe cloud"
+   },
+   "settingsCollapseBlockedPrompt": {
+      "message": "Ascundeți substituenții elementelor blocate"
+   },
+   "settingsColorBlindPrompt": {
+      "message": "Adaptat pentru daltoniști"
+   },
+   "settingsContextMenuPrompt": {
+      "message": "Utilizați meniul contextual acolo unde este cazul"
+   },
+   "settingsHyperlinkAuditingDisabledPrompt": {
+      "message": "Dezactivați investigarea hyperlinkurilor"
+   },
+   "settingsIconBadgePrompt": {
+      "message": "Afișați pe pictogramă numărul cererilor blocate"
+   },
+   "settingsLastBackupPrompt": {
+      "message": "Ultima copiere de rezervă:"
+   },
+   "settingsLastRestorePrompt": {
+      "message": "Ultima restaurare:"
+   },
+   "settingsNoCSPReportsPrompt": {
+      "message": "Blocați rapoartele CSP"
+   },
+   "settingsNoCosmeticFilteringPrompt": {
+      "message": "Dezactivați filtrarea cosmetică"
+   },
+   "settingsNoLargeMediaPrompt": {
+      "message": "Blocați elementele media de peste {{input:number}} kB"
+   },
+   "settingsNoRemoteFontsPrompt": {
+      "message": "Blocați fonturile la distanță"
+   },
+   "settingsNoScriptingPrompt": {
+      "message": "Dezactivare JavaScript"
+   },
+   "settingsPageName": {
+      "message": "Setări"
+   },
+   "settingsPrefetchingDisabledPrompt": {
+      "message": "Dezactivați extragerile (pentru a evita orice conectare la solicitările din rețea care au fost blocate)"
+   },
+   "settingsStorageUsed": {
+      "message": "Spațiu de stocare utilizat: {{value}} byți"
+   },
+   "settingsTooltipsPrompt": {
+      "message": "Dezactivare baloane explicative"
+   },
+   "settingsWebRTCIPAddressHiddenPrompt": {
+      "message": "Împiedicați WebRTC să transmită adresele IP locale"
+   },
+   "shortcutCapturePlaceholder": {
+      "message": "Tastați o comandă rapidă"
+   },
+   "shortcutsPageName": {
+      "message": "Comenzi rapide"
+   },
+   "showDashboardButton": {
+      "message": "Afișare Tablou de bord"
+   },
+   "showNetworkLogButton": {
+      "message": "Afișare Înregistrator în jurnal"
+   },
+   "statsPageName": {
+      "message": "CCleaner Anti-Tracking – Înregistrator în jurnal"
+   },
+   "subscriberConfirm": {
+      "message": "CCleaner Anti-Tracking: Adăugați următoarea adresă URL în listele cu filtre particularizate?\n\nTitlu: „{{title}}”\nURL: {{url}}"
+   },
+   "whitelistApply": {
+      "message": "Aplicare modificări"
+   },
+   "whitelistExport": {
+      "message": "Export"
+   },
+   "whitelistExportFilename": {
+      "message": "CCleaner Anti-Tracking-whitelist_{{datetime}}.txt"
+   },
+   "whitelistImport": {
+      "message": "Import și adăugare"
+   },
+   "whitelistPageName": {
+      "message": "Listă albă"
+   },
+   "whitelistPrompt": {
+      "message": "Directivele din lista albă definesc paginile Web pe care CCleaner Anti-Tracking trebuie să fie dezactivat. O intrare per linie. Directivele nevalide vor fi ignorate în mod silențios și comentate."
+   }
+}

@@ -1,0 +1,28 @@
+{
+   "appDescription": {
+      "message": "Disfarça a identificação do browser e limita a monitorização online"
+   },
+   "appName": {
+      "message": "Anti-identificação"
+   },
+   "popupStatusDisabled": {
+      "description": "Popup label shown when afp is disabled for current website",
+      "message": "A proteção de identificação está desativada neste site"
+   },
+   "popupStatusEnabled": {
+      "description": "Popup label shown when afp is enabled for current website",
+      "message": "A proteção de identificação está ativada neste site"
+   },
+   "popupTotalFingerprintsAttemptsDetected": {
+      "description": "Popup total fingerprints attempts detected label",
+      "message": "Total de tentativas de identificação detetadas"
+   },
+   "settingsAdvanced": {
+      "description": "Settings page title",
+      "message": "Definições avançadas de Anti-identificação"
+   },
+   "settingsSocialMediaLoginDetectionPrevention": {
+      "description": "Settings page social media login detection prevention title",
+      "message": "Prevenção de deteção de inícios de sessão em redes sociais"
+   }
+}

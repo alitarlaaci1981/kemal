@@ -1,0 +1,117 @@
+{
+   "appDesc": {
+      "message": "Download videoer til offlinevisning"
+   },
+   "appName": {
+      "message": "Videodownloader"
+   },
+   "barDetachBtn": {
+      "description": "The Detach button text as visible on the floating bar",
+      "message": "Pop ud"
+   },
+   "barDownloadBtn": {
+      "description": "The Download button text as visible on the floating bar",
+      "message": "Download"
+   },
+   "barMediaBtn": {
+      "description": "The Media button text as visible on the floating bar",
+      "message": "Medie"
+   },
+   "barQualityAudio": {
+      "description": "Audio title",
+      "message": "Lyd"
+   },
+   "barQualityVideo": {
+      "description": "Video title",
+      "message": "Video"
+   },
+   "barSettingsAbout": {
+      "description": "About Button in settings popup",
+      "message": "Flere oplysninger"
+   },
+   "barSettingsBtn": {
+      "description": "The Settings button text as visible on the floating bar",
+      "message": "Indstillinger"
+   },
+   "barSettingsDescription": {
+      "description": "Video download feature description in settings popup",
+      "message": "Drevet af CCleaner Secure Browser"
+   },
+   "barSettingsDoNotShow": {
+      "description": "Button in settings popup disabling video-downloader",
+      "message": "Vis ikke igen"
+   },
+   "barSettingsDoNotShowForSite": {
+      "description": "Button in settings popup disabling video-downloader for exact site",
+      "message": "Vis ikke på dette websted"
+   },
+   "barSettingsTitle": {
+      "description": "Settings popup title in the floating bar",
+      "message": "Indstillinger"
+   },
+   "eulaContinue": {
+      "description": "EUlA continue button",
+      "message": "Fortsæt"
+   },
+   "eulaText": {
+      "description": "EULA message displayed to the user",
+      "message": "Ved at acceptere vores \u003Cdiv>\u003Ca target='blank' href='$link$'>slutbrugerlicensaftale\u003C/a>\u003C/div> (EULA) erkender og accepterer du, at det er dit ansvar at bruge Videodownloader i henhold til gældende copyright-love og brugsvilkårende på et givent websted.",
+      "placeholders": {
+         "link": {
+            "content": "$1"
+         }
+      }
+   },
+   "eulaTitle": {
+      "description": "EULA popup title",
+      "message": "Før du downloader"
+   },
+   "eulaUnderstandAccept": {
+      "description": "EULA user agreement checkbox text",
+      "message": "Jeg forstår og accepterer EULA"
+   },
+   "extensionName": {
+      "description": "Name shown in the extension button in SZB Control Center.",
+      "message": "Videodownloader"
+   },
+   "extensionTitle": {
+      "description": "Title shown on hover over the extension button in SZB Control Center.",
+      "message": "Download videoer til offlinevisning."
+   },
+   "optionUnknownSize": {
+      "description": "Videa or audio download option of unknown size",
+      "message": "ukendt størrelse"
+   },
+   "popupAudioHeading": {
+      "description": "The heading of the audio section in the media popup list",
+      "message": "Lyd"
+   },
+   "popupDisabledFor": {
+      "description": "Page was disabled for video downloader",
+      "message": "Videodownloader er deaktiveret for"
+   },
+   "popupDownloadBtn": {
+      "description": "The Download button text as visible in the media popup list",
+      "message": "Download"
+   },
+   "popupEnable": {
+      "description": "Enable video downloader for current page",
+      "message": "Aktivér"
+   },
+   "popupNoVideos": {
+      "description": "Page does not contain any videos",
+      "message": "Der er ingen videoer at downloade på denne side"
+   },
+   "popupNoVideos_v2": {
+      "description": "",
+      "message": "For at downloade en video skal du gå til dens detaljeside."
+   },
+   "popupVideoHeading": {
+      "description": "The heading of the video section in the media popup list",
+      "message": "Video"
+   },
+   "reattachBtn": {
+      "description": "The Reattach button text as visible on the detached video page",
+      "message": "Sæt i"
+   }
+}

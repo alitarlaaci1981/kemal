@@ -1,0 +1,28 @@
+{
+   "appDescription": {
+      "message": "掩藏瀏覽器指紋，限制線上追蹤"
+   },
+   "appName": {
+      "message": "防指紋辨識"
+   },
+   "popupStatusDisabled": {
+      "description": "Popup label shown when afp is disabled for current website",
+      "message": "已在這個網站上停用指紋辨識保護"
+   },
+   "popupStatusEnabled": {
+      "description": "Popup label shown when afp is enabled for current website",
+      "message": "已在這個網站上啟用指紋辨識保護"
+   },
+   "popupTotalFingerprintsAttemptsDetected": {
+      "description": "Popup total fingerprints attempts detected label",
+      "message": "偵測到的指紋辨識嘗試總數"
+   },
+   "settingsAdvanced": {
+      "description": "Settings page title",
+      "message": "防指紋辨識進階設定"
+   },
+   "settingsSocialMediaLoginDetectionPrevention": {
+      "description": "Settings page social media login detection prevention title",
+      "message": "防止偵測社群媒體登入"
+   }
+}

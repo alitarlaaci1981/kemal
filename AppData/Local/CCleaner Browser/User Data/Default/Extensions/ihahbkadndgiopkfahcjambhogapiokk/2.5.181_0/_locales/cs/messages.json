@@ -1,0 +1,28 @@
+{
+   "appDescription": {
+      "message": "Zamaskuje digitální stopu vašeho prohlížeče a omezí sledování"
+   },
+   "appName": {
+      "message": "Anti-Fingerprinting"
+   },
+   "popupStatusDisabled": {
+      "description": "Popup label shown when afp is disabled for current website",
+      "message": "Na tomto webu je vypnutá ochrana před sledováním digitální stopy"
+   },
+   "popupStatusEnabled": {
+      "description": "Popup label shown when afp is enabled for current website",
+      "message": "Na tomto webu je zapnutá ochrana před sledováním digitální stopy"
+   },
+   "popupTotalFingerprintsAttemptsDetected": {
+      "description": "Popup total fingerprints attempts detected label",
+      "message": "Celkem zjištěných pokusů o sledování digitální stopy"
+   },
+   "settingsAdvanced": {
+      "description": "Settings page title",
+      "message": "Pokročilá nastavení pro Anti-Fingerprinting"
+   },
+   "settingsSocialMediaLoginDetectionPrevention": {
+      "description": "Settings page social media login detection prevention title",
+      "message": "Prevence detekce přihlášení na sociální síť"
+   }
+}

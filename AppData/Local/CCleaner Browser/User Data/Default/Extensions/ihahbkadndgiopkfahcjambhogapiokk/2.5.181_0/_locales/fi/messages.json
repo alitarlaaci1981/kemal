@@ -1,0 +1,28 @@
+{
+   "appDescription": {
+      "message": "Peittää selaintunnistetietosi ja rajoittaa nettiseurantaa"
+   },
+   "appName": {
+      "message": "Tunnistetietojen keruunesto"
+   },
+   "popupStatusDisabled": {
+      "description": "Popup label shown when afp is disabled for current website",
+      "message": "Tunnistetietosuoja on pois päältä tällä sivustolla"
+   },
+   "popupStatusEnabled": {
+      "description": "Popup label shown when afp is enabled for current website",
+      "message": "Tunnistetietosuoja on päällä tällä sivustolla"
+   },
+   "popupTotalFingerprintsAttemptsDetected": {
+      "description": "Popup total fingerprints attempts detected label",
+      "message": "Havaitut tunnistetietojen keruuyritykset yhteensä"
+   },
+   "settingsAdvanced": {
+      "description": "Settings page title",
+      "message": "Tunnistetietojen keruuneston lisäasetukset"
+   },
+   "settingsSocialMediaLoginDetectionPrevention": {
+      "description": "Settings page social media login detection prevention title",
+      "message": "Sosiaalisen median kirjautumistietojen tunnistusesto"
+   }
+}

@@ -1,0 +1,40 @@
+2020-11-26T20:52:49: LogHost: Initializing to normal mode
+2020-11-26T20:52:50: Could not obtain git dir, C:\Users\kemal\Documents\idealimage is not a git repo.
+2020-11-26T20:52:50: Could not obtain git dir, C:\Users\kemal\Documents\idealimagehome is not a git repo.
+2020-11-26T20:52:50: LogHost: SuppressChangeNotifications was called (perhaps via AddRange), yet you do not
+2020-11-26T20:52:50: LogHost: have a subscription to ShouldReset. This probably isn't what you want, as ItemsAdded
+2020-11-26T20:52:50: LogHost: and friends will appear to 'miss' items
+2020-11-26T20:52:50: Could not obtain git dir, C:\Users\kemal\AppData\Local\SourceTree\app-3.3.9 is not a git repo.
+2020-11-26T20:52:50: Could not obtain git dir, C:\Users\kemal\AppData\Local\SourceTree is not a git repo.
+2020-11-26T20:52:50: Could not obtain git dir, C:\Users\kemal\AppData\Local is not a git repo.
+2020-11-26T20:52:50: Could not obtain git dir, C:\Users\kemal\AppData is not a git repo.
+2020-11-26T20:52:57: VaultClient::ReadCredentials
+2020-11-26T20:52:58: VaultClient::Delete
+2020-11-26T20:52:58: VaultClient::Delete
+2020-11-26T20:52:58: VaultClient::Delete
+2020-11-26T20:52:58: VaultClient::ReadCredentials
+2020-11-26T20:52:58: VaultClient::ReadCredentials
+2020-11-26T20:52:58: VaultClient::WriteCredential
+2020-11-26T20:52:58: VaultClient::WriteCredential
+2020-11-26T20:52:58: VaultClient::WriteCredential
+2020-11-26T20:52:58: VaultClient::WriteCredential
+2020-11-26T20:52:58: VaultClient::WriteCredential
+2020-11-26T20:52:58: VaultClient::WriteCredential
+2020-11-26T20:52:58: VaultClient::ReadCredentials
+2020-11-26T20:53:28: VaultClient::ReadCredentials
+2020-11-26T20:53:28: VaultClient::ReadCredentials
+2020-11-26T20:53:28: VaultClient::ReadCredentials
+2020-11-26T20:54:11: VaultClient::Delete
+2020-11-26T20:54:11:    credentials not found for git:https://AliTarlaci@bitbucket.org
+2020-11-26T20:57:45: VaultClient::Delete
+2020-11-26T20:57:45:    credentials not found for git:https://AliKemalTarlaci@bitbucket.org
+2020-11-26T21:00:22: VaultClient::ReadCredentials
+2020-11-26T21:05:35: VaultClient::ReadCredentials
+2020-11-26T21:35:11: ReactiveList`1: Property change notifications are enabled and type SourceTree.Model.RepositoryRemoteProjectLink isn't INotifyPropertyChanged or IReactiveObject
+2020-11-26T21:35:15: ReactiveList`1: Property change notifications are enabled and type SourceTree.Model.RepositoryRemoteProjectLink isn't INotifyPropertyChanged or IReactiveObject
+2020-11-26T21:35:33: ReactiveList`1: Property change notifications are enabled and type SourceTree.Model.RepositoryRemoteProjectLink isn't INotifyPropertyChanged or IReactiveObject
+2020-11-26T21:35:45: ReactiveList`1: Property change notifications are enabled and type SourceTree.Model.RepositoryRemoteProjectLink isn't INotifyPropertyChanged or IReactiveObject
+2020-11-26T21:35:48: ReactiveList`1: Property change notifications are enabled and type SourceTree.Model.RepositoryRemoteProjectLink isn't INotifyPropertyChanged or IReactiveObject
+2020-11-26T21:35:52: ReactiveList`1: Property change notifications are enabled and type SourceTree.Model.RepositoryRemoteProjectLink isn't INotifyPropertyChanged or IReactiveObject
+2020-11-26T21:36:21: ReactiveList`1: Property change notifications are enabled and type SourceTree.Model.RepositoryRemoteProjectLink isn't INotifyPropertyChanged or IReactiveObject
+2020-11-26T21:36:24: ReactiveList`1: Property change notifications are enabled and type SourceTree.Model.RepositoryRemoteProjectLink isn't INotifyPropertyChanged or IReactiveObject

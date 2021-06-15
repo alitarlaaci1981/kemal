@@ -1,0 +1,117 @@
+{
+   "appDesc": {
+      "message": "Κατεβάστε βίντεο για προβολή εκτός σύνδεσης"
+   },
+   "appName": {
+      "message": "Κατέβασμα Βίντεο"
+   },
+   "barDetachBtn": {
+      "description": "The Detach button text as visible on the floating bar",
+      "message": "Απόσπαση"
+   },
+   "barDownloadBtn": {
+      "description": "The Download button text as visible on the floating bar",
+      "message": "Λήψη"
+   },
+   "barMediaBtn": {
+      "description": "The Media button text as visible on the floating bar",
+      "message": "Μέσα"
+   },
+   "barQualityAudio": {
+      "description": "Audio title",
+      "message": "Ήχος"
+   },
+   "barQualityVideo": {
+      "description": "Video title",
+      "message": "Βίντεο"
+   },
+   "barSettingsAbout": {
+      "description": "About Button in settings popup",
+      "message": "Περισσότερες πληροφορίες"
+   },
+   "barSettingsBtn": {
+      "description": "The Settings button text as visible on the floating bar",
+      "message": "Ρυθμίσεις"
+   },
+   "barSettingsDescription": {
+      "description": "Video download feature description in settings popup",
+      "message": "Από το CCleaner Secure Browser"
+   },
+   "barSettingsDoNotShow": {
+      "description": "Button in settings popup disabling video-downloader",
+      "message": "Να μην εμφανιστεί ξανά"
+   },
+   "barSettingsDoNotShowForSite": {
+      "description": "Button in settings popup disabling video-downloader for exact site",
+      "message": "Να μην εμφανιστεί σε αυτόν τον ιστότοπο"
+   },
+   "barSettingsTitle": {
+      "description": "Settings popup title in the floating bar",
+      "message": "Ρυθμίσεις"
+   },
+   "eulaContinue": {
+      "description": "EUlA continue button",
+      "message": "Συνέχεια"
+   },
+   "eulaText": {
+      "description": "EULA message displayed to the user",
+      "message": "Εφόσον αποδεχτείτε την \u003Cdiv>\u003Ca target='blank' href='$link$'>Άδεια Χρήσης Τελικού Χρήστη\u003C/a>\u003C/div> (EULA), αναγνωρίζετε και συμφωνείτε ότι χρησιμοποιείτε το Κατέβασμα Βίντεο με δική σας ευθύνη, σύμφωνα με τους ισχύοντες νόμους περί πνευματικών δικαιωμάτων και τους όρους χρήσης των ιστοσελίδων.",
+      "placeholders": {
+         "link": {
+            "content": "$1"
+         }
+      }
+   },
+   "eulaTitle": {
+      "description": "EULA popup title",
+      "message": "Πριν κατεβάσετε"
+   },
+   "eulaUnderstandAccept": {
+      "description": "EULA user agreement checkbox text",
+      "message": "Κατανοώ και αποδέχομαι την Άδεια Χρήσης Τελικού Χρήστη"
+   },
+   "extensionName": {
+      "description": "Name shown in the extension button in SZB Control Center.",
+      "message": "Κατέβασμα Βίντεο"
+   },
+   "extensionTitle": {
+      "description": "Title shown on hover over the extension button in SZB Control Center.",
+      "message": "Κατεβάστε βίντεο για προβολή εκτός σύνδεσης."
+   },
+   "optionUnknownSize": {
+      "description": "Videa or audio download option of unknown size",
+      "message": "άγνωστο μέγεθος"
+   },
+   "popupAudioHeading": {
+      "description": "The heading of the audio section in the media popup list",
+      "message": "Ήχος"
+   },
+   "popupDisabledFor": {
+      "description": "Page was disabled for video downloader",
+      "message": "Το Κατέβασμα Βίντεο είναι απενεργοποιημένο για"
+   },
+   "popupDownloadBtn": {
+      "description": "The Download button text as visible in the media popup list",
+      "message": "Λήψη"
+   },
+   "popupEnable": {
+      "description": "Enable video downloader for current page",
+      "message": "Ενεργοποίηση"
+   },
+   "popupNoVideos": {
+      "description": "Page does not contain any videos",
+      "message": "Δεν υπάρχουν βίντεο για λήψη σε αυτήν τη σελίδα"
+   },
+   "popupNoVideos_v2": {
+      "description": "",
+      "message": "Για να κατεβάσετε κάποιο βίντεο, μεταβείτε στη σελίδα με τα στοιχεία του."
+   },
+   "popupVideoHeading": {
+      "description": "The heading of the video section in the media popup list",
+      "message": "Βίντεο"
+   },
+   "reattachBtn": {
+      "description": "The Reattach button text as visible on the detached video page",
+      "message": "Επανατοποθέτηση"
+   }
+}

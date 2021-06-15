@@ -1,0 +1,860 @@
+{
+   "1pApplyChanges": {
+      "message": "परिवर्तन लागू करें"
+   },
+   "1pExport": {
+      "message": "निर्यात करें"
+   },
+   "1pFormatHint": {
+      "message": "प्रति पंक्ति एक फ़िल्टर. फ़िल्टर एक सामान्य होस्टनाम या एक विज्ञापन-रोधी के साथ संगत फ़िल्टर हो सकता है. &lsquo;!&rsquo; के साथ पूर्वनियत पंक्तियों की अनदेखी की जाएगी."
+   },
+   "1pImport": {
+      "message": "आयात करें और संलग्न करें"
+   },
+   "1pPageName": {
+      "message": " मेरे फ़िल्टर"
+   },
+   "3pApplyChanges": {
+      "message": "परिवर्तन लागू करें"
+   },
+   "3pAutoUpdatePrompt1": {
+      "message": "स्वत:-अद्यतित फ़िल्टर सूचियां"
+   },
+   "3pExternalListObsolete": {
+      "message": "पुराना"
+   },
+   "3pExternalListsHint": {
+      "message": "प्रति लाइन URL खोलें. &lsquo;!&rsquo; से पूर्व-नियत पंक्तियों की अनदेखी की जाएगी. अमान्य URL की शांति से अनदेखी कर दी जाएगी."
+   },
+   "3pGroupAds": {
+      "message": "विज्ञापन"
+   },
+   "3pGroupAnnoyances": {
+      "message": "छेड़छाड़"
+   },
+   "3pGroupCustom": {
+      "message": "कस्टम"
+   },
+   "3pGroupDefault": {
+      "message": "नेटवर्क और कॉस्मेटिक फ़िल्टर"
+   },
+   "3pGroupMalware": {
+      "message": "मैलवेयर डोमेन"
+   },
+   "3pGroupMultipurpose": {
+      "message": "बहुउद्देशीय"
+   },
+   "3pGroupPrivacy": {
+      "message": "गोपनीयता"
+   },
+   "3pGroupRegions": {
+      "message": "क्षेत्र, भाषाएं"
+   },
+   "3pIgnoreGenericCosmeticFilters": {
+      "message": "जेनेरिक कॉस्मेटिक फ़िल्टर की अनदेखी करें"
+   },
+   "3pIgnoreGenericCosmeticFiltersInfo": {
+      "message": "\u003Cp>जेनेरिक कॉस्मेटिक फ़िल्टर वे कॉस्मेटिक फिल्टर होते हैं जो सभी वेबसाइटों पर लागू करने के लिए होते हैं.\u003Cp>हालांकि CCleaner Anti-Tracking द्वारा कुशलतापूर्वक प्रबंधित किए जाने से, जेनेरिक कॉस्मेटिक फ़िल्टर अभी भी उपरोक्त कुछ वेब पृष्ठों पर औसत दर्जे की मेमोरी और CPU में, विशेष रूप से बड़े और लंबे समय तक रहने वालों के लिए योगदान कर सकते हैं.\u003Cp>इस विकल्प को सक्षम करने से जेनेरिक कॉस्मेटिक फ़िल्टर को प्रबंधित किए जाने के परिणामस्वरूप वेब पृष्ठों में जोड़े गए उपरोक्त मेमोरी और CPU को हटा देगा और इसके अलावा, CCleaner Anti-Tracking के फुटप्रिंट की मेमोरी को कम कर देगा.\u003Cp>कम शक्तिशाली डिवाइस पर इस विकल्प को सक्षम करने की अनुशंसा की जाती है."
+   },
+   "3pImport": {
+      "message": "आयात करें..."
+   },
+   "3pLastUpdate": {
+      "message": "अंतिम अपडेट: {{ago}}.\nअपडेट बाध्य करने के लिए क्लिक करें."
+   },
+   "3pListsOfBlockedHostsHeader": {
+      "message": "ब्लॉक किए गए होस्ट्स की सूचियां"
+   },
+   "3pListsOfBlockedHostsPerListStats": {
+      "message": "{{total}} में से {{used}} प्रयुक्त"
+   },
+   "3pListsOfBlockedHostsPrompt": {
+      "message": "इससे {{netFilterCount}} नेटवर्क फ़िल्टर ＋ {{cosmeticFilterCount}} कॉस्मेटिक फ़िल्टर:"
+   },
+   "3pNetworkError": {
+      "message": "किसी नेटवर्क त्रुटि ने संसाधन को अद्यतित होने से रोका ।"
+   },
+   "3pPageName": {
+      "message": "तृतीय-पक्ष के फ़िल्टर"
+   },
+   "3pParseAllABPHideFiltersInfo": {
+      "message": "\u003Cp>यह विकल्प \u003Ca href=\"https://adblockplus.org/en/faq_internal#elemhide\">विज्ञापनरोधी के साथ संगत &ldquo;छुपे हुए एलिमेंट&rdquo; फ़िल्टर\u003C/a> को पार्स करने और लागू करना सक्षम बनाता है. ये फ़िल्टर मूल कॉस्मेटिक के लिए आवश्यक हैं, वे एक वेब पृष्ठ पर एलिमेंट को छुपाते हैं जिन्हें विज़ुअल में बाधक माना जाता है और जिन्हें नेट अनुरोधा आधारित फ़िल्टरिंग इंजन द्वारा अवरुद्ध नहीं किया जा सकता है.\u003C/p>\u003Cp>इस सुविधा को सक्षम करने से CCleaner Anti-Tracking's की मेमोरी फुटप्रिंट बढ़ जाते हैं.\u003C/p>"
+   },
+   "3pParseAllABPHideFiltersPrompt1": {
+      "message": "कॉस्मेटिक फ़िल्टर को पार्स करके लागू करें"
+   },
+   "3pPurgeAll": {
+      "message": "सभी कैशे पर्ज करें"
+   },
+   "3pUpdateNow": {
+      "message": "अभी अपडेट करें"
+   },
+   "3pUpdating": {
+      "message": "अपडेट कर रहा है..."
+   },
+   "aboutBackupDataButton": {
+      "message": "फ़ाइल पर बैकअप लें"
+   },
+   "aboutBackupFilename": {
+      "message": "CCleaner Anti-Tracking-backup_{{datetime}}.txt"
+   },
+   "aboutChangelog": {
+      "message": "लॉग परिवर्तित करें"
+   },
+   "aboutCode": {
+      "message": "स्रोत कोड (GPLv3)"
+   },
+   "aboutContributors": {
+      "message": "योगदानकर्ता"
+   },
+   "aboutDependencies": {
+      "message": "बाहरी निर्भरताएं (GPLv3-कम्पेटिबल):"
+   },
+   "aboutIssues": {
+      "message": "समस्या ट्रैक करने वाला"
+   },
+   "aboutPageName": {
+      "message": "परिचय"
+   },
+   "aboutResetDataButton": {
+      "message": "डिफ़ॉल्ट सेटिंग्स रीसेट करें..."
+   },
+   "aboutResetDataConfirm": {
+      "message": "आपकी सभी सेटिंग्स हटा दी जाएंगी, और CCleaner Anti-Tracking पुन: प्रारंभ हो जाएगा.\n\nफ़ैक्टरी सेटिंग्स के लिए CCleaner Anti-Tracking रीसेट करें."
+   },
+   "aboutRestoreDataButton": {
+      "message": "फ़ाइल से पुनर्स्थापित करें..."
+   },
+   "aboutRestoreDataConfirm": {
+      "message": "{{time}} पर बैक अप लिए गए डेटा का उपयोग करके आपकी सभी सेटिंग को अधिलेखित किया जाएगा और CCleaner Anti-Tracking को पुन: प्रारंभ किया जाएगा.\n\nबैक अप लिए गए डेटा का उपयोग करके सभी मौजूदा सेटिंग्स को अधिलेखित करें?"
+   },
+   "aboutRestoreDataError": {
+      "message": "डेटा पढ़ा नहीं जा सका या अमान्य है"
+   },
+   "aboutSupport": {
+      "message": "सहायता"
+   },
+   "aboutWiki": {
+      "message": "Wiki"
+   },
+   "advancedSettingsPageName": {
+      "message": "उन्नत सेटिंग"
+   },
+   "advancedSettingsWarning": {
+      "message": "चेतावनी! इन उन्नत सेटिंग्स को अपने जोखिम पर बदलें."
+   },
+   "assetViewerPageName": {
+      "message": "uBlock? ? एसेट व्यूअर"
+   },
+   "cloudDeviceNamePrompt": {
+      "message": "इस डिवाइस का नाम:"
+   },
+   "cloudPull": {
+      "message": "क्लाउड संग्रहण से निर्यात करें"
+   },
+   "cloudPullAndMerge": {
+      "message": "क्लाउड संग्रहण से आयात करें और वर्तमान सेटिंग्स के साथ मर्ज करें"
+   },
+   "cloudPush": {
+      "message": "क्लाउड संग्रहण पर निर्यात करें"
+   },
+   "contextMenuTemporarilyAllowLargeMediaElements": {
+      "message": "बड़े मीडिया एलिमेंट को अस्थाई रूप से अनुमति दें"
+   },
+   "dashboardName": {
+      "message": "#title # — डैशबोर्ड"
+   },
+   "docblockedBack": {
+      "message": "वापस जाएं"
+   },
+   "docblockedClose": {
+      "message": "इस विंडो को बंद करें"
+   },
+   "docblockedDisablePermanent": {
+      "message": "स्थायी रूप से"
+   },
+   "docblockedDisableTemporary": {
+      "message": "अस्थायी तौर पर"
+   },
+   "docblockedFoundIn": {
+      "message": "स्थान:"
+   },
+   "docblockedNoParamsPrompt": {
+      "message": "बिना मापदंड के"
+   },
+   "docblockedProceed": {
+      "message": "{{hostname}} के लिए सख्त अवरोधन अक्षम करें"
+   },
+   "docblockedPrompt1": {
+      "message": "#title # ने निम्न पृष्ठ को लोड होने से रोका है:"
+   },
+   "docblockedPrompt2": {
+      "message": "निम्न फ़िल्टर के कारण"
+   },
+   "dummy": {
+      "message": "यह प्रविष्टि अंतिम होनी चाहिए"
+   },
+   "elapsedManyDaysAgo": {
+      "message": "{{value}} दिन पहले"
+   },
+   "elapsedManyHoursAgo": {
+      "message": "{{value}} घंटे पहले"
+   },
+   "elapsedManyMinutesAgo": {
+      "message": "{{value}} मिनट पहले"
+   },
+   "elapsedOneDayAgo": {
+      "message": "एक दिन पहले"
+   },
+   "elapsedOneHourAgo": {
+      "message": "एक घंटा पहले"
+   },
+   "elapsedOneMinuteAgo": {
+      "message": "एक मिनट पहले"
+   },
+   "errorCantConnectTo": {
+      "message": "नेटवर्क त्रुटि: {{msg}}"
+   },
+   "extShortDesc": {
+      "message": "घुसपैठ करने वाले वेब ट्रैकर को ब्लॉक करता है"
+   },
+   "extra1pPageNameDesc": {
+      "message": "अपने कस्टम फ़िल्टर प्रबंधित करें"
+   },
+   "extra3pPageNameDesc": {
+      "message": "ट्रैकर और गोपनीयता तृतीय पक्ष फ़िल्टर"
+   },
+   "extraAddFilter": {
+      "message": "फ़िल्टर जोड़ें"
+   },
+   "extraAddRrule": {
+      "message": "अस्थायी नियम जोड़ें"
+   },
+   "extraAddSetting": {
+      "message": "सेटिंग जोड़ें"
+   },
+   "extraAddSite": {
+      "message": "साइट जोड़ें"
+   },
+   "extraAdsFilters": {
+      "message": "विज्ञापन फ़िल्टर"
+   },
+   "extraAdvancedUserSettings": {
+      "message": "उन्नत उपयोगकर्ता सेटिंग"
+   },
+   "extraAllowOnSites": {
+      "message": "इन साइटों पर ट्रैकर को अनुमति दें"
+   },
+   "extraBlockMediaElementsLargerThan": {
+      "message": "इससे बड़े मीडिया तत्व अवरोधित करें"
+   },
+   "extraBtnAdd": {
+      "message": "जोड़ें"
+   },
+   "extraBtnCancel": {
+      "message": "रद्द करें"
+   },
+   "extraBtnEdit": {
+      "message": "संपादित करें"
+   },
+   "extraBtnExport": {
+      "message": "निर्यात करें"
+   },
+   "extraBtnImport": {
+      "message": "आयात करें"
+   },
+   "extraBtnRemove": {
+      "message": "निकालें"
+   },
+   "extraBtnUpdateAll": {
+      "message": "सभी अपडेट करें"
+   },
+   "extraDefaultBehaviour": {
+      "message": "डिफ़ॉल्ट व्यवहार"
+   },
+   "extraEditFilter": {
+      "message": "फ़िल्टर संपादित करें"
+   },
+   "extraEditRule": {
+      "message": "अस्थायी नियम संपादित करें"
+   },
+   "extraEditSetting": {
+      "message": "सेटिंग संपादित करें"
+   },
+   "extraEditSite": {
+      "message": "साइट संपादित करें"
+   },
+   "extraGeneralSettings": {
+      "message": "सामान्य सेटिंग"
+   },
+   "extraGeneralSettingsDesc": {
+      "message": "CCleaner Anti-Tracking द्वारा दिखाई जाने वाली जानकारी प्रबंधित करें"
+   },
+   "extraIndexDescription": {
+      "message": "तेज और सुरक्षित ब्राउज़िंग के लिए ट्रैकर को ब्लॉक करें"
+   },
+   "extraIndexFooter": {
+      "message": "uBlock Origin द्वारा संचालित।"
+   },
+   "extraIndexHeader": {
+      "message": "CCleaner Anti-Tracking उन्नत सेटिंग"
+   },
+   "extraInterstitialBlocking": {
+      "message": "अन्तरालीय अवरोध को सक्षम करें"
+   },
+   "extraLabelFilter": {
+      "message": "फ़िल्टर करें"
+   },
+   "extraLearnMore": {
+      "message": "अधिक जानें"
+   },
+   "extraManageFilters": {
+      "message": "फ़िल्टर प्रबंधित करें"
+   },
+   "extraMyCustomFilter": {
+      "message": "मेरे कस्टम फ़िल्टर"
+   },
+   "extraPrivacy": {
+      "message": "गोपनीयता"
+   },
+   "extraRule": {
+      "message": "नियम"
+   },
+   "extraRuleDefinition": {
+      "message": "नियम परिभाषा"
+   },
+   "extraRuleSyntax": {
+      "message": "नियम सिन्टैक्स"
+   },
+   "extraRulesPageNameDesc": {
+      "message": "आपके डायनेमिक फ़िल्टरिंग नियमों की सूची"
+   },
+   "extraSetting": {
+      "message": "सेटिंग"
+   },
+   "extraShowMore": {
+      "message": "अधिक दिखाएँ"
+   },
+   "extraSite": {
+      "message": "साइट"
+   },
+   "extraSlider0": {
+      "message": "विज्ञापन ब्लॉक न करें"
+   },
+   "extraSlider100": {
+      "message": "अधिकतम विज्ञापन ब्लॉकिंग"
+   },
+   "extraSlider50": {
+      "message": "मध्यम विज्ञापन ब्लॉकिंग"
+   },
+   "extraSourceDestinationTypeAction": {
+      "message": "सुरक्षित गंतव्य प्रकार क्रिया।"
+   },
+   "extraWhitelistPageNameDesc": {
+      "message": "उन साइटों की सूची जहां ट्रैकर को अनुमति है"
+   },
+   "fennecMenuItemBlockingOff": {
+      "message": "बंद"
+   },
+   "genericApplyChanges": {
+      "message": "परिवर्तन लागू करें"
+   },
+   "genericBytes": {
+      "message": "बाइट"
+   },
+   "genericCopyToClipboard": {
+      "message": "क्लिपबोर्ड पर कॉपी करें"
+   },
+   "genericMergeViewScrollLock": {
+      "message": "लॉक किए गए स्क्रॉल को टॉगल करें"
+   },
+   "genericRevert": {
+      "message": "वापस लाएं"
+   },
+   "genericSubmit": {
+      "message": "सबमिट करें"
+   },
+   "logAll": {
+      "message": "सभी"
+   },
+   "logBehindTheScene": {
+      "message": "दृश्य के पीछे"
+   },
+   "logFilterPrompt": {
+      "message": "फ़िल्टर लॉग प्रविष्टियां"
+   },
+   "logMaxEntriesTip": {
+      "message": "लॉग प्रविष्टियों की अधिकतम संख्या"
+   },
+   "logRequestsHeaderDomain": {
+      "message": "डोमेन"
+   },
+   "logRequestsHeaderFilter": {
+      "message": "फ़िल्टर करें"
+   },
+   "logRequestsHeaderType": {
+      "message": "लिखें"
+   },
+   "logRequestsHeaderURL": {
+      "message": "URL"
+   },
+   "loggerClearTip": {
+      "message": "लॉगर हटाएं"
+   },
+   "loggerCurrentTab": {
+      "message": "वर्तमान टैब"
+   },
+   "loggerDomInspectorTip": {
+      "message": "DOM इंस्पेक्टर टॉगल करें"
+   },
+   "loggerEntryDetailsContext": {
+      "message": "संदर्भ"
+   },
+   "loggerEntryDetailsFilter": {
+      "message": "फ़िल्टर करें"
+   },
+   "loggerEntryDetailsFilterList": {
+      "message": "सूचियाँ फ़िल्टर करें"
+   },
+   "loggerEntryDetailsHeader": {
+      "message": "विवरण"
+   },
+   "loggerEntryDetailsPartyness": {
+      "message": "पार्टीनेस"
+   },
+   "loggerEntryDetailsRootContext": {
+      "message": "मूल संदर्भ"
+   },
+   "loggerEntryDetailsRule": {
+      "message": "नियम"
+   },
+   "loggerEntryDetailsType": {
+      "message": "प्रकार"
+   },
+   "loggerEntryDetailsURL": {
+      "message": "URL"
+   },
+   "loggerExportEncodeMarkdown": {
+      "message": "चिन्हित करें"
+   },
+   "loggerExportEncodePlain": {
+      "message": "सादा"
+   },
+   "loggerExportFormatList": {
+      "message": "सूची"
+   },
+   "loggerExportFormatTable": {
+      "message": "तालिका"
+   },
+   "loggerInfoTip": {
+      "message": "uBlock Origin विकि: लॉगर"
+   },
+   "loggerPauseTip": {
+      "message": "लॉगर रोकें (आने वाले सभी डेटा को छोड़ें)"
+   },
+   "loggerPopupPanelTip": {
+      "message": "पॉपअप पैनल टॉगल करें"
+   },
+   "loggerReloadTip": {
+      "message": "टैब की सामग्री पुनः लोड करें"
+   },
+   "loggerRowFiltererBuiltin1p": {
+      "message": "प्रथम-पक्ष"
+   },
+   "loggerRowFiltererBuiltin3p": {
+      "message": "तृतीय-पक्ष"
+   },
+   "loggerRowFiltererBuiltinAllowed": {
+      "message": "अनुमति दी गई"
+   },
+   "loggerRowFiltererBuiltinBlocked": {
+      "message": "ब्लॉक की गई"
+   },
+   "loggerRowFiltererBuiltinEventful": {
+      "message": "परिणामस्वरूप"
+   },
+   "loggerRowFiltererBuiltinNot": {
+      "message": "नहीं"
+   },
+   "loggerRowFiltererBuiltinTip": {
+      "message": "लॉगर फ़िल्टरिंग विकल्प"
+   },
+   "loggerRowFiltererButtonTip": {
+      "message": "लॉगर फ़िल्टरिंग टॉगल करें"
+   },
+   "loggerSettingDiscardPrompt": {
+      "message": "वे लॉगर प्रविष्टियां जो नीचे दी गई सभी तीन शर्तों को पूरा नहीं करती हैं, अपने खारिज कर दी जाएंगी:"
+   },
+   "loggerSettingHideColumnContext": {
+      "message": "{{input}} संदर्भ"
+   },
+   "loggerSettingHideColumnFilter": {
+      "message": "{{input}} फ़िल्टर/नियम"
+   },
+   "loggerSettingHideColumnPartyness": {
+      "message": "{{input}} पार्टीनेस"
+   },
+   "loggerSettingHideColumnTime": {
+      "message": "{{input}} समय"
+   },
+   "loggerSettingHideColumnsPrompt": {
+      "message": "स्तंभ छिपाएं:"
+   },
+   "loggerSettingPerEntryLineCount": {
+      "message": "ऊर्ध्वाधर विस्तार मोड में प्रति प्रविष्टि {{input}} लाइनों का उपयोग करें"
+   },
+   "loggerSettingPerEntryMaxAge": {
+      "message": "अंतिम {{input}} मिनटों की प्रविष्टियां सुरक्षित रखें"
+   },
+   "loggerSettingPerTabMaxEntries": {
+      "message": "प्रति टैब अधिकतम {{input}} प्रविष्टियां सुरक्षित रखें"
+   },
+   "loggerSettingPerTabMaxLoads": {
+      "message": "प्रति टैब अधिकतम {{input}} पृष्ठ लोड लोड होना सुरक्षित करें"
+   },
+   "loggerStaticFilteringFinderSentence1": {
+      "message": "स्टेटिक फ़िल्टर \u003Ccode>{{filter}}\u003C/code> इसमें मिला:"
+   },
+   "loggerStaticFilteringFinderSentence2": {
+      "message": "स्टेटिक फ़िल्टर \u003Ccode>{{filter}}\u003C/code> वर्तमान में सक्षम फ़िल्टर सूचियों में से किसी में भी नहीं मिल सकता"
+   },
+   "loggerStaticFilteringHeader": {
+      "message": "स्टेटिक फ़िल्टरिंग"
+   },
+   "loggerStaticFilteringSentence": {
+      "message": "{{action}} {{type}} के नेटवर्क अनुरोध {{br}},जो URL पते से मेल खाता है {{url}} {{br}}और जो {{origin}} जनरेट करता है,{{br}}{{importance}} इसमें एक मिलान अपवाद फ़िल्टर है।"
+   },
+   "loggerStaticFilteringSentencePartAllow": {
+      "message": "अनुमति दें"
+   },
+   "loggerStaticFilteringSentencePartAnyOrigin": {
+      "message": "कहीं से भी"
+   },
+   "loggerStaticFilteringSentencePartAnyType": {
+      "message": "कोई भी प्रकार"
+   },
+   "loggerStaticFilteringSentencePartBlock": {
+      "message": "ब्लॉक करें"
+   },
+   "loggerStaticFilteringSentencePartImportant": {
+      "message": "भले ही"
+   },
+   "loggerStaticFilteringSentencePartNotImportant": {
+      "message": "सिवाय इसके कि जब"
+   },
+   "loggerStaticFilteringSentencePartOrigin": {
+      "message": "?{{origin}}? से"
+   },
+   "loggerStaticFilteringSentencePartType": {
+      "message": "प्रकार ?{{type}}?"
+   },
+   "loggerURLFilteringContextLabel": {
+      "message": "संदर्भ:"
+   },
+   "loggerURLFilteringHeader": {
+      "message": "गतिशीत URL फ़िल्टरिंग"
+   },
+   "loggerURLFilteringTypeLabel": {
+      "message": "प्रकार:"
+   },
+   "loggerUnpauseTip": {
+      "message": "लॉगर से रोक हटाएं"
+   },
+   "pickerContextMenuEntry": {
+      "message": "एलिमेंट ब्लॉक करें"
+   },
+   "pickerCosmeticFilters": {
+      "message": "कॉस्मेटिक फ़िल्टर"
+   },
+   "pickerCosmeticFiltersHint": {
+      "message": "क्लिक करें, Ctrl-क्लिक करें"
+   },
+   "pickerCreate": {
+      "message": "बनाएंं"
+   },
+   "pickerNetFilters": {
+      "message": "नेटवर्क फ़िल्टर"
+   },
+   "pickerPick": {
+      "message": "चुनें"
+   },
+   "pickerPreview": {
+      "message": "पूर्वावलोकन"
+   },
+   "pickerQuit": {
+      "message": "छोड़ें"
+   },
+   "popup1pScriptRulePrompt": {
+      "message": "प्रथम-पक्ष की स्क्रिप्ट"
+   },
+   "popup3pAnyRulePrompt": {
+      "message": "तृतीय-पक्ष"
+   },
+   "popup3pFrameRulePrompt": {
+      "message": "तृतीय-पक्ष के फ़्रेम"
+   },
+   "popup3pPassiveRulePrompt": {
+      "message": "तृतीय-पक्ष/छवियां"
+   },
+   "popup3pScriptRulePrompt": {
+      "message": "तृतीय-पक्ष की स्क्रिप्ट"
+   },
+   "popupAdvancedSettings": {
+      "message": "उन्नत सेटिंग"
+   },
+   "popupAnyRulePrompt": {
+      "message": "सभी"
+   },
+   "popupExtraAdsAllowedOnSites": {
+      "message": "इस साइट पर ट्रैकर को अनुमति है"
+   },
+   "popupExtraAdsBlockedOnPage": {
+      "message": "इस पृष्ठ पर ब्लॉक किए गए ट्रैकर"
+   },
+   "popupExtraAdsBlockedOnSites": {
+      "message": "इस साइट पर ट्रैकर ब्लॉक कर दिए गए हैं"
+   },
+   "popupExtraAdsBlockedTotal": {
+      "message": "कुल ब्लॉक ट्रैकर"
+   },
+   "popupExtraLessOptions": {
+      "message": "कम विकल्प"
+   },
+   "popupExtraListAllowedSites": {
+      "message": "अनुमत साइट्स की सूची"
+   },
+   "popupExtraMoreInformation": {
+      "message": "अधिक जानकारी"
+   },
+   "popupExtraMoreOptions": {
+      "message": "अधिक विकल्प"
+   },
+   "popupExtraNoSitesAddedYet": {
+      "message": "अभी तक कोई साइट नहीं जोड़ी गई"
+   },
+   "popupExtraProtectionCanNotEnabled": {
+      "message": "इस साइट पर सुरक्षा सक्षम नहीं की जा सकती"
+   },
+   "popupExtraProtectionDisabledForSession": {
+      "message": "इस सत्र के लिए सुरक्षा सक्षम नहीं की जा सकती"
+   },
+   "popupExtraSeeListAllowedSites": {
+      "message": "सभी अनुमत साइट्स की सूची देखें"
+   },
+   "popupHitDomainCount": {
+      "message": "{{total}} में से {{count}}"
+   },
+   "popupHitDomainCountPrompt": {
+      "message": "कनेक्ट किए हुए डोमेन"
+   },
+   "popupImageRulePrompt": {
+      "message": "छवियां"
+   },
+   "popupInlineScriptRulePrompt": {
+      "message": "इनलाइन स्क्रिप्ट"
+   },
+   "popupTipDashboard": {
+      "message": "डैशबोर्ड को खोलें"
+   },
+   "popupTipGlobalRules": {
+      "message": "वैश्विक नियम: यह कॉलम सभी साइटों पर लागू होने वाले नियमों के लिए है।"
+   },
+   "popupTipLocalRules": {
+      "message": "स्थानीय नियम: यह कॉलम केवल वर्तमान साइट पर लागू होने वाले नियमों के लिए है।\nस्थानीय नियम वैश्विक नियमों को ओवरराइड करते हैं।"
+   },
+   "popupTipLog": {
+      "message": "लोगर को खोले"
+   },
+   "popupTipNoCosmeticFiltering": {
+      "message": "इस साइट के लिए कॉस्मेटिक फ़िल्टरिंग टॉगल करें"
+   },
+   "popupTipNoCosmeticFiltering1": {
+      "message": "इस साइट पर कॉस्मेटिक फ़िल्टरिंग बंद करने के लिए क्लिक करें"
+   },
+   "popupTipNoCosmeticFiltering2": {
+      "message": "इस साइट पर कॉस्मेटिक फ़िल्टरिंग चालू करने के लिए क्लिक करें"
+   },
+   "popupTipNoLargeMedia": {
+      "message": "इस साइट के लिए बड़े मीडिया तत्वों को ब्लॉक करना टॉगल करें"
+   },
+   "popupTipNoLargeMedia1": {
+      "message": "इस साइट पर बड़े मीडिया तत्वों को ब्लॉक करने के लिए क्लिक करें"
+   },
+   "popupTipNoLargeMedia2": {
+      "message": "अब इस साइट पर बड़े मीडिया तत्वों को ब्लॉक नहीं करने के लिए क्लिक करें"
+   },
+   "popupTipNoPopups": {
+      "message": "इस साइट के लिए सभी अवरुद्ध पॉपअप टॉगल करें"
+   },
+   "popupTipNoPopups1": {
+      "message": "इस साइट पर सभी पॉपअप ब्लॉक करने के लिए क्लिक करें"
+   },
+   "popupTipNoPopups2": {
+      "message": "अब इस साइट के सभी पॉपअप ब्लॉक नहीं करने के लिए क्लिक करें"
+   },
+   "popupTipNoRemoteFonts": {
+      "message": "इस साइट के लिए रिमोट फ़ॉन्ट ब्लॉक करना टॉगल करें"
+   },
+   "popupTipNoRemoteFonts1": {
+      "message": "इस साइट पर रिमोट फ़ॉन्ट ब्लॉक करने के लिए क्लिक करें"
+   },
+   "popupTipNoRemoteFonts2": {
+      "message": "अब इस साइट पर रिमोट फ़ॉन्ट ब्लॉक नहीं करने के लिए क्लिक करें"
+   },
+   "popupTipNoScripting1": {
+      "message": "इस साइट पर JavaScript बंद करने के लिए क्लिक करें"
+   },
+   "popupTipNoScripting2": {
+      "message": "अब इस साइट पर JavaScrip बंद नहीं करने के लिए क्लिक करें"
+   },
+   "popupTipPicker": {
+      "message": "एलिमेंट पिकर मोड दर्ज करें"
+   },
+   "popupTipRevertRules": {
+      "message": "अपने बदलावों को वापस लाने के लिए क्लिक करें।"
+   },
+   "popupTipSaveRules": {
+      "message": "अपने बदलावों को स्थायी बनाने के लिए क्लिक करें।"
+   },
+   "popupTipZapper": {
+      "message": "एलिमेंट ज़ैपर मोड दर्ज करें"
+   },
+   "rulesCommit": {
+      "message": "वचन दें"
+   },
+   "rulesEdit": {
+      "message": "संपादित करें"
+   },
+   "rulesEditDiscard": {
+      "message": "छोड़ें"
+   },
+   "rulesEditSave": {
+      "message": "सहेजें"
+   },
+   "rulesExport": {
+      "message": "फ़ाइल में निर्यात करें"
+   },
+   "rulesFormatHint": {
+      "message": "नियम संदर्भ: \u003Ccode>source destination type action\u003C/code> (\u003Ca href='https://github.com/gorhill/uBlock/wiki/Dynamic-filtering:-rule-syntax'>full documentation\u003C/a>)."
+   },
+   "rulesHint": {
+      "message": "आपके डायनेमिक फ़िल्टरिंग नियमों की सूची."
+   },
+   "rulesImport": {
+      "message": "फ़ाइल से आयात करें..."
+   },
+   "rulesPageName": {
+      "message": "मेरे नियम"
+   },
+   "rulesPermanentHeader": {
+      "message": "स्थायी नियम"
+   },
+   "rulesRevert": {
+      "message": "वापस लाएं"
+   },
+   "rulesTemporaryHeader": {
+      "message": "अस्थाई नियम"
+   },
+   "settingPerSiteSwitchGroup": {
+      "message": "डिफ़ॉल्ट व्यवहार"
+   },
+   "settingPerSiteSwitchGroupSynopsis": {
+      "message": "ये डिफ़ॉल्ट व्यवहार प्रति-साइट के आधार पर ओवरराइड किए जा सकते हैं"
+   },
+   "settingsAdvancedUserPrompt": {
+      "message": "मैं उन्नत उपयोगकर्ता हूं (\u003Ca href='https://github.com/gorhill/uBlock/wiki/Advanced-user-features'>required reading\u003C/a>)"
+   },
+   "settingsAdvancedUserSettings": {
+      "message": "उन्नत सेटिंग"
+   },
+   "settingsCloudStorageEnabledPrompt": {
+      "message": "क्लाउड संग्रहण समर्थन को सक्षम करें"
+   },
+   "settingsCollapseBlockedPrompt": {
+      "message": "अवरोधित एलिमेंट के प्लेसहोल्डर छुपाएं"
+   },
+   "settingsColorBlindPrompt": {
+      "message": "रंग अंधापन के अनुकूल"
+   },
+   "settingsContextMenuPrompt": {
+      "message": "जहां उचित हो संदर्भ मेनू का अधिकतम लाभ उठाएं"
+   },
+   "settingsHyperlinkAuditingDisabledPrompt": {
+      "message": "हाइपरलिंक ऑडिटिंग अक्षम करें"
+   },
+   "settingsIconBadgePrompt": {
+      "message": "इस आइकन पर अवरोधित अनुरोधों की संख्या दिखाएं"
+   },
+   "settingsLastBackupPrompt": {
+      "message": "अंतिम बैकअप:"
+   },
+   "settingsLastRestorePrompt": {
+      "message": "अंतिम पुनर्स्थापना:"
+   },
+   "settingsNoCSPReportsPrompt": {
+      "message": "CSP रिपोर्ट ब्लॉक करें"
+   },
+   "settingsNoCosmeticFilteringPrompt": {
+      "message": "कॉस्मेटिक फ़िल्टरिंग अक्षम करें"
+   },
+   "settingsNoLargeMediaPrompt": {
+      "message": "{{input:number}} kB से बड़े मीडिया तत्वों को ब्लॉक करें"
+   },
+   "settingsNoRemoteFontsPrompt": {
+      "message": "दूरस्थ फ़ॉन्ट ब्लॉक करें"
+   },
+   "settingsNoScriptingPrompt": {
+      "message": "JavaScript बंद करें"
+   },
+   "settingsPageName": {
+      "message": "सेटिंग"
+   },
+   "settingsPrefetchingDisabledPrompt": {
+      "message": "पूर्व-फ़ेचिंग अक्षम करें (ब्लॉक किए गए नेटवर्क अनुरोधों के लिए किसी भी कनेक्शन को रोकने के लिए)"
+   },
+   "settingsStorageUsed": {
+      "message": "प्रयुक्त संग्रहण: {{value}} बाइट"
+   },
+   "settingsTooltipsPrompt": {
+      "message": "टूलटिप अक्षम करें"
+   },
+   "settingsWebRTCIPAddressHiddenPrompt": {
+      "message": "स्थानीय IP पतों को लीक करने से WebRTC रोकें"
+   },
+   "shortcutCapturePlaceholder": {
+      "message": "कोई शॉर्टकट टाइप करें"
+   },
+   "shortcutsPageName": {
+      "message": "शॉर्टकट"
+   },
+   "showDashboardButton": {
+      "message": "डैशबोर्ड दिखाएं"
+   },
+   "showNetworkLogButton": {
+      "message": "लॉगर दिखाएं"
+   },
+   "statsPageName": {
+      "message": "#title # — लॉगर"
+   },
+   "subscriberConfirm": {
+      "message": "CCleaner Anti-Tracking: अपने कस्टम फ़िल्टर की सूचियों में निम्न URL जोड़ें?\n\nTitle: \"{{title}}\"\nURL: {{url}}"
+   },
+   "whitelistApply": {
+      "message": "परिवर्तन लागू करें"
+   },
+   "whitelistExport": {
+      "message": "निर्यात करें"
+   },
+   "whitelistExportFilename": {
+      "message": "CCleaner Anti-Tracking-whitelist_{{datetime}}.txt"
+   },
+   "whitelistImport": {
+      "message": "आयात करें और संलग्न करें"
+   },
+   "whitelistPageName": {
+      "message": "व्हाइटलिस्ट"
+   },
+   "whitelistPrompt": {
+      "message": "श्वेत सूची निर्देश डिक्टेट को किस वेब पृष्ठ पर CCleaner Anti-Tracking अक्षम किया जाना चाहिए. प्रति पंक्ति एक प्रविष्टि. अमान्य निर्देशों को चुपचाप अनदेखा कर दिया जाएगा और बाहर टिप्पणी की जाएगी."
+   }
+}

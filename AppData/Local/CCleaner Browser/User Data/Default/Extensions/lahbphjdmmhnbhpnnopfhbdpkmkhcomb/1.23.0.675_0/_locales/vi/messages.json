@@ -1,0 +1,875 @@
+{
+   "1pApplyChanges": {
+      "message": "Áp dụng thay đổi"
+   },
+   "1pExport": {
+      "message": "Xuất"
+   },
+   "1pExportFilename": {
+      "message": "CCleaner Anti-Tracking-static-filters_{{datetime}}.txt"
+   },
+   "1pFormatHint": {
+      "message": "Một bộ lọc trên mỗi dòng. Bộ lọc có thể là một tên máy chủ đơn giản, hoặc một bộ lọc tương thích với Adblock Plus. Các dòng có tiền tố &lsquo;!&rsquo; sẽ được bỏ qua."
+   },
+   "1pImport": {
+      "message": "Nhập và thêm"
+   },
+   "1pPageName": {
+      "message": "Các bộ lọc của tôi"
+   },
+   "3pApplyChanges": {
+      "message": "Áp dụng thay đổi"
+   },
+   "3pAutoUpdatePrompt1": {
+      "message": "Danh sách bộ lọc tự động cập nhật"
+   },
+   "3pExternalListObsolete": {
+      "message": "Lỗi thời."
+   },
+   "3pExternalListsHint": {
+      "message": "Một URL trên mỗi dòng. Các dòng có tiền tố &lsquo;!&rsquo; sẽ được bỏ qua. Các URL không hợp lệ sẽ được âm thầm bỏ qua."
+   },
+   "3pGroupAds": {
+      "message": "Quảng cáo"
+   },
+   "3pGroupAnnoyances": {
+      "message": "Những phiền toái"
+   },
+   "3pGroupCustom": {
+      "message": "Tùy chỉnh"
+   },
+   "3pGroupDefault": {
+      "message": "Bộ lọc mạng & giao diện"
+   },
+   "3pGroupMalware": {
+      "message": "Miền phần mềm độc hại"
+   },
+   "3pGroupMultipurpose": {
+      "message": "Đa chức năng"
+   },
+   "3pGroupPrivacy": {
+      "message": "Quyền riêng tư"
+   },
+   "3pGroupRegions": {
+      "message": "Vùng, ngôn ngữ"
+   },
+   "3pIgnoreGenericCosmeticFilters": {
+      "message": "Bỏ qua bộ lọc hình ảnh chung"
+   },
+   "3pIgnoreGenericCosmeticFiltersInfo": {
+      "message": "\u003Cp>Bộ lọc hình ảnh chung là các bộ lọc hình ảnh được áp dụng trên tất cả các trang web.\u003Cp>Mặc dù CCleaner Anti-Tracking xử lý hiệu quả, các bộ lọc hình ảnh chung vẫn có thể tiêu tốn đáng kể bộ nhớ và công suất xử lý của CPU đối với một số trang web, đặc biệt là các trang lớn và có thời gian dài.\u003Cp>Việc bật tùy chọn này sẽ giảm tối đa việc sử dụng bộ nhớ và công suất xử lý của CPU được thêm vào các trang web do việc xử lý của các bộ lọc hình ảnh chung, đồng thời còn giảm dung lượng bộ nhớ cần dùng cho chính CCleaner Anti-Tracking.\u003Cp>Chúng tôi khuyến nghị bạn nên bật tùy chọn này trên các thiết bị yếu."
+   },
+   "3pImport": {
+      "message": "Nhập..."
+   },
+   "3pLastUpdate": {
+      "message": "Cập nhật gần nhất: {{ago}}\nNhấp để tiến hành cập nhật bắt buộc."
+   },
+   "3pListsOfBlockedHostsHeader": {
+      "message": "Danh sách các máy chủ bị chặn"
+   },
+   "3pListsOfBlockedHostsPerListStats": {
+      "message": "{{used}} được sử dụng trong tổng số {{total}}"
+   },
+   "3pListsOfBlockedHostsPrompt": {
+      "message": "{{netFilterCount}} bộ lọc mạng + {{cosmeticFilterCount}} bộ lọc bên ngoài từ:"
+   },
+   "3pNetworkError": {
+      "message": "Lỗi mạng đã ngăn cản cập nhật tài nguyên."
+   },
+   "3pPageName": {
+      "message": "Bộ lọc bên thứ ba"
+   },
+   "3pParseAllABPHideFiltersInfo": {
+      "message": "\u003Cp>Tùy chọn này cho phép phân tích và thực thi \u003Ca href=\"https://adblockplus.org/en/faq_internal#elemhide\">các bộ lọc &ldquo;ẩn thành phần&rdquo; tương thích với Chặn quảng cáo Bổ sung\u003C/a>. Các bộ lọc này về cơ bản là hình ảnh, có tác dụng ẩn yếu tố trong trang web được coi là gây ảnh hưởng đến thị giác và không thể chặn được bằng công cụ lọc dựa trên yêu cầu mạng.\u003C/p>\u003Cp>Bật tính năng này sẽ tăng dung lượng bộ nhớ cần dùng cho CCleaner Anti-Tracking.\u003C/p>"
+   },
+   "3pParseAllABPHideFiltersPrompt1": {
+      "message": "Phân tích và thi hành các bộ lọc hình ảnh"
+   },
+   "3pPurgeAll": {
+      "message": "Dọn sạch tất cả bộ nhớ đệm"
+   },
+   "3pUpdateNow": {
+      "message": "Cập nhật ngay"
+   },
+   "3pUpdating": {
+      "message": "Đang cập nhật..."
+   },
+   "aboutBackupDataButton": {
+      "message": "Sao lưu vào tập tin"
+   },
+   "aboutBackupFilename": {
+      "message": "CCleaner Anti-Tracking-backup_{{datetime}}.txt"
+   },
+   "aboutChangelog": {
+      "message": "Thay đổi nhật ký"
+   },
+   "aboutCode": {
+      "message": "Mã nguồn (GPLv3)"
+   },
+   "aboutContributors": {
+      "message": "Những người đóng góp"
+   },
+   "aboutDependencies": {
+      "message": "Phần phụ thuộc ngoài (tương thích với GPLv3):"
+   },
+   "aboutIssues": {
+      "message": "Trình theo dõi sự cố"
+   },
+   "aboutPageName": {
+      "message": "Giới thiệu"
+   },
+   "aboutResetDataButton": {
+      "message": "Khôi phục về cài đặt mặc định..."
+   },
+   "aboutResetDataConfirm": {
+      "message": "Tất cả các cài đặt của bạn sẽ bị loại bỏ, và CCleaner Anti-Tracking sẽ khởi động lại.\n\nBạn có đồng ý đặt lại CCleaner Anti-Tracking về cài đặt gốc?"
+   },
+   "aboutRestoreDataButton": {
+      "message": "Khôi phục từ tập tin..."
+   },
+   "aboutRestoreDataConfirm": {
+      "message": "Tất cả các cài đặt của bạn sẽ được ghi đè bằng cách sử dụng dữ liệu đã sao lưu vào {{time}}, và CCleaner Anti-Tracking sẽ khởi động lại.\n\nBạn có đồng ý ghi đè lên tất cả các cài đặt hiện tại bằng cách sử dụng dữ liệu đã sao lưu?"
+   },
+   "aboutRestoreDataError": {
+      "message": "Dữ liệu không hợp lệ hoặc không thể đọc được"
+   },
+   "aboutSupport": {
+      "message": "Hỗ trợ"
+   },
+   "aboutWiki": {
+      "message": "Wiki"
+   },
+   "advancedSettingsPageName": {
+      "message": "Cài đặt nâng cao"
+   },
+   "advancedSettingsWarning": {
+      "message": "Cảnh báo! Bạn phải chấp nhận mọi bất trắc khi thay đổi cài đặt nâng cao."
+   },
+   "assetViewerPageName": {
+      "message": "uBlock? ? Trình xem phần tử"
+   },
+   "cloudDeviceNamePrompt": {
+      "message": "Tên thiết bị này:"
+   },
+   "cloudNoData": {
+      "message": "...\n..."
+   },
+   "cloudPull": {
+      "message": "Nhập từ lưu trữ đám mây"
+   },
+   "cloudPullAndMerge": {
+      "message": "Nhập từ lưu trữ đám mây và gộp với cài đặt hiện tại"
+   },
+   "cloudPush": {
+      "message": "Xuất lên lưu trữ đám mây"
+   },
+   "contextMenuTemporarilyAllowLargeMediaElements": {
+      "message": "Tạm thời cho phép các thành phần phương tiện lớn"
+   },
+   "dashboardName": {
+      "message": "CCleaner Anti-Tracking — Bảng điều khiển"
+   },
+   "docblockedBack": {
+      "message": "Quay lại"
+   },
+   "docblockedClose": {
+      "message": "Đóng cửa sổ này"
+   },
+   "docblockedDisablePermanent": {
+      "message": "Vĩnh viễn"
+   },
+   "docblockedDisableTemporary": {
+      "message": "Tạm thời"
+   },
+   "docblockedFoundIn": {
+      "message": "Tìm thấy tại:"
+   },
+   "docblockedNoParamsPrompt": {
+      "message": "không có tham số"
+   },
+   "docblockedProceed": {
+      "message": "Tắt chặn nghiêm ngặt cho máy chủ {{hostname}}"
+   },
+   "docblockedPrompt1": {
+      "message": "CCleaner Anti-Tracking đã ngăn trang sau đây tải:"
+   },
+   "docblockedPrompt2": {
+      "message": "Vì các bộ lọc sau"
+   },
+   "dummy": {
+      "message": "Mục nhập này phải là mục cuối cùng"
+   },
+   "elapsedManyDaysAgo": {
+      "message": "{{value}} ngày trước"
+   },
+   "elapsedManyHoursAgo": {
+      "message": "{{value}} giờ trước"
+   },
+   "elapsedManyMinutesAgo": {
+      "message": "{{value}} phút trước"
+   },
+   "elapsedOneDayAgo": {
+      "message": "một ngày trước"
+   },
+   "elapsedOneHourAgo": {
+      "message": "một giờ trước"
+   },
+   "elapsedOneMinuteAgo": {
+      "message": "một phút trước"
+   },
+   "errorCantConnectTo": {
+      "message": "Lỗi mạng: {{msg}}"
+   },
+   "extName": {
+      "message": "CCleaner Anti-Tracking"
+   },
+   "extShortDesc": {
+      "message": "Chặn các công cụ theo dõi web có tính xâm lấn."
+   },
+   "extra1pPageNameDesc": {
+      "message": "Quản lý các bộ lọc tùy chỉnh của bạn"
+   },
+   "extra3pPageNameDesc": {
+      "message": "Bộ lọc công cụ theo dõi và quyền riêng tư của bên thứ 3"
+   },
+   "extraAddFilter": {
+      "message": "Thêm bộ lọc"
+   },
+   "extraAddRrule": {
+      "message": "Thêm quy tắc tạm thời"
+   },
+   "extraAddSetting": {
+      "message": "Thêm cài đặt"
+   },
+   "extraAddSite": {
+      "message": "Thêm trang"
+   },
+   "extraAdsFilters": {
+      "message": "Các bộ lọc quảng cáo"
+   },
+   "extraAdvancedUserSettings": {
+      "message": "Cài đặt người dùng nâng cao"
+   },
+   "extraAllowOnSites": {
+      "message": "Cho phép công cụ theo dõi trên các trang này"
+   },
+   "extraBlockMediaElementsLargerThan": {
+      "message": "Chặn các thành phần quảng cáo lớn hơn"
+   },
+   "extraBtnAdd": {
+      "message": "thêm"
+   },
+   "extraBtnCancel": {
+      "message": "hủy"
+   },
+   "extraBtnEdit": {
+      "message": "Chỉnh sửa"
+   },
+   "extraBtnExport": {
+      "message": "xuất"
+   },
+   "extraBtnImport": {
+      "message": "nhập"
+   },
+   "extraBtnRemove": {
+      "message": "Gỡ bỏ"
+   },
+   "extraBtnUpdateAll": {
+      "message": "cập nhật tất cả"
+   },
+   "extraDefaultBehaviour": {
+      "message": "Hành vi mặc định"
+   },
+   "extraEditFilter": {
+      "message": "Chỉnh sửa bộ lọc"
+   },
+   "extraEditRule": {
+      "message": "Chỉnh sửa quy tắc tạm thời"
+   },
+   "extraEditSetting": {
+      "message": "Chỉnh sửa cài đặt"
+   },
+   "extraEditSite": {
+      "message": "Chỉnh sửa trang"
+   },
+   "extraGeneralSettings": {
+      "message": "Cài đặt chung"
+   },
+   "extraGeneralSettingsDesc": {
+      "message": "Quản lý thông tin CCleaner Anti-Tracking hiển thị"
+   },
+   "extraIndexDescription": {
+      "message": "Chặn công cụ theo dõi để duyệt web nhanh & an toàn hơn"
+   },
+   "extraIndexFooter": {
+      "message": "Được hỗ trợ bởi uBlock Origin."
+   },
+   "extraIndexHeader": {
+      "message": "CCleaner Anti-Tracking Cài đặt Nâng cao"
+   },
+   "extraIndexTitle": {
+      "message": "CCleaner Anti-Tracking"
+   },
+   "extraInterstitialBlocking": {
+      "message": "Bật tính năng chặn quảng cáo xen kẽ"
+   },
+   "extraLabelFilter": {
+      "message": "Bộ lọc"
+   },
+   "extraLearnMore": {
+      "message": "Tìm hiểu thêm"
+   },
+   "extraManageFilters": {
+      "message": "Quản lý bộ lọc"
+   },
+   "extraMyCustomFilter": {
+      "message": "Bộ lọc tùy chỉnh của tôi"
+   },
+   "extraPrivacy": {
+      "message": "Quyền riêng tư"
+   },
+   "extraRule": {
+      "message": "Quy tắc"
+   },
+   "extraRuleDefinition": {
+      "message": "Định nghĩa quy tắc"
+   },
+   "extraRuleSyntax": {
+      "message": "Cú pháp quy tắc"
+   },
+   "extraRulesPageNameDesc": {
+      "message": "Danh sách các quy tắc lọc linh động"
+   },
+   "extraSetting": {
+      "message": "Cài đặt"
+   },
+   "extraShowMore": {
+      "message": "Hiển thị thêm"
+   },
+   "extraSite": {
+      "message": "Trang"
+   },
+   "extraSlider0": {
+      "message": "Không chặn quảng cáo"
+   },
+   "extraSlider100": {
+      "message": "Chặn Quảng cáo tối đa"
+   },
+   "extraSlider50": {
+      "message": "Chặn Quảng cáo hợp lý"
+   },
+   "extraSourceDestinationTypeAction": {
+      "message": "source destination type action."
+   },
+   "extraWhitelistPageNameDesc": {
+      "message": "Danh sách các trang cho phép công cụ theo dõi"
+   },
+   "fennecMenuItemBlockingOff": {
+      "message": "tắt"
+   },
+   "genericApplyChanges": {
+      "message": "Áp dụng thay đổi"
+   },
+   "genericBytes": {
+      "message": "byte"
+   },
+   "genericCopyToClipboard": {
+      "message": "Sao chép vào bộ nhớ tạm"
+   },
+   "genericMergeViewScrollLock": {
+      "message": "Bật/tắt tính năng cuộn bị khóa"
+   },
+   "genericRevert": {
+      "message": "Khôi phục"
+   },
+   "genericSubmit": {
+      "message": "Gửi"
+   },
+   "logAll": {
+      "message": "Tất cả"
+   },
+   "logBehindTheScene": {
+      "message": "Hậu trường"
+   },
+   "logFilterPrompt": {
+      "message": "bộ lọc các mục nhập nhật ký"
+   },
+   "logMaxEntriesTip": {
+      "message": "Số lượng mục nhập nhật ký tối đa"
+   },
+   "logRequestsHeaderDomain": {
+      "message": "Miền"
+   },
+   "logRequestsHeaderFilter": {
+      "message": "Bộ lọc"
+   },
+   "logRequestsHeaderType": {
+      "message": "Loại"
+   },
+   "logRequestsHeaderURL": {
+      "message": "URL"
+   },
+   "loggerClearTip": {
+      "message": "Xóa trình ghi nhật ký"
+   },
+   "loggerCurrentTab": {
+      "message": "Tab hiện tại"
+   },
+   "loggerDomInspectorTip": {
+      "message": "Bật/tắt trình kiểm tra DOM"
+   },
+   "loggerEntryDetailsContext": {
+      "message": "Ngữ cảnh"
+   },
+   "loggerEntryDetailsFilter": {
+      "message": "Bộ lọc"
+   },
+   "loggerEntryDetailsFilterList": {
+      "message": "Danh sách bộ lọc"
+   },
+   "loggerEntryDetailsHeader": {
+      "message": "Chi tiết"
+   },
+   "loggerEntryDetailsPartyness": {
+      "message": "Loại bên"
+   },
+   "loggerEntryDetailsRootContext": {
+      "message": "Ngữ cảnh gốc"
+   },
+   "loggerEntryDetailsRule": {
+      "message": "Quy tắc"
+   },
+   "loggerEntryDetailsType": {
+      "message": "Loại"
+   },
+   "loggerEntryDetailsURL": {
+      "message": "URL"
+   },
+   "loggerExportEncodeMarkdown": {
+      "message": "Markdown"
+   },
+   "loggerExportEncodePlain": {
+      "message": "Thuần"
+   },
+   "loggerExportFormatList": {
+      "message": "Danh sách"
+   },
+   "loggerExportFormatTable": {
+      "message": "Bảng"
+   },
+   "loggerInfoTip": {
+      "message": "wiki uBlock Origin: Trình ghi nhật ký"
+   },
+   "loggerPauseTip": {
+      "message": "Tạm dừng trình ghi nhật ký (loại bỏ tất cả dữ liệu đến)"
+   },
+   "loggerPopupPanelTip": {
+      "message": "Bật/tắt bảng điều khiển bật lên"
+   },
+   "loggerReloadTip": {
+      "message": "Tải lại nội dung tab"
+   },
+   "loggerRowFiltererBuiltin1p": {
+      "message": "bên thứ nhất"
+   },
+   "loggerRowFiltererBuiltin3p": {
+      "message": "bên thứ ba"
+   },
+   "loggerRowFiltererBuiltinAllowed": {
+      "message": "được cho phép"
+   },
+   "loggerRowFiltererBuiltinBlocked": {
+      "message": "bị chặn"
+   },
+   "loggerRowFiltererBuiltinEventful": {
+      "message": "bận"
+   },
+   "loggerRowFiltererBuiltinNot": {
+      "message": "Không"
+   },
+   "loggerRowFiltererBuiltinTip": {
+      "message": "Các tùy chọn lọc trình ghi nhật ký"
+   },
+   "loggerRowFiltererButtonTip": {
+      "message": "Bật/tắt tính năng lọc trình ghi nhật ký"
+   },
+   "loggerSettingDiscardPrompt": {
+      "message": "Mục nhập trình ghi nhật ký không đáp ứng tất cả 3 điều kiện sau sẽ tự động bị loại bỏ:"
+   },
+   "loggerSettingHideColumnContext": {
+      "message": "{{input}} Ngữ cảnh"
+   },
+   "loggerSettingHideColumnFilter": {
+      "message": "{{input}} Bộ lọc/quy tắc"
+   },
+   "loggerSettingHideColumnPartyness": {
+      "message": "{{input}} Loại bên"
+   },
+   "loggerSettingHideColumnTime": {
+      "message": "{{input}} Thời gian"
+   },
+   "loggerSettingHideColumnsPrompt": {
+      "message": "Ẩn cột:"
+   },
+   "loggerSettingPerEntryLineCount": {
+      "message": "Sử dụng {{input}} dòng mỗi mục nhập trong chế độ mở rộng dọc"
+   },
+   "loggerSettingPerEntryMaxAge": {
+      "message": "Giữ các mục nhập trong {{input}} phút gần đây nhất"
+   },
+   "loggerSettingPerTabMaxEntries": {
+      "message": "Giữ nhiều nhất {{input}} mục nhập mỗi tab"
+   },
+   "loggerSettingPerTabMaxLoads": {
+      "message": "Giữ nhiều nhất {{input}} số lần tải trang mỗi tab"
+   },
+   "loggerStaticFilteringFinderSentence1": {
+      "message": "Tìm thấy bộ lọc tĩnh \u003Ccode>{{filter}}\u003C/code> tại:"
+   },
+   "loggerStaticFilteringFinderSentence2": {
+      "message": "Không tìm thấy bộ lọc tĩnh \u003Ccode>{{filter}}\u003C/code> trong bất cứ danh sách bộ lọc hiện đang bật nào"
+   },
+   "loggerStaticFilteringHeader": {
+      "message": "Lọc tĩnh"
+   },
+   "loggerStaticFilteringSentence": {
+      "message": "Yêu cầu mạng {{action}} của {{type}} {{br}}mà địa chỉ URL khớp với {{url}} {{br}}và bắt nguồn từ {{origin}},{{br}}{{importance}} có một bộ lọc ngoại lệ khớp."
+   },
+   "loggerStaticFilteringSentencePartAllow": {
+      "message": "Cho phép"
+   },
+   "loggerStaticFilteringSentencePartAnyOrigin": {
+      "message": "từ bất cứ đâu"
+   },
+   "loggerStaticFilteringSentencePartAnyType": {
+      "message": "bất cứ loại nào"
+   },
+   "loggerStaticFilteringSentencePartBlock": {
+      "message": "Chặn"
+   },
+   "loggerStaticFilteringSentencePartImportant": {
+      "message": "kể cả khi"
+   },
+   "loggerStaticFilteringSentencePartNotImportant": {
+      "message": "trừ khi"
+   },
+   "loggerStaticFilteringSentencePartOrigin": {
+      "message": "từ ?{{origin}}?"
+   },
+   "loggerStaticFilteringSentencePartType": {
+      "message": "loại ?{{type}}?"
+   },
+   "loggerURLFilteringContextLabel": {
+      "message": "Ngữ cảnh:"
+   },
+   "loggerURLFilteringHeader": {
+      "message": "Lọc URL động"
+   },
+   "loggerURLFilteringTypeLabel": {
+      "message": "Loại:"
+   },
+   "loggerUnpauseTip": {
+      "message": "Bỏ tạm dừng trình ghi nhật ký"
+   },
+   "pickerContextMenuEntry": {
+      "message": "Chặn thành phần"
+   },
+   "pickerCosmeticFilters": {
+      "message": "Các bộ lọc chi tiết"
+   },
+   "pickerCosmeticFiltersHint": {
+      "message": "Nhấp, Ctrl-nhấp chuột"
+   },
+   "pickerCreate": {
+      "message": "Tạo"
+   },
+   "pickerNetFilters": {
+      "message": "Các bộ lọc mạng"
+   },
+   "pickerPick": {
+      "message": "Chọn"
+   },
+   "pickerPreview": {
+      "message": "Xem trước"
+   },
+   "pickerQuit": {
+      "message": "Thoát"
+   },
+   "popup1pScriptRulePrompt": {
+      "message": "tập lệnh của bên thứ nhất"
+   },
+   "popup3pAnyRulePrompt": {
+      "message": "bên thứ ba"
+   },
+   "popup3pFrameRulePrompt": {
+      "message": "khung của bên thứ ba"
+   },
+   "popup3pPassiveRulePrompt": {
+      "message": "css/hình ảnh của bên thứ ba"
+   },
+   "popup3pScriptRulePrompt": {
+      "message": "tập lệnh của bên thứ ba"
+   },
+   "popupAdvancedSettings": {
+      "message": "Cài đặt nâng cao"
+   },
+   "popupAnyRulePrompt": {
+      "message": "tất cả"
+   },
+   "popupExtraAdsAllowedOnSites": {
+      "message": "Đã cho phép công cụ theo dõi trên trang này"
+   },
+   "popupExtraAdsBlockedOnPage": {
+      "message": "Số công cụ theo dõi đã chặn trên trang này"
+   },
+   "popupExtraAdsBlockedOnSites": {
+      "message": "Đã chặn công cụ theo dõi trên trang này"
+   },
+   "popupExtraAdsBlockedTotal": {
+      "message": "Tổng số công cụ theo dõi đã chặn"
+   },
+   "popupExtraLessOptions": {
+      "message": "Bớt tùy chọn"
+   },
+   "popupExtraListAllowedSites": {
+      "message": "Danh sách các trang được cho phép"
+   },
+   "popupExtraMoreInformation": {
+      "message": "Thông tin thêm"
+   },
+   "popupExtraMoreOptions": {
+      "message": "Thêm tùy chọn"
+   },
+   "popupExtraNoSitesAddedYet": {
+      "message": "Chưa có trang nào được thêm"
+   },
+   "popupExtraProtectionCanNotEnabled": {
+      "message": "Không thể bật tính năng bảo vệ trên trang này"
+   },
+   "popupExtraProtectionDisabledForSession": {
+      "message": "Không thể bật tính năng bảo vệ cho phiên này"
+   },
+   "popupExtraSeeListAllowedSites": {
+      "message": "Xem danh sách tất cả các trang cho phép"
+   },
+   "popupHitDomainCount": {
+      "message": "{{count}}/{{total}}"
+   },
+   "popupHitDomainCountPrompt": {
+      "message": "miền đã kết nối"
+   },
+   "popupImageRulePrompt": {
+      "message": "hình ảnh"
+   },
+   "popupInlineScriptRulePrompt": {
+      "message": "tập lệnh nội dòng"
+   },
+   "popupTipDashboard": {
+      "message": "Mở bảng điều khiển"
+   },
+   "popupTipGlobalRules": {
+      "message": "Quy tắc chung: cột này dành cho các quy tắc áp dụng cho tất cả các trang web."
+   },
+   "popupTipLocalRules": {
+      "message": "Quy tắc cục bộ: cột này dành cho các quy tắc chỉ áp dụng cho trang web hiện tại.\nQuy tắc cục bộ ghi đè quy tắc chung."
+   },
+   "popupTipLog": {
+      "message": "Mở trình ghi nhật ký"
+   },
+   "popupTipNoCosmeticFiltering": {
+      "message": "Bật/tắt tính năng lọc thành phần ẩn cho trang web này"
+   },
+   "popupTipNoCosmeticFiltering1": {
+      "message": "Nhấp để tắt tính năng lọc thành phần ẩn trên trang web này"
+   },
+   "popupTipNoCosmeticFiltering2": {
+      "message": "Nhấp để bật tính năng lọc thành phần ẩn trên trang web này"
+   },
+   "popupTipNoLargeMedia": {
+      "message": "Bật/tắt tính năng chặn thành phần đa phương tiện lớn cho trang web này"
+   },
+   "popupTipNoLargeMedia1": {
+      "message": "Nhấp để chặn thành phần đa phương tiện lớn trên trang web này"
+   },
+   "popupTipNoLargeMedia2": {
+      "message": "Nhấp để bỏ chặn thành phần đa phương tiện lớn trên trang web này"
+   },
+   "popupTipNoPopups": {
+      "message": "Bật/tắt tính năng chặn tất cả cửa sổ bật lên cho trang web này"
+   },
+   "popupTipNoPopups1": {
+      "message": "Nhấp để chặn tất cả cửa sổ bật lên trên trang web này"
+   },
+   "popupTipNoPopups2": {
+      "message": "Nhấp để bỏ chặn tất cả cửa sổ bật lên trên trang web này"
+   },
+   "popupTipNoRemoteFonts": {
+      "message": "Bật/tắt tính năng chặn phông chữ từ xa cho trang web này"
+   },
+   "popupTipNoRemoteFonts1": {
+      "message": "Nhấp để chặn phông chữ từ xa trên trang web này"
+   },
+   "popupTipNoRemoteFonts2": {
+      "message": "Nhấp để bỏ chặn phông chữ từ xa trên trang web này"
+   },
+   "popupTipNoScripting1": {
+      "message": "Nhấp để tắt JavaScript trên trang web này"
+   },
+   "popupTipNoScripting2": {
+      "message": "Nhấp để bật JavaScript trên trang web này"
+   },
+   "popupTipPicker": {
+      "message": "Chuyển sang chế độ chọn thành phần"
+   },
+   "popupTipRevertRules": {
+      "message": "Nhấp để khôi phục các thay đổi của bạn."
+   },
+   "popupTipSaveRules": {
+      "message": "Nhấp để thay đổi vĩnh viễn."
+   },
+   "popupTipZapper": {
+      "message": "Chuyển sang chế độ loại bỏ thành phần"
+   },
+   "rulesCommit": {
+      "message": "Cam kết"
+   },
+   "rulesDefaultFileName": {
+      "message": "CCleaner Anti-Tracking-dynamic-rules_{{datetime}}.txt"
+   },
+   "rulesEdit": {
+      "message": "Chỉnh sửa"
+   },
+   "rulesEditDiscard": {
+      "message": "Loại bỏ"
+   },
+   "rulesEditSave": {
+      "message": "Lưu"
+   },
+   "rulesExport": {
+      "message": "Xuất ra tập tin"
+   },
+   "rulesFormatHint": {
+      "message": "Cú pháp quy tắc: \u003Ccode>hành động loại đích nguồn\u003C/code> (\u003Ca href='https://github.com/gorhill/uBlock/wiki/Dynamic-filtering:-rule-syntax'>tài liệu tham khảo đầy đủ\u003C/a>)."
+   },
+   "rulesHint": {
+      "message": "Danh sách các quy tắc lọc linh động."
+   },
+   "rulesImport": {
+      "message": "Nhập từ tập tin..."
+   },
+   "rulesPageName": {
+      "message": "Quy tắc của tôi"
+   },
+   "rulesPermanentHeader": {
+      "message": "Các quy tắc vĩnh viễn"
+   },
+   "rulesRevert": {
+      "message": "Khôi phục"
+   },
+   "rulesTemporaryHeader": {
+      "message": "Các quy tắc tạm thời"
+   },
+   "settingPerSiteSwitchGroup": {
+      "message": "Hành vi mặc định"
+   },
+   "settingPerSiteSwitchGroupSynopsis": {
+      "message": "Các hành vi mặc định sau có thể được ghi đè dựa trên cơ sở theo trang web"
+   },
+   "settingsAdvancedUserPrompt": {
+      "message": "Tôi là một người dùng nâng cao (\u003Ca href='https://github.com/gorhill/uBlock/wiki/Advanced-user-features'>yêu cầu đọc\u003C/a>)"
+   },
+   "settingsAdvancedUserSettings": {
+      "message": "cài đặt nâng cao"
+   },
+   "settingsCloudStorageEnabledPrompt": {
+      "message": "Bật hỗ trợ bộ nhớ lưu trữ đám mây"
+   },
+   "settingsCollapseBlockedPrompt": {
+      "message": "Ẩn trình giữ chỗ của các thành phần bị chặn"
+   },
+   "settingsColorBlindPrompt": {
+      "message": "Dễ sử dụng với người mù màu"
+   },
+   "settingsContextMenuPrompt": {
+      "message": "Sử dụng menu ngữ cảnh khi thích hợp"
+   },
+   "settingsHyperlinkAuditingDisabledPrompt": {
+      "message": "Tắt kiểm tra siêu liên kết"
+   },
+   "settingsIconBadgePrompt": {
+      "message": "Hiển thị số lượng các yêu cầu bị chặn trên biểu tượng"
+   },
+   "settingsLastBackupPrompt": {
+      "message": "Lần sao lưu gần nhất:"
+   },
+   "settingsLastRestorePrompt": {
+      "message": "Lần khôi phục gần nhất:"
+   },
+   "settingsNoCSPReportsPrompt": {
+      "message": "Báo cáo chặn CSP"
+   },
+   "settingsNoCosmeticFilteringPrompt": {
+      "message": "Tắt lọc chi tiết"
+   },
+   "settingsNoLargeMediaPrompt": {
+      "message": "Chặn các thành phần đa phương tiện lớn hơn {{input:number}} kB"
+   },
+   "settingsNoRemoteFontsPrompt": {
+      "message": "Chặn các phông chữ từ xa"
+   },
+   "settingsNoScriptingPrompt": {
+      "message": "Tắt JavaScript"
+   },
+   "settingsPageName": {
+      "message": "Cài đặt"
+   },
+   "settingsPrefetchingDisabledPrompt": {
+      "message": "Tắt nạp trước (để ngăn mọi kết nối cho các yêu cầu mạng bị chặn)"
+   },
+   "settingsStorageUsed": {
+      "message": "Bộ nhớ đã sử dụng: {{value}} byte"
+   },
+   "settingsTooltipsPrompt": {
+      "message": "Ẩn các gợi ý"
+   },
+   "settingsWebRTCIPAddressHiddenPrompt": {
+      "message": "Ngăn chặn WebRTC tiết lộ địa chỉ IP nội bộ"
+   },
+   "shortcutCapturePlaceholder": {
+      "message": "Nhập một lối tắt"
+   },
+   "shortcutsPageName": {
+      "message": "Lối tắt"
+   },
+   "showDashboardButton": {
+      "message": "Hiển thị bảng điều khiển"
+   },
+   "showNetworkLogButton": {
+      "message": "Hiển thị trình ghi nhật ký"
+   },
+   "statsPageName": {
+      "message": "CCleaner Anti-Tracking — Trình ghi nhật ký"
+   },
+   "subscriberConfirm": {
+      "message": "CCleaner Anti-Tracking: Bạn có muốn thêm URL sau vào danh sách bộ lọc tùy chỉnh?\n\nTiêu đề: \"{{title}}\"\nURL: {{url}}"
+   },
+   "whitelistApply": {
+      "message": "Áp dụng thay đổi"
+   },
+   "whitelistExport": {
+      "message": "Xuất"
+   },
+   "whitelistExportFilename": {
+      "message": "CCleaner Anti-Tracking-whitelist_{{datetime}}.txt"
+   },
+   "whitelistImport": {
+      "message": "Nhập và thêm"
+   },
+   "whitelistPageName": {
+      "message": "Danh sách trắng"
+   },
+   "whitelistPrompt": {
+      "message": "Các chỉ thị trong danh sách trắng quyết định các trang web CCleaner Anti-Tracking sẽ bị vô hiệu hóa. Một mục trên mỗi dòng. Các chỉ thị không hợp lệ sẽ bị âm thầm bỏ qua và không được nhận xét."
+   }
+}

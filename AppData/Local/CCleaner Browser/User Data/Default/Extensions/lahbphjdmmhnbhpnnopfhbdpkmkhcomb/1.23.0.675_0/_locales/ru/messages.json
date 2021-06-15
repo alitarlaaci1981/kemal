@@ -1,0 +1,860 @@
+{
+   "1pApplyChanges": {
+      "message": "Применить изменения"
+   },
+   "1pExport": {
+      "message": "Экспортировать"
+   },
+   "1pFormatHint": {
+      "message": "Одно правило на строку. Правилом может быть обычное имя сайта или фильтр, совместимый с Adblock Plus. Строки, начинающиеся с символа «!», будут проигнорированы."
+   },
+   "1pImport": {
+      "message": "Импортировать и добавить"
+   },
+   "1pPageName": {
+      "message": " Мои фильтры"
+   },
+   "3pApplyChanges": {
+      "message": "Применить изменения"
+   },
+   "3pAutoUpdatePrompt1": {
+      "message": "Автообновление списков фильтров"
+   },
+   "3pExternalListObsolete": {
+      "message": "Устарело."
+   },
+   "3pExternalListsHint": {
+      "message": "Один URL-адрес на строку. Строки, начинающиеся с символа «!», будут проигнорированы. Некорректные URL-адреса будут проигнорированы без предупреждения."
+   },
+   "3pGroupAds": {
+      "message": "Реклама"
+   },
+   "3pGroupAnnoyances": {
+      "message": "Раздражающее"
+   },
+   "3pGroupCustom": {
+      "message": "Пользовательское"
+   },
+   "3pGroupDefault": {
+      "message": "Сетевые фильтры и фильтры отображения"
+   },
+   "3pGroupMalware": {
+      "message": "Домены вредоносных программ"
+   },
+   "3pGroupMultipurpose": {
+      "message": "Универсальное"
+   },
+   "3pGroupPrivacy": {
+      "message": "Конфиденциальность"
+   },
+   "3pGroupRegions": {
+      "message": "Регионы, языки"
+   },
+   "3pIgnoreGenericCosmeticFilters": {
+      "message": "Игнорировать общие косметические фильтры"
+   },
+   "3pIgnoreGenericCosmeticFiltersInfo": {
+      "message": "\u003Cp>Общие косметические фильтры предназначены для использования на всех сайтах.\u003Cp>Хотя CCleaner Anti-Tracking и использует их максимально эффективно, такие фильтры все равно могут потреблять ощутимый объем оперативной памяти и нагружать процессор на некоторых страницах, особенно на больших и существующих длительное время.\u003Cp>Включение этой опции снижает использование памяти веб-страницами и избавляет процессор от обработки общих косметических фильтров, а также снижает объем памяти, потребляемый CCleaner Anti-Tracking.\u003Cp>Рекомендуется включить этот параметр на не очень мощных устройствах."
+   },
+   "3pImport": {
+      "message": "Импорт..."
+   },
+   "3pLastUpdate": {
+      "message": "Последнее обновление: {{ago}}.\nКликните, чтобы выполнить принудительное обновление."
+   },
+   "3pListsOfBlockedHostsHeader": {
+      "message": "Списки заблокированных хостов"
+   },
+   "3pListsOfBlockedHostsPerListStats": {
+      "message": "Использовано {{used}} из {{total}}"
+   },
+   "3pListsOfBlockedHostsPrompt": {
+      "message": "Сетевые фильтры ({{netFilterCount}}) + косметические фильтры ({{cosmeticFilterCount}}) из:"
+   },
+   "3pNetworkError": {
+      "message": "Не удалось обновить источник из-за сетевой ошибки."
+   },
+   "3pPageName": {
+      "message": "Сторонние фильтры"
+   },
+   "3pParseAllABPHideFiltersInfo": {
+      "message": "\u003Cp>Эта опция включает парсинг и исполнение \u003Ca href=\"https://adblockplus.org/en/faq_internal#elemhide\">фильтров «скрытия элементов», совместимых с Adblock Plus\u003C/a>. Это косметические фильтры, дающие возможность скрыть элементы страницы, которые считаются визуальными помехами и которые не может заблокировать механизм фильтрации сетевых запросов.\u003C/p>\u003Cp>Использование этой опции увеличивает объем используемой CCleaner Anti-Tracking памяти.\u003C/p>"
+   },
+   "3pParseAllABPHideFiltersPrompt1": {
+      "message": "Выполнять парсинг и применить косметические фильтры"
+   },
+   "3pPurgeAll": {
+      "message": "Очистить весь кэш"
+   },
+   "3pUpdateNow": {
+      "message": "Обновить"
+   },
+   "3pUpdating": {
+      "message": "Обновление..."
+   },
+   "aboutBackupDataButton": {
+      "message": "Сохранить резервную копию в файл"
+   },
+   "aboutBackupFilename": {
+      "message": "CCleaner Anti-Tracking-backup_{{datetime}}.txt"
+   },
+   "aboutChangelog": {
+      "message": "Журнал изменений"
+   },
+   "aboutCode": {
+      "message": "Исходный код (GPLv3)"
+   },
+   "aboutContributors": {
+      "message": "Авторы"
+   },
+   "aboutDependencies": {
+      "message": "Внешние зависимости (совместимо с GPLv3):"
+   },
+   "aboutIssues": {
+      "message": "Отслеживание проблем"
+   },
+   "aboutPageName": {
+      "message": "О программе"
+   },
+   "aboutResetDataButton": {
+      "message": "Восстановить настройки по умолчанию..."
+   },
+   "aboutResetDataConfirm": {
+      "message": "Все ваши настройки будут удалены, а CCleaner Anti-Tracking перезапустится.\n\nВосстановить настройки CCleaner Anti-Tracking по умолчанию?"
+   },
+   "aboutRestoreDataButton": {
+      "message": "Восстановить из файла..."
+   },
+   "aboutRestoreDataConfirm": {
+      "message": "Текущие настройки будут заменены данными из резервной копии от {{time}}, CCleaner Anti-Tracking перезапустится.\n\nПерезаписать все существующие параметры данными из резервной копии?"
+   },
+   "aboutRestoreDataError": {
+      "message": "Данные не могут быть прочитаны или недействительны"
+   },
+   "aboutSupport": {
+      "message": "Поддержка"
+   },
+   "aboutWiki": {
+      "message": "Вики"
+   },
+   "advancedSettingsPageName": {
+      "message": "Дополнительные настройки"
+   },
+   "advancedSettingsWarning": {
+      "message": "Внимание! Вы изменяете расширенные настройки на свой риск."
+   },
+   "assetViewerPageName": {
+      "message": "Просмотр ресурсов uBlock? ?"
+   },
+   "cloudDeviceNamePrompt": {
+      "message": "Имя этого устройства:"
+   },
+   "cloudPull": {
+      "message": "Импортировать из облачного хранилища"
+   },
+   "cloudPullAndMerge": {
+      "message": "Импортировать из облачного хранилища и объединить с текущими настройками"
+   },
+   "cloudPush": {
+      "message": "Экспортировать в облачное хранилище"
+   },
+   "contextMenuTemporarilyAllowLargeMediaElements": {
+      "message": "Временно разрешить отображение больших элементов мультимедиа"
+   },
+   "dashboardName": {
+      "message": "CCleaner Anti-Tracking — панель управления"
+   },
+   "docblockedBack": {
+      "message": "Назад"
+   },
+   "docblockedClose": {
+      "message": "Закрыть это окно"
+   },
+   "docblockedDisablePermanent": {
+      "message": "Навсегда"
+   },
+   "docblockedDisableTemporary": {
+      "message": "Временно"
+   },
+   "docblockedFoundIn": {
+      "message": "Место обнаружения:"
+   },
+   "docblockedNoParamsPrompt": {
+      "message": "без параметров"
+   },
+   "docblockedProceed": {
+      "message": "Отключить строгую блокировку {{hostname}}"
+   },
+   "docblockedPrompt1": {
+      "message": "Расширение CCleaner Anti-Tracking предотвратило загрузку следующей страницы:"
+   },
+   "docblockedPrompt2": {
+      "message": "На основании следующего фильтра"
+   },
+   "dummy": {
+      "message": "Эта запись должна быть последней"
+   },
+   "elapsedManyDaysAgo": {
+      "message": "{{value}} дн. назад"
+   },
+   "elapsedManyHoursAgo": {
+      "message": "{{value}} ч назад"
+   },
+   "elapsedManyMinutesAgo": {
+      "message": "{{value}} мин назад"
+   },
+   "elapsedOneDayAgo": {
+      "message": "день назад"
+   },
+   "elapsedOneHourAgo": {
+      "message": "час назад"
+   },
+   "elapsedOneMinuteAgo": {
+      "message": "минуту назад"
+   },
+   "errorCantConnectTo": {
+      "message": "Сетевая ошибка: {{msg}}"
+   },
+   "extShortDesc": {
+      "message": "Блокировка назойливых трекеров."
+   },
+   "extra1pPageNameDesc": {
+      "message": "Управление настраиваемыми фильтрами"
+   },
+   "extra3pPageNameDesc": {
+      "message": "Сторонние фильтры трекеров и конфиденциальности"
+   },
+   "extraAddFilter": {
+      "message": "Добавить фильтр"
+   },
+   "extraAddRrule": {
+      "message": "Добавить временное правило"
+   },
+   "extraAddSetting": {
+      "message": "Добавить настройку"
+   },
+   "extraAddSite": {
+      "message": "Добавить сайт"
+   },
+   "extraAdsFilters": {
+      "message": "Фильтры рекламы"
+   },
+   "extraAdvancedUserSettings": {
+      "message": "Дополнительные пользовательские настройки"
+   },
+   "extraAllowOnSites": {
+      "message": "Разрешить трекеры на этих сайтах"
+   },
+   "extraBlockMediaElementsLargerThan": {
+      "message": "Блокировать элементы мультимедиа размером больше"
+   },
+   "extraBtnAdd": {
+      "message": "добавить"
+   },
+   "extraBtnCancel": {
+      "message": "отмена"
+   },
+   "extraBtnEdit": {
+      "message": "Изменить"
+   },
+   "extraBtnExport": {
+      "message": "экспортировать"
+   },
+   "extraBtnImport": {
+      "message": "импортировать"
+   },
+   "extraBtnRemove": {
+      "message": "Удалить"
+   },
+   "extraBtnUpdateAll": {
+      "message": "обновить все"
+   },
+   "extraDefaultBehaviour": {
+      "message": "Поведение по умолчанию"
+   },
+   "extraEditFilter": {
+      "message": "Изменить фильтр"
+   },
+   "extraEditRule": {
+      "message": "Изменить временное правило"
+   },
+   "extraEditSetting": {
+      "message": "Изменить настройку"
+   },
+   "extraEditSite": {
+      "message": "Изменить сайт"
+   },
+   "extraGeneralSettings": {
+      "message": "Общие настройки"
+   },
+   "extraGeneralSettingsDesc": {
+      "message": "Управление информацией, отображаемой расширением CCleaner Anti-Tracking"
+   },
+   "extraIndexDescription": {
+      "message": "Блокировка трекеров для более быстрого и безопасного просмотра сайтов"
+   },
+   "extraIndexFooter": {
+      "message": "На основе технологии uBlock Origin."
+   },
+   "extraIndexHeader": {
+      "message": "Дополнительные настройки расширения CCleaner Anti-Tracking"
+   },
+   "extraInterstitialBlocking": {
+      "message": "Включить блокировку вставок"
+   },
+   "extraLabelFilter": {
+      "message": "Фильтр"
+   },
+   "extraLearnMore": {
+      "message": "Подробнее"
+   },
+   "extraManageFilters": {
+      "message": "Управление фильтрами"
+   },
+   "extraMyCustomFilter": {
+      "message": "Настраиваемые фильтры"
+   },
+   "extraPrivacy": {
+      "message": "Конфиденциальность"
+   },
+   "extraRule": {
+      "message": "Правило"
+   },
+   "extraRuleDefinition": {
+      "message": "Определение правила"
+   },
+   "extraRuleSyntax": {
+      "message": "Синтаксис правил"
+   },
+   "extraRulesPageNameDesc": {
+      "message": "Список динамических правил фильтрации"
+   },
+   "extraSetting": {
+      "message": "Настройка"
+   },
+   "extraShowMore": {
+      "message": "Подробнее"
+   },
+   "extraSite": {
+      "message": "Сайт"
+   },
+   "extraSlider0": {
+      "message": "Без блокировки рекламы"
+   },
+   "extraSlider100": {
+      "message": "Полная блокировка рекламы"
+   },
+   "extraSlider50": {
+      "message": "Умеренная блокировка рекламы"
+   },
+   "extraSourceDestinationTypeAction": {
+      "message": "источник пункт назначения тип действие."
+   },
+   "extraWhitelistPageNameDesc": {
+      "message": "Список сайтов с разрешенными трекерами"
+   },
+   "fennecMenuItemBlockingOff": {
+      "message": "выкл."
+   },
+   "genericApplyChanges": {
+      "message": "Применить изменения"
+   },
+   "genericBytes": {
+      "message": "Б"
+   },
+   "genericCopyToClipboard": {
+      "message": "Копировать в буфер обмена"
+   },
+   "genericMergeViewScrollLock": {
+      "message": "Блокировка прокрутки"
+   },
+   "genericRevert": {
+      "message": "Отменить изменения"
+   },
+   "genericSubmit": {
+      "message": "Отправить"
+   },
+   "logAll": {
+      "message": "Все"
+   },
+   "logBehindTheScene": {
+      "message": "Скрытое"
+   },
+   "logFilterPrompt": {
+      "message": "фильтр записей журнала"
+   },
+   "logMaxEntriesTip": {
+      "message": "Максимальное число записей журнала"
+   },
+   "logRequestsHeaderDomain": {
+      "message": "Домен"
+   },
+   "logRequestsHeaderFilter": {
+      "message": "Фильтр"
+   },
+   "logRequestsHeaderType": {
+      "message": "Тип"
+   },
+   "logRequestsHeaderURL": {
+      "message": "URL-адрес"
+   },
+   "loggerClearTip": {
+      "message": "Удалить данные средства ведения журнала"
+   },
+   "loggerCurrentTab": {
+      "message": "Текущая вкладка"
+   },
+   "loggerDomInspectorTip": {
+      "message": "Включение инспектора DOM"
+   },
+   "loggerEntryDetailsContext": {
+      "message": "Контекст"
+   },
+   "loggerEntryDetailsFilter": {
+      "message": "Фильтр"
+   },
+   "loggerEntryDetailsFilterList": {
+      "message": "Список фильтров"
+   },
+   "loggerEntryDetailsHeader": {
+      "message": "Подробнее"
+   },
+   "loggerEntryDetailsPartyness": {
+      "message": "Принадлежность"
+   },
+   "loggerEntryDetailsRootContext": {
+      "message": "Корневой контекст"
+   },
+   "loggerEntryDetailsRule": {
+      "message": "Правило"
+   },
+   "loggerEntryDetailsType": {
+      "message": "Тип"
+   },
+   "loggerEntryDetailsURL": {
+      "message": "URL-адрес"
+   },
+   "loggerExportEncodeMarkdown": {
+      "message": "Разметка"
+   },
+   "loggerExportEncodePlain": {
+      "message": "Обычный текст"
+   },
+   "loggerExportFormatList": {
+      "message": "Список"
+   },
+   "loggerExportFormatTable": {
+      "message": "Таблица"
+   },
+   "loggerInfoTip": {
+      "message": "Вики uBlock Origin: средство ведения журнала"
+   },
+   "loggerPauseTip": {
+      "message": "Приостановить ведение журнала (отклонять все входящие данные)"
+   },
+   "loggerPopupPanelTip": {
+      "message": "Включение всплывающей панели"
+   },
+   "loggerReloadTip": {
+      "message": "Перезагрузить содержимое вкладки"
+   },
+   "loggerRowFiltererBuiltin1p": {
+      "message": "собственное"
+   },
+   "loggerRowFiltererBuiltin3p": {
+      "message": "стороннее"
+   },
+   "loggerRowFiltererBuiltinAllowed": {
+      "message": "разрешено"
+   },
+   "loggerRowFiltererBuiltinBlocked": {
+      "message": "заблокировано"
+   },
+   "loggerRowFiltererBuiltinEventful": {
+      "message": "с событиями"
+   },
+   "loggerRowFiltererBuiltinNot": {
+      "message": "Нет"
+   },
+   "loggerRowFiltererBuiltinTip": {
+      "message": "Параметры фильтрации при ведении журнала"
+   },
+   "loggerRowFiltererButtonTip": {
+      "message": "Включение фильтрации при ведении журнала"
+   },
+   "loggerSettingDiscardPrompt": {
+      "message": "Записи журнала, не отвечающие трем условиям ниже, будут автоматически отклонены."
+   },
+   "loggerSettingHideColumnContext": {
+      "message": "{{input}} контекст"
+   },
+   "loggerSettingHideColumnFilter": {
+      "message": "{{input}} фильтр/правило"
+   },
+   "loggerSettingHideColumnPartyness": {
+      "message": "{{input}}: принадлежность"
+   },
+   "loggerSettingHideColumnTime": {
+      "message": "{{input}} время"
+   },
+   "loggerSettingHideColumnsPrompt": {
+      "message": "Скрыть столбцы:"
+   },
+   "loggerSettingPerEntryLineCount": {
+      "message": "Количество строк на запись в вертикально развернутом режиме: {{input}}"
+   },
+   "loggerSettingPerEntryMaxAge": {
+      "message": "Сохранять записи за последние {{input}} мин"
+   },
+   "loggerSettingPerTabMaxEntries": {
+      "message": "Максимальное количество записей на вкладку: {{input}}"
+   },
+   "loggerSettingPerTabMaxLoads": {
+      "message": "Максимальное количество загрузок страницы на вкладку: {{input}}"
+   },
+   "loggerStaticFilteringFinderSentence1": {
+      "message": "Статический фильтр \u003Ccode>{{filter}}\u003C/code> найден в:"
+   },
+   "loggerStaticFilteringFinderSentence2": {
+      "message": "Статический фильтр \u003Ccode>{{filter}}\u003C/code> не удается найти в каком-либо из включенных в данный момент списков фильтров."
+   },
+   "loggerStaticFilteringHeader": {
+      "message": "Статическая фильтрация"
+   },
+   "loggerStaticFilteringSentence": {
+      "message": "{{action}} запросы сети типа «{{type}}», {{br}}если URL-адрес совпадает с адресом {{url}}, {{br}}а источник — {{origin}},{{br}}{{importance}} есть соответствующий фильтр исключения."
+   },
+   "loggerStaticFilteringSentencePartAllow": {
+      "message": "Разрешить"
+   },
+   "loggerStaticFilteringSentencePartAnyOrigin": {
+      "message": "любой источник"
+   },
+   "loggerStaticFilteringSentencePartAnyType": {
+      "message": "любой тип"
+   },
+   "loggerStaticFilteringSentencePartBlock": {
+      "message": "Блокировать"
+   },
+   "loggerStaticFilteringSentencePartImportant": {
+      "message": "даже если"
+   },
+   "loggerStaticFilteringSentencePartNotImportant": {
+      "message": "за исключением случаев, когда"
+   },
+   "loggerStaticFilteringSentencePartOrigin": {
+      "message": "источник: ?{{origin}}?"
+   },
+   "loggerStaticFilteringSentencePartType": {
+      "message": "тип: ?{{type}}?"
+   },
+   "loggerURLFilteringContextLabel": {
+      "message": "Контекст:"
+   },
+   "loggerURLFilteringHeader": {
+      "message": "Динамическая фильтрация URL-адресов"
+   },
+   "loggerURLFilteringTypeLabel": {
+      "message": "Тип:"
+   },
+   "loggerUnpauseTip": {
+      "message": "Возобновить ведение журнала"
+   },
+   "pickerContextMenuEntry": {
+      "message": "Заблокировать элемент"
+   },
+   "pickerCosmeticFilters": {
+      "message": "Косметические фильтры"
+   },
+   "pickerCosmeticFiltersHint": {
+      "message": "Клик, Ctrl + клик"
+   },
+   "pickerCreate": {
+      "message": "Создать"
+   },
+   "pickerNetFilters": {
+      "message": "Сетевые фильтры"
+   },
+   "pickerPick": {
+      "message": "Выбрать"
+   },
+   "pickerPreview": {
+      "message": "Предварительный просмотр"
+   },
+   "pickerQuit": {
+      "message": "Выйти"
+   },
+   "popup1pScriptRulePrompt": {
+      "message": "собственные скрипты"
+   },
+   "popup3pAnyRulePrompt": {
+      "message": "сторонние"
+   },
+   "popup3pFrameRulePrompt": {
+      "message": "сторонние фреймы"
+   },
+   "popup3pPassiveRulePrompt": {
+      "message": "стороннее: css/изображения"
+   },
+   "popup3pScriptRulePrompt": {
+      "message": "сторонние скрипты"
+   },
+   "popupAdvancedSettings": {
+      "message": "Дополнительные настройки"
+   },
+   "popupAnyRulePrompt": {
+      "message": "все"
+   },
+   "popupExtraAdsAllowedOnSites": {
+      "message": "Трекеры разрешены на этом сайте"
+   },
+   "popupExtraAdsBlockedOnPage": {
+      "message": "Заблокированных трекеров на этой странице"
+   },
+   "popupExtraAdsBlockedOnSites": {
+      "message": "Трекеры заблокированы на этом сайте"
+   },
+   "popupExtraAdsBlockedTotal": {
+      "message": "Всего заблокированных трекеров"
+   },
+   "popupExtraLessOptions": {
+      "message": "Меньше параметров"
+   },
+   "popupExtraListAllowedSites": {
+      "message": "Список разрешенных сайтов"
+   },
+   "popupExtraMoreInformation": {
+      "message": "Подробнее"
+   },
+   "popupExtraMoreOptions": {
+      "message": "Больше параметров"
+   },
+   "popupExtraNoSitesAddedYet": {
+      "message": "Пока не добавлен ни один сайт"
+   },
+   "popupExtraProtectionCanNotEnabled": {
+      "message": "Включить защиту на этом сайте нельзя."
+   },
+   "popupExtraProtectionDisabledForSession": {
+      "message": "Невозможно включить защиту для этого сеанса"
+   },
+   "popupExtraSeeListAllowedSites": {
+      "message": "Показать список всех разрешенных сайтов"
+   },
+   "popupHitDomainCount": {
+      "message": "{{count}} из {{total}}"
+   },
+   "popupHitDomainCountPrompt": {
+      "message": "подключенные домены"
+   },
+   "popupImageRulePrompt": {
+      "message": "изображения"
+   },
+   "popupInlineScriptRulePrompt": {
+      "message": "встроенные скрипты"
+   },
+   "popupTipDashboard": {
+      "message": "Открыть панель управления"
+   },
+   "popupTipGlobalRules": {
+      "message": "Глобальные правила: правила в этом столбце применяются ко всем сайтам."
+   },
+   "popupTipLocalRules": {
+      "message": "Локальные правила: правила в этом столбце применяются только к текущему сайту.\nЛокальные правила имеют больший приоритет, чем глобальные."
+   },
+   "popupTipLog": {
+      "message": "Открыть средство ведения журнала"
+   },
+   "popupTipNoCosmeticFiltering": {
+      "message": "Косметические фильтры на этом сайте"
+   },
+   "popupTipNoCosmeticFiltering1": {
+      "message": "Нажмите, чтобы отключить косметические фильтры на этом сайте"
+   },
+   "popupTipNoCosmeticFiltering2": {
+      "message": "Нажмите, чтобы включить косметические фильтры на этом сайте"
+   },
+   "popupTipNoLargeMedia": {
+      "message": "Блокировка крупных мультимедийных элементов на этом сайте"
+   },
+   "popupTipNoLargeMedia1": {
+      "message": "Нажмите, чтобы заблокировать крупные мультимедийные элементы на этом сайте"
+   },
+   "popupTipNoLargeMedia2": {
+      "message": "Нажмите, чтобы прекратить блокировку крупных мультимедийных элементов на этом сайте"
+   },
+   "popupTipNoPopups": {
+      "message": "Блокировка всех всплывающих сообщений на этом сайте"
+   },
+   "popupTipNoPopups1": {
+      "message": "Нажмите, чтобы заблокировать все всплывающие сообщения на этом сайте"
+   },
+   "popupTipNoPopups2": {
+      "message": "Нажмите, чтобы прекратить блокировку всех всплывающих сообщений на этом сайте"
+   },
+   "popupTipNoRemoteFonts": {
+      "message": "Блокировка удаленных шрифтов на этом сайте"
+   },
+   "popupTipNoRemoteFonts1": {
+      "message": "Нажмите, чтобы заблокировать удаленные шрифты на этом сайте"
+   },
+   "popupTipNoRemoteFonts2": {
+      "message": "Нажмите, чтобы прекратить блокировку удаленных шрифтов на этом сайте"
+   },
+   "popupTipNoScripting1": {
+      "message": "Нажмите, чтобы отключить JavaScript на этом сайте"
+   },
+   "popupTipNoScripting2": {
+      "message": "Нажмите, чтобы разрешить JavaScript на этом сайте"
+   },
+   "popupTipPicker": {
+      "message": "Включить режим выбора элементов"
+   },
+   "popupTipRevertRules": {
+      "message": "Нажмите, чтобы отменить изменения."
+   },
+   "popupTipSaveRules": {
+      "message": "Нажмите, чтобы сделать изменения постоянными."
+   },
+   "popupTipZapper": {
+      "message": "Включить режим скрытия элементов"
+   },
+   "rulesCommit": {
+      "message": "Подтвердить"
+   },
+   "rulesEdit": {
+      "message": "Изменить"
+   },
+   "rulesEditDiscard": {
+      "message": "Отменить"
+   },
+   "rulesEditSave": {
+      "message": "Сохранить"
+   },
+   "rulesExport": {
+      "message": "Экспортировать в файл"
+   },
+   "rulesFormatHint": {
+      "message": "Синтаксис правил: \u003Ccode>источник назначение тип действие\u003C/code> (\u003Ca href='https://github.com/gorhill/uBlock/wiki/Dynamic-filtering:-rule-syntax'>полная документация\u003C/a>)."
+   },
+   "rulesHint": {
+      "message": "Список динамических правил фильтрации."
+   },
+   "rulesImport": {
+      "message": "Импортировать из файла..."
+   },
+   "rulesPageName": {
+      "message": "Мои правила"
+   },
+   "rulesPermanentHeader": {
+      "message": "Постоянные правила"
+   },
+   "rulesRevert": {
+      "message": "Отменить изменения"
+   },
+   "rulesTemporaryHeader": {
+      "message": "Временные правила"
+   },
+   "settingPerSiteSwitchGroup": {
+      "message": "Поведение по умолчанию"
+   },
+   "settingPerSiteSwitchGroupSynopsis": {
+      "message": "Эти настройки могут быть указаны для каждого сайта отдельно"
+   },
+   "settingsAdvancedUserPrompt": {
+      "message": "Я опытный пользователь (\u003Ca href='https://github.com/gorhill/uBlock/wiki/Advanced-user-features'>обязательно прочтите\u003C/a>)"
+   },
+   "settingsAdvancedUserSettings": {
+      "message": "дополнительные настройки"
+   },
+   "settingsCloudStorageEnabledPrompt": {
+      "message": "Включить поддержку облачного хранилища"
+   },
+   "settingsCollapseBlockedPrompt": {
+      "message": "Скрыть содержание заблокированных элементов"
+   },
+   "settingsColorBlindPrompt": {
+      "message": "Цветовая схема для дальтоников"
+   },
+   "settingsContextMenuPrompt": {
+      "message": "Использовать контекстное меню, где возможно"
+   },
+   "settingsHyperlinkAuditingDisabledPrompt": {
+      "message": "Отключить проверку гиперссылок"
+   },
+   "settingsIconBadgePrompt": {
+      "message": "Показывать количество заблокированных запросов на значке"
+   },
+   "settingsLastBackupPrompt": {
+      "message": "Последнее резервное копирование:"
+   },
+   "settingsLastRestorePrompt": {
+      "message": "Последнее восстановление:"
+   },
+   "settingsNoCSPReportsPrompt": {
+      "message": "Блокировать отчеты CSP"
+   },
+   "settingsNoCosmeticFilteringPrompt": {
+      "message": "Отключить косметические фильтры"
+   },
+   "settingsNoLargeMediaPrompt": {
+      "message": "Блокировать мультимедийные элементы, размер которых превышает {{input:number}} КБ"
+   },
+   "settingsNoRemoteFontsPrompt": {
+      "message": "Блокировать сторонние шрифты"
+   },
+   "settingsNoScriptingPrompt": {
+      "message": "Отключить JavaScript"
+   },
+   "settingsPageName": {
+      "message": "Настройки"
+   },
+   "settingsPrefetchingDisabledPrompt": {
+      "message": "Отключить предзагрузку, чтобы предотвращать подключения для заблокированных сетевых запросов"
+   },
+   "settingsStorageUsed": {
+      "message": "Места использовано: {{value}} Б"
+   },
+   "settingsTooltipsPrompt": {
+      "message": "Отключить подсказки"
+   },
+   "settingsWebRTCIPAddressHiddenPrompt": {
+      "message": "Предотвратить утечку локального IP-адреса через WebRTC"
+   },
+   "shortcutCapturePlaceholder": {
+      "message": "Введите сочетание клавиш"
+   },
+   "shortcutsPageName": {
+      "message": "Ярлыки"
+   },
+   "showDashboardButton": {
+      "message": "Показать панель управления"
+   },
+   "showNetworkLogButton": {
+      "message": "Показать журнал"
+   },
+   "statsPageName": {
+      "message": "CCleaner Anti-Tracking — журнал"
+   },
+   "subscriberConfirm": {
+      "message": "CCleaner Anti-Tracking: добавить следующий URL-адрес в ваш список фильтров?\n\nНазвание: «{{title}}»\nURL-адрес: {{url}}"
+   },
+   "whitelistApply": {
+      "message": "Применить изменения"
+   },
+   "whitelistExport": {
+      "message": "Экспортировать"
+   },
+   "whitelistExportFilename": {
+      "message": "CCleaner Anti-Tracking-whitelist_{{datetime}}.txt"
+   },
+   "whitelistImport": {
+      "message": "Импортировать и добавить"
+   },
+   "whitelistPageName": {
+      "message": "Белый список"
+   },
+   "whitelistPrompt": {
+      "message": "Белый список указывает, на каких веб-страницах следует отключить CCleaner Anti-Tracking. Одна запись на строку. Некорректные записи будут проигнорированы и отмечены в качестве комментария."
+   }
+}

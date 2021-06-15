@@ -1,0 +1,28 @@
+{
+   "appDescription": {
+      "message": "Zapobiega identyfikacji przeglądarki i ogranicza śledzenie online"
+   },
+   "appName": {
+      "message": "Blokada identyfikacji przeglądarki"
+   },
+   "popupStatusDisabled": {
+      "description": "Popup label shown when afp is disabled for current website",
+      "message": "Ochrona przed identyfikacją przeglądarki jest wyłączona na tej stronie"
+   },
+   "popupStatusEnabled": {
+      "description": "Popup label shown when afp is enabled for current website",
+      "message": "Ochrona przed identyfikacją przeglądarki jest włączona na tej stronie"
+   },
+   "popupTotalFingerprintsAttemptsDetected": {
+      "description": "Popup total fingerprints attempts detected label",
+      "message": "Łączna liczba wykrytych prób identyfikacji przeglądarki"
+   },
+   "settingsAdvanced": {
+      "description": "Settings page title",
+      "message": "Ustawienia zaawansowane blokady identyfikacji przeglądarki"
+   },
+   "settingsSocialMediaLoginDetectionPrevention": {
+      "description": "Settings page social media login detection prevention title",
+      "message": "Zapobieganie wykrywaniu logowania do kont w mediach społecznościowych"
+   }
+}

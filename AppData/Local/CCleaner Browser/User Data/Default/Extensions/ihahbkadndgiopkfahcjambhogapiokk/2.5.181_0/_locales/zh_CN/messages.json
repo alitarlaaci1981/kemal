@@ -1,0 +1,28 @@
+{
+   "appDescription": {
+      "message": "伪装您的浏览器指纹，限制在线跟踪"
+   },
+   "appName": {
+      "message": "反指纹识别"
+   },
+   "popupStatusDisabled": {
+      "description": "Popup label shown when afp is disabled for current website",
+      "message": "指纹保护在此站点上已禁用"
+   },
+   "popupStatusEnabled": {
+      "description": "Popup label shown when afp is enabled for current website",
+      "message": "指纹保护在此站点上已启用"
+   },
+   "popupTotalFingerprintsAttemptsDetected": {
+      "description": "Popup total fingerprints attempts detected label",
+      "message": "检测到的指纹尝试总次数"
+   },
+   "settingsAdvanced": {
+      "description": "Settings page title",
+      "message": "反指纹识别高级设置"
+   },
+   "settingsSocialMediaLoginDetectionPrevention": {
+      "description": "Settings page social media login detection prevention title",
+      "message": "社交媒体登录检测预防"
+   }
+}

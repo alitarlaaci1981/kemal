@@ -1,0 +1,239 @@
+{
+   "adBlock": {
+      "message": "Blocare reclame"
+   },
+   "adBlockSettings": {
+      "message": "Blocare reclame – Setări"
+   },
+   "adblockIsOff": {
+      "message": "Blocare reclame este dezactivată"
+   },
+   "adblockIsPaused": {
+      "message": "Blocare reclame este întreruptă pe toate site-urile"
+   },
+   "adblockIsPausedOnSite": {
+      "message": "Blocare reclame este întreruptă pe acest site"
+   },
+   "addSite": {
+      "message": "Adăugare site"
+   },
+   "addWebsiteToAllowAds": {
+      "message": "Adăugați un „site Web” la care permiteți reclame"
+   },
+   "adsAreAllowed": {
+      "message": "Reclamele sunt permise pe acest site"
+   },
+   "adsBlocked": {
+      "message": "Reclame blocate: "
+   },
+   "allowAdsOnSite": {
+      "message": "Permiteți reclame pe acest site"
+   },
+   "alwaysAllowAdsOnSites": {
+      "message": "Întotdeauna permiteți reclame pe următoarele site-uri"
+   },
+   "balancedBlocking": {
+      "message": "Blocare echilibrată"
+   },
+   "balancedBlockingName": {
+      "message": "Echilibrată"
+   },
+   "blockAdsOnThisSite": {
+      "message": "Blocați reclamele pe acest site"
+   },
+   "blockingOptions": {
+      "message": "Opțiuni de blocare"
+   },
+   "btnAdd": {
+      "message": "Adăugare"
+   },
+   "cancel": {
+      "message": "Anulare"
+   },
+   "cancelAddSiteOperation": {
+      "message": "Anulați operația de adăugare site"
+   },
+   "cancelEditSiteOperation": {
+      "message": "Anulați operația de editare site"
+   },
+   "cancelSetStrict": {
+      "message": "Anulați operația de setare în modul Strict"
+   },
+   "edit": {
+      "message": "Editare"
+   },
+   "editFromWhitelist": {
+      "message": "Editați un site din lista albă"
+   },
+   "editSiteFromWhitelist": {
+      "message": "Editați un site din lista albă"
+   },
+   "essentialBlocking": {
+      "message": "Blocare esențială"
+   },
+   "essentialBlockingName": {
+      "message": "Esențială"
+   },
+   "extShortDesc": {
+      "message": "În sfârșit, un program de blocare eficient. Lejer pentru procesor și memorie."
+   },
+   "generalSettings": {
+      "message": "Setări generale"
+   },
+   "hideAmountAds": {
+      "message": "Ascundeți numărul de reclame blocate"
+   },
+   "indexDescription": {
+      "message": "Blocați reclamele pentru o navigare mai rapidă și mai sigură"
+   },
+   "keep_balanced": {
+      "message": "Păstrare mod echilibrat"
+   },
+   "keep_essential": {
+      "message": "Păstrare mod esențial"
+   },
+   "learnMore": {
+      "message": "Aflați mai multe"
+   },
+   "learnMoreAAS": {
+      "message": "Aflați mai multe despre Standardul acceptabil pentru reclame"
+   },
+   "learnMoreAboutAdBLock": {
+      "message": "Aflați mai multe despre Blocare reclame"
+   },
+   "learnMoreUblock": {
+      "message": "Aflați mai multe despre uBlock"
+   },
+   "modifyWhitelistedSite": {
+      "message": "Modificați un site aflat în lista albă"
+   },
+   "noAdsToBlock": {
+      "message": "Niciun fel de reclame de blocat pe această pagină"
+   },
+   "openSettings": {
+      "message": "Deschideți setările"
+   },
+   "pauseAdBlock": {
+      "message": "Întrerupere Blocare reclame"
+   },
+   "pauseAdBlockOnAllSites": {
+      "message": "Întrerupere Blocare reclame pe toate site-urile"
+   },
+   "pauseAdsOnAllSites": {
+      "message": "Suspendați reclamele pe toate site-urile"
+   },
+   "pauseAdsOnSite": {
+      "message": "Suspendați reclamele pe acest site"
+   },
+   "pauseOnAllSites": {
+      "message": "Întrerupere pe toate site-urile"
+   },
+   "pauseOnThisSite": {
+      "message": "Întrerupere pe acest site"
+   },
+   "poweredByUblock": {
+      "message": "Echipat cu \u003Cu>\u003Ca style='color: inherit;' target='_blank' href='__SET_HREF__'>uBlock\u003C/a>\u003C/u>"
+   },
+   "remove": {
+      "message": "Eliminare"
+   },
+   "removeFromWhitelist": {
+      "message": "Eliminați un site din lista albă"
+   },
+   "save": {
+      "message": "Salvare"
+   },
+   "saveSiteIntoWhitelist": {
+      "message": "Salvați un site în lista albă"
+   },
+   "setBalancedMode": {
+      "message": "Setare în modul Echilibrat"
+   },
+   "setEssentialMode": {
+      "message": "Setare în modul Esențial"
+   },
+   "setStrict": {
+      "message": "Setare strictă"
+   },
+   "setStrictDescription_avast": {
+      "message": "Câteva reclame neinvazive ne ajută să finanțăm Avast Secure Browser. Ele nu vă întrerup navigarea și ne ajută să menținem gratuit browserul dvs. Arătați-ne puțină înțelegere prin permiterea acestor reclame."
+   },
+   "setStrictDescription_avg": {
+      "message": "Câteva reclame neinvazive ne ajută să finanțăm AVG Secure Browser. Ele nu vă întrerup navigarea și ne ajută să menținem gratuit browserul dvs. Arătați-ne puțină înțelegere prin permiterea acestor reclame."
+   },
+   "setStrictDescription_ccleaner": {
+      "message": "Câteva reclame neinvazive ne ajută să finanțăm CCleaner Browser. Ele nu vă întrerup navigarea și ne ajută să menținem gratuit browserul dvs. Arătați-ne puțină înțelegere prin permiterea acestor reclame."
+   },
+   "setStrictMode": {
+      "message": "Setare în modul Strict"
+   },
+   "setStrictTitle": {
+      "message": "Setați Blocare reclame la regimul strict"
+   },
+   "settingsCardAcceptableAds": {
+      "message": "Blocați reclamele perturbatoare care încalcă\n \u003Cu>\u003Ca style='color: inherit;' target='_blank' href='__SET_HREF__'>Standardele acceptate pentru reclame\u003C/a>\u003C/u>."
+   },
+   "settingsCardAcceptableAdsBlocks": {
+      "message": "\u003Cb>Recomandat\u003C/b> – Blocați cea mai mare parte a reclamelor, pentru o navigare mai curată și mai rapidă."
+   },
+   "settingsCardAcceptableAdsBlocksNearly": {
+      "message": "Blocați aproape toate reclamele, pentru o navigare mai curată și mai rapidă. \u003Cb>Acest lucru poate îngreuna citirea pe unele site-uri.\u003C/b>"
+   },
+   "settingsCardDisruptive": {
+      "message": "Alte reclame perturbatoare"
+   },
+   "settingsCardOtherAds": {
+      "message": "99% din celelalte reclame"
+   },
+   "settingsCardPopups": {
+      "message": "Ferestre contextuale cu reclame și bannere"
+   },
+   "settingsCardSocialMedia": {
+      "message": "Unele reclame de pe rețelele de socializare"
+   },
+   "settingsShowNumberBadge": {
+      "message": "Afișați numărul de reclame blocate pe pictogramă"
+   },
+   "showAmountAds": {
+      "message": "Afișați numărul de reclame blocate"
+   },
+   "site": {
+      "message": "Site"
+   },
+   "sitesYouHaveAllowed": {
+      "message": "Site-urile pe care ați permis reclame vor apărea aici"
+   },
+   "stayOn_balanced": {
+      "message": "Rămâneți în modul Echilibrat"
+   },
+   "stayOn_essential": {
+      "message": "Rămâneți în modul Esențial"
+   },
+   "strictBlocking": {
+      "message": "Blocare strictă"
+   },
+   "strictBlockingName": {
+      "message": "Strictă"
+   },
+   "turnAdblockOn": {
+      "message": "Activare"
+   },
+   "turnOff": {
+      "message": "Dezactivați Blocare reclame"
+   },
+   "turnOn": {
+      "message": "Activați Blocare reclame"
+   },
+   "unpauseAdBlockAllSites": {
+      "message": "Reactivați Blocare reclame pe toate site-urile"
+   },
+   "unpauseAdblockOnAllSites": {
+      "message": "Anulare întrerupere"
+   },
+   "whitelistModalDescription": {
+      "message": "Pentru care site doriți să permiteți reclame?"
+   },
+   "youHaveAllowAdsOnThisSite": {
+      "message": "Ați permis reclame pe acest site "
+   }
+}

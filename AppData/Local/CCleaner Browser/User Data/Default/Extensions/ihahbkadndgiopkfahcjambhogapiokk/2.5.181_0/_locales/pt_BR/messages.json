@@ -1,0 +1,28 @@
+{
+   "appDescription": {
+      "message": "Disfarça a impressão digital do navegador e limita o rastreamento online"
+   },
+   "appName": {
+      "message": "Anti Reconhecimento"
+   },
+   "popupStatusDisabled": {
+      "description": "Popup label shown when afp is disabled for current website",
+      "message": "A proteção de impressão digital está desativada neste site"
+   },
+   "popupStatusEnabled": {
+      "description": "Popup label shown when afp is enabled for current website",
+      "message": "A proteção de impressão digital está ativada neste site"
+   },
+   "popupTotalFingerprintsAttemptsDetected": {
+      "description": "Popup total fingerprints attempts detected label",
+      "message": "Total de tentativas de rastreamento de impressões digitais detectadas"
+   },
+   "settingsAdvanced": {
+      "description": "Settings page title",
+      "message": "Configurações avançadas de Anti Reconhecimento"
+   },
+   "settingsSocialMediaLoginDetectionPrevention": {
+      "description": "Settings page social media login detection prevention title",
+      "message": "Prevenção de detecção de acesso a redes sociais"
+   }
+}

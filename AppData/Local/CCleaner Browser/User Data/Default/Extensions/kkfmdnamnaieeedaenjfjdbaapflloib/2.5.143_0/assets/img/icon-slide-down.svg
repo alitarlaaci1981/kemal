@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="12px" height="7px" viewBox="0 0 12 7" version="1.1" xmlns="http://www.w3.org/2000/svg"
+     xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Shape</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Downloader-v8---dropdown-1" transform="translate(-994.000000, -176.000000)" fill-rule="nonzero"
+           fill="#757575">
+            <g id="Dropdown-_expandedCopy" transform="translate(548.000000, 74.000000)">
+                <g id="1" transform="translate(26.000000, 89.000000)">
+                    <g id="ic/expand_less/grey600"
+                       transform="translate(426.000000, 16.000000) rotate(-180.000000) translate(-426.000000, -16.000000) translate(414.000000, 4.000000)">
+                        <g id="ic_expand_less_24px" transform="translate(6.000000, 8.000000)">
+                            <polygon id="Shape"
+                                     points="6 0 0 5.66801619 1.41 7 6 2.6734143 10.59 7 12 5.66801619"></polygon>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,10 @@
+{
+   "ExtensionDescription": {
+      "description": "Description of the extension on chrome_extension page below extension title",
+      "message": "Dashlane semplifica la vita online. Salva le password, compila velocemente i moduli e mantieni i tuoi dati accessibili e sicuri."
+   },
+   "ExtensionName": {
+      "description": "Name of the extension on chrome_extension page and on Chrome Web Store page",
+      "message": "Dashlane - Gestore password"
+   }
+}

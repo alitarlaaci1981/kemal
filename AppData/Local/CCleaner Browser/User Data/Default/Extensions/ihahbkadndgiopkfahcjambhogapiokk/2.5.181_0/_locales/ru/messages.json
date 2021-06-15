@@ -1,0 +1,28 @@
+{
+   "appDescription": {
+      "message": "Сокрытие данных браузера и защита от отслеживания в Интернете"
+   },
+   "appName": {
+      "message": "Без идентификации"
+   },
+   "popupStatusDisabled": {
+      "description": "Popup label shown when afp is disabled for current website",
+      "message": "На этом сайте отключена защита от идентификации"
+   },
+   "popupStatusEnabled": {
+      "description": "Popup label shown when afp is enabled for current website",
+      "message": "На этом сайте включена защита от идентификации"
+   },
+   "popupTotalFingerprintsAttemptsDetected": {
+      "description": "Popup total fingerprints attempts detected label",
+      "message": "Общее количество обнаруженных попыток собрать данные для идентификации"
+   },
+   "settingsAdvanced": {
+      "description": "Settings page title",
+      "message": "Дополнительный настройки функции «Без идентификации»"
+   },
+   "settingsSocialMediaLoginDetectionPrevention": {
+      "description": "Settings page social media login detection prevention title",
+      "message": "Social Media Login Detection Prevention"
+   }
+}

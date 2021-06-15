@@ -1,0 +1,224 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <title>Dashlane Extension - Pairing Verification</title>
+    <link rel="stylesheet" type="text/css" href="styles/reset.css" />
+    <link
+      href="https://fonts.googleapis.com/css?family=Public+Sans:400,600|Space+Mono&display=swap"
+      rel="stylesheet"
+    />
+    <style>
+      @font-face {
+        font-family: 'GT Walsheim Pro';
+        font-style: normal;
+        src: url('../styles/font/GT-Walsheim-Pro-Bold.woff2');
+      }
+      html,
+      body {
+        height: 100%;
+      }
+
+      body {
+        font-family: 'Public Sans Pro', 'Helvetica Neue', Helvetica, Arial,
+          'Lucida Grande', sans-serif;
+      }
+
+      .container {
+        display: flex;
+        height: 100%;
+        width: 100%;
+      }
+      .col1 {
+        position: relative;
+        box-sizing: border-box;
+        width: 50%;
+        background: #d9e6e9; /* mid-green 05 */
+        display: flex;
+        flex-direction: column;
+      }
+
+      .logo {
+        background-image: url('images/dashlane-logo.svg');
+        background-repeat: no-repeat;
+        height: 24px;
+        width: 140px;
+        margin: 80px 48px 188px;
+      }
+
+      .title-container {
+        min-height: 42px;
+        margin: 0 48px 32px;
+        text-transform: uppercase;
+        font-size: 40px;
+        line-height: 42px;
+        color: #0e353d; /* dash-green-00 */
+        font-family: 'GT Walsheim Pro', 'Helvetica', 'Arial', sans-serif;
+      }
+
+      .success-title {
+        display: none;
+      }
+
+      .text {
+        font-size: 20px;
+        line-height: 26px;
+        color: #0e353d; /* dash-green-00 */
+        margin: 0 48px;
+        display: none;
+      }
+
+      .default-text {
+        display: block;
+      }
+
+      .actions {
+        position: absolute;
+        box-sizing: border-box;
+        width: 100%;
+        padding: 0 48px 32px;
+        bottom: 0;
+        display: flex;
+        justify-content: flex-end;
+        align-items: center;
+      }
+
+      .cancel-button {
+        height: 48px;
+        padding: 0 24px;
+        font-size: 16px;
+        line-height: 20px;
+        color: #0e353d; /* dash-green-00 */
+        display: flex;
+        align-items: center;
+      }
+
+      .cancel-button:hover,
+      .cancel-button:focus {
+        color: #0e353d; /* dash-green-00 */
+      }
+
+      .cancel-button:active {
+        color: #071a1e;
+      }
+
+      .authorize-button {
+        height: 48px;
+        padding: 0 24px;
+        font-size: 16px;
+        line-height: 20px;
+        background: #0e6476; /* mid-green-00 */
+        border-radius: 4px;
+        font-size: 16px;
+        line-height: 20px;
+        color: #ffffff;
+      }
+
+      .authorize-button:hover,
+      .authorize-button:focus {
+        background: #0e353d; /* dash-green-00 */
+      }
+
+      .authorize-button:active {
+        background: #071a1e;
+      }
+
+      .col2 {
+        position: relative;
+        width: 50%;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+      }
+
+      .code {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        font-size: 72px;
+        color: #000; /* black */
+        line-height: 100px;
+        font-family: 'Space Mono', monospace;
+        margin-bottom: 8px;
+      }
+
+      .code > .digit {
+        width: 64px;
+        border-bottom: solid 2px #9faeb1; /* dash-green-03 */
+        margin-right: 16px;
+        text-align: center;
+      }
+
+      .error-icon {
+        background-image: url('images/error-icon.svg');
+        background-repeat: no-repeat;
+        height: 160px;
+        width: 160px;
+        display: none;
+      }
+
+      .help {
+        position: absolute;
+        bottom: 0;
+        right: 0;
+        margin: 48px 76px;
+        font-size: 14px;
+        line-height: 16px;
+        text-align: right;
+        color: #999592;
+      }
+
+      .help-link {
+        color: #999592;
+        text-decoration: underline;
+      }
+    </style>
+  </head>
+
+  <body>
+    <div class="container">
+      <div class="col1">
+        <div class="logo"></div>
+        <div class="title-container">
+          <h1 class="title" id="title"></h1>
+          <h1 class="title success-title" id="title_success"></h1>
+        </div>
+
+        <div class="message-container">
+          <p class="text default-text" id="click_authorize_text" />
+
+          <!-- Error and success messages -->
+          <p class="text" id="wait_text" />
+          <p class="text" id="done_completed" />
+          <p class="text" id="done_cancelled" />
+          <p class="text" id="error_NEED_PLUGIN_UPDATE" />
+        </div>
+
+        <form id="confirmation_form" class="actions">
+          <a id="confirmation_form_cancel" class="cancel-button"></a>
+          <button
+            id="confirmation_form_authorize"
+            class="authorize-button"
+            type="submit"
+          ></button>
+        </form>
+      </div>
+      <div class="col2">
+        <div id="code" class="code">
+          <span id="code_0" class="digit"></span>
+          <span id="code_1" class="digit"></span>
+          <span id="code_2" class="digit"></span>
+          <span id="code_3" class="digit"></span>
+          <span id="code_4" class="digit"></span>
+          <span id="code_5" class="digit"></span>
+        </div>
+
+        <div id="error-icon" class="error-icon"></div>
+
+        <p class="help" id="help" />
+      </div>
+    </div>
+    <script src="pairingVerification.js"></script>
+  </body>
+</html>

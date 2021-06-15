@@ -1,0 +1,10 @@
+{
+   "ExtensionDescription": {
+      "description": "Description of the extension on chrome_extension page below extension title",
+      "message": "Dashlane facilita el uso de Internet. Guarde sus contraseñas, llene formularios rápido y mantenga sus datos accesibles y seguros."
+   },
+   "ExtensionName": {
+      "description": "Name of the extension on chrome_extension page and on Chrome Web Store page",
+      "message": "Dashlane - Administrador de contraseñas"
+   }
+}

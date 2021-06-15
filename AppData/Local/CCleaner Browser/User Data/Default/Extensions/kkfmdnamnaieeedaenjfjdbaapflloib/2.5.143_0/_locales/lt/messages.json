@@ -1,0 +1,117 @@
+{
+   "appDesc": {
+      "message": "Atsisiųsti vaizdo medžiagą, kad galėtumėte žiūrėti neprisijungę prie interneto"
+   },
+   "appName": {
+      "message": "Vaizdo failų atsisiuntimo programa"
+   },
+   "barDetachBtn": {
+      "description": "The Detach button text as visible on the floating bar",
+      "message": "Atkabinti"
+   },
+   "barDownloadBtn": {
+      "description": "The Download button text as visible on the floating bar",
+      "message": "Atsisiųsti"
+   },
+   "barMediaBtn": {
+      "description": "The Media button text as visible on the floating bar",
+      "message": "Medija"
+   },
+   "barQualityAudio": {
+      "description": "Audio title",
+      "message": "Garso medžiaga"
+   },
+   "barQualityVideo": {
+      "description": "Video title",
+      "message": "Vaizdo medžiaga"
+   },
+   "barSettingsAbout": {
+      "description": "About Button in settings popup",
+      "message": "Daugiau informacijos"
+   },
+   "barSettingsBtn": {
+      "description": "The Settings button text as visible on the floating bar",
+      "message": "Nuostatos"
+   },
+   "barSettingsDescription": {
+      "description": "Video download feature description in settings popup",
+      "message": "Valdymą atlieka CCleaner saugi naršyklė"
+   },
+   "barSettingsDoNotShow": {
+      "description": "Button in settings popup disabling video-downloader",
+      "message": "Daugiau nerodyti"
+   },
+   "barSettingsDoNotShowForSite": {
+      "description": "Button in settings popup disabling video-downloader for exact site",
+      "message": "Daugiau nerodyti šioje svetainėje"
+   },
+   "barSettingsTitle": {
+      "description": "Settings popup title in the floating bar",
+      "message": "Nuostatos"
+   },
+   "eulaContinue": {
+      "description": "EUlA continue button",
+      "message": "Tęsti"
+   },
+   "eulaText": {
+      "description": "EULA message displayed to the user",
+      "message": "Sutikdami su mūsų \u003Cdiv>\u003Ca target='blank' href='$link$'>Galutinio naudotojo licencijos sutartimi\u003C/a>\u003C/div> (EULA) patvirtinate ir sutinkate, jog esate atsakingi už vaizdo failų atsisiuntimo programos naudojimą laikantis galiojančių autorių teisių įstatymų ir svetainių naudojimo sąlygų.",
+      "placeholders": {
+         "link": {
+            "content": "$1"
+         }
+      }
+   },
+   "eulaTitle": {
+      "description": "EULA popup title",
+      "message": "Prieš atsisiunčiant"
+   },
+   "eulaUnderstandAccept": {
+      "description": "EULA user agreement checkbox text",
+      "message": "Suprantu ir priimu EULA"
+   },
+   "extensionName": {
+      "description": "Name shown in the extension button in SZB Control Center.",
+      "message": "Vaizdo failų atsisiuntimo programa"
+   },
+   "extensionTitle": {
+      "description": "Title shown on hover over the extension button in SZB Control Center.",
+      "message": "Atsisiųsti vaizdo medžiagą, kad galėtumėte žiūrėti neprisijungę prie interneto."
+   },
+   "optionUnknownSize": {
+      "description": "Videa or audio download option of unknown size",
+      "message": "nežinomas dydis"
+   },
+   "popupAudioHeading": {
+      "description": "The heading of the audio section in the media popup list",
+      "message": "Garsas"
+   },
+   "popupDisabledFor": {
+      "description": "Page was disabled for video downloader",
+      "message": "Vaizdo failų atsisiuntimo programa išjungta"
+   },
+   "popupDownloadBtn": {
+      "description": "The Download button text as visible in the media popup list",
+      "message": "Atsisiųsti"
+   },
+   "popupEnable": {
+      "description": "Enable video downloader for current page",
+      "message": "Įjungti"
+   },
+   "popupNoVideos": {
+      "description": "Page does not contain any videos",
+      "message": "Šiame puslapyje nėra vaizdo medžiagos, kurią galėtumėte atsisiųsti"
+   },
+   "popupNoVideos_v2": {
+      "description": "",
+      "message": "Norint atsisiųsti vaizdo medžiagą, eikite į jos informacijos puslapį."
+   },
+   "popupVideoHeading": {
+      "description": "The heading of the video section in the media popup list",
+      "message": "Vaizdo medžiaga"
+   },
+   "reattachBtn": {
+      "description": "The Reattach button text as visible on the detached video page",
+      "message": "Iš naujo prijungti"
+   }
+}

@@ -1,0 +1,28 @@
+{
+   "appDescription": {
+      "message": "Varjab sinu brauseri sõrmejälge, et piirata veebis jälgimist"
+   },
+   "appName": {
+      "message": "Sõrmejälgede tuvastamise blokkimine"
+   },
+   "popupStatusDisabled": {
+      "description": "Popup label shown when afp is disabled for current website",
+      "message": "Sõrmejäljekaitse on sellel lehel keelatud"
+   },
+   "popupStatusEnabled": {
+      "description": "Popup label shown when afp is enabled for current website",
+      "message": "Sõrmejäljekaitse on sellel lehel lubatud"
+   },
+   "popupTotalFingerprintsAttemptsDetected": {
+      "description": "Popup total fingerprints attempts detected label",
+      "message": "Sõrmejälje andmete tuvastamise katsete arv kokku"
+   },
+   "settingsAdvanced": {
+      "description": "Settings page title",
+      "message": "Sõrmejälgede tuvastamise blokkimise täpsemad seaded"
+   },
+   "settingsSocialMediaLoginDetectionPrevention": {
+      "description": "Settings page social media login detection prevention title",
+      "message": "Sotsiaalmeediasse logimisandmete tuvastamise ennetamine"
+   }
+}

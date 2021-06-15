@@ -1,0 +1,28 @@
+{
+   "appDescription": {
+      "message": "מסווה את טביעת האצבע של הדפדפן ומגביל מעקבים מקוונים"
+   },
+   "appName": {
+      "message": "אנטי טביעות אצבע"
+   },
+   "popupStatusDisabled": {
+      "description": "Popup label shown when afp is disabled for current website",
+      "message": "הגנת טביעת אצבע מושבתת באתר הזה"
+   },
+   "popupStatusEnabled": {
+      "description": "Popup label shown when afp is enabled for current website",
+      "message": "הגנת טביעת אצבע מופעלת באתר הזה"
+   },
+   "popupTotalFingerprintsAttemptsDetected": {
+      "description": "Popup total fingerprints attempts detected label",
+      "message": "ניסיונות בדיקת טביעת אצבע שזוהו בסך הכול"
+   },
+   "settingsAdvanced": {
+      "description": "Settings page title",
+      "message": "הגדרות מתקדמות של 'אנטי טביעות אצבע'"
+   },
+   "settingsSocialMediaLoginDetectionPrevention": {
+      "description": "Settings page social media login detection prevention title",
+      "message": "מניעת זיהוי כניסה לרשתות חברתיות"
+   }
+}

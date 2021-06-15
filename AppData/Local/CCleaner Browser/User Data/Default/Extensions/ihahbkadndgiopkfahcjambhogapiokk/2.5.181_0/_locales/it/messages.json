@@ -1,0 +1,28 @@
+{
+   "appDescription": {
+      "message": "Nasconde la fingerprint del tuo browser e limita il tracciamento online"
+   },
+   "appName": {
+      "message": "Anti-Fingerprinting"
+   },
+   "popupStatusDisabled": {
+      "description": "Popup label shown when afp is disabled for current website",
+      "message": "Protezione fingerprint disabilitata in questo sito"
+   },
+   "popupStatusEnabled": {
+      "description": "Popup label shown when afp is enabled for current website",
+      "message": "Protezione fingerprint abilitata in questo sito"
+   },
+   "popupTotalFingerprintsAttemptsDetected": {
+      "description": "Popup total fingerprints attempts detected label",
+      "message": "Tentativi di acquisizione fingerprint rilevati in totale"
+   },
+   "settingsAdvanced": {
+      "description": "Settings page title",
+      "message": "Impostazioni avanzate di Anti-Fingerprinting"
+   },
+   "settingsSocialMediaLoginDetectionPrevention": {
+      "description": "Settings page social media login detection prevention title",
+      "message": "Impedimento del rilevamento dell'accesso ai social media"
+   }
+}

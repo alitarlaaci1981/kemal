@@ -1,0 +1,860 @@
+{
+   "1pApplyChanges": {
+      "message": "החל שינויים"
+   },
+   "1pExport": {
+      "message": "יצא"
+   },
+   "1pFormatHint": {
+      "message": "מסנן אחד בכל שורה. מסנן יכול להיות פשוט שם שרת מארח או מסנן תואם 'חוסם פרסומות Plus'. משורות שמתחילות ב-&lsquo;!&rsquo; מתעלמים."
+   },
+   "1pImport": {
+      "message": "יבא והוסף"
+   },
+   "1pPageName": {
+      "message": " המסננים שלי"
+   },
+   "3pApplyChanges": {
+      "message": "החלת השינויים"
+   },
+   "3pAutoUpdatePrompt1": {
+      "message": "רשימות מסנני עדכון אוטומטי"
+   },
+   "3pExternalListObsolete": {
+      "message": "לא עדכני."
+   },
+   "3pExternalListsHint": {
+      "message": "כתובת URL אחת בשורה. משורות שמתחילות ב-&lsquo;!&rsquo; מתעלמים. מתעלמים בשקט גם מכתובות URL לא חוקיות."
+   },
+   "3pGroupAds": {
+      "message": "פרסומות"
+   },
+   "3pGroupAnnoyances": {
+      "message": "הפרעות"
+   },
+   "3pGroupCustom": {
+      "message": "התאמה"
+   },
+   "3pGroupDefault": {
+      "message": "מסנני רשת ומסננים קוסמטיים"
+   },
+   "3pGroupMalware": {
+      "message": "דומיינים של תוכנה זדונית"
+   },
+   "3pGroupMultipurpose": {
+      "message": "רב תכליתי"
+   },
+   "3pGroupPrivacy": {
+      "message": "פרטיות"
+   },
+   "3pGroupRegions": {
+      "message": "אזורים, שפות"
+   },
+   "3pIgnoreGenericCosmeticFilters": {
+      "message": "התעלם ממסננים קוסמטיים כלליים"
+   },
+   "3pIgnoreGenericCosmeticFiltersInfo": {
+      "message": "\u003Cp>מסננים קוסמטיים כלליים הם המסננים הקוסמטיים שאמורים לחול על כל האתרים.\u003Cp>CCleaner Anti-Tracking מטפל במסננים הקוסמטיים הכלליים ביעילות, ובכל זאת הם מגדילים במידה ניכרת את צריכת הזיכרון וה-CPU של הצגת דפים מסוימים, במיוחד של דפים גדולים וותיקים.\u003Cp>הפעלת האפשרות הזאת תקצץ את תוספת צריכת הזיכרון וה-CPU בהצגת דפי אינטרנט בגלל מסננים קוסמטיים כלליים, וגם תצמצם את צריכת הזיכרון של CCleaner Anti-Tracking עצמו. \u003Cp>מומלץ להפעיל את האפשרות הזאת במכשירים חלשים יחסית."
+   },
+   "3pImport": {
+      "message": "יבא..."
+   },
+   "3pLastUpdate": {
+      "message": "העדכון האחרון: {{ago}}."
+   },
+   "3pListsOfBlockedHostsHeader": {
+      "message": "רשימת השרתים המארחים החסומים"
+   },
+   "3pListsOfBlockedHostsPerListStats": {
+      "message": "{{used}} בשימוש מתוך {{total}}"
+   },
+   "3pListsOfBlockedHostsPrompt": {
+      "message": "{{netFilterCount}} מסנני רשת + {{cosmeticFilterCount}} מסננים קוסמטיים מ:"
+   },
+   "3pNetworkError": {
+      "message": "שגיאת רשת מנעה את עדכון המשאב."
+   },
+   "3pPageName": {
+      "message": "מסננים של צד שלישי"
+   },
+   "3pParseAllABPHideFiltersInfo": {
+      "message": "\u003Cp>אפשרות זאת מאפשרת לנתח ולהחיל \u003Ca href=\"https://adblockplus.org/en/faq_internal#elemhide\">מסננים תואמי 'חוסם פרסומות Plus' &ldquo;מסתירי אלמנטים&rdquo;\u003C/a>. מסננים אלה הם בעיקר קוסמטיים, ומשמשים להסתרת אלמנטים בדף האינטרנט שנחשבים הפרעה ויזואלית, ושאי אפשר לחסום בעזרת מנוע הסינון המבוסס על בקשות רשת.\u003C/p>\u003Cp>הפעלת התכונה הזאת מגדילה את צריכת הזיכרון של CCleaner Anti-Tracking.\u003C/p>"
+   },
+   "3pParseAllABPHideFiltersPrompt1": {
+      "message": "נתח והחל מסננים קוסמטיים"
+   },
+   "3pPurgeAll": {
+      "message": "נקה את כל זיכרונות המטמון"
+   },
+   "3pUpdateNow": {
+      "message": "עדכן עכשיו"
+   },
+   "3pUpdating": {
+      "message": "מעדכן..."
+   },
+   "aboutBackupDataButton": {
+      "message": "גיבוי לקובץ"
+   },
+   "aboutBackupFilename": {
+      "message": "CCleaner Anti-Tracking-backup_{{datetime}}.txt"
+   },
+   "aboutChangelog": {
+      "message": "יומן שינויים"
+   },
+   "aboutCode": {
+      "message": "קוד מקור (GPLv3)"
+   },
+   "aboutContributors": {
+      "message": "תורמים"
+   },
+   "aboutDependencies": {
+      "message": "תלויות חיצוניות (GPLv3-compatible):"
+   },
+   "aboutIssues": {
+      "message": "עוקב אחר בעיות"
+   },
+   "aboutPageName": {
+      "message": "אודות"
+   },
+   "aboutResetDataButton": {
+      "message": "איפוס להגדרות ברירת המחדל..."
+   },
+   "aboutResetDataConfirm": {
+      "message": "כל ההגדרות שלך יוסרו, ו-CCleaner Anti-Tracking יופעל מחדש.\n\nלאפס את CCleaner Anti-Tracking להגדרות היצרן?"
+   },
+   "aboutRestoreDataButton": {
+      "message": "שחזור מקובץ..."
+   },
+   "aboutRestoreDataConfirm": {
+      "message": "הערכים בכל ההגדרות יידרסו על ידי הנתונים מהגיבוי שנעשה ב-{{time}}, ו-CCleaner Anti-Tracking יופעל מחדש.\n\nלדרוס את כל הערכים הקיימים על ידי הנתונים בגיבוי?"
+   },
+   "aboutRestoreDataError": {
+      "message": "לא הצלחנו לקרוא את הנתונים או שהנתונים לא חוקיים"
+   },
+   "aboutSupport": {
+      "message": "תמיכה"
+   },
+   "aboutWiki": {
+      "message": "ויקי"
+   },
+   "advancedSettingsPageName": {
+      "message": "הגדרות מתקדמות"
+   },
+   "advancedSettingsWarning": {
+      "message": "אזהרה! שינוי ההגדרות המתקדמות ייעשה על אחריותך בלבד."
+   },
+   "assetViewerPageName": {
+      "message": "uBlock? ? Asset viewer"
+   },
+   "cloudDeviceNamePrompt": {
+      "message": "שם ההתקן הזה:"
+   },
+   "cloudPull": {
+      "message": "יבוא מאחסון בענן"
+   },
+   "cloudPullAndMerge": {
+      "message": "יבוא מאחסון בענן ומיזוג עם ההגדרות הקיימות"
+   },
+   "cloudPush": {
+      "message": "יצוא לאחסון בענן"
+   },
+   "contextMenuTemporarilyAllowLargeMediaElements": {
+      "message": "אפשר באופן זמני אלמנטים גדולים של מדיה"
+   },
+   "dashboardName": {
+      "message": "CCleaner Anti-Tracking - לוח מחוונים"
+   },
+   "docblockedBack": {
+      "message": "חזור"
+   },
+   "docblockedClose": {
+      "message": "סגור את החלון"
+   },
+   "docblockedDisablePermanent": {
+      "message": "באופן קבוע"
+   },
+   "docblockedDisableTemporary": {
+      "message": "באופן זמני"
+   },
+   "docblockedFoundIn": {
+      "message": "נמצא ב:"
+   },
+   "docblockedNoParamsPrompt": {
+      "message": "ללא פרמטרים"
+   },
+   "docblockedProceed": {
+      "message": "השבת את החסימה המחמירה עבור {{hostname}}"
+   },
+   "docblockedPrompt1": {
+      "message": "CCleaner Anti-Tracking מנע את טעינת הדף הבא:"
+   },
+   "docblockedPrompt2": {
+      "message": "בגלל המסנן הבא"
+   },
+   "dummy": {
+      "message": "הערך הזה חייב להיות אחרון"
+   },
+   "elapsedManyDaysAgo": {
+      "message": "לפני {{value}} ימים"
+   },
+   "elapsedManyHoursAgo": {
+      "message": "לפני {{value}} שעות"
+   },
+   "elapsedManyMinutesAgo": {
+      "message": "לפני {{value}} דקות"
+   },
+   "elapsedOneDayAgo": {
+      "message": "לפני יום"
+   },
+   "elapsedOneHourAgo": {
+      "message": "לפני שעה"
+   },
+   "elapsedOneMinuteAgo": {
+      "message": "לפני דקה"
+   },
+   "errorCantConnectTo": {
+      "message": "שגיאת רשת: {{msg}}"
+   },
+   "extShortDesc": {
+      "message": "חסום אמצעי מעקב אינטרנטיים פולשניים."
+   },
+   "extra1pPageNameDesc": {
+      "message": "נהל את המסננים המותאמים שלך"
+   },
+   "extra3pPageNameDesc": {
+      "message": "מסנני אמצעי מעקב ופרטיות של גופי צד שלישי"
+   },
+   "extraAddFilter": {
+      "message": "הוסף מסנן"
+   },
+   "extraAddRrule": {
+      "message": "הוסף כלל זמני"
+   },
+   "extraAddSetting": {
+      "message": "הוסף הגדרה"
+   },
+   "extraAddSite": {
+      "message": "הוסף אתר"
+   },
+   "extraAdsFilters": {
+      "message": "מסנני פרסומות"
+   },
+   "extraAdvancedUserSettings": {
+      "message": "הגדרות משתמש מתקדמות"
+   },
+   "extraAllowOnSites": {
+      "message": "אפשר אמצעי מעקב באתרים האלה"
+   },
+   "extraBlockMediaElementsLargerThan": {
+      "message": "חסום פריטי מדיה גדולים מ-"
+   },
+   "extraBtnAdd": {
+      "message": "הוסף"
+   },
+   "extraBtnCancel": {
+      "message": "ביטול"
+   },
+   "extraBtnEdit": {
+      "message": "עריכה"
+   },
+   "extraBtnExport": {
+      "message": "יצא"
+   },
+   "extraBtnImport": {
+      "message": "יבא"
+   },
+   "extraBtnRemove": {
+      "message": "הסר"
+   },
+   "extraBtnUpdateAll": {
+      "message": "עדכן הכול"
+   },
+   "extraDefaultBehaviour": {
+      "message": "התנהגות ברירת המחדל"
+   },
+   "extraEditFilter": {
+      "message": "ערוך מסנן"
+   },
+   "extraEditRule": {
+      "message": "ערוך כלל זמני"
+   },
+   "extraEditSetting": {
+      "message": "ערוך הגדרה"
+   },
+   "extraEditSite": {
+      "message": "ערוך אתר"
+   },
+   "extraGeneralSettings": {
+      "message": "הגדרות כלליות"
+   },
+   "extraGeneralSettingsDesc": {
+      "message": "נהל את המידע המוצג בCCleaner Anti-Tracking"
+   },
+   "extraIndexDescription": {
+      "message": "לגלישה מהירה ובטוחה יותר - חסום אמצעי מעקב"
+   },
+   "extraIndexFooter": {
+      "message": "מופעל על ידי uBlock Origin."
+   },
+   "extraIndexHeader": {
+      "message": "CCleaner Anti-Tracking הגדרות מתקדמות"
+   },
+   "extraInterstitialBlocking": {
+      "message": "הפעל חסימה במרווחים"
+   },
+   "extraLabelFilter": {
+      "message": "מסנן"
+   },
+   "extraLearnMore": {
+      "message": "מידע נוסף"
+   },
+   "extraManageFilters": {
+      "message": "נהל מסננים"
+   },
+   "extraMyCustomFilter": {
+      "message": "המסננים המותאמים שלי"
+   },
+   "extraPrivacy": {
+      "message": "פרטיות"
+   },
+   "extraRule": {
+      "message": "כלל"
+   },
+   "extraRuleDefinition": {
+      "message": "הגדרת כלל"
+   },
+   "extraRuleSyntax": {
+      "message": "תחביר כלל"
+   },
+   "extraRulesPageNameDesc": {
+      "message": "רשימת כללי הסינון הדינמי שלך"
+   },
+   "extraSetting": {
+      "message": "הגדרה"
+   },
+   "extraShowMore": {
+      "message": "הצג עוד"
+   },
+   "extraSite": {
+      "message": "אתר"
+   },
+   "extraSlider0": {
+      "message": "אל תחסום פרסומות"
+   },
+   "extraSlider100": {
+      "message": "חסימת פרסומות מקסימלית"
+   },
+   "extraSlider50": {
+      "message": "חסימת פרסומות מתונה"
+   },
+   "extraSourceDestinationTypeAction": {
+      "message": "מקור יעד סוג פעולה."
+   },
+   "extraWhitelistPageNameDesc": {
+      "message": "רשימת האתרים שבהם אמצעי המעקב מותרים"
+   },
+   "fennecMenuItemBlockingOff": {
+      "message": "כבוי"
+   },
+   "genericApplyChanges": {
+      "message": "החל את השינויים"
+   },
+   "genericBytes": {
+      "message": "בייטים"
+   },
+   "genericCopyToClipboard": {
+      "message": "העתק ללוח"
+   },
+   "genericMergeViewScrollLock": {
+      "message": "שנה את מצב הגלילה הנעולה"
+   },
+   "genericRevert": {
+      "message": "חזור למצב קודם"
+   },
+   "genericSubmit": {
+      "message": "שליחה"
+   },
+   "logAll": {
+      "message": "הכול"
+   },
+   "logBehindTheScene": {
+      "message": "מאחורי הקלעים"
+   },
+   "logFilterPrompt": {
+      "message": "סינון רישומים ביומן"
+   },
+   "logMaxEntriesTip": {
+      "message": "המספר המרבי של רישומים ביומן"
+   },
+   "logRequestsHeaderDomain": {
+      "message": "דומיין"
+   },
+   "logRequestsHeaderFilter": {
+      "message": "מסנן"
+   },
+   "logRequestsHeaderType": {
+      "message": "סוג"
+   },
+   "logRequestsHeaderURL": {
+      "message": "URL"
+   },
+   "loggerClearTip": {
+      "message": "נקה את הרושם"
+   },
+   "loggerCurrentTab": {
+      "message": "הכרטיסייה הנוכחית"
+   },
+   "loggerDomInspectorTip": {
+      "message": "שנה את מצב בודק ה-DOM"
+   },
+   "loggerEntryDetailsContext": {
+      "message": "הקשר"
+   },
+   "loggerEntryDetailsFilter": {
+      "message": "מסנן"
+   },
+   "loggerEntryDetailsFilterList": {
+      "message": "רשימות מסננים"
+   },
+   "loggerEntryDetailsHeader": {
+      "message": "פרטים"
+   },
+   "loggerEntryDetailsPartyness": {
+      "message": "צדדים"
+   },
+   "loggerEntryDetailsRootContext": {
+      "message": "ההקשר של השורש"
+   },
+   "loggerEntryDetailsRule": {
+      "message": "כלל"
+   },
+   "loggerEntryDetailsType": {
+      "message": "סוג"
+   },
+   "loggerEntryDetailsURL": {
+      "message": "URL"
+   },
+   "loggerExportEncodeMarkdown": {
+      "message": "Markdown"
+   },
+   "loggerExportEncodePlain": {
+      "message": "פשוט"
+   },
+   "loggerExportFormatList": {
+      "message": "רשימה"
+   },
+   "loggerExportFormatTable": {
+      "message": "טבלה"
+   },
+   "loggerInfoTip": {
+      "message": "ויקי uBlock Origin: הרושם"
+   },
+   "loggerPauseTip": {
+      "message": "השהה את הרושם (התעלם מכל הנתונים הנכנסים)"
+   },
+   "loggerPopupPanelTip": {
+      "message": "שנה את מצב הפנל הקופץ"
+   },
+   "loggerReloadTip": {
+      "message": "טען מחדש את תוכן הכרטיסייה"
+   },
+   "loggerRowFiltererBuiltin1p": {
+      "message": "צד ראשון"
+   },
+   "loggerRowFiltererBuiltin3p": {
+      "message": "צד שלישי"
+   },
+   "loggerRowFiltererBuiltinAllowed": {
+      "message": "מותר"
+   },
+   "loggerRowFiltererBuiltinBlocked": {
+      "message": "חסום"
+   },
+   "loggerRowFiltererBuiltinEventful": {
+      "message": "מרובה אירועים"
+   },
+   "loggerRowFiltererBuiltinNot": {
+      "message": "לא"
+   },
+   "loggerRowFiltererBuiltinTip": {
+      "message": "אפשרויות הסינון ברושם"
+   },
+   "loggerRowFiltererButtonTip": {
+      "message": "שנה את מצב הסינון ברושם"
+   },
+   "loggerSettingDiscardPrompt": {
+      "message": "הערכים ברושם שאינם עומדים בכל שלושת התנאים הבאים, יימחקו אוטומטית:"
+   },
+   "loggerSettingHideColumnContext": {
+      "message": "ההקשר של {{input}}"
+   },
+   "loggerSettingHideColumnFilter": {
+      "message": "המסנן/כלל של {{input}}"
+   },
+   "loggerSettingHideColumnPartyness": {
+      "message": "הצדדים של {{input}}"
+   },
+   "loggerSettingHideColumnTime": {
+      "message": "השעה של {{input}}"
+   },
+   "loggerSettingHideColumnsPrompt": {
+      "message": "הסתר עמודות:"
+   },
+   "loggerSettingPerEntryLineCount": {
+      "message": "השתמש ב-{{input}} שורות לכל ערך במצב מורחב אנכי"
+   },
+   "loggerSettingPerEntryMaxAge": {
+      "message": "שמור ערכים מ-{{input}} הדקות האחרונות"
+   },
+   "loggerSettingPerTabMaxEntries": {
+      "message": "שמור לכל היותר {{input}} ערכים לכל כרטיסייה"
+   },
+   "loggerSettingPerTabMaxLoads": {
+      "message": "שמור לכל היותר {{input}} טעינות דפים לכל כרטיסייה"
+   },
+   "loggerStaticFilteringFinderSentence1": {
+      "message": "המסנן הסטטי \u003Ccode>{{filter}}\u003C/code> נמצא ב:"
+   },
+   "loggerStaticFilteringFinderSentence2": {
+      "message": "המסנן הסטטי \u003Ccode>{{filter}}\u003C/code> לא נמצא באף אחת מרשימות המסננים המופעלים"
+   },
+   "loggerStaticFilteringHeader": {
+      "message": "סינון סטטי"
+   },
+   "loggerStaticFilteringSentence": {
+      "message": "{{action}} בקשות רשת {{type}} {{br}}עם כתובת URL שתואמת ל-{{url}} {{br}}ומגיעה {{origin}},{{br}}{{importance}} יש מסנן חריגה תואם."
+   },
+   "loggerStaticFilteringSentencePartAllow": {
+      "message": "אפשר"
+   },
+   "loggerStaticFilteringSentencePartAnyOrigin": {
+      "message": "מכל מקום"
+   },
+   "loggerStaticFilteringSentencePartAnyType": {
+      "message": "מכל הסוגים"
+   },
+   "loggerStaticFilteringSentencePartBlock": {
+      "message": "חסום"
+   },
+   "loggerStaticFilteringSentencePartImportant": {
+      "message": "אפילו אם"
+   },
+   "loggerStaticFilteringSentencePartNotImportant": {
+      "message": "חוץ מאשר כאשר"
+   },
+   "loggerStaticFilteringSentencePartOrigin": {
+      "message": "מ-?{{origin}}?"
+   },
+   "loggerStaticFilteringSentencePartType": {
+      "message": "מסוג ?{{type}}?"
+   },
+   "loggerURLFilteringContextLabel": {
+      "message": "הקשר:"
+   },
+   "loggerURLFilteringHeader": {
+      "message": "סינון URL דינמי"
+   },
+   "loggerURLFilteringTypeLabel": {
+      "message": "סוג:"
+   },
+   "loggerUnpauseTip": {
+      "message": "בטל את השהיית הרושם"
+   },
+   "pickerContextMenuEntry": {
+      "message": "חסום אלמנט"
+   },
+   "pickerCosmeticFilters": {
+      "message": "מסננים קוסמטיים"
+   },
+   "pickerCosmeticFiltersHint": {
+      "message": "לחיצה, לחיצה עם Ctrl"
+   },
+   "pickerCreate": {
+      "message": "צור"
+   },
+   "pickerNetFilters": {
+      "message": "מסנני רשת"
+   },
+   "pickerPick": {
+      "message": "בחר"
+   },
+   "pickerPreview": {
+      "message": "תצוגה מקדימה"
+   },
+   "pickerQuit": {
+      "message": "יציאה"
+   },
+   "popup1pScriptRulePrompt": {
+      "message": "סקריפטים של צד ראשון"
+   },
+   "popup3pAnyRulePrompt": {
+      "message": "צד שלישי"
+   },
+   "popup3pFrameRulePrompt": {
+      "message": "מסגרות של צד שלישי"
+   },
+   "popup3pPassiveRulePrompt": {
+      "message": "‏css/תמונות של צד שלישי"
+   },
+   "popup3pScriptRulePrompt": {
+      "message": "סקריפטים של צד שלישי"
+   },
+   "popupAdvancedSettings": {
+      "message": "הגדרות מתקדמות"
+   },
+   "popupAnyRulePrompt": {
+      "message": "הכול"
+   },
+   "popupExtraAdsAllowedOnSites": {
+      "message": "באתר הזה אמצעי המעקב מותרים"
+   },
+   "popupExtraAdsBlockedOnPage": {
+      "message": "אמצעי מעקב שנחסמו בדף הזה"
+   },
+   "popupExtraAdsBlockedOnSites": {
+      "message": "באתר הזה אמצעי המעקב חסומים"
+   },
+   "popupExtraAdsBlockedTotal": {
+      "message": "אמצעי מעקב שנחסמו בסך הכול"
+   },
+   "popupExtraLessOptions": {
+      "message": "פחות אפשרויות"
+   },
+   "popupExtraListAllowedSites": {
+      "message": "רשימת האתרים המותרים"
+   },
+   "popupExtraMoreInformation": {
+      "message": "מידע נוסף"
+   },
+   "popupExtraMoreOptions": {
+      "message": "אפשרויות נוספות"
+   },
+   "popupExtraNoSitesAddedYet": {
+      "message": "עדיין לא נוספו אתרים"
+   },
+   "popupExtraProtectionCanNotEnabled": {
+      "message": "באתר הזה אי אפשר להפעיל את ההגנה"
+   },
+   "popupExtraProtectionDisabledForSession": {
+      "message": "אי אפשר להפעיל את ההגנה על הסשן הזה"
+   },
+   "popupExtraSeeListAllowedSites": {
+      "message": "הצג את רשימת כל האתרים המותרים"
+   },
+   "popupHitDomainCount": {
+      "message": "{{count}} מתוך {{total}}"
+   },
+   "popupHitDomainCountPrompt": {
+      "message": "דומיינים מחוברים"
+   },
+   "popupImageRulePrompt": {
+      "message": "תמונות"
+   },
+   "popupInlineScriptRulePrompt": {
+      "message": "סקריפטים inline"
+   },
+   "popupTipDashboard": {
+      "message": "פתח את לוח המחוונים"
+   },
+   "popupTipGlobalRules": {
+      "message": "כללים גלובליים: העמודה הזאת מיועדת לכללים החלים על כל האתרים."
+   },
+   "popupTipLocalRules": {
+      "message": "כללים מקומיים: העמודה הזאת מיועדת לכללים החלים על האתר הנוכחי בלבד.\nכללים מקומיים גוברים על כללים גלובליים."
+   },
+   "popupTipLog": {
+      "message": "פתח את הרושם"
+   },
+   "popupTipNoCosmeticFiltering": {
+      "message": "שנה את מצב הסינון הקוסמטי באתר הזה"
+   },
+   "popupTipNoCosmeticFiltering1": {
+      "message": "לחץ להשבתת הסינון הקוסמטי באתר הזה"
+   },
+   "popupTipNoCosmeticFiltering2": {
+      "message": "לחץ להפעלת הסינון הקוסמטי באתר הזה"
+   },
+   "popupTipNoLargeMedia": {
+      "message": "שנה את מצב החסימה של רכיבי מדיה גדולים באתר הזה"
+   },
+   "popupTipNoLargeMedia1": {
+      "message": "לחץ לחסימת רכיבי מדיה גדולים באתר הזה"
+   },
+   "popupTipNoLargeMedia2": {
+      "message": "לחץ להפסקת החסימה של רכיבי מדיה גדולים באתר הזה"
+   },
+   "popupTipNoPopups": {
+      "message": "שנה את מצב החסימה של כל ההודעות הקופצות באתר הזה"
+   },
+   "popupTipNoPopups1": {
+      "message": "לחץ לחסימת כל ההודעות הקופצות באתר הזה"
+   },
+   "popupTipNoPopups2": {
+      "message": "לחץ להפסקת החסימה של כל ההודעות הקופצות באתר הזה"
+   },
+   "popupTipNoRemoteFonts": {
+      "message": "שנה את מצב החסימה של פונטים מרוחקים באתר הזה"
+   },
+   "popupTipNoRemoteFonts1": {
+      "message": "לחץ לחסימת פונטים מרוחקים באתר הזה"
+   },
+   "popupTipNoRemoteFonts2": {
+      "message": "לחץ להפסקת החסימה של פונטים מרוחקים באתר הזה"
+   },
+   "popupTipNoScripting1": {
+      "message": "לחץ להשבתה של JavaScript באתר הזה"
+   },
+   "popupTipNoScripting2": {
+      "message": "לחץ להפסקת ההשבתה של JavaScript באתר הזה"
+   },
+   "popupTipPicker": {
+      "message": "היכנס למצב בחירת רכיבים"
+   },
+   "popupTipRevertRules": {
+      "message": "לחץ לביטול השינויים."
+   },
+   "popupTipSaveRules": {
+      "message": "לחץ לשמירת השינויים."
+   },
+   "popupTipZapper": {
+      "message": "היכנס למצב חיסול רכיבים"
+   },
+   "rulesCommit": {
+      "message": "החל"
+   },
+   "rulesEdit": {
+      "message": "ערוך"
+   },
+   "rulesEditDiscard": {
+      "message": "בטל את השינויים"
+   },
+   "rulesEditSave": {
+      "message": "שמור"
+   },
+   "rulesExport": {
+      "message": "יצא לקובץ"
+   },
+   "rulesFormatHint": {
+      "message": "תחביר כלל: \u003Ccode>מקור יעד סוג פעולה\u003C/code> (\u003Ca href='https://github.com/gorhill/uBlock/wiki/Dynamic-filtering:-rule-syntax'>לתיעוד המלא\u003C/a>)."
+   },
+   "rulesHint": {
+      "message": "רשימת כללי הסינון הדינמיים."
+   },
+   "rulesImport": {
+      "message": "יבא מקובץ..."
+   },
+   "rulesPageName": {
+      "message": "הכללים שלי"
+   },
+   "rulesPermanentHeader": {
+      "message": "כללים קבועים"
+   },
+   "rulesRevert": {
+      "message": "חזור למצב קודם"
+   },
+   "rulesTemporaryHeader": {
+      "message": "כללים זמניים"
+   },
+   "settingPerSiteSwitchGroup": {
+      "message": "התנהגות ברירת המחדל"
+   },
+   "settingPerSiteSwitchGroupSynopsis": {
+      "message": "אפשר לעקוף את התנהגויות ברירת המחדל האלה בכל אתר בנפרד"
+   },
+   "settingsAdvancedUserPrompt": {
+      "message": "אני משתמש מתקדם (\u003Ca href='https://github.com/gorhill/uBlock/wiki/Advanced-user-features'>חובת קריאה\u003C/a>)"
+   },
+   "settingsAdvancedUserSettings": {
+      "message": "הגדרות מתקדמות"
+   },
+   "settingsCloudStorageEnabledPrompt": {
+      "message": "הפעל תמיכה באחסון בענן"
+   },
+   "settingsCollapseBlockedPrompt": {
+      "message": "הסתר מצייני מיקום של אלמנטים חסומים"
+   },
+   "settingsColorBlindPrompt": {
+      "message": "ידידותי לעיוורי צבעים"
+   },
+   "settingsContextMenuPrompt": {
+      "message": "השתמש בתפריט הקשר במקומות המתאימים"
+   },
+   "settingsHyperlinkAuditingDisabledPrompt": {
+      "message": "השבת את בדיקות ההיפר-קישורים"
+   },
+   "settingsIconBadgePrompt": {
+      "message": "הצג על האייקון את מספר הבקשות החסומות"
+   },
+   "settingsLastBackupPrompt": {
+      "message": "הגיבוי האחרון:"
+   },
+   "settingsLastRestorePrompt": {
+      "message": "השחזור האחרון:"
+   },
+   "settingsNoCSPReportsPrompt": {
+      "message": "חסום דוחות CSP"
+   },
+   "settingsNoCosmeticFilteringPrompt": {
+      "message": "השבת את הסינון הקוסמטי"
+   },
+   "settingsNoLargeMediaPrompt": {
+      "message": "חסום רכיבי מדיה שגדולים מ-‎{{input:number}} kB‎"
+   },
+   "settingsNoRemoteFontsPrompt": {
+      "message": "חסום פונטים מרוחקים"
+   },
+   "settingsNoScriptingPrompt": {
+      "message": "השבת JavaScript"
+   },
+   "settingsPageName": {
+      "message": "הגדרות"
+   },
+   "settingsPrefetchingDisabledPrompt": {
+      "message": "השבת את האחזור המוקדם (למניעת חיבור בשביל בקשות רשת חסומות)"
+   },
+   "settingsStorageUsed": {
+      "message": "אחסון בשימוש: {{value}} בייטים"
+   },
+   "settingsTooltipsPrompt": {
+      "message": "השבת הודעות tooltip"
+   },
+   "settingsWebRTCIPAddressHiddenPrompt": {
+      "message": "מנע הדלפה של כתובות IP פנימיות מ-WebRTC"
+   },
+   "shortcutCapturePlaceholder": {
+      "message": "הקלד קיצור דרך"
+   },
+   "shortcutsPageName": {
+      "message": "קיצורי דרך"
+   },
+   "showDashboardButton": {
+      "message": "הצג את לוח המחוונים"
+   },
+   "showNetworkLogButton": {
+      "message": "הצג רושם (Logger)"
+   },
+   "statsPageName": {
+      "message": "CCleaner Anti-Tracking - רושם (Logger)"
+   },
+   "subscriberConfirm": {
+      "message": "CCleaner Anti-Tracking: להוסיף את כתובת ה-URL הבאה לרשימות המסננים המותאמים שלך?\n\nכותרת: \"{{title}}\"\nכתובת URL‏: {{url}}"
+   },
+   "whitelistApply": {
+      "message": "החלת השינויים"
+   },
+   "whitelistExport": {
+      "message": "יצא"
+   },
+   "whitelistExportFilename": {
+      "message": "CCleaner Anti-Tracking-whitelist_{{datetime}}.txt"
+   },
+   "whitelistImport": {
+      "message": "יבא והוסף"
+   },
+   "whitelistPageName": {
+      "message": "רשימה לבנה"
+   },
+   "whitelistPrompt": {
+      "message": "הנחיות הרשימה הלבנה קובעות באילו דפי אינטרנט יש להשבית את CCleaner Anti-Tracking. ערך אחד בכל שורה. מהנחיות לא חוקיות נתעלם בשקט ונהפוך להערות."
+   }
+}

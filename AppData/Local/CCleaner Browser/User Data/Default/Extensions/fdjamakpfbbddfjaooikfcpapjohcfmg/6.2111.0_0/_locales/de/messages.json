@@ -1,0 +1,10 @@
+{
+   "ExtensionDescription": {
+      "description": "Description of the extension on chrome_extension page below extension title",
+      "message": "Passwörter speichern, Formulare per Klick ausfüllen & Daten sicher und verfügbar aufbewahren: Dashlane ist Internet leicht gemacht."
+   },
+   "ExtensionName": {
+      "description": "Name of the extension on chrome_extension page and on Chrome Web Store page",
+      "message": "Dashlane - Passwort-Manager"
+   }
+}

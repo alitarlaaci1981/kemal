@@ -1,0 +1,239 @@
+{
+   "adBlock": {
+      "message": "廣告封鎖"
+   },
+   "adBlockSettings": {
+      "message": "廣告封鎖 - 設定"
+   },
+   "adblockIsOff": {
+      "message": "廣告封鎖已關閉"
+   },
+   "adblockIsPaused": {
+      "message": "已暫停封鎖所有網站的廣告"
+   },
+   "adblockIsPausedOnSite": {
+      "message": "已暫停封鎖這個網站的廣告"
+   },
+   "addSite": {
+      "message": "新增網站"
+   },
+   "addWebsiteToAllowAds": {
+      "message": "新增允許廣告播放的「網站」"
+   },
+   "adsAreAllowed": {
+      "message": "已允許在這個網站播放廣告"
+   },
+   "adsBlocked": {
+      "message": "封鎖的廣告："
+   },
+   "allowAdsOnSite": {
+      "message": "允許這個網站的廣告"
+   },
+   "alwaysAllowAdsOnSites": {
+      "message": "永遠允許下列網站的廣告"
+   },
+   "balancedBlocking": {
+      "message": "平衡封鎖"
+   },
+   "balancedBlockingName": {
+      "message": "平衡"
+   },
+   "blockAdsOnThisSite": {
+      "message": "封鎖這個網站的廣告"
+   },
+   "blockingOptions": {
+      "message": "封鎖選項"
+   },
+   "btnAdd": {
+      "message": "新增"
+   },
+   "cancel": {
+      "message": "取消"
+   },
+   "cancelAddSiteOperation": {
+      "message": "取消新增網站的操作"
+   },
+   "cancelEditSiteOperation": {
+      "message": "取消編輯網站的操作"
+   },
+   "cancelSetStrict": {
+      "message": "取消設定嚴格模式的操作"
+   },
+   "edit": {
+      "message": "編輯"
+   },
+   "editFromWhitelist": {
+      "message": "編輯白名單上的網站"
+   },
+   "editSiteFromWhitelist": {
+      "message": "編輯白名單上的網站"
+   },
+   "essentialBlocking": {
+      "message": "基本封鎖"
+   },
+   "essentialBlockingName": {
+      "message": "基本"
+   },
+   "extShortDesc": {
+      "message": "減輕 CPU 和記憶體負擔的高效率封鎖工具終於問世。"
+   },
+   "generalSettings": {
+      "message": "一般設定"
+   },
+   "hideAmountAds": {
+      "message": "隱藏封鎖的廣告數量"
+   },
+   "indexDescription": {
+      "message": "封鎖廣告，瀏覽網路更快速安全"
+   },
+   "keep_balanced": {
+      "message": "保留平衡模式"
+   },
+   "keep_essential": {
+      "message": "保留基本模式"
+   },
+   "learnMore": {
+      "message": "深入瞭解"
+   },
+   "learnMoreAAS": {
+      "message": "深入瞭解可接受的廣告標準"
+   },
+   "learnMoreAboutAdBLock": {
+      "message": "深入瞭解廣告封鎖"
+   },
+   "learnMoreUblock": {
+      "message": "深入瞭解 uBlock"
+   },
+   "modifyWhitelistedSite": {
+      "message": "修改列入白名單的網站"
+   },
+   "noAdsToBlock": {
+      "message": "這個頁面沒有廣告可封鎖"
+   },
+   "openSettings": {
+      "message": "開啟設定"
+   },
+   "pauseAdBlock": {
+      "message": "暫停廣告封鎖"
+   },
+   "pauseAdBlockOnAllSites": {
+      "message": "暫停封鎖所有網站的廣告"
+   },
+   "pauseAdsOnAllSites": {
+      "message": "暫停所有網站上的廣告"
+   },
+   "pauseAdsOnSite": {
+      "message": "暫停這個網站上的廣告"
+   },
+   "pauseOnAllSites": {
+      "message": "在所有網站上暫停"
+   },
+   "pauseOnThisSite": {
+      "message": "在這個網站上暫停"
+   },
+   "poweredByUblock": {
+      "message": "由 \u003Cu>\u003Ca style='color: inherit;' target='_blank' href='__SET_HREF__'>uBlock\u003C/a>\u003C/u> 提供"
+   },
+   "remove": {
+      "message": "移除"
+   },
+   "removeFromWhitelist": {
+      "message": "將網站從白名單中移除"
+   },
+   "save": {
+      "message": "儲存"
+   },
+   "saveSiteIntoWhitelist": {
+      "message": "將網站儲存至白名單"
+   },
+   "setBalancedMode": {
+      "message": "設定平衡模式"
+   },
+   "setEssentialMode": {
+      "message": "設定基本模式"
+   },
+   "setStrict": {
+      "message": "設定為嚴格"
+   },
+   "setStrictDescription_avast": {
+      "message": "只要觀看幾個非侵入性廣告，就能協助我們籌措 Avast Secure Browser 的資金。這些廣告不會干擾您瀏覽網頁，而且有助於讓使用者繼續免費使用瀏覽器。請允許這些廣告，展現您對我們的支持。"
+   },
+   "setStrictDescription_avg": {
+      "message": "只要觀看幾個非侵入性廣告，就能協助我們籌措 AVG Secure Browser 的資金。這些廣告不會干擾您瀏覽網頁，而且有助於讓使用者繼續免費使用瀏覽器。請允許這些廣告，展現您對我們的支持。"
+   },
+   "setStrictDescription_ccleaner": {
+      "message": "只要觀看幾個非侵入性廣告，就能協助我們籌措 CCleaner Browser 的資金。這些廣告不會干擾您瀏覽網頁，而且有助於讓使用者繼續免費使用瀏覽器。請允許這些廣告，展現您對我們的支持。"
+   },
+   "setStrictMode": {
+      "message": "設定嚴格模式"
+   },
+   "setStrictTitle": {
+      "message": "將廣告封鎖設定為嚴格"
+   },
+   "settingsCardAcceptableAds": {
+      "message": "封鎖違反\u003Cu>\u003Ca style='color: inherit;' target='_blank' href='__SET_HREF__'>可接受的廣告標準\u003C/a>\u003C/u>的干擾廣告。"
+   },
+   "settingsCardAcceptableAdsBlocks": {
+      "message": "\u003Cb>推薦\u003C/b> - 封鎖大部分的廣告，獲得更快速、更清爽的瀏覽體驗。"
+   },
+   "settingsCardAcceptableAdsBlocksNearly": {
+      "message": "幾乎封鎖所有廣告，獲得更快速、更清爽的瀏覽體驗。\u003Cb>這可能會導致一些網站無法正常顯示。\u003C/b>"
+   },
+   "settingsCardDisruptive": {
+      "message": "其他干擾廣告"
+   },
+   "settingsCardOtherAds": {
+      "message": "99% 的其他廣告"
+   },
+   "settingsCardPopups": {
+      "message": "快顯廣告和橫幅"
+   },
+   "settingsCardSocialMedia": {
+      "message": "一些社群媒體廣告"
+   },
+   "settingsShowNumberBadge": {
+      "message": "將封鎖的廣告數量顯示在圖示上"
+   },
+   "showAmountAds": {
+      "message": "顯示封鎖的廣告數量"
+   },
+   "site": {
+      "message": "網站"
+   },
+   "sitesYouHaveAllowed": {
+      "message": "您允許廣告播放的網站會顯示在這裡"
+   },
+   "stayOn_balanced": {
+      "message": "維持平衡模式"
+   },
+   "stayOn_essential": {
+      "message": "維持基本模式"
+   },
+   "strictBlocking": {
+      "message": "嚴格封鎖"
+   },
+   "strictBlockingName": {
+      "message": "嚴格"
+   },
+   "turnAdblockOn": {
+      "message": "打開"
+   },
+   "turnOff": {
+      "message": "關閉廣告封鎖"
+   },
+   "turnOn": {
+      "message": "打開廣告封鎖"
+   },
+   "unpauseAdBlockAllSites": {
+      "message": "取消暫停所有網站上的廣告封鎖"
+   },
+   "unpauseAdblockOnAllSites": {
+      "message": "取消暫停"
+   },
+   "whitelistModalDescription": {
+      "message": "您想要允許哪些網站播放廣告？"
+   },
+   "youHaveAllowAdsOnThisSite": {
+      "message": "您已允許這個網站播放廣告 "
+   }
+}

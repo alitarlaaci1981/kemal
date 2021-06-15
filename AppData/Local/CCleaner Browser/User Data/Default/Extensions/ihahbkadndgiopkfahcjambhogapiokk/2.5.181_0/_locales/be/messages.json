@@ -1,0 +1,28 @@
+{
+    "appName": {
+        "message": "Прадухіленне стварэння лічбавых адбіткаў"
+    },
+    "appDescription": {
+        "message": "Утойванне даных браўзера і абарона ад адсочвання ў інтэрнэце"
+    },
+    "settingsSocialMediaLoginDetectionPrevention": {
+        "message": "Прадухіленне выяўлення ўваходу ў сацыяльныя сеткі",
+        "description": "Settings page social media login detection prevention title"
+    },
+    "settingsAdvanced": {
+        "message": "Прадухіленне стварэння лічбавых адбіткаў: пашыраныя налады",
+        "description": "Settings page title"
+    },
+    "popupTotalFingerprintsAttemptsDetected": {
+        "message": "Агульная колькасць выяўленых спроб стварыць адбітак браўзера",
+        "description": "Popup total fingerprints attempts detected label"
+    },
+    "popupStatusEnabled": {
+        "message": "На гэтым сайце ўключана абарона ад стварэння адбітка браўзера",
+        "description": "Popup label shown when afp is enabled for current website"
+    },
+    "popupStatusDisabled": {
+        "message": "На гэтым сайце адключана абарона ад стварэння адбітка браўзера",
+        "description": "Popup label shown when afp is disabled for current website"
+    }
+}

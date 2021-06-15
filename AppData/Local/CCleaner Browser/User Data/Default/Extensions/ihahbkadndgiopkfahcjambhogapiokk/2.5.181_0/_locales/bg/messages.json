@@ -1,0 +1,28 @@
+{
+   "appDescription": {
+      "message": "Прикрийте отпечатъка на браузъра си и ограничете онлайн проследяването"
+   },
+   "appName": {
+      "message": "Защита против отпечатъци"
+   },
+   "popupStatusDisabled": {
+      "description": "Popup label shown when afp is disabled for current website",
+      "message": "Защитата против отпечатъци е дезактивирана на този сайт"
+   },
+   "popupStatusEnabled": {
+      "description": "Popup label shown when afp is enabled for current website",
+      "message": "Защитата против отпечатъци е активирана на този сайт"
+   },
+   "popupTotalFingerprintsAttemptsDetected": {
+      "description": "Popup total fingerprints attempts detected label",
+      "message": "Общо засечени опита за отпечатъци"
+   },
+   "settingsAdvanced": {
+      "description": "Settings page title",
+      "message": "Разширени настройки за защитата против отпечатъци"
+   },
+   "settingsSocialMediaLoginDetectionPrevention": {
+      "description": "Settings page social media login detection prevention title",
+      "message": "Засичане и превенция на вход от социални мрежи"
+   }
+}

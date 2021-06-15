@@ -1,0 +1,10 @@
+{
+   "ExtensionDescription": {
+      "description": "Description of the extension on chrome_extension page below extension title",
+      "message": "Dashlane facilite le Web : enregistrement des mots de passe, saisie rapide des formulaires, données sécurisées et à portée de main."
+   },
+   "ExtensionName": {
+      "description": "Name of the extension on chrome_extension page and on Chrome Web Store page",
+      "message": "Dashlane - Gestionnaire de mots de passe"
+   }
+}

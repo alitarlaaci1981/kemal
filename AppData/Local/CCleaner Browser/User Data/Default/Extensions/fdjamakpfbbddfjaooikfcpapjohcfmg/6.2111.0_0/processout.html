@@ -1,0 +1,359 @@
+<!DOCTYPE html><html><head><title>PO Iframe</title><link href="https://fonts.googleapis.com/css?family=Public+Sans" rel="stylesheet" type="text/css"><style>/* Edit Card Dialog Styling */
+      :root {
+        /** dashlane-style/globals/color-variables.css */
+        --grey-00: #615b57;
+        --grey-04: #e0ddda;
+        --dash-green-00: #0e353d;
+        --red-05: #f5d8de;
+        --validator-red: #ff002d;
+        --white: #fff;
+        --black: #000;
+        --grey-03: #d6d6d6;
+      }
+
+      * {
+        box-sizing: border-box;
+      }
+
+      .row {
+        display: flex;
+        text-align: left;
+        margin-bottom: 26px;
+        align-items: flex-start;
+      }
+      .row:last-child {
+        margin-bottom: 0;
+      }
+      .field-row {
+        display: flex;
+        flex-direction: row;
+      }
+
+      .form-error {
+        font-family: 'Public Sans', Helvetica, Arial, 'Lucida Grande',
+          sans-serif;
+        background-color: var(--red-05);
+        color: var(--validator-red);
+        font-size: 12px;
+        padding: 8px 24px 8px;
+        width: 100%;
+        border-radius: 4px;
+        text-align: center;
+        box-sizing: border-box;
+      }
+
+      /*
+      ProcessOut Input Styling
+    */
+      .form {
+        margin: 2px;
+      }
+
+      .container {
+        display: flex;
+        flex-direction: column;
+        justify-content: flex-start;
+        flex: 1;
+      }
+
+      .container.cityContainer {
+        flex-grow: 1.7;
+      }
+
+      .label {
+        font-size: 12px;
+        line-height: 17px;
+        font-family: 'Public Sans', Helvetica, Arial, 'Lucida Grande',
+          sans-serif;
+        color: var(--black);
+        margin-bottom: 4px;
+      }
+
+      #country-state-container.hidden {
+        display: none;
+      }
+
+      .input {
+        font-size: 14px;
+        line-height: 18px;
+        border: none;
+        padding: 2px 0 0;
+        width: 100%;
+      }
+      .input:focus {
+        outline: none;
+      }
+
+      .baselineContainer {
+        align-self: stretch;
+        margin-top: 2px;
+        position: relative;
+      }
+
+      .baseline {
+        border-top: none;
+        border-left: none;
+        border-right: none;
+        border-bottom: 1px solid var(--grey-04);
+        bottom: 8px;
+        box-sizing: content-box;
+        margin: 0;
+        width: 100%;
+      }
+
+      .baselineSpread {
+        border-top: none;
+        border-left: none;
+        border-right: none;
+        border-bottom: 2px solid var(--dash-green-00);
+        box-sizing: content-box;
+        margin: 0;
+        width: 100%;
+        transform: scaleX(0);
+        position: absolute;
+        bottom: 0;
+        transition: all 450ms cubic-bezier(0.23, 1, 0.32, 1) 0ms;
+      }
+
+      .isSelected .baselineSpread {
+        transform: scaleX(1);
+      }
+      .withError .baselineSpread {
+        transform: scaleX(1);
+        border-color: var(--validator-red);
+      }
+
+      .label-error {
+        font-family: system-ui, 'Public Sans', Helvetica, Arial, 'Lucida Grande',
+          sans-serif;
+        font-size: 12px;
+        line-height: 12px;
+        color: var(--validator-red);
+        transition: all 450ms cubic-bezier(0.23, 1, 0.32, 1) 0ms;
+        padding-top: 6px;
+        display: block;
+      }
+
+      /* Credit Card Number Styling */
+      .ccContainer {
+        display: flex;
+        align-items: flex-start;
+        flex: 1;
+        align-self: stretch;
+        margin-top: 14px;
+        height: 55px;
+        position: relative;
+      }
+
+      .innerContainer {
+        width: 100%;
+      }
+
+      /* SelectField styling */
+
+      .select {
+        -webkit-appearance: menulist;
+        -webkit-tap-highlight-color: transparent;
+        background-color: transparent;
+        border: none;
+        bottom: 8px;
+        cursor: inherit;
+        outline: none;
+        padding: 0 0 3px;
+        width: 100%;
+
+        color: var(--black);
+        font-family: system-ui;
+        font-size: inherit;
+        font-stretch: inherit;
+        font-style: inherit;
+        font-variant: inherit;
+        font-weight: inherit;
+        line-height: 1.375em;
+        white-space: nowrap;
+      }
+
+      /*
+        New Styles
+      */
+      body {
+        margin: 0;
+      }
+
+      .containerMargin {
+        margin-right: 36px;
+      }
+
+      .selectContainer {
+        margin-top: 10px;
+      }
+
+      [data-processout-input='cc-number'] {
+        margin: 7px 0;
+      }
+
+      .country-container {
+        width: 263px;
+      }
+
+      .state-container {
+        width: 130px;
+      }
+
+      /* Leeloo only PO form styles */
+      .premium-account-sidebar .label {
+        font-size: 16px;
+        line-height: normal;
+        font-family: 'Public Sans', Helvetica, Arial, 'Lucida Grande',
+          sans-serif;
+        color: var(--black);
+      }
+
+      .premium-account-sidebar .ccContainer {
+        flex-direction: column-reverse;
+        height: 100%;
+      }
+
+      .premium-account-sidebar .innerContainer {
+        margin-top: 12px;
+        width: 100%;
+      }
+
+      .premium-account-sidebar .cardContainer {
+        margin-top: 0;
+      }
+
+      .premium-account-sidebar .containerMargin {
+        margin-right: 18px;
+      }
+
+      .premium-account-sidebar .input-wrapper {
+        background-color: var(--white);
+        padding: 8px;
+        border: 1px solid var(--grey-03);
+        min-height: 18px;
+      }
+      .premium-account-sidebar .input-wrapper.isSelected {
+        outline: 2px solid var(--dash-green-00);
+        box-shadow: none;
+        outline-offset: -2px;
+      }
+      .premium-account-sidebar .input-wrapper.withError {
+        outline: 2px solid var(--validator-red);
+        box-shadow: none;
+        outline-offset: -2px;
+      }
+
+      .premium-account-sidebar .input {
+        background-color: var(--white);
+        padding: 8px;
+        border: 1px solid var(--grey-03);
+        min-height: 18px;
+        font-size: 16px;
+        line-height: 20px;
+      }
+      .premium-account-sidebar .input.isSelected {
+        outline: 2px solid var(--dash-green-00);
+        box-shadow: none;
+      }
+      .premium-account-sidebar .input.withError {
+        outline: 2px solid var(--validator-red);
+        box-shadow: none;
+        outline-offset: -2px;
+      }
+
+      .premium-account-sidebar .baselineContainer {
+        display: none;
+      }
+
+      .premium-account-sidebar .row {
+        margin-bottom: 4px;
+      }
+
+      .premium-account-sidebar .row-margin-top {
+        margin-top: 8px;
+        display: inline-flex;
+        width: 100%;
+      }
+
+      .premium-account-sidebar .country-container,
+      .premium-account-sidebar .state-container {
+        width: 100%;
+        position: relative;
+      }
+
+      .premium-account-sidebar .country-container {
+        margin-bottom: 4px;
+      }
+
+      .premium-account-sidebar .row.country-and-state {
+        flex-direction: column;
+        align-items: flex-start;
+      }
+
+      .premium-account-sidebar .select {
+        background-color: var(--white);
+        padding: 8px;
+        border: 1px solid var(--grey-03);
+        height: 38px;
+        border-radius: 0;
+        color: var(--black);
+        font-size: 16px;
+        line-height: normal;
+        font-family: 'Public Sans', Helvetica, Arial, 'Lucida Grande',
+          sans-serif;
+        -webkit-appearance: none;
+        -moz-appearance: none;
+        appearance: none;
+      }
+      .premium-account-sidebar .select.isSelected {
+        outline: 2px solid var(--dash-green-00);
+        box-shadow: none;
+        outline-offset: -2px;
+      }
+      .premium-account-sidebar .select.withError {
+        outline: 2px solid var(--validator-red);
+        box-shadow: none;
+        outline-offset: -2px;
+      }
+
+      .premium-account-sidebar .country-container::before,
+      .premium-account-sidebar .state-container::before {
+        border-color: transparent;
+        border-style: solid;
+        content: '';
+        position: absolute;
+        pointer-events: none;
+        bottom: 12px;
+        right: 16px;
+        border-left-width: 6px;
+        border-top-color: var(--grey-00);
+        border-top-width: 6px;
+        border-right-width: 6px;
+      }
+      .premium-account-sidebar .country-container::after,
+      .premium-account-sidebar .state-container::after {
+        border-color: transparent;
+        border-style: solid;
+        content: '';
+        position: absolute;
+        pointer-events: none;
+        bottom: 14px;
+        right: 18px;
+        border-left-width: 4px;
+        border-top-color: white;
+        border-top-width: 4px;
+        border-right-width: 4px;
+      }
+
+      .premium-account-sidebar .selectContainer {
+        margin-top: 8px;
+      }
+
+      /*
+       * 3DSecure modal
+       */
+      #processoutjs-action-modal {
+        width: 100% !important;
+        height: 100% !important;
+      }</style></head><body><script src="https://js.processout.com/processout.js"></script><script type="text/javascript" src="/processout.js" crossorigin="anonymous"></script><form action="" method="POST" id="card-form" class="form"><div id="form-error" class="form-error" style="display: none"></div><span id="declined-error" style="display: none"></span><div class="row"><div class="ccContainer"><div class="innerContainer"><label class="label" id="label-card">Credit card number</label><div id="cc-wrapper" class="input-wrapper" data-processout-input="cc-number" data-processout-placeholder="XXXX-XXXX-XXXX-XXXX"></div><div id="cc-baseline" class="baselineContainer"><hr class="baseline"><hr class="baselineSpread"></div><span class="label-error" id="card-error" style="display: none"></span></div></div></div><div class="row"><div class="container containerMargin"><label class="label" id="label-date">Expiration date</label><div class="field-row"><div class="containerMargin"><div id="month-wrapper" class="input-wrapper" data-processout-input="cc-exp-month" data-processout-placeholder="MM"></div><div id="month-baseline" class="baselineContainer"><hr class="baseline"><hr class="baselineSpread"></div><span class="label-error" id="month-error" style="display: none"></span></div><div><div id="year-wrapper" class="input-wrapper" data-processout-input="cc-exp-year" data-processout-placeholder="YY"></div><div id="year-baseline" class="baselineContainer"><hr class="baseline"><hr class="baselineSpread"></div><span class="label-error" id="year-error" style="display: none"></span></div></div></div><div class="container"><label class="label" id="label-code">Security code</label><div id="cvc-wrapper" class="input-wrapper" data-processout-input="cc-cvc" data-processout-placeholder="CVC..."></div><div id="cvc-baseline" class="baselineContainer"><hr class="baseline"><hr class="baselineSpread"></div><span class="label-error" id="code-error" style="display: none"></span></div></div><div class="row row-margin-top"><div class="container"><label class="label" id="label-name">Cardholder name</label><input class="input" type="text" id="cardholdername"><div id="name-baseline" class="baselineContainer"><hr class="baseline"><hr class="baselineSpread"></div><span class="label-error" id="name-error" style="display: none"></span></div></div><div class="row row-margin-top"><div class="container"><label class="label" id="label-address">Billing address</label><input class="input" type="text" id="cardholderaddress"><div id="address-baseline" class="baselineContainer"><hr class="baseline"><hr class="baselineSpread"></div><span class="label-error" id="address-error" style="display: none"></span></div></div><div class="row row-margin-top"><div class="container containerMargin cityContainer"><label class="label" id="label-city">City</label><input class="input" type="text" id="cardholdercity"><div id="city-baseline" class="baselineContainer"><hr class="baseline"><hr class="baselineSpread"></div><span class="label-error" id="city-error" style="display: none"></span></div><div class="container"><label class="label" id="label-zip">Zip</label><input class="input" type="text" id="cardholderzip"><div id="zip-baseline" class="baselineContainer"><hr class="baseline"><hr class="baselineSpread"></div><span class="label-error" id="zip-error" style="display: none"></span></div></div><div class="row country-and-state"><div class="container containerMargin selectContainer country-container"><label class="label" id="label-country">Country</label><select class="country select" id="cardholdercountry"></select><div><div id="country-baseline" class="baselineContainer"><hr class="baseline"><hr class="baselineSpread"></div></div></div><div class="container selectContainer state-container" id="country-state-container"><label class="label" id="label-country-state">State</label><select class="country-state select" id="cardholderstate"></select><div><div id="state-baseline" class="baselineContainer"><hr class="baseline"><hr class="baselineSpread"></div></div></div></div></form></body></html>

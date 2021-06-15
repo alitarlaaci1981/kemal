@@ -1,0 +1,28 @@
+{
+   "appDescription": {
+      "message": "Menyamarkan sidik jari browser Anda dan membatasi pelacakan online"
+   },
+   "appName": {
+      "message": "Anti-Fingerprinting"
+   },
+   "popupStatusDisabled": {
+      "description": "Popup label shown when afp is disabled for current website",
+      "message": "Perlindungan sidik jari dinonaktifkan pada situs ini"
+   },
+   "popupStatusEnabled": {
+      "description": "Popup label shown when afp is enabled for current website",
+      "message": "Perlindungan sidik jari diaktifkan pada situs ini"
+   },
+   "popupTotalFingerprintsAttemptsDetected": {
+      "description": "Popup total fingerprints attempts detected label",
+      "message": "Total upaya percobaan sidik jari terdeteksi"
+   },
+   "settingsAdvanced": {
+      "description": "Settings page title",
+      "message": "Pengaturan Lanjutan Anti-Fingerprinting"
+   },
+   "settingsSocialMediaLoginDetectionPrevention": {
+      "description": "Settings page social media login detection prevention title",
+      "message": "Pencegahan Deteksi Login Media Sosial"
+   }
+}

@@ -1,0 +1,28 @@
+{
+   "appDescription": {
+      "message": "अपने ब्राउज़र के फ़िंगरप्रिंट का रूप बदलें और ऑनलाइन ट्रैकिंग को सीमित करें"
+   },
+   "appName": {
+      "message": "फ़िंगरप्रिंटिंग-विरोधी"
+   },
+   "popupStatusDisabled": {
+      "description": "Popup label shown when afp is disabled for current website",
+      "message": "इस साइट पर फिंगरप्रिंट सुरक्षा अक्षम है"
+   },
+   "popupStatusEnabled": {
+      "description": "Popup label shown when afp is enabled for current website",
+      "message": "इस साइट पर फिंगरप्रिंट सुरक्षा सक्षम है"
+   },
+   "popupTotalFingerprintsAttemptsDetected": {
+      "description": "Popup total fingerprints attempts detected label",
+      "message": "कुल फिंगरप्रिंट प्रयास पता लगाए गए"
+   },
+   "settingsAdvanced": {
+      "description": "Settings page title",
+      "message": "फ़िंगरप्रिंटिंग-विरोधी उन्नत सेटिंग"
+   },
+   "settingsSocialMediaLoginDetectionPrevention": {
+      "description": "Settings page social media login detection prevention title",
+      "message": "सोशल मीडिया लॉगिन के पता लगाने की रोकथाम"
+   }
+}

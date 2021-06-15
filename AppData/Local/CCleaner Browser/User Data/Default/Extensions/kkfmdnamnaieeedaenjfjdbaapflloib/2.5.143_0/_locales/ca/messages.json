@@ -1,0 +1,117 @@
+{
+   "appDesc": {
+      "message": "Baixeu vídeos per veure'ls fora de línia"
+   },
+   "appName": {
+      "message": "Descarregador de vídeos"
+   },
+   "barDetachBtn": {
+      "description": "The Detach button text as visible on the floating bar",
+      "message": "Desassocia"
+   },
+   "barDownloadBtn": {
+      "description": "The Download button text as visible on the floating bar",
+      "message": "Baixa"
+   },
+   "barMediaBtn": {
+      "description": "The Media button text as visible on the floating bar",
+      "message": "Mitjans"
+   },
+   "barQualityAudio": {
+      "description": "Audio title",
+      "message": "Àudio"
+   },
+   "barQualityVideo": {
+      "description": "Video title",
+      "message": "Vídeo"
+   },
+   "barSettingsAbout": {
+      "description": "About Button in settings popup",
+      "message": "Més informació"
+   },
+   "barSettingsBtn": {
+      "description": "The Settings button text as visible on the floating bar",
+      "message": "Configuració"
+   },
+   "barSettingsDescription": {
+      "description": "Video download feature description in settings popup",
+      "message": "Desenvolupat per CCleaner Secure Browser"
+   },
+   "barSettingsDoNotShow": {
+      "description": "Button in settings popup disabling video-downloader",
+      "message": "No ho tornis a mostrar"
+   },
+   "barSettingsDoNotShowForSite": {
+      "description": "Button in settings popup disabling video-downloader for exact site",
+      "message": "No ho mostris en aquest lloc"
+   },
+   "barSettingsTitle": {
+      "description": "Settings popup title in the floating bar",
+      "message": "Configuració"
+   },
+   "eulaContinue": {
+      "description": "EUlA continue button",
+      "message": "Continua"
+   },
+   "eulaText": {
+      "description": "EULA message displayed to the user",
+      "message": "Si accepteu el nostre \u003Cdiv>\u003Ca target='blank' href='$link$'>Acord de llicència d'usuari final\u003C/a>\u003C/div> (EULA), enteneu i accepteu que és responsabilitat vostra fer servir el Descarregador de vídeos d'acord amb les lleis de drets d'autor aplicables i els termes d'ús de qualsevol lloc web.",
+      "placeholders": {
+         "link": {
+            "content": "$1"
+         }
+      }
+   },
+   "eulaTitle": {
+      "description": "EULA popup title",
+      "message": "Abans de la descàrrega"
+   },
+   "eulaUnderstandAccept": {
+      "description": "EULA user agreement checkbox text",
+      "message": "Entenc i accepto l'EULA"
+   },
+   "extensionName": {
+      "description": "Name shown in the extension button in SZB Control Center.",
+      "message": "Descarregador de vídeos"
+   },
+   "extensionTitle": {
+      "description": "Title shown on hover over the extension button in SZB Control Center.",
+      "message": "Baixeu vídeos per veure'ls fora de línia."
+   },
+   "optionUnknownSize": {
+      "description": "Videa or audio download option of unknown size",
+      "message": "mida desconeguda"
+   },
+   "popupAudioHeading": {
+      "description": "The heading of the audio section in the media popup list",
+      "message": "Àudio"
+   },
+   "popupDisabledFor": {
+      "description": "Page was disabled for video downloader",
+      "message": "El Descarregador de vídeos està deshabilitat per a"
+   },
+   "popupDownloadBtn": {
+      "description": "The Download button text as visible in the media popup list",
+      "message": "Baixa"
+   },
+   "popupEnable": {
+      "description": "Enable video downloader for current page",
+      "message": "Habilita'l"
+   },
+   "popupNoVideos": {
+      "description": "Page does not contain any videos",
+      "message": "No hi ha cap vídeo per baixar en aquesta pàgina"
+   },
+   "popupNoVideos_v2": {
+      "description": "",
+      "message": "Per baixar un vídeo, cal anar a la seva pàgina de detalls."
+   },
+   "popupVideoHeading": {
+      "description": "The heading of the video section in the media popup list",
+      "message": "Vídeo"
+   },
+   "reattachBtn": {
+      "description": "The Reattach button text as visible on the detached video page",
+      "message": "Torna a adjuntar"
+   }
+}

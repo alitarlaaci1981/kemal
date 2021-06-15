@@ -1,0 +1,860 @@
+{
+   "1pApplyChanges": {
+      "message": "Použiť zmeny"
+   },
+   "1pExport": {
+      "message": "Exportovať"
+   },
+   "1pFormatHint": {
+      "message": "Jeden filter na riadok. Filter môže byť jednoduchý názov hostiteľa alebo filter kompatibilný s nástrojom AdBlock Plus. Riadky s predponou ! sa budú ignorovať."
+   },
+   "1pImport": {
+      "message": "Importovať a pripojiť"
+   },
+   "1pPageName": {
+      "message": " Moje filtre"
+   },
+   "3pApplyChanges": {
+      "message": "Použiť zmeny"
+   },
+   "3pAutoUpdatePrompt1": {
+      "message": "Automaticky aktualizovať zoznamy filtrov"
+   },
+   "3pExternalListObsolete": {
+      "message": "Zastarané."
+   },
+   "3pExternalListsHint": {
+      "message": "Jedna adresa URL na riadok. Riadky začínajúce znakom ! sa budú ignorovať. Rovnako sa budú ignorovať neplatné adresy URL."
+   },
+   "3pGroupAds": {
+      "message": "Reklamy"
+   },
+   "3pGroupAnnoyances": {
+      "message": "Rušivé prvky"
+   },
+   "3pGroupCustom": {
+      "message": "Vlastné"
+   },
+   "3pGroupDefault": {
+      "message": "Sieťové a podrobné filtre"
+   },
+   "3pGroupMalware": {
+      "message": "Malwarové domény"
+   },
+   "3pGroupMultipurpose": {
+      "message": "Viacúčelové"
+   },
+   "3pGroupPrivacy": {
+      "message": "Súkromie"
+   },
+   "3pGroupRegions": {
+      "message": "Oblasti, jazyky"
+   },
+   "3pIgnoreGenericCosmeticFilters": {
+      "message": "Ignorovať všeobecné detailné filtre"
+   },
+   "3pIgnoreGenericCosmeticFiltersInfo": {
+      "message": "\u003Cp>Všeobecné detailné filtre sú detailné filtre, ktoré sa uplatňujú na všetkých webových lokalitách.\u003Cp>Aj keď s nimi CCleaner Anti-Tracking pracuje efektívne, na niektorých lokalitách, najmä tých väčších a starších, môžu viac zaťažovať pamäť a procesor.\u003Cp>Keď túto funkciu zapnete, všeobecné detailné filtre i CCleaner Anti-Tracking nebudú na webových stránkach v takej miere zaťažovať pamäť a procesor.\u003Cp>Túto možnosť odporúčame zapnúť v menej výkonných zariadeniach."
+   },
+   "3pImport": {
+      "message": "Importovať..."
+   },
+   "3pLastUpdate": {
+      "message": "Posledná aktualizácia: {{ago}}.\nKliknutím vynútite aktualizáciu."
+   },
+   "3pListsOfBlockedHostsHeader": {
+      "message": "Zoznamy blokovaných hostiteľov"
+   },
+   "3pListsOfBlockedHostsPerListStats": {
+      "message": "Použité {{used}} z {{total}}"
+   },
+   "3pListsOfBlockedHostsPrompt": {
+      "message": "Sieťové filtre v počte {{netFilterCount}} ＋ detailné filtre v počte {{cosmeticFilterCount}} z:"
+   },
+   "3pNetworkError": {
+      "message": "Aktualizácii prostriedku zabránila sieťová chyba."
+   },
+   "3pPageName": {
+      "message": "Filtre tretích strán"
+   },
+   "3pParseAllABPHideFiltersInfo": {
+      "message": "\u003Cp>Táto možnosť umožňuje analýzu a vynucovanie \u003Ca href=\"https://adblockplus.org/en/faq_internal#elemhide\">filtrov na skrývanie prvkov, ktoré sú kompatibilné s nástrojom AdBlock Plus\u003C/a>. Ide o detailné filtre na skrývanie prvkov webových stránok, ktoré sú vizuálne rušivé a ktoré možno blokovať filtrovacím modulom založeným na sieťových žiadostiach.\u003C/p>\u003Cp>Keď túto funkciu zapnete, CCleaner Anti-Tracking bude pre svoju činnosť vyžadovať viac pamäte.\u003C/p>"
+   },
+   "3pParseAllABPHideFiltersPrompt1": {
+      "message": "Analyzovať a vynucovať detailné filtre"
+   },
+   "3pPurgeAll": {
+      "message": "Vymazať všetky medzipamäte"
+   },
+   "3pUpdateNow": {
+      "message": "Aktualizovať"
+   },
+   "3pUpdating": {
+      "message": "Aktualizuje sa..."
+   },
+   "aboutBackupDataButton": {
+      "message": "Zálohovať do súboru"
+   },
+   "aboutBackupFilename": {
+      "message": "CCleaner Anti-Tracking-backup_{{datetime}}.txt"
+   },
+   "aboutChangelog": {
+      "message": "Zmeniť denník"
+   },
+   "aboutCode": {
+      "message": "Zdrojový kód (GPLv3)"
+   },
+   "aboutContributors": {
+      "message": "Prispievatelia"
+   },
+   "aboutDependencies": {
+      "message": "Externé závislosti (kompatibilné s GPLv3):"
+   },
+   "aboutIssues": {
+      "message": "Sledovanie problémov"
+   },
+   "aboutPageName": {
+      "message": "O aplikácii"
+   },
+   "aboutResetDataButton": {
+      "message": "Obnoviť predvolené nastavenia..."
+   },
+   "aboutResetDataConfirm": {
+      "message": "Všetky vaše nastavenia sa odstránia a CCleaner Anti-Tracking sa reštartuje.\n\nObnoviť CCleaner Anti-Tracking na predvolené nastavenia?"
+   },
+   "aboutRestoreDataButton": {
+      "message": "Obnoviť zo súboru..."
+   },
+   "aboutRestoreDataConfirm": {
+      "message": "Všetky vaše nastavenia sa prepíšu použitím údajov zálohovaných {{time}} a CCleaner Anti-Tracking sa reštartuje.\n\nPrepísať všetky existujúce nastavenia pomocou zálohovaných údajov?"
+   },
+   "aboutRestoreDataError": {
+      "message": "Údaje nebolo možné načítať alebo sú neplatné"
+   },
+   "aboutSupport": {
+      "message": "Podpora"
+   },
+   "aboutWiki": {
+      "message": "Wiki"
+   },
+   "advancedSettingsPageName": {
+      "message": "Rozšírené nastavenia"
+   },
+   "advancedSettingsWarning": {
+      "message": "Upozornenie! Zmeny týchto rozšírených nastavení vykonávate na vlastné riziko."
+   },
+   "assetViewerPageName": {
+      "message": "uBlock? ? – prehliadač kódu"
+   },
+   "cloudDeviceNamePrompt": {
+      "message": "Názov tohto zariadenia:"
+   },
+   "cloudPull": {
+      "message": "Importovať z cloudového úložiska"
+   },
+   "cloudPullAndMerge": {
+      "message": "Importovať z cloudového úložiska a zlúčiť s aktuálnymi nastaveniami"
+   },
+   "cloudPush": {
+      "message": "Exportovať do cloudového úložiska"
+   },
+   "contextMenuTemporarilyAllowLargeMediaElements": {
+      "message": "Dočasne povoliť veľké prvky médií"
+   },
+   "dashboardName": {
+      "message": "CCleaner Anti-Tracking – informačný panel"
+   },
+   "docblockedBack": {
+      "message": "Späť"
+   },
+   "docblockedClose": {
+      "message": "Zavrieť toto okno"
+   },
+   "docblockedDisablePermanent": {
+      "message": "Natrvalo"
+   },
+   "docblockedDisableTemporary": {
+      "message": "Dočasne"
+   },
+   "docblockedFoundIn": {
+      "message": "Nájdené v:"
+   },
+   "docblockedNoParamsPrompt": {
+      "message": "bez parametrov"
+   },
+   "docblockedProceed": {
+      "message": "Vypnúť striktné blokovanie hostiteľa ({{hostname}})"
+   },
+   "docblockedPrompt1": {
+      "message": "Aplikácia CCleaner Anti-Tracking zabránila načítaniu nasledujúcej stránky:"
+   },
+   "docblockedPrompt2": {
+      "message": "Z dôvodu použitia nasledujúceho filtra"
+   },
+   "dummy": {
+      "message": "Tento záznam musí byť posledný"
+   },
+   "elapsedManyDaysAgo": {
+      "message": "pred {{value}} d."
+   },
+   "elapsedManyHoursAgo": {
+      "message": "pred {{value}} hod."
+   },
+   "elapsedManyMinutesAgo": {
+      "message": "pred {{value}} min."
+   },
+   "elapsedOneDayAgo": {
+      "message": "včera"
+   },
+   "elapsedOneHourAgo": {
+      "message": "pred hodinou"
+   },
+   "elapsedOneMinuteAgo": {
+      "message": "pred minútou"
+   },
+   "errorCantConnectTo": {
+      "message": "Chyba siete: {{msg}}"
+   },
+   "extShortDesc": {
+      "message": "Blokuje otravné webové sledovacie nástroje."
+   },
+   "extra1pPageNameDesc": {
+      "message": "Spravujte svoje vlastné filtre"
+   },
+   "extra3pPageNameDesc": {
+      "message": "Sledovacie nástroje a filtre na ochranu súkromia od tretích strán"
+   },
+   "extraAddFilter": {
+      "message": "Pridať filter"
+   },
+   "extraAddRrule": {
+      "message": "Pridať dočasné pravidlo"
+   },
+   "extraAddSetting": {
+      "message": "Pridať nastavenie"
+   },
+   "extraAddSite": {
+      "message": "Pridať lokalitu"
+   },
+   "extraAdsFilters": {
+      "message": "Reklamné filtre"
+   },
+   "extraAdvancedUserSettings": {
+      "message": "Pokročilé používateľské nastavenia"
+   },
+   "extraAllowOnSites": {
+      "message": "Povoliť sledovacie nástroje na týchto stránkach"
+   },
+   "extraBlockMediaElementsLargerThan": {
+      "message": "Blokovať prvky médií väčšie ako"
+   },
+   "extraBtnAdd": {
+      "message": "pridať"
+   },
+   "extraBtnCancel": {
+      "message": "zrušiť"
+   },
+   "extraBtnEdit": {
+      "message": "Upraviť"
+   },
+   "extraBtnExport": {
+      "message": "exportovať"
+   },
+   "extraBtnImport": {
+      "message": "importovať"
+   },
+   "extraBtnRemove": {
+      "message": "Odobrať"
+   },
+   "extraBtnUpdateAll": {
+      "message": "aktualizovať všetko"
+   },
+   "extraDefaultBehaviour": {
+      "message": "Predvolené správanie"
+   },
+   "extraEditFilter": {
+      "message": "Upraviť filter"
+   },
+   "extraEditRule": {
+      "message": "Upraviť dočasné pravidlo"
+   },
+   "extraEditSetting": {
+      "message": "Upraviť nastavenie"
+   },
+   "extraEditSite": {
+      "message": "Upraviť lokalitu"
+   },
+   "extraGeneralSettings": {
+      "message": "Všeobecné nastavenia"
+   },
+   "extraGeneralSettingsDesc": {
+      "message": "Spravujte, aké informácie zobrazuje CCleaner Anti-Tracking"
+   },
+   "extraIndexDescription": {
+      "message": "Blokovať sledovacie nástroje pre rýchlejšie a bezpečnejšie surfovanie"
+   },
+   "extraIndexFooter": {
+      "message": "Používa uBlock Origin."
+   },
+   "extraIndexHeader": {
+      "message": "Rozšírené nastavenia CCleaner Anti-Tracking"
+   },
+   "extraInterstitialBlocking": {
+      "message": "Zapnúť blokovanie vložených prvkov"
+   },
+   "extraLabelFilter": {
+      "message": "Filter"
+   },
+   "extraLearnMore": {
+      "message": "Viac informácií"
+   },
+   "extraManageFilters": {
+      "message": "Spravovať filtre"
+   },
+   "extraMyCustomFilter": {
+      "message": "Moje vlastné filtre"
+   },
+   "extraPrivacy": {
+      "message": "Súkromie"
+   },
+   "extraRule": {
+      "message": "Pravidlo"
+   },
+   "extraRuleDefinition": {
+      "message": "Definícia pravidla"
+   },
+   "extraRuleSyntax": {
+      "message": "Syntax pravidla"
+   },
+   "extraRulesPageNameDesc": {
+      "message": "Zoznam vašich dynamických pravidiel filtrovania"
+   },
+   "extraSetting": {
+      "message": "Nastavenie"
+   },
+   "extraShowMore": {
+      "message": "Zobraziť viac"
+   },
+   "extraSite": {
+      "message": "Lokalita"
+   },
+   "extraSlider0": {
+      "message": "Neblokovať reklamy"
+   },
+   "extraSlider100": {
+      "message": "Maximálne blokovanie reklám"
+   },
+   "extraSlider50": {
+      "message": "Stredné blokovanie reklám"
+   },
+   "extraSourceDestinationTypeAction": {
+      "message": "zdroj cieľ typ akcia."
+   },
+   "extraWhitelistPageNameDesc": {
+      "message": "Zoznam stránok, na ktorých sú sledovacie nástoje povolené"
+   },
+   "fennecMenuItemBlockingOff": {
+      "message": "vypnuté"
+   },
+   "genericApplyChanges": {
+      "message": "Použiť zmeny"
+   },
+   "genericBytes": {
+      "message": "B"
+   },
+   "genericCopyToClipboard": {
+      "message": "Kopírovať do schránky"
+   },
+   "genericMergeViewScrollLock": {
+      "message": "Prepnúť zamknutý posun"
+   },
+   "genericRevert": {
+      "message": "Vrátiť späť"
+   },
+   "genericSubmit": {
+      "message": "Odoslať"
+   },
+   "logAll": {
+      "message": "Všetko"
+   },
+   "logBehindTheScene": {
+      "message": "V pozadí"
+   },
+   "logFilterPrompt": {
+      "message": "filtrovať záznamy denníka"
+   },
+   "logMaxEntriesTip": {
+      "message": "Maximálny počet záznamov denníka"
+   },
+   "logRequestsHeaderDomain": {
+      "message": "Doména"
+   },
+   "logRequestsHeaderFilter": {
+      "message": "Filter"
+   },
+   "logRequestsHeaderType": {
+      "message": "Typ"
+   },
+   "logRequestsHeaderURL": {
+      "message": "Adresa URL"
+   },
+   "loggerClearTip": {
+      "message": "Vymazať protokolovač"
+   },
+   "loggerCurrentTab": {
+      "message": "Aktuálna karta"
+   },
+   "loggerDomInspectorTip": {
+      "message": "Prepnúť inšpektor DOM"
+   },
+   "loggerEntryDetailsContext": {
+      "message": "Kontext"
+   },
+   "loggerEntryDetailsFilter": {
+      "message": "Filter"
+   },
+   "loggerEntryDetailsFilterList": {
+      "message": "Zoznam filtrov"
+   },
+   "loggerEntryDetailsHeader": {
+      "message": "Podrobnosti"
+   },
+   "loggerEntryDetailsPartyness": {
+      "message": "Príslušnosť k strane"
+   },
+   "loggerEntryDetailsRootContext": {
+      "message": "Koreňový kontext"
+   },
+   "loggerEntryDetailsRule": {
+      "message": "Pravidlo"
+   },
+   "loggerEntryDetailsType": {
+      "message": "Typ"
+   },
+   "loggerEntryDetailsURL": {
+      "message": "Adresa URL"
+   },
+   "loggerExportEncodeMarkdown": {
+      "message": "Značkovanie"
+   },
+   "loggerExportEncodePlain": {
+      "message": "Jednoduché"
+   },
+   "loggerExportFormatList": {
+      "message": "Zoznam"
+   },
+   "loggerExportFormatTable": {
+      "message": "Tabuľka"
+   },
+   "loggerInfoTip": {
+      "message": "uBlock Origin wiki: protokolovač"
+   },
+   "loggerPauseTip": {
+      "message": "Pozastaviť protokolovač (vymazať všetky prichádzajúce údaje)"
+   },
+   "loggerPopupPanelTip": {
+      "message": "Prepnúť vyskakovací panel"
+   },
+   "loggerReloadTip": {
+      "message": "Obnoviť obsah záložky"
+   },
+   "loggerRowFiltererBuiltin1p": {
+      "message": "1. strany"
+   },
+   "loggerRowFiltererBuiltin3p": {
+      "message": "3. strany"
+   },
+   "loggerRowFiltererBuiltinAllowed": {
+      "message": "povolené"
+   },
+   "loggerRowFiltererBuiltinBlocked": {
+      "message": "blokované"
+   },
+   "loggerRowFiltererBuiltinEventful": {
+      "message": "veľa udalostí"
+   },
+   "loggerRowFiltererBuiltinNot": {
+      "message": "Nie je"
+   },
+   "loggerRowFiltererBuiltinTip": {
+      "message": "Možnosti filtrovania protokolovačom"
+   },
+   "loggerRowFiltererButtonTip": {
+      "message": "Prepnúť filtrovanie protokolovača"
+   },
+   "loggerSettingDiscardPrompt": {
+      "message": "Záznamy protokolovača, ktoré nevyhovujú všetkým trom podmienkam nižšie, sa automaticky odstránia:"
+   },
+   "loggerSettingHideColumnContext": {
+      "message": "{{input}} kontext"
+   },
+   "loggerSettingHideColumnFilter": {
+      "message": "{{input}} filter/pravidlo"
+   },
+   "loggerSettingHideColumnPartyness": {
+      "message": "{{input}} príslušnosť k strane"
+   },
+   "loggerSettingHideColumnTime": {
+      "message": "{{input}} čas"
+   },
+   "loggerSettingHideColumnsPrompt": {
+      "message": "Skryť stĺpce:"
+   },
+   "loggerSettingPerEntryLineCount": {
+      "message": "Vo zvislo rozbalenom režime používať nasledujúci počet riadkov na záznam: {{input}}"
+   },
+   "loggerSettingPerEntryMaxAge": {
+      "message": "Zachovať záznamy z posledných {{input}} min."
+   },
+   "loggerSettingPerTabMaxEntries": {
+      "message": "Zachovať maximálne {{input}} položiek na kartu"
+   },
+   "loggerSettingPerTabMaxLoads": {
+      "message": "Zachovať maximálne {{input}} načítaní stránky na kartu"
+   },
+   "loggerStaticFilteringFinderSentence1": {
+      "message": "Našiel sa statický filter \u003Ccode>{{filter}}\u003C/code> v:"
+   },
+   "loggerStaticFilteringFinderSentence2": {
+      "message": "Statický filter \u003Ccode>{{filter}}\u003C/code> sa nepodarilo nájsť v žiadnom zozname aktuálne zapnutých filtrov"
+   },
+   "loggerStaticFilteringHeader": {
+      "message": "Statické filtrovanie"
+   },
+   "loggerStaticFilteringSentence": {
+      "message": "{{action}} sieťové požiadavky {{type}} {{br}}, ktorých adresa URL sa zhoduje s {{url}} {{br}} a ktoré pochádzajú {{origin}},{{br}}{{importance}} existuje zhodný filter výnimiek."
+   },
+   "loggerStaticFilteringSentencePartAllow": {
+      "message": "Povoliť"
+   },
+   "loggerStaticFilteringSentencePartAnyOrigin": {
+      "message": "odkiaľkoľvek"
+   },
+   "loggerStaticFilteringSentencePartAnyType": {
+      "message": "akéhokoľvek typu"
+   },
+   "loggerStaticFilteringSentencePartBlock": {
+      "message": "Blokovať"
+   },
+   "loggerStaticFilteringSentencePartImportant": {
+      "message": "aj keď"
+   },
+   "loggerStaticFilteringSentencePartNotImportant": {
+      "message": "až na výnimku, keď"
+   },
+   "loggerStaticFilteringSentencePartOrigin": {
+      "message": "z ?{{origin}}?"
+   },
+   "loggerStaticFilteringSentencePartType": {
+      "message": "typu ?{{type}}?"
+   },
+   "loggerURLFilteringContextLabel": {
+      "message": "Kontext:"
+   },
+   "loggerURLFilteringHeader": {
+      "message": "Dynamické filtrovanie URL"
+   },
+   "loggerURLFilteringTypeLabel": {
+      "message": "Typ:"
+   },
+   "loggerUnpauseTip": {
+      "message": "Znovu zapnúť protokolovač"
+   },
+   "pickerContextMenuEntry": {
+      "message": "Blokovať prvok"
+   },
+   "pickerCosmeticFilters": {
+      "message": "Detailné filtre"
+   },
+   "pickerCosmeticFiltersHint": {
+      "message": "Kliknutie, kliknutie so stlačeným klávesom Ctrl"
+   },
+   "pickerCreate": {
+      "message": "Vytvoriť"
+   },
+   "pickerNetFilters": {
+      "message": "Sieťové filtre"
+   },
+   "pickerPick": {
+      "message": "Vybrať"
+   },
+   "pickerPreview": {
+      "message": "Náhľad"
+   },
+   "pickerQuit": {
+      "message": "Ukončiť"
+   },
+   "popup1pScriptRulePrompt": {
+      "message": "Skripty 1. strán"
+   },
+   "popup3pAnyRulePrompt": {
+      "message": "3. strana"
+   },
+   "popup3pFrameRulePrompt": {
+      "message": "Rámy 3. strán"
+   },
+   "popup3pPassiveRulePrompt": {
+      "message": "CSS/obrázky 3. strán"
+   },
+   "popup3pScriptRulePrompt": {
+      "message": "Skripty 3. strán"
+   },
+   "popupAdvancedSettings": {
+      "message": "Pokročilé nastavenia"
+   },
+   "popupAnyRulePrompt": {
+      "message": "všetko"
+   },
+   "popupExtraAdsAllowedOnSites": {
+      "message": "Sledovacie nástroje sú na tejto stránke povolené"
+   },
+   "popupExtraAdsBlockedOnPage": {
+      "message": "Blokované sledovacie nástroje na tejto stránke"
+   },
+   "popupExtraAdsBlockedOnSites": {
+      "message": "Sledovacie nástroje sú na tejto stránke blokované"
+   },
+   "popupExtraAdsBlockedTotal": {
+      "message": "Blokované sledovacie nástroje celkom"
+   },
+   "popupExtraLessOptions": {
+      "message": "Menej možností"
+   },
+   "popupExtraListAllowedSites": {
+      "message": "Zoznam povolených lokalít"
+   },
+   "popupExtraMoreInformation": {
+      "message": "Viac informácií"
+   },
+   "popupExtraMoreOptions": {
+      "message": "Ďalšie možnosti"
+   },
+   "popupExtraNoSitesAddedYet": {
+      "message": "Zatiaľ neboli pridané žiadne webové lokality"
+   },
+   "popupExtraProtectionCanNotEnabled": {
+      "message": "Ochranu na tejto stránke nemožno zapnúť"
+   },
+   "popupExtraProtectionDisabledForSession": {
+      "message": "Ochranu pre túto reláciu nemožno zapnúť"
+   },
+   "popupExtraSeeListAllowedSites": {
+      "message": "Zobraziť zoznam všetkých povolených lokalít"
+   },
+   "popupHitDomainCount": {
+      "message": "{{count}} z {{total}}"
+   },
+   "popupHitDomainCountPrompt": {
+      "message": "pripojené domény"
+   },
+   "popupImageRulePrompt": {
+      "message": "obrázky"
+   },
+   "popupInlineScriptRulePrompt": {
+      "message": "vložené skripty"
+   },
+   "popupTipDashboard": {
+      "message": "Otvoriť ovládací panel"
+   },
+   "popupTipGlobalRules": {
+      "message": "Globálne pravidlá: tento stĺpec obsahuje pravidlá pre všetky weby."
+   },
+   "popupTipLocalRules": {
+      "message": "Miestne pravidlá: tento stĺpec obsahuje pravidlá len pre aktuálny web.\nMiestne pravidlá majú prioritu pred globálnymi."
+   },
+   "popupTipLog": {
+      "message": "Otvoriť protokolovač"
+   },
+   "popupTipNoCosmeticFiltering": {
+      "message": "Prepnúť kozmetické filtrovanie na tomto webe"
+   },
+   "popupTipNoCosmeticFiltering1": {
+      "message": "Kliknutím vypnete kozmetické filtrovanie na tomto webe"
+   },
+   "popupTipNoCosmeticFiltering2": {
+      "message": "Kliknutím zapnete kozmetické filtrovanie na tomto webe"
+   },
+   "popupTipNoLargeMedia": {
+      "message": "Prepnúť blokovanie veľkých mediálnych prvkov na tomto webe"
+   },
+   "popupTipNoLargeMedia1": {
+      "message": "Kliknutím zablokujete veľké mediálne prvky na tomto webe"
+   },
+   "popupTipNoLargeMedia2": {
+      "message": "Po kliknutí sa už na tomto webe nebudú blokovať veľké mediálne prvky"
+   },
+   "popupTipNoPopups": {
+      "message": "Prepnúť blokovanie všetkých vyskakovacích okien na tomto webe"
+   },
+   "popupTipNoPopups1": {
+      "message": "Kliknutím zablokujete všetky vyskakovacie okná na tomto webe"
+   },
+   "popupTipNoPopups2": {
+      "message": "Kliknutím odblokujete všetky vyskakovacie okná na tomto webe"
+   },
+   "popupTipNoRemoteFonts": {
+      "message": "Prepnúť blokovanie vzdialených písiem na tomto webe"
+   },
+   "popupTipNoRemoteFonts1": {
+      "message": "Kiknutím zablokujete vzdialené písma na tomto webe"
+   },
+   "popupTipNoRemoteFonts2": {
+      "message": "Kliknutím odblokujete vzdialené písma na tomto webe"
+   },
+   "popupTipNoScripting1": {
+      "message": "Kliknutím na tomto webe vypnete JavaScript"
+   },
+   "popupTipNoScripting2": {
+      "message": "Kliknutím na tomto webe znovu zapnete JavaScript"
+   },
+   "popupTipPicker": {
+      "message": "Aktivovať režim výberu prvkov"
+   },
+   "popupTipRevertRules": {
+      "message": "Kliknutím zrušíte vykonané zmeny."
+   },
+   "popupTipSaveRules": {
+      "message": "Kliknutím uložíte vykonané zmeny."
+   },
+   "popupTipZapper": {
+      "message": "Aktivovať režim skrývania prvkov"
+   },
+   "rulesCommit": {
+      "message": "Potvrdiť"
+   },
+   "rulesEdit": {
+      "message": "Upraviť"
+   },
+   "rulesEditDiscard": {
+      "message": "Zahodiť"
+   },
+   "rulesEditSave": {
+      "message": "Uložiť"
+   },
+   "rulesExport": {
+      "message": "Exportovať do súboru"
+   },
+   "rulesFormatHint": {
+      "message": "Syntax pravidla: \u003Ccode>akcia typu zdroja cieľa\u003C/code> (\u003Ca href='https://github.com/gorhill/uBlock/wiki/Dynamic-filtering:-rule-syntax'>úplná dokumentácia\u003C/a>)."
+   },
+   "rulesHint": {
+      "message": "Zoznam vašich dynamických pravidiel filtrovania."
+   },
+   "rulesImport": {
+      "message": "Importovať zo súboru..."
+   },
+   "rulesPageName": {
+      "message": "Moje pravidlá"
+   },
+   "rulesPermanentHeader": {
+      "message": "Trvalé pravidlá"
+   },
+   "rulesRevert": {
+      "message": "Vrátiť späť"
+   },
+   "rulesTemporaryHeader": {
+      "message": "Dočasné pravidlá"
+   },
+   "settingPerSiteSwitchGroup": {
+      "message": "Predvolené správanie"
+   },
+   "settingPerSiteSwitchGroupSynopsis": {
+      "message": "Tieto predvolené správania možno pre jednotlivé lokality potlačiť"
+   },
+   "settingsAdvancedUserPrompt": {
+      "message": "Som pokročilý používateľ (\u003Ca href='https://github.com/gorhill/uBlock/wiki/Advanced-user-features'>povinné čítanie\u003C/a>)"
+   },
+   "settingsAdvancedUserSettings": {
+      "message": "rozšírené nastavenia"
+   },
+   "settingsCloudStorageEnabledPrompt": {
+      "message": "Aktivovať podporu cloudových úložísk"
+   },
+   "settingsCollapseBlockedPrompt": {
+      "message": "Skryť zástupné symboly blokovaných prvkov"
+   },
+   "settingsColorBlindPrompt": {
+      "message": "Vhodné pre farboslepé osoby"
+   },
+   "settingsContextMenuPrompt": {
+      "message": "Využívať kontextovú ponuku, keď sa to hodí"
+   },
+   "settingsHyperlinkAuditingDisabledPrompt": {
+      "message": "Vypnúť audit hypertextových odkazov"
+   },
+   "settingsIconBadgePrompt": {
+      "message": "Zobrazovať počet zablokovaných žiadostí na ikone"
+   },
+   "settingsLastBackupPrompt": {
+      "message": "Posledná záloha:"
+   },
+   "settingsLastRestorePrompt": {
+      "message": "Posledné obnovenie:"
+   },
+   "settingsNoCSPReportsPrompt": {
+      "message": "Blokovať hlásenia CSP"
+   },
+   "settingsNoCosmeticFilteringPrompt": {
+      "message": "Vypnúť detailné filtrovanie"
+   },
+   "settingsNoLargeMediaPrompt": {
+      "message": "Blokovať mediálne prvky väčšie ako {{input:number}} kB"
+   },
+   "settingsNoRemoteFontsPrompt": {
+      "message": "Blokovať vzdialené písma"
+   },
+   "settingsNoScriptingPrompt": {
+      "message": "Vypnúť JavaScript"
+   },
+   "settingsPageName": {
+      "message": "Nastavenia"
+   },
+   "settingsPrefetchingDisabledPrompt": {
+      "message": "Vypnúť predbežné načítanie (aby nedochádzalo k pripájaniu k blokovaným sieťam)"
+   },
+   "settingsStorageUsed": {
+      "message": "Využité úložisko: {{value}} B"
+   },
+   "settingsTooltipsPrompt": {
+      "message": "Vypnúť popisy tlačidiel"
+   },
+   "settingsWebRTCIPAddressHiddenPrompt": {
+      "message": "Brániť úniku lokálnych IP adries cez WebRTC"
+   },
+   "shortcutCapturePlaceholder": {
+      "message": "Zadajte klávesovú skratku"
+   },
+   "shortcutsPageName": {
+      "message": "Klávesové skratky"
+   },
+   "showDashboardButton": {
+      "message": "Zobraziť informačný panel"
+   },
+   "showNetworkLogButton": {
+      "message": "Zobraziť Protokolovač"
+   },
+   "statsPageName": {
+      "message": "CCleaner Anti-Tracking – protokolovač"
+   },
+   "subscriberConfirm": {
+      "message": "CCleaner Anti-Tracking: Pridať nasledujúcu adresu URL do vašich zoznamov vlastných filtrov?\n\nNázov: {{title}}\nURL: {{url}}"
+   },
+   "whitelistApply": {
+      "message": "Použiť zmeny"
+   },
+   "whitelistExport": {
+      "message": "Exportovať"
+   },
+   "whitelistExportFilename": {
+      "message": "CCleaner Anti-Tracking-whitelist_{{datetime}}.txt"
+   },
+   "whitelistImport": {
+      "message": "Importovať a pripojiť"
+   },
+   "whitelistPageName": {
+      "message": "Povolené adresy"
+   },
+   "whitelistPrompt": {
+      "message": "Pokyny týkajúce sa zoznamu povolených adries určujú webové stránky, na ktorých sa má CCleaner Anti-Tracking deaktivovať. Jeden záznam na riadok. Neplatné pokyny sa budú v tichosti ignorovať a deaktivujú sa."
+   }
+}

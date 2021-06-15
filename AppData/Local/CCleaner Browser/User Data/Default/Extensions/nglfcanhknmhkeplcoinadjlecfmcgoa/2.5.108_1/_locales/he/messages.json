@@ -1,0 +1,239 @@
+{
+   "adBlock": {
+      "message": "חוסם הפרסומות"
+   },
+   "adBlockSettings": {
+      "message": "חוסם הפרסומות - הגדרות"
+   },
+   "adblockIsOff": {
+      "message": "'חוסם הפרסומות' כבוי"
+   },
+   "adblockIsPaused": {
+      "message": "'חוסם הפרסומות' מושהה בכל האתרים"
+   },
+   "adblockIsPausedOnSite": {
+      "message": "'חוסם הפרסומות' מושהה באתר הזה"
+   },
+   "addSite": {
+      "message": "הוסף אתר"
+   },
+   "addWebsiteToAllowAds": {
+      "message": "הוסף \"אתר\" כדי להתיר פרסומות"
+   },
+   "adsAreAllowed": {
+      "message": "באתר הזה הפרסומות מותרות"
+   },
+   "adsBlocked": {
+      "message": "פרסומות שנחסמו: "
+   },
+   "allowAdsOnSite": {
+      "message": "אפשר פרסומות באתר הזה"
+   },
+   "alwaysAllowAdsOnSites": {
+      "message": "תמיד אפשר פרסומות באתרים הבאים"
+   },
+   "balancedBlocking": {
+      "message": "חסימה מאוזנת"
+   },
+   "balancedBlockingName": {
+      "message": "מאוזן"
+   },
+   "blockAdsOnThisSite": {
+      "message": "חסום פרסומות באתר הזה"
+   },
+   "blockingOptions": {
+      "message": "אפשרויות החסימה"
+   },
+   "btnAdd": {
+      "message": "הוספה"
+   },
+   "cancel": {
+      "message": "ביטול"
+   },
+   "cancelAddSiteOperation": {
+      "message": "בטל את פעולת הוספת האתר"
+   },
+   "cancelEditSiteOperation": {
+      "message": "בטל את פעולת עריכת האתר"
+   },
+   "cancelSetStrict": {
+      "message": "בטל את פעולת המעבר למצב 'מחמיר'"
+   },
+   "edit": {
+      "message": "עריכה"
+   },
+   "editFromWhitelist": {
+      "message": "ערוך אתר ברשימה הלבנה"
+   },
+   "editSiteFromWhitelist": {
+      "message": "ערוך אתר ברשימה הלבנה"
+   },
+   "essentialBlocking": {
+      "message": "חסימה חיונית"
+   },
+   "essentialBlockingName": {
+      "message": "חיוני"
+   },
+   "extShortDesc": {
+      "message": "סוף סוף חוסם יעיל שלא צריך המון CPU וזיכרון."
+   },
+   "generalSettings": {
+      "message": "הגדרות כלליות"
+   },
+   "hideAmountAds": {
+      "message": "הסתר את מספר הפרסומות שנחסמו"
+   },
+   "indexDescription": {
+      "message": "לגלישה מהירה ובטוחה יותר - חסום הפרסומות"
+   },
+   "keep_balanced": {
+      "message": "להישאר עם 'מאוזן'"
+   },
+   "keep_essential": {
+      "message": "להישאר עם 'חיוני'"
+   },
+   "learnMore": {
+      "message": "מידע נוסף"
+   },
+   "learnMoreAAS": {
+      "message": "למידע נוסף על הסטנדרטים לפרסומות מקובלות"
+   },
+   "learnMoreAboutAdBLock": {
+      "message": "למידע נוסף על 'חוסם הפרסומות'"
+   },
+   "learnMoreUblock": {
+      "message": "למידע נוסף על uBlock"
+   },
+   "modifyWhitelistedSite": {
+      "message": "שנה אתר ברשימה הלבנה"
+   },
+   "noAdsToBlock": {
+      "message": "אין פרסומות לחסימה בדף הזה"
+   },
+   "openSettings": {
+      "message": "פתח את ההגדרות"
+   },
+   "pauseAdBlock": {
+      "message": "השה את 'חוסם הפרסומות'"
+   },
+   "pauseAdBlockOnAllSites": {
+      "message": "השהה את 'חוסם הפרסומות' בכל האתרים"
+   },
+   "pauseAdsOnAllSites": {
+      "message": "השהה פרסומות בכל האתרים"
+   },
+   "pauseAdsOnSite": {
+      "message": "השהה פרסומות באתר הזה"
+   },
+   "pauseOnAllSites": {
+      "message": "השהה בכל האתרים"
+   },
+   "pauseOnThisSite": {
+      "message": "השהה באתר הזה"
+   },
+   "poweredByUblock": {
+      "message": "מופעל על ידי \u003Cu>\u003Ca style='color: inherit;' target='_blank' href='__SET_HREF__'>uBlock\u003C/a>\u003C/u>"
+   },
+   "remove": {
+      "message": "הסרה"
+   },
+   "removeFromWhitelist": {
+      "message": "הסר אתר מהרשימה הלבנה"
+   },
+   "save": {
+      "message": "שמירה"
+   },
+   "saveSiteIntoWhitelist": {
+      "message": "שמור את האתר ברשימה הלבנה"
+   },
+   "setBalancedMode": {
+      "message": "עבור למצב 'מאוזן'"
+   },
+   "setEssentialMode": {
+      "message": "עבור למצב 'בסיסי'"
+   },
+   "setStrict": {
+      "message": "הגדר 'מחמיר'"
+   },
+   "setStrictDescription_avast": {
+      "message": "מעט מאוד פרסומות לא פולשניות עוזרות לנו לממן את Avast Secure Browser. הן לא יפריעו לך בגלישה ויעזרו לך להמשיך להשתמש בדפדפן בחינם. תמוך בנו ואפשר את הפרסומות האלה."
+   },
+   "setStrictDescription_avg": {
+      "message": "מעט מאוד פרסומות לא פולשניות עוזרות לנו לממן את AVG Secure Browser. הן לא יפריעו לך בגלישה ויעזרו לך להמשיך להשתמש בדפדפן בחינם. תמוך בנו ואפשר את הפרסומות האלה."
+   },
+   "setStrictDescription_ccleaner": {
+      "message": "מעט מאוד פרסומות לא פולשניות עוזרות לנו לממן את CCleaner Browser. הן לא יפריעו לך בגלישה ויעזרו לך להמשיך להשתמש בדפדפן בחינם. תמוך בנו ואפשר את הפרסומות האלה."
+   },
+   "setStrictMode": {
+      "message": "עבור למצב 'מחמיר'"
+   },
+   "setStrictTitle": {
+      "message": "הגדר את 'חוסם הפרסומות' כ'מחמיר'"
+   },
+   "settingsCardAcceptableAds": {
+      "message": "חסום פרסומות מפריעות שחורגות \u003Cu>\u003Ca style='color: inherit;' target='_blank' href='__SET_HREF__'>מהסטנדרטים המקובלים של פרסומות\u003C/a>\u003C/u>."
+   },
+   "settingsCardAcceptableAdsBlocks": {
+      "message": "\u003Cb>מומלץ\u003C/b> - חסום את רוב הפרסומות ותיהנה מחוויית גלישה מהירה ונקייה יותר."
+   },
+   "settingsCardAcceptableAdsBlocksNearly": {
+      "message": "חסום כמעט את כל הפרסומות ותיהנה מחוויית גלישה מהירה ונקייה יותר. \u003Cb>זה עלול לפגוע בהצגה של אתרים מסוימים.\u003C/b>"
+   },
+   "settingsCardDisruptive": {
+      "message": "פרסומות מפריעות אחרות"
+   },
+   "settingsCardOtherAds": {
+      "message": "99% משאר הפרסומות"
+   },
+   "settingsCardPopups": {
+      "message": "פרסומות קופצות ובאנרים"
+   },
+   "settingsCardSocialMedia": {
+      "message": "חלק מהפרסומות ברשתות החברתיות"
+   },
+   "settingsShowNumberBadge": {
+      "message": "הראה את מספר הפרסומות החסומות על האייקון"
+   },
+   "showAmountAds": {
+      "message": "הצג את מספר הפרסומות שנחסמו"
+   },
+   "site": {
+      "message": "אתר"
+   },
+   "sitesYouHaveAllowed": {
+      "message": "אתרים שבהם אפשרת פרסומות יוצגו כאן"
+   },
+   "stayOn_balanced": {
+      "message": "הישאר במצב המאוזן"
+   },
+   "stayOn_essential": {
+      "message": "הישאר במצב הבסיסי"
+   },
+   "strictBlocking": {
+      "message": "חסימה מחמירה"
+   },
+   "strictBlockingName": {
+      "message": "מחמיר"
+   },
+   "turnAdblockOn": {
+      "message": "הפעל"
+   },
+   "turnOff": {
+      "message": "כבה את 'חוסם הפרסומות'"
+   },
+   "turnOn": {
+      "message": "הפעל את 'חוסם הפרסומות'"
+   },
+   "unpauseAdBlockAllSites": {
+      "message": "בטל את השהיית 'חוסם הפרסומות' בכל האתרים"
+   },
+   "unpauseAdblockOnAllSites": {
+      "message": "ביטול ההשהיה"
+   },
+   "whitelistModalDescription": {
+      "message": "באיזה אתר ברצונך להתיר פרסומות?"
+   },
+   "youHaveAllowAdsOnThisSite": {
+      "message": "אפשרת פרסומות באתר הזה "
+   }
+}

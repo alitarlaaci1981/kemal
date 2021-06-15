@@ -1,0 +1,239 @@
+{
+   "adBlock": {
+      "message": "Reklámblokkoló"
+   },
+   "adBlockSettings": {
+      "message": "Reklámblokkoló – Beállítások"
+   },
+   "adblockIsOff": {
+      "message": "A Reklámblokkoló ki van kapcsolva"
+   },
+   "adblockIsPaused": {
+      "message": "A Reklámblokkoló minden webhelyen szüneteltetve van"
+   },
+   "adblockIsPausedOnSite": {
+      "message": "A Reklámblokkoló ezen a webhelyen szüneteltetve van"
+   },
+   "addSite": {
+      "message": "Webhely hozzáadása"
+   },
+   "addWebsiteToAllowAds": {
+      "message": "„Webhely” hozzáadása a hirdetések engedélyezéséhez"
+   },
+   "adsAreAllowed": {
+      "message": "A hirdetések engedélyezve vannak ezen az oldalon"
+   },
+   "adsBlocked": {
+      "message": "Blokkolt reklámok: "
+   },
+   "allowAdsOnSite": {
+      "message": "Reklámok engedélyezése ezen a webhelyen"
+   },
+   "alwaysAllowAdsOnSites": {
+      "message": "Reklámok engedélyezése mindig a következő webhelyeken"
+   },
+   "balancedBlocking": {
+      "message": "Kiegyensúlyozott blokkolás"
+   },
+   "balancedBlockingName": {
+      "message": "Kiegyensúlyozott"
+   },
+   "blockAdsOnThisSite": {
+      "message": "Reklámok blokkolása ezen a webhelyen"
+   },
+   "blockingOptions": {
+      "message": "Blokkolási beállítások"
+   },
+   "btnAdd": {
+      "message": "Hozzáadás"
+   },
+   "cancel": {
+      "message": "Mégse"
+   },
+   "cancelAddSiteOperation": {
+      "message": "Webhely hozzáadása művelet megszakítása"
+   },
+   "cancelEditSiteOperation": {
+      "message": "Webhely szerkesztése művelet megszakítása"
+   },
+   "cancelSetStrict": {
+      "message": "Szigorú üzemmód beállítása művelet megszakítása"
+   },
+   "edit": {
+      "message": "Szerkesztés"
+   },
+   "editFromWhitelist": {
+      "message": "Webhely szerkesztése az engedélyezési listán"
+   },
+   "editSiteFromWhitelist": {
+      "message": "Webhely szerkesztése az engedélyezési listán"
+   },
+   "essentialBlocking": {
+      "message": "Nélkülözhetetlen blokkolás"
+   },
+   "essentialBlockingName": {
+      "message": "Nélkülözhetetlen"
+   },
+   "extShortDesc": {
+      "message": "Végre egy hatékony blokkoló. A processzort és a memóriát sem terheli túl."
+   },
+   "generalSettings": {
+      "message": "Általános beállítások"
+   },
+   "hideAmountAds": {
+      "message": "Blokkolt hirdetések számának elrejtése"
+   },
+   "indexDescription": {
+      "message": "Hirdetések blokkolása a gyorsabb és biztonságosabb böngészési élményért"
+   },
+   "keep_balanced": {
+      "message": "Kiegyensúlyozott"
+   },
+   "keep_essential": {
+      "message": "Csak a nélkülözhetetlenek"
+   },
+   "learnMore": {
+      "message": "További információ"
+   },
+   "learnMoreAAS": {
+      "message": "További információ az Elfogadható hirdetésekre vonatkozó szabványokról"
+   },
+   "learnMoreAboutAdBLock": {
+      "message": "További információ a Reklámblokkolóról"
+   },
+   "learnMoreUblock": {
+      "message": "További információ a uBlock-ról"
+   },
+   "modifyWhitelistedSite": {
+      "message": "Engedélyezési listán lévő webhely módosítása"
+   },
+   "noAdsToBlock": {
+      "message": "Ezen a lapon nincsenek blokkolható reklámok"
+   },
+   "openSettings": {
+      "message": "Beállítások megnyitása"
+   },
+   "pauseAdBlock": {
+      "message": "Reklámblokkoló szüneteltetése"
+   },
+   "pauseAdBlockOnAllSites": {
+      "message": "Reklámblokkoló szüneteltetése minden webhelyen"
+   },
+   "pauseAdsOnAllSites": {
+      "message": "Reklámok szüneteltetése minden webhelyen"
+   },
+   "pauseAdsOnSite": {
+      "message": "Reklámok szüneteltetése ezen a webhelyen"
+   },
+   "pauseOnAllSites": {
+      "message": "Szüneteltetés minden webhelyen"
+   },
+   "pauseOnThisSite": {
+      "message": "Szüneteltetés ezen a webhelyen"
+   },
+   "poweredByUblock": {
+      "message": "A \u003Cu>\u003Ca style='color: inherit;' target='_blank' href='__SET_HREF__'>uBlock\u003C/a>\u003C/u> technológiájával"
+   },
+   "remove": {
+      "message": "Eltávolítás"
+   },
+   "removeFromWhitelist": {
+      "message": "Webhely eltávolítása az engedélyezési listáról"
+   },
+   "save": {
+      "message": "Mentés"
+   },
+   "saveSiteIntoWhitelist": {
+      "message": "Webhely mentése az engedélyezési listára"
+   },
+   "setBalancedMode": {
+      "message": "Kiegyensúlyozott üzemmód beállítása"
+   },
+   "setEssentialMode": {
+      "message": "Alapvető üzemmód beállítása"
+   },
+   "setStrict": {
+      "message": "Szigorú beállítás"
+   },
+   "setStrictDescription_avast": {
+      "message": "Néhány nem zavaró reklám segít az Avast Secure Browser finanszírozásában. Ezek nem zavarják a böngészést, és segítenek a böngésző ingyenességének fenntartásában. Segítsen nekünk azzal, hogy engedélyezi ezeket a reklámokat."
+   },
+   "setStrictDescription_avg": {
+      "message": "Néhány nem zavaró reklám segít az AVG Secure Browser finanszírozásában. Ezek nem zavarják a böngészést, és segítenek a böngésző ingyenességének fenntartásában. Segítsen nekünk azzal, hogy engedélyezi ezeket a reklámokat."
+   },
+   "setStrictDescription_ccleaner": {
+      "message": "Néhány nem zavaró reklám segít a CCleaner Browser finanszírozásában. Ezek nem zavarják a böngészést, és segítenek a böngésző ingyenességének fenntartásában. Segítsen nekünk azzal, hogy engedélyezi ezeket a reklámokat."
+   },
+   "setStrictMode": {
+      "message": "Szigorú üzemmód beállítása"
+   },
+   "setStrictTitle": {
+      "message": "A Reklámblokkoló beállítása szigorú szűrésre"
+   },
+   "settingsCardAcceptableAds": {
+      "message": "Zavaró reklámok blokkolása, amelyek megszegik \n az \u003Cu>\u003Ca style='color: inherit;' target='_blank' href='__SET_HREF__'>Elfogadható reklámokra vonatkozó szabványokat\u003C/a>\u003C/u>."
+   },
+   "settingsCardAcceptableAdsBlocks": {
+      "message": "\u003Cb>Ajánlott\u003C/b> –A legtöbb reklám blokkolása a gyorsabb, letisztultabb böngészési élmény érdekében."
+   },
+   "settingsCardAcceptableAdsBlocksNearly": {
+      "message": "Szinte minden reklám blokkolása a gyorsabb, letisztultabb böngészési élmény érdekében. \u003Cb>Ez egyes webhelyeket működésképtelenné tehet.\u003C/b>"
+   },
+   "settingsCardDisruptive": {
+      "message": "Egyéb zavaró reklámok"
+   },
+   "settingsCardOtherAds": {
+      "message": "Az egyéb reklámok 99%-a"
+   },
+   "settingsCardPopups": {
+      "message": "Előugró reklámok és szalaghirdetések"
+   },
+   "settingsCardSocialMedia": {
+      "message": "Egyes közösségi hálózati hirdetések"
+   },
+   "settingsShowNumberBadge": {
+      "message": "A blokkolt hirdetések számának megjelenítése az ikonon"
+   },
+   "showAmountAds": {
+      "message": "Blokkolt hirdetések számának megjelenítése"
+   },
+   "site": {
+      "message": "Webhely"
+   },
+   "sitesYouHaveAllowed": {
+      "message": "Itt fognak megjelenni azok a webhelyek, amelyeken engedélyezte a reklámokat"
+   },
+   "stayOn_balanced": {
+      "message": "Maradás Kiegyensúlyozott üzemmódban"
+   },
+   "stayOn_essential": {
+      "message": "Maradás Alapvető üzemmódban"
+   },
+   "strictBlocking": {
+      "message": "Szigorú blokkolás"
+   },
+   "strictBlockingName": {
+      "message": "Szigorú"
+   },
+   "turnAdblockOn": {
+      "message": "Bekapcsolás"
+   },
+   "turnOff": {
+      "message": "Reklámblokkoló kikapcsolása"
+   },
+   "turnOn": {
+      "message": "Reklámblokkoló bekapcsolása"
+   },
+   "unpauseAdBlockAllSites": {
+      "message": "Reklámblokkoló újraindítása minden webhelyen"
+   },
+   "unpauseAdblockOnAllSites": {
+      "message": "Folytatás"
+   },
+   "whitelistModalDescription": {
+      "message": "Melyik webhelyen szeretné engedélyezni a hirdetéseket?"
+   },
+   "youHaveAllowAdsOnThisSite": {
+      "message": "Ezen a webhelyen engedélyezte a reklámokat "
+   }
+}

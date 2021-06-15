@@ -1,0 +1,17 @@
+2020-11-02T16:52:05: LogHost: Initializing to normal mode
+2020-11-02T16:52:55: VaultClient::WriteCredential
+2020-11-02T16:52:55: VaultClient::WriteCredential
+2020-11-02T16:52:55: VaultClient::WriteCredential
+2020-11-02T16:52:55: VaultClient::WriteCredential
+2020-11-02T16:52:55: VaultClient::WriteCredential
+2020-11-02T16:52:55: VaultClient::WriteCredential
+2020-11-02T16:52:55: VaultClient::ReadCredentials
+2020-11-02T16:52:56: VaultClient::ReadCredentials
+2020-11-02T16:53:32: LogHost: SuppressChangeNotifications was called (perhaps via AddRange), yet you do not
+2020-11-02T16:53:32: LogHost: have a subscription to ShouldReset. This probably isn't what you want, as ItemsAdded
+2020-11-02T16:53:32: LogHost: and friends will appear to 'miss' items
+2020-11-02T16:53:32: Could not obtain git dir, C:\Users\kemal\AppData\Local\SourceTree\app-3.3.9 is not a git repo.
+2020-11-02T16:53:32: Could not obtain git dir, C:\Users\kemal\AppData\Local\SourceTree is not a git repo.
+2020-11-02T16:53:32: Could not obtain git dir, C:\Users\kemal\AppData\Local is not a git repo.
+2020-11-02T16:53:32: Could not obtain git dir, C:\Users\kemal\AppData is not a git repo.
+2020-11-02T16:53:33: VaultClient::ReadCredentials

@@ -1,0 +1,10 @@
+{
+   "ExtensionDescription": {
+      "description": "Description of the extension on chrome_extension page below extension title",
+      "message": "Dashlane 使互联网更轻松。保存所有密码，快速填充表单，并确保数据可访问且安全。"
+   },
+   "ExtensionName": {
+      "description": "Name of the extension on chrome_extension page and on Chrome Web Store page",
+      "message": "Dashlane - 密码管理器"
+   }
+}

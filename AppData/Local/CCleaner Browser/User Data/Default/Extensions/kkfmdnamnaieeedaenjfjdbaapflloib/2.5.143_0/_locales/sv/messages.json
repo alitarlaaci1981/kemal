@@ -1,0 +1,117 @@
+{
+   "appDesc": {
+      "message": "Ladda ned videor för att titta på offline"
+   },
+   "appName": {
+      "message": "Videonedladdning"
+   },
+   "barDetachBtn": {
+      "description": "The Detach button text as visible on the floating bar",
+      "message": "Frigör"
+   },
+   "barDownloadBtn": {
+      "description": "The Download button text as visible on the floating bar",
+      "message": "Ladda ned"
+   },
+   "barMediaBtn": {
+      "description": "The Media button text as visible on the floating bar",
+      "message": "Media"
+   },
+   "barQualityAudio": {
+      "description": "Audio title",
+      "message": "Ljud"
+   },
+   "barQualityVideo": {
+      "description": "Video title",
+      "message": "Video"
+   },
+   "barSettingsAbout": {
+      "description": "About Button in settings popup",
+      "message": "Mer information"
+   },
+   "barSettingsBtn": {
+      "description": "The Settings button text as visible on the floating bar",
+      "message": "Inställningar"
+   },
+   "barSettingsDescription": {
+      "description": "Video download feature description in settings popup",
+      "message": "Med CCleaner Secure Browser"
+   },
+   "barSettingsDoNotShow": {
+      "description": "Button in settings popup disabling video-downloader",
+      "message": "Visa inte igen"
+   },
+   "barSettingsDoNotShowForSite": {
+      "description": "Button in settings popup disabling video-downloader for exact site",
+      "message": "Visa inte på den här webbplatsen"
+   },
+   "barSettingsTitle": {
+      "description": "Settings popup title in the floating bar",
+      "message": "Inställningar"
+   },
+   "eulaContinue": {
+      "description": "EUlA continue button",
+      "message": "Fortsätt"
+   },
+   "eulaText": {
+      "description": "EULA message displayed to the user",
+      "message": "Genom att godkänna vårt \u003Cdiv>\u003Ca target='blank' href='$link$'>Slutanvändaravtal\u003C/a>\u003C/div> (EULA) accepterar du att det är ditt ansvar att använda Videonedladdning i enlighet med gällande copyrightlagar och användarvillkoren för den aktuella webbplatsen.",
+      "placeholders": {
+         "link": {
+            "content": "$1"
+         }
+      }
+   },
+   "eulaTitle": {
+      "description": "EULA popup title",
+      "message": "Innan du laddar ned"
+   },
+   "eulaUnderstandAccept": {
+      "description": "EULA user agreement checkbox text",
+      "message": "Jag förstår och accepterar EULA"
+   },
+   "extensionName": {
+      "description": "Name shown in the extension button in SZB Control Center.",
+      "message": "Videonedladdning"
+   },
+   "extensionTitle": {
+      "description": "Title shown on hover over the extension button in SZB Control Center.",
+      "message": "Ladda ned videor för att titta på offline."
+   },
+   "optionUnknownSize": {
+      "description": "Videa or audio download option of unknown size",
+      "message": "okänd storlek"
+   },
+   "popupAudioHeading": {
+      "description": "The heading of the audio section in the media popup list",
+      "message": "Ljud"
+   },
+   "popupDisabledFor": {
+      "description": "Page was disabled for video downloader",
+      "message": "Videonedladdning har inaktiverats för"
+   },
+   "popupDownloadBtn": {
+      "description": "The Download button text as visible in the media popup list",
+      "message": "Ladda ned"
+   },
+   "popupEnable": {
+      "description": "Enable video downloader for current page",
+      "message": "Aktivera"
+   },
+   "popupNoVideos": {
+      "description": "Page does not contain any videos",
+      "message": "Det finns inga videor att ladda ned på den här sidan"
+   },
+   "popupNoVideos_v2": {
+      "description": "",
+      "message": "Gå till detaljsidan för videon om du vill ladda ned den."
+   },
+   "popupVideoHeading": {
+      "description": "The heading of the video section in the media popup list",
+      "message": "Video"
+   },
+   "reattachBtn": {
+      "description": "The Reattach button text as visible on the detached video page",
+      "message": "Återgå"
+   }
+}

@@ -1,0 +1,117 @@
+{
+   "appDesc": {
+      "message": "دانلود ویدیوها برای تماشای آفلاین"
+   },
+   "appName": {
+      "message": "دانلودکننده ویدیو"
+   },
+   "barDetachBtn": {
+      "description": "The Detach button text as visible on the floating bar",
+      "message": "جدا کردن"
+   },
+   "barDownloadBtn": {
+      "description": "The Download button text as visible on the floating bar",
+      "message": "دانلود"
+   },
+   "barMediaBtn": {
+      "description": "The Media button text as visible on the floating bar",
+      "message": "رسانه"
+   },
+   "barQualityAudio": {
+      "description": "Audio title",
+      "message": "صدا"
+   },
+   "barQualityVideo": {
+      "description": "Video title",
+      "message": "ویدیو"
+   },
+   "barSettingsAbout": {
+      "description": "About Button in settings popup",
+      "message": "اطلاعات بیشتر"
+   },
+   "barSettingsBtn": {
+      "description": "The Settings button text as visible on the floating bar",
+      "message": "تنظیمات"
+   },
+   "barSettingsDescription": {
+      "description": "Video download feature description in settings popup",
+      "message": "تحت پشتیبانی CCleaner Secure Browser"
+   },
+   "barSettingsDoNotShow": {
+      "description": "Button in settings popup disabling video-downloader",
+      "message": "مجدداً نشان داده نشود"
+   },
+   "barSettingsDoNotShowForSite": {
+      "description": "Button in settings popup disabling video-downloader for exact site",
+      "message": "دیگر برای این سایت نشان داده نشود"
+   },
+   "barSettingsTitle": {
+      "description": "Settings popup title in the floating bar",
+      "message": "تنظیمات"
+   },
+   "eulaContinue": {
+      "description": "EUlA continue button",
+      "message": "ادامه"
+   },
+   "eulaText": {
+      "description": "EULA message displayed to the user",
+      "message": "در صورت موافقت با \u003Cdiv>\u003Ca target='blank' href='$link$'>توافق‌نامه مجوز کاربر نهایی\u003C/a>\u003C/div> (EULA)، تأیید و موافقت می‌کنید که مسئولیت استفاده از دانلودکننده ویدیو مطابق با قوانین کپی‌رایت مربوطه و شرایط استفاده هر وب‌سایت بر عهده شما می‌باشد.",
+      "placeholders": {
+         "link": {
+            "content": "$1"
+         }
+      }
+   },
+   "eulaTitle": {
+      "description": "EULA popup title",
+      "message": "قبل از اینکه دانلود کنید"
+   },
+   "eulaUnderstandAccept": {
+      "description": "EULA user agreement checkbox text",
+      "message": "من EULA را درک می‌کنم و با آن موافقم"
+   },
+   "extensionName": {
+      "description": "Name shown in the extension button in SZB Control Center.",
+      "message": "دانلودکننده ویدیو"
+   },
+   "extensionTitle": {
+      "description": "Title shown on hover over the extension button in SZB Control Center.",
+      "message": "ویدیوها را برای تماشای آفلاین دانلود کنید."
+   },
+   "optionUnknownSize": {
+      "description": "Videa or audio download option of unknown size",
+      "message": "اندازه نامشخص"
+   },
+   "popupAudioHeading": {
+      "description": "The heading of the audio section in the media popup list",
+      "message": "صدا"
+   },
+   "popupDisabledFor": {
+      "description": "Page was disabled for video downloader",
+      "message": "دانلودکننده ویدیو غیرفعال است برای"
+   },
+   "popupDownloadBtn": {
+      "description": "The Download button text as visible in the media popup list",
+      "message": "دانلود"
+   },
+   "popupEnable": {
+      "description": "Enable video downloader for current page",
+      "message": "فعال کردن"
+   },
+   "popupNoVideos": {
+      "description": "Page does not contain any videos",
+      "message": "هیچ ویدیویی برای دانلود در این صفحه وجود دارد"
+   },
+   "popupNoVideos_v2": {
+      "description": "",
+      "message": "برای دانلود یک ویدیو، به صفحه جزئیات بروید."
+   },
+   "popupVideoHeading": {
+      "description": "The heading of the video section in the media popup list",
+      "message": "ویدیو"
+   },
+   "reattachBtn": {
+      "description": "The Reattach button text as visible on the detached video page",
+      "message": "پیوست مجدد"
+   }
+}

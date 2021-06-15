@@ -1,0 +1,28 @@
+{
+   "appDescription": {
+      "message": "Döljer dina fingeravtryck i webbläsaren för att begränsa onlinespårning"
+   },
+   "appName": {
+      "message": "Fingeravtrycksskydd"
+   },
+   "popupStatusDisabled": {
+      "description": "Popup label shown when afp is disabled for current website",
+      "message": "Fingeravtrycksskydd har inaktiverats på den här webbplatsen"
+   },
+   "popupStatusEnabled": {
+      "description": "Popup label shown when afp is enabled for current website",
+      "message": "Fingeravtrycksskydd har aktiverats på den här webbplatsen"
+   },
+   "popupTotalFingerprintsAttemptsDetected": {
+      "description": "Popup total fingerprints attempts detected label",
+      "message": "Totalt antal upptäckta fingeravtrycksförsök"
+   },
+   "settingsAdvanced": {
+      "description": "Settings page title",
+      "message": "Avancerade inställningar för fingeravtrycksskydd"
+   },
+   "settingsSocialMediaLoginDetectionPrevention": {
+      "description": "Settings page social media login detection prevention title",
+      "message": "Identifiering och skydd av inloggning via sociala medier"
+   }
+}

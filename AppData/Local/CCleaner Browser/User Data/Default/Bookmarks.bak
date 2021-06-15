@@ -1,0 +1,1801 @@
+{
+   "checksum": "c1894301ad51f7f80c196eeb5e63ea0a",
+   "roots": {
+      "bookmark_bar": {
+         "children": [ {
+            "date_added": "13236209951000000",
+            "guid": "bd794506-b7f3-4073-95cf-f537a0f912a2",
+            "id": "150",
+            "meta_info": {
+               "description": "Online Shopping for Electronics, Apparel, Computers, Books, DVDs & more",
+               "description-separator": " : ",
+               "disable-title-matching": "false",
+               "hide-bookmark": "false",
+               "hide-omnibox-suggestion": "true",
+               "id": "1001",
+               "index": "0",
+               "keyword": "amazon-com-us-sponsored",
+               "omnibox-min-chars": "2",
+               "parent": "1",
+               "redirect-url": "https://rd-amazon.ccleanerbrowser.com/?cid={campaignId}&country=us&src=bkm",
+               "sponsored": "true"
+            },
+            "name": "Amazon.com",
+            "type": "url",
+            "url": "https://www.amazon.com/"
+         }, {
+            "date_added": "13256754914000000",
+            "guid": "51a8733b-678c-4de9-bc0e-87acb03cbb1a",
+            "id": "151",
+            "meta_info": {
+               "description": "Electronics, Cars, Fashion, Collectibles, Coupons and More",
+               "description-separator": " | ",
+               "disable-title-matching": "false",
+               "hide-bookmark": "false",
+               "hide-omnibox-suggestion": "true",
+               "id": "1002",
+               "index": "1",
+               "keyword": "ebay-com-us-sponsored",
+               "omnibox-min-chars": "3",
+               "parent": "1",
+               "redirect-url": "https://rd-ebay.ccleanerbrowser.com/?cid={campaignId}&country=us&src=bkm",
+               "sponsored": "true"
+            },
+            "name": "eBay",
+            "type": "url",
+            "url": "https://www.ebay.com/"
+         }, {
+            "date_added": "13227054360000000",
+            "guid": "b58934c0-f3e0-4605-8571-3d2f04f1bc63",
+            "id": "152",
+            "meta_info": {
+               "description": "Connect with friends, family and other people you know. Share photos and videos, send messages and get updates.",
+               "description-separator": " – ",
+               "disable-title-matching": "false",
+               "hide-bookmark": "false",
+               "hide-omnibox-suggestion": "true",
+               "id": "1003",
+               "index": "2",
+               "keyword": "facebook-com",
+               "omnibox-min-chars": "2",
+               "parent": "1",
+               "sponsored": "false"
+            },
+            "name": "Facebook",
+            "type": "url",
+            "url": "https://www.facebook.com/"
+         }, {
+            "date_added": "13227055076000000",
+            "guid": "85d75e19-a0e0-4415-854f-dcb370870aa4",
+            "id": "153",
+            "meta_info": {
+               "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
+               "disable-title-matching": "false",
+               "hide-bookmark": "false",
+               "hide-omnibox-suggestion": "true",
+               "id": "1004",
+               "index": "3",
+               "keyword": "youtube-com",
+               "omnibox-min-chars": "2",
+               "parent": "1",
+               "sponsored": "false"
+            },
+            "name": "YouTube",
+            "type": "url",
+            "url": "https://www.youtube.com/"
+         }, {
+            "date_added": "13227767009292767",
+            "guid": "32020493-ea35-4d30-8df6-d1f4869ebfc5",
+            "id": "10",
+            "name": "System Dashboard - Syntax Technologies",
+            "type": "url",
+            "url": "http://jiravm.centralus.cloudapp.azure.com:8080/secure/Dashboard.jspa"
+         }, {
+            "date_added": "13229475593688104",
+            "guid": "e86bc2a9-10b0-44c7-b917-1606f0201afb",
+            "id": "11",
+            "name": "Top Free Java Courses & Tutorials Online - Updated [March 2020] | Udemy",
+            "type": "url",
+            "url": "https://www.udemy.com/topic/java/free/"
+         }, {
+            "date_added": "13234629940323616",
+            "guid": "23f2f4ab-028d-41ea-a69a-63a4267630b6",
+            "id": "12",
+            "name": "(1) Home / Twitter",
+            "type": "url",
+            "url": "https://twitter.com/home"
+         }, {
+            "date_added": "13234867446007302",
+            "guid": "85fa6e01-37da-4fa0-8ce8-ae29bb5ad455",
+            "id": "13",
+            "name": "(1) LinkedIn",
+            "type": "url",
+            "url": "https://www.linkedin.com/feed/"
+         }, {
+            "date_added": "13236767262119816",
+            "guid": "705e1df0-9ff3-4b96-8bae-9c056f9ed2eb",
+            "id": "14",
+            "name": "Human Management System",
+            "type": "url",
+            "url": "http://166.62.36.207/humanresources/symfony/web/index.php/dashboard"
+         }, {
+            "date_added": "13239264514738849",
+            "guid": "ba104793-bf56-40c3-a823-2fce8ee2c52a",
+            "id": "15",
+            "name": "Day35 - Ahmet T - API Part1 - YouTube",
+            "type": "url",
+            "url": "https://www.youtube.com/watch?v=cDv6m-7bwUI&feature=youtu.be"
+         }, {
+            "date_added": "13243473474808969",
+            "guid": "ddb7807e-49fe-4629-a043-b8772e952291",
+            "id": "16",
+            "name": "Slack | general | Dev/QA Meetups Community",
+            "type": "url",
+            "url": "https://app.slack.com/client/TF0SCDL9H/CF15YL9HT"
+         }, {
+            "date_added": "13244534410679161",
+            "guid": "d1578370-a832-4c8d-a411-b2905d5006b9",
+            "id": "17",
+            "name": "Slack | Get Started | FightPandemics⚛️ | 1 new item",
+            "type": "url",
+            "url": "https://app.slack.com/client/T010BHVS3EF/learning-slack"
+         }, {
+            "date_added": "13245141558817255",
+            "guid": "6445b55f-53f6-4d51-b4b4-a7f404f193cf",
+            "id": "18",
+            "name": "REST Assured",
+            "type": "url",
+            "url": "https://rest-assured.io/"
+         }, {
+            "date_added": "13247019675618893",
+            "guid": "1c202c26-a415-4501-bb4f-4cc496c7c5cd",
+            "id": "19",
+            "name": "Chapter 2.1 - Introduction to Jenkins",
+            "type": "url",
+            "url": "https://testautomationu.applitools.com/jenkins-tutorial/chapter2.1.html"
+         }, {
+            "date_added": "13247080956663217",
+            "guid": "db2470b2-a5de-4f47-825f-c5e3924bb271",
+            "id": "20",
+            "name": "System Administration and IT Infrastructure Services - Home | Coursera",
+            "type": "url",
+            "url": "https://www.coursera.org/learn/system-administration-it-infrastructure-services/home/welcome"
+         }, {
+            "date_added": "13249375254550577",
+            "guid": "9443fc22-5c92-4c0d-8136-4e1706b97df0",
+            "id": "21",
+            "name": "npm Docs",
+            "type": "url",
+            "url": "https://docs.npmjs.com/"
+         }, {
+            "date_added": "13249375542862447",
+            "guid": "a38f2d2b-2628-4a38-840b-8ee270cf1ac9",
+            "id": "22",
+            "name": "selenium-webdriver",
+            "type": "url",
+            "url": "https://www.selenium.dev/selenium/docs/api/javascript/module/selenium-webdriver/index.html"
+         }, {
+            "date_added": "13249375561150221",
+            "guid": "9f118011-808d-479f-b8c5-86682e0d8ad9",
+            "id": "23",
+            "name": "Mocha - the fun, simple, flexible JavaScript test framework",
+            "type": "url",
+            "url": "https://mochajs.org/"
+         }, {
+            "date_added": "13249435455613481",
+            "guid": "ab9662a6-7c28-4040-a14a-c52da0c9226f",
+            "id": "24",
+            "name": "Recursively run all tests in test directory using mocha",
+            "type": "url",
+            "url": "https://gist.github.com/timoxley/1721593"
+         }, {
+            "date_added": "13248237007386976",
+            "guid": "865aabba-d95c-43fe-862a-a573d74293b7",
+            "id": "25",
+            "name": "WD board - Agile board - Jira",
+            "type": "url",
+            "url": "https://idealimage.atlassian.net/jira/software/projects/WD/boards/23"
+         }, {
+            "date_added": "13248237022594527",
+            "guid": "0f823a89-bebe-42bd-9824-ef5d9dbe292c",
+            "id": "26",
+            "name": "Overview — Bitbucket",
+            "type": "url",
+            "url": "https://bitbucket.org/dashboard/overview"
+         }, {
+            "date_added": "13248282210376509",
+            "guid": "d0b46b2e-cd4d-416a-914a-b654bf5b1f43",
+            "id": "27",
+            "name": "sitemap – Ideal Image MedSpa",
+            "type": "url",
+            "url": "https://beideal.idealimage.com/sitemap/"
+         }, {
+            "date_added": "13249056421630069",
+            "guid": "3ec91ac5-a5c7-4d9b-a0ae-eb4386608f63",
+            "id": "28",
+            "name": "IONg Tips & Tricks | Salesforce",
+            "type": "url",
+            "url": "https://idealimage.lightning.force.com/lightning/r/CollaborationGroup/0F936000000JYYuCAO/view"
+         }, {
+            "date_added": "13249360318835984",
+            "guid": "5a04d1d6-bb13-48d2-b5ab-46ab38dfdef4",
+            "id": "29",
+            "name": "Free Consultation | Ideal Image",
+            "type": "url",
+            "url": "https://www.idealimage.com/free-consultation?utm_expid=._fasw65uQYaYXLXACPot1A.0&utm_referrer=https%3A%2F%2Fwww.idealimage.com%2Fultherapy-skin-lifting"
+         }, {
+            "date_added": "13249501907308381",
+            "guid": "4d044766-da00-47f4-9cec-4454a9d5d173",
+            "id": "30",
+            "name": "WD-841 Black Friday Global Banner - Main Site | Details - Optimize",
+            "type": "url",
+            "url": "https://optimize.google.com/optimize/home/#/accounts/1884384138/containers/7679191/experiments/372"
+         }, {
+            "date_added": "13249544545398490",
+            "guid": "5647af7e-492c-43d7-8aba-9435e7f3fd63",
+            "id": "31",
+            "name": "Ideal Image MedSpa",
+            "type": "url",
+            "url": "https://stg-beideal.puntpunt.fun/"
+         }, {
+            "date_added": "13249616964324640",
+            "guid": "9ae52fe3-05b6-4c31-89dd-466c7c1d404e",
+            "id": "32",
+            "name": "mochajs/mocha - Gitter",
+            "type": "url",
+            "url": "https://gitter.im/mochajs/mocha#"
+         }, {
+            "date_added": "13249782446358276",
+            "guid": "a4b35fec-8187-4c1f-9519-94836c42700b",
+            "id": "33",
+            "name": "selenium-webdriver/ie.Driver",
+            "type": "url",
+            "url": "https://www.selenium.dev/selenium/docs/api/javascript/module/selenium-webdriver/ie_exports_Driver.html#wait"
+         }, {
+            "date_added": "13249892836632386",
+            "guid": "a3e6dca9-9573-4875-bee2-9c7bc4ac92e9",
+            "id": "34",
+            "name": "mochajs/mocha - Gitter",
+            "type": "url",
+            "url": "https://gitter.im/mochajs/mocha?utm_source=notification&utm_medium=email&utm_campaign=unread-notifications"
+         }, {
+            "date_added": "13249892841920184",
+            "guid": "e81f08a0-87f9-41ba-a332-1c5828f4b77c",
+            "id": "35",
+            "name": "Generate a random string in JavaScript In a short and fast way!",
+            "type": "url",
+            "url": "https://gist.github.com/6174/6062387"
+         }, {
+            "date_added": "13250118764554896",
+            "guid": "d04312c8-446d-4912-852e-b83b3f288841",
+            "id": "36",
+            "name": "Getting started :: Documentation for Selenium",
+            "type": "url",
+            "url": "https://www.selenium.dev/documentation/en/getting_started/"
+         }, {
+            "date_added": "13250130658478907",
+            "guid": "88206876-7e23-4174-8c31-78af88640467",
+            "id": "37",
+            "name": "SWAGGER DOCUMENT FOR API TESTING",
+            "type": "url",
+            "url": "https://reqres.in/"
+         }, {
+            "date_added": "13250724523434810",
+            "guid": "eb6e28c9-13c8-4209-803a-401e4f907379",
+            "id": "38",
+            "name": "Dynamic variables | Postman Learning Center",
+            "type": "url",
+            "url": "https://learning.postman.com/docs/writing-scripts/script-references/variables-list/"
+         }, {
+            "date_added": "13251006370339561",
+            "guid": "fec471c7-4765-4b17-9854-b842d6868b4d",
+            "id": "39",
+            "name": "dotenv - npm",
+            "type": "url",
+            "url": "https://www.npmjs.com/package/dotenv"
+         }, {
+            "date_added": "13251531067865406",
+            "guid": "ff17892a-7053-4ccc-a5e4-6fea9c315c55",
+            "id": "40",
+            "name": "Online REST API for Testing and Prototyping | GO REST",
+            "type": "url",
+            "url": "https://gorest.co.in/"
+         } ],
+         "date_added": "13252655238787937",
+         "date_modified": "0",
+         "guid": "00000000-0000-4000-a000-000000000002",
+         "id": "1",
+         "name": "Bookmarks bar",
+         "type": "folder"
+      },
+      "other": {
+         "children": [  ],
+         "date_added": "13252655238787941",
+         "date_modified": "0",
+         "guid": "00000000-0000-4000-a000-000000000003",
+         "id": "2",
+         "name": "Other bookmarks",
+         "type": "folder"
+      },
+      "sponsored": {
+         "children": [ {
+            "children": [ {
+               "date_added": "13249578960000000",
+               "guid": "c9271de1-aa02-480e-9498-7e98a34d5921",
+               "id": "109",
+               "meta_info": {
+                  "description": "Electronics, Cars, Fashion, Collectibles, Coupons and More",
+                  "description-separator": " | ",
+                  "disable-title-matching": "false",
+                  "hide-bookmark": "true",
+                  "hide-omnibox-suggestion": "false",
+                  "id": "1201",
+                  "index": "0",
+                  "keyword": "ebay-com-us-obx-sponsored",
+                  "omnibox-min-chars": "3",
+                  "omnibox-providers": "2,3,30,1002,1003,1030",
+                  "parent": "0",
+                  "redirect-url": "https://rd-ebay.ccleanerbrowser.com/?cid={campaignId}&country=us&src=obx",
+                  "sponsored": "true"
+               },
+               "name": "eBay",
+               "type": "url",
+               "url": "https://www.ebay.com/"
+            }, {
+               "date_added": "13249738633000000",
+               "guid": "c2cc4aad-1db3-47c9-9df2-e9974c90ab98",
+               "id": "92",
+               "meta_info": {
+                  "description": "Online Shopping for Electronics, Apparel, Computers, Books, DVDs & more",
+                  "description-separator": " : ",
+                  "disable-title-matching": "false",
+                  "hide-bookmark": "true",
+                  "hide-omnibox-suggestion": "false",
+                  "id": "1200",
+                  "index": "0",
+                  "keyword": "amazon-com-us-obx-sponsored",
+                  "omnibox-min-chars": "2",
+                  "omnibox-providers": "2,3,30,1002,1003,1030",
+                  "parent": "0",
+                  "redirect-url": "https://rd-amazon.ccleanerbrowser.com/?cid={campaignId}&country=us&src=obx&provider=yahoo",
+                  "sponsored": "true"
+               },
+               "name": "Amazon.com",
+               "type": "url",
+               "url": "https://www.amazon.com/"
+            } ],
+            "date_added": "13252655239159969",
+            "date_modified": "0",
+            "guid": "258a56f9-3104-445f-a16c-a2f67172e037",
+            "id": "6",
+            "name": "ActiveUrls",
+            "type": "folder"
+         }, {
+            "children": [ {
+               "date_added": "13243539191000000",
+               "guid": "239ba698-c12c-4a3b-9e4f-8c6ec01d6ff6",
+               "id": "149",
+               "meta_info": {
+                  "description": "Create A Website For Free",
+                  "description-separator": " - ",
+                  "disable-title-matching": "false",
+                  "hide-bookmark": "true",
+                  "hide-omnibox-suggestion": "false",
+                  "id": "1220",
+                  "index": "0",
+                  "keyword": "wix-com-us-obx-ggl-sponsored",
+                  "omnibox-min-chars": "3",
+                  "omnibox-providers": "1,1001",
+                  "parent": "0",
+                  "redirect-url": "https://rd-adm.ccleanerbrowser.com/?u=https://www.wix.com/&cid={campaignId}&country=us&src=obx&provider=ggl&aid=74283",
+                  "sponsored": "true"
+               },
+               "name": "Wix.com",
+               "type": "url",
+               "url": "https://www.wix.com/"
+            }, {
+               "date_added": "13245152914000000",
+               "guid": "abb7e137-5bbd-4a58-8535-2017d0bca6ff",
+               "id": "148",
+               "meta_info": {
+                  "description": "Shop Wayfair for A Zillion Things Home across all styles and budgets. 5,000 brands of furniture, lighting, cookware, and more. Free Shipping on most items.",
+                  "description-separator": " - ",
+                  "disable-title-matching": "false",
+                  "hide-bookmark": "true",
+                  "hide-omnibox-suggestion": "false",
+                  "id": "1235",
+                  "index": "0",
+                  "keyword": "wayfair-com-us-obx-ggl-sponsored",
+                  "omnibox-min-chars": "3",
+                  "omnibox-providers": "1,1001",
+                  "parent": "0",
+                  "redirect-url": "https://rd-vig.ccleanerbrowser.com/?u=https://www.wayfair.com/&cid={campaignId}&country=us&src=obx&provider=ggl",
+                  "sponsored": "true"
+               },
+               "name": "Wayfair.com",
+               "type": "url",
+               "url": "https://www.wayfair.com/"
+            }, {
+               "date_added": "13256393557000000",
+               "guid": "7c1c9ac8-d64a-43f9-b765-dddb278cd0b9",
+               "id": "147",
+               "meta_info": {
+                  "description": "Save Money. Live Better. Shop Walmart.com for Every Day Low Prices.",
+                  "disable-title-matching": "false",
+                  "hide-bookmark": "true",
+                  "hide-omnibox-suggestion": "false",
+                  "id": "1231",
+                  "index": "0",
+                  "keyword": "walmart-com-us-obx-ggl-sponsored",
+                  "omnibox-min-chars": "2",
+                  "omnibox-providers": "1,1001",
+                  "parent": "0",
+                  "redirect-url": "https://rd-vig.ccleanerbrowser.com/?u=https://www.walmart.com/&cid={campaignId}&country=us&src=obx&provider=ggl",
+                  "sponsored": "true"
+               },
+               "name": "Walmart.com",
+               "type": "url",
+               "url": "https://www.walmart.com/"
+            }, {
+               "date_added": "13247657589000000",
+               "guid": "9254f647-e5b4-4c07-8714-8aac7b028786",
+               "id": "146",
+               "meta_info": {
+                  "description": "Book your vacation rentals: beach houses, cabins, condos & more",
+                  "description-separator": " | ",
+                  "disable-title-matching": "false",
+                  "hide-bookmark": "true",
+                  "hide-omnibox-suggestion": "false",
+                  "id": "1229",
+                  "index": "0",
+                  "keyword": "vrbo-com-us-obx-ggl-sponsored",
+                  "omnibox-min-chars": "3",
+                  "omnibox-providers": "1,1001",
+                  "parent": "0",
+                  "redirect-url": "https://rd-vig.ccleanerbrowser.com/?u=https://www.vrbo.com/&cid={campaignId}&country=us&src=obx&provider=ggl",
+                  "sponsored": "true"
+               },
+               "name": "Vrbo.com",
+               "type": "url",
+               "url": "https://www.vrbo.com/"
+            }, {
+               "date_added": "13248553531000000",
+               "guid": "e22e63d3-c7e9-4aab-ad19-7e5654a6c951",
+               "id": "145",
+               "meta_info": {
+                  "description": "Book your vacation rentals: beach houses, cabins, condos & more",
+                  "description-separator": " | ",
+                  "disable-title-matching": "false",
+                  "hide-bookmark": "true",
+                  "hide-omnibox-suggestion": "false",
+                  "id": "1405",
+                  "index": "0",
+                  "keyword": "vrbo-com-us-obx-ggl-sponsored-search",
+                  "omnibox-keywords": "[vacation r]entals,[home r]entals,[vrbo b]ook,[lakeside lo]dges,[adventurous excur]sion,[vrbo book v]acation,[perfect va]cation rental,[relaxing excur]sion,[ideal vaca]tion rental,[large ren]tal homes,[condo r]ental,[beach house r]ental,[cabin r]ental,[family va]cation,[pet friendly r]entals,[weekend ge]taway,[mountain cabin r]entals,[city apartment r]entals,[luxury home r]entals,[vacation ho]me,[waterfront home r]entals,[house with poo]l rental,[hot tub geta]way,[asheville cabin r]entals,[big bear cab]ins,[chattanooga cabin r]entals,[colorado cab]ins,[georgia cabin r]entals,[blue ridge cab]ins,[helen ga cab]ins,[hot springs arkansas cab]ins,[north carolina cab]ins,[north georgia cab]in rentals,[oklahoma cab]ins,[south lake tahoe cab]ins,[tennessee cab]ins,[hocking hills cab]ins,[pidgeon forge cab]ins,[eureka springs cab]ins,[broken bow cab]ins,[gatlingburg cab]ins,[lake tahoe cab]ins,[ester park cab]ins,[holden beach r]entals,[bethany beach r]entals,[port aransas r]entals,[carolina beach r]entals,[maui vacation r]entals,[long beach island r]entals,[tybee island r]entals,[virginia beach r]entals,[rehoboth beach r]entals,[outer banks r]entals,[cozumel beach r]entals,[galveston beach r]entals,[gulf shores beach r]entals,[kauai beach house r]entals,[folly beach r]entals,[cape cod beach r]entals,[myrtle beach vacation r]entals,[dewey beach r]entals,[orange beach al r]entals,[ocean isle brach r]entals,[panama city beach con]dos,[panama city beach r]entals,[navarre beach r]entals,[destin vacation r]entals,[orlando resor]ts,[destin florida beach r]entals,[florida vacation r]entals,[orlando vacation r]entals,[sanibel island r]entals,[panama city beach reso]rts,[anna maria island r]entals,[pensacola beach r]entals,[florida res]orts,[st george island r]entals,[seaside florida r]entals,[vacation rentals near d]isney world,[florida beach r]entals,[westgate lakes] resorts and spa,siesta key beach r]entals,[rosemary beach r]entals,[best places to visit n]ear you,[best places to t]ravel,[couples v]acations and retreats,[best honeym]oon destinations,[best vacation s]pots,[houses for rent in las] vegas,[cheap places to t]ravel,[romantic g]etaways,[private beach r]entals,[torch lake michigan r]entals,[lake of egypt vacation r]entals,[myrtle beach r]entals,[florida vacation r]ental ideas,[lake house r]entals,[colorado ski r]esorts,[hawaii vacation r]entals,[beach house r]entals,[tybee island condo r]entals,[getaways near] me,[cheap weekend g]etaways,[weekend house r]entals,[perfect weekend g]etaway,[budget weekend g]etway,[nature geta]way,[weekend cabin r]ental,[pet friendly cab]ins,[pet friendly v]acations,[dog friendly v]acations,[rentals near] me,[rentals at the b]each,[rentals in col]orado springs,[rentals around] me,[vacations near] me,[vacations ha]waii",
+                  "omnibox-min-chars": "3",
+                  "omnibox-providers": "1,1001",
+                  "parent": "0",
+                  "redirect-url": "https://rd-vig.ccleanerbrowser.com/?u=https://www.vrbo.com/&cid={campaignId}&country=us&src=obx&provider=ggl",
+                  "sponsored": "true"
+               },
+               "name": "Vrbo.com",
+               "type": "url",
+               "url": "https://www.vrbo.com/"
+            }, {
+               "date_added": "13243534060000000",
+               "guid": "929d33ca-5180-49b5-8804-306da06140dc",
+               "id": "144",
+               "meta_info": {
+                  "description": "We're Here. And We're Ready",
+                  "description-separator": " - ",
+                  "disable-title-matching": "false",
+                  "hide-bookmark": "true",
+                  "hide-omnibox-suggestion": "false",
+                  "id": "1226",
+                  "index": "0",
+                  "keyword": "verizon-com-us-obx-ggl-sponsored",
+                  "omnibox-min-chars": "4",
+                  "omnibox-providers": "1,1001",
+                  "parent": "0",
+                  "redirect-url": "https://rd-adm.ccleanerbrowser.com/?u=https://www.verizon.com/&cid={campaignId}&country=us&src=obx&provider=ggl&aid=26126",
+                  "sponsored": "true"
+               },
+               "name": "Verizon.com",
+               "type": "url",
+               "url": "https://www.verizon.com/"
+            }, {
+               "date_added": "13257520077000000",
+               "guid": "e699951c-8f30-4f35-a34c-ddaaa5347347",
+               "id": "143",
+               "meta_info": {
+                  "description": "ban Outfitters is a lifestyle retailer dedicated to inspiring customers through a unique combination of product, creativity and cultural understanding.",
+                  "description-separator": " – ",
+                  "disable-title-matching": "false",
+                  "hide-bookmark": "true",
+                  "hide-omnibox-suggestion": "false",
+                  "id": "1249",
+                  "index": "0",
+                  "keyword": "urbanoutfitters-com-us-obx-ggl-sponsored",
+                  "omnibox-min-chars": "2",
+                  "omnibox-providers": "1,1001",
+                  "parent": "0",
+                  "redirect-url": "https://rd-vig.ccleanerbrowser.com/?u=https://www.urbanoutfitters.com/&cid={campaignId}&country=us&src=obx&provider=ggl",
+                  "sponsored": "true"
+               },
+               "name": "Urbanoutfitters",
+               "type": "url",
+               "url": "https://www.urbanoutfitters.com/"
+            }, {
+               "date_added": "13257520077000000",
+               "guid": "745e1d60-93cc-471a-bbca-9b5740968881",
+               "id": "142",
+               "meta_info": {
+                  "description": "Udemy is an online learning and teaching marketplace with over 130,000 courses and 35 million students. Learn programming, marketing, data science and more.",
+                  "description-separator": " – ",
+                  "disable-title-matching": "false",
+                  "hide-bookmark": "true",
+                  "hide-omnibox-suggestion": "false",
+                  "id": "1251",
+                  "index": "0",
+                  "keyword": "udemy-com-us-obx-ggl-sponsored",
+                  "omnibox-min-chars": "2",
+                  "omnibox-providers": "1,1001",
+                  "parent": "0",
+                  "redirect-url": "https://rd-vig.ccleanerbrowser.com/?u=https://www.udemy.com/&cid={campaignId}&country=us&src=obx&provider=ggl",
+                  "sponsored": "true"
+               },
+               "name": "Udemy",
+               "type": "url",
+               "url": "https://www.udemy.com/"
+            }, {
+               "date_added": "13256260134000000",
+               "guid": "ca52ba4d-2c06-4365-8a0a-3c6b854cbaf5",
+               "id": "141",
+               "meta_info": {
+                  "description": "TurboTax® Official Site: File Taxes Online, Tax Filing Made Easy",
+                  "description-separator": " : ",
+                  "disable-title-matching": "false",
+                  "hide-bookmark": "true",
+                  "hide-omnibox-suggestion": "false",
+                  "id": "1238",
+                  "index": "0",
+                  "keyword": "turbotax-com-us-obx-ggl-sponsored-search",
+                  "omnibox-keywords": "[anthem tax re]lief,[best irs tax relief com]panies,[best tax debt relief com]panies,[best tax relief co]mpanies,[best tax relief co]mpanies in 2021,[best tax relief companies ne]ar me,[irs tax relief se]rvices,[tax cal]culator,[state tax deb]t relief,[tax debt re]lief,[tax r]eturn,[tax resolution com]panies,[tax relief services ne]ar me,[tax relief ne]ar me,[tax relief he]lp,[tax debt re]solution,[tax help com]panies,[tax relief help ne]ar me,[tax],[taxe]s,[top tax relief com]panies,[tax relief se]rvices,[tax relief pro]grams,[tax relief hel]pline,[tax settlement com]panies,[tax resolution ser]vices,[tax resolution services ne]ar me,[recovery tax re]lief,[tax relief companies ne]ar me,[tax debt relief pr]ograms,[tax relief com]panies,[irs tax debt re]lief,[property tax help for se]niors,[property tax help for l]ow income homeowners,[help with property taxes fir di]sabled,[optima tax ser]vice,[tax debt he]lp,[tax debt relief com]panies,[irs tax relief] programs,[irs tax relief he]lp,[tax debt help ne]ar me,[tax debt relief ne]ar me,[irs tax relief com]panies,[tax debt se]ttlement,[tax resolution ne]ar me,[best tax resolution co]mpanies,[best tax relief se]rvices,[efile]",
+                  "omnibox-min-chars": "3",
+                  "omnibox-providers": "1,1001",
+                  "parent": "0",
+                  "redirect-url": "https://rd-adm.ccleanerbrowser.com/?u=https://www.turbotax.com/&cid={campaignId}&country=us&src=obx&provider=ggl&kwt=generic&aid=73880",
+                  "sponsored": "true"
+               },
+               "name": "Turbotax.com",
+               "type": "url",
+               "url": "https://www.turbotax.com/"
+            }, {
+               "date_added": "13243539270000000",
+               "guid": "ea249682-46a2-4f08-acd2-97309b8bc54f",
+               "id": "140",
+               "meta_info": {
+                  "description": "Achieve Credit Peace of Mind",
+                  "description-separator": " - ",
+                  "disable-title-matching": "false",
+                  "hide-bookmark": "true",
+                  "hide-omnibox-suggestion": "false",
+                  "id": "1225",
+                  "index": "0",
+                  "keyword": "transunion-com-us-obx-ggl-sponsored",
+                  "omnibox-min-chars": "6",
+                  "omnibox-providers": "1,1001",
+                  "parent": "0",
+                  "redirect-url": "https://rd-adm.ccleanerbrowser.com/?u=https://www.transunion.com/&cid={campaignId}&country=us&src=obx&provider=ggl&aid=73352",
+                  "sponsored": "true"
+               },
+               "name": "Transunion.com",
+               "type": "url",
+               "url": "https://www.transunion.com/"
+            }, {
+               "date_added": "13243547478000000",
+               "guid": "10dc42ee-c776-4351-8cce-5179d92b1693",
+               "id": "139",
+               "meta_info": {
+                  "description": "Shop online for all your home improvement needs",
+                  "description-separator": " - ",
+                  "disable-title-matching": "false",
+                  "hide-bookmark": "true",
+                  "hide-omnibox-suggestion": "false",
+                  "id": "1227",
+                  "index": "0",
+                  "keyword": "homedepot-com-us-obx-ggl-sponsored",
+                  "omnibox-min-chars": "5",
+                  "omnibox-providers": "1,1001",
+                  "parent": "0",
+                  "redirect-url": "https://rd-adm.ccleanerbrowser.com/?u=https://www.homedepot.com/&cid={campaignId}&country=us&src=obx&provider=ggl&aid=25276",
+                  "sponsored": "true"
+               },
+               "name": "The Home Depot",
+               "type": "url",
+               "url": "https://www.homedepot.com/"
+            }, {
+               "date_added": "13243539235000000",
+               "guid": "d8708ba4-b09e-4d08-b6f9-e342c0f17008",
+               "id": "138",
+               "meta_info": {
+                  "description": "Official Site",
+                  "description-separator": " - ",
+                  "disable-title-matching": "false",
+                  "hide-bookmark": "true",
+                  "hide-omnibox-suggestion": "false",
+                  "id": "1224",
+                  "index": "0",
+                  "keyword": "statefarm-com-us-obx-ggl-sponsored",
+                  "omnibox-min-chars": "4",
+                  "omnibox-providers": "1,1001",
+                  "parent": "0",
+                  "redirect-url": "https://rd-adm.ccleanerbrowser.com/?u=https://www.statefarm.com/&cid={campaignId}&country=us&src=obx&provider=ggl&aid=74345",
+                  "sponsored": "true"
+               },
+               "name": "Statefarm.com",
+               "type": "url",
+               "url": "https://www.statefarm.com/"
+            }, {
+               "date_added": "13245861290000000",
+               "guid": "78889729-e09d-4b94-8c5b-15f331903fc8",
+               "id": "137",
+               "meta_info": {
+                  "description": "Shop Staples for business essentials, printers, ink, computers, office furniture, printing services, promotional products and more. Solutions for Worklife.",
+                  "description-separator": " - ",
+                  "disable-title-matching": "false",
+                  "hide-bookmark": "true",
+                  "hide-omnibox-suggestion": "false",
+                  "id": "1236",
+                  "index": "0",
+                  "keyword": "staples-com-us-obx-ggl-sponsored",
+                  "omnibox-min-chars": "4",
+                  "omnibox-providers": "1,1001",
+                  "parent": "0",
+                  "redirect-url": "https://rd-vig.ccleanerbrowser.com/?u=https://www.staples.com/&cid={campaignId}&country=us&src=obx&provider=ggl",
+                  "sponsored": "true"
+               },
+               "name": "Staples.com",
+               "type": "url",
+               "url": "https://www.staples.com/"
+            }, {
+               "date_added": "13253198682000000",
+               "guid": "22f856c8-32c7-4136-8eaf-30a160dde7f8",
+               "id": "136",
+               "meta_info": {
+                  "description": "Shop shapewear from tummy-taming tops to rear-refining bottoms",
+                  "description-separator": " | ",
+                  "disable-title-matching": "false",
+                  "hide-bookmark": "true",
+                  "hide-omnibox-suggestion": "false",
+                  "id": "1237",
+                  "index": "0",
+                  "keyword": "spanx-com-us-obx-ggl-sponsored",
+                  "omnibox-min-chars": "4",
+                  "omnibox-providers": "1,1001",
+                  "parent": "0",
+                  "redirect-url": "https://rd-vig.ccleanerbrowser.com/?u=https://www.spanx.com/&cid={campaignId}&country=us&src=obx&provider=ggl",
+                  "sponsored": "true"
+               },
+               "name": "spanx.com",
+               "type": "url",
+               "url": "https://www.spanx.com/"
+            }, {
+               "date_added": "13257520077000000",
+               "guid": "70d6dfed-7e71-4ff9-8fe1-81d023737ca6",
+               "id": "135",
+               "meta_info": {
+                  "description": "Discover the latest in beauty at Sephora. Explore our unrivaled selection of makeup, skin care, fragrance and more from classic and emerging brands.",
+                  "description-separator": " – ",
+                  "disable-title-matching": "false",
+                  "hide-bookmark": "true",
+                  "hide-omnibox-suggestion": "false",
+                  "id": "1247",
+                  "index": "0",
+                  "keyword": "sephora-com-us-obx-ggl-sponsored",
+                  "omnibox-min-chars": "2",
+                  "omnibox-providers": "1,1001",
+                  "parent": "0",
+                  "redirect-url": "https://rd-vig.ccleanerbrowser.com/?u=https://www.sephora.com/&cid={campaignId}&country=us&src=obx&provider=ggl",
+                  "sponsored": "true"
+               },
+               "name": "Sephora",
+               "type": "url",
+               "url": "https://www.sephora.com/"
+            }, {
+               "date_added": "13257520076000000",
+               "guid": "47c021d3-daca-4e57-ad7f-f386be5ef604",
+               "id": "134",
+               "meta_info": {
+                  "description": "Shop Sears for appliances, tools, clothing, mattresses & more. Great name brands like Kenmore, Craftsman Tools, Serta, Diehard and many others.",
+                  "description-separator": " – ",
+                  "disable-title-matching": "false",
+                  "hide-bookmark": "true",
+                  "hide-omnibox-suggestion": "false",
+                  "id": "1243",
+                  "index": "0",
+                  "keyword": "sears-com-us-obx-ggl-sponsored",
+                  "omnibox-min-chars": "4",
+                  "omnibox-providers": "1,1001",
+                  "parent": "0",
+                  "redirect-url": "https://rd-vig.ccleanerbrowser.com/?u=https://www.sears.com/&cid={campaignId}&country=us&src=obx&provider=ggl",
+                  "sponsored": "true"
+               },
+               "name": "Sears",
+               "type": "url",
+               "url": "https://www.sears.com/"
+            }, {
+               "date_added": "13243534054000000",
+               "guid": "06146340-f9ca-49c7-aee6-a8d5c152183f",
+               "id": "133",
+               "meta_info": {
+                  "description": "Shop Our Best Phones and More!",
+                  "description-separator": " - ",
+                  "disable-title-matching": "false",
+                  "hide-bookmark": "true",
+                  "hide-omnibox-suggestion": "false",
+                  "id": "1223",
+                  "index": "0",
+                  "keyword": "samsung-com-us-obx-ggl-sponsored",
+                  "omnibox-min-chars": "4",
+                  "omnibox-providers": "1,1001",
+                  "parent": "0",
+                  "redirect-url": "https://rd-adm.ccleanerbrowser.com/?u=https://www.samsung.com/&cid={campaignId}&country=us&src=obx&provider=ggl&aid=74613",
+                  "sponsored": "true"
+               },
+               "name": "Samsung.com",
+               "type": "url",
+               "url": "https://www.samsung.com/"
+            }, {
+               "date_added": "13243607512000000",
+               "guid": "271d3011-249f-4e6c-a1fb-b69fd4d87b6e",
+               "id": "132",
+               "meta_info": {
+                  "description": "Wholesale Prices on Top Brands",
+                  "description-separator": " - ",
+                  "disable-title-matching": "false",
+                  "hide-bookmark": "true",
+                  "hide-omnibox-suggestion": "false",
+                  "id": "1222",
+                  "index": "0",
+                  "keyword": "samsclub-com-us-obx-ggl-sponsored",
+                  "omnibox-min-chars": "5",
+                  "omnibox-providers": "1,1001",
+                  "parent": "0",
+                  "redirect-url": "https://rd-vig.ccleanerbrowser.com/?u=https://www.samsclub.com/&cid={campaignId}&country=us&src=obx&provider=ggl",
+                  "sponsored": "true"
+               },
+               "name": "Samsclub.com",
+               "type": "url",
+               "url": "https://www.samsclub.com/"
+            }, {
+               "date_added": "13241703140000000",
+               "guid": "d64a2a48-4293-40b1-bee3-c1ee0959921b",
+               "id": "131",
+               "meta_info": {
+                  "description": "Apparel & Shoes",
+                  "description-separator": " : ",
+                  "disable-title-matching": "false",
+                  "hide-bookmark": "true",
+                  "hide-omnibox-suggestion": "false",
+                  "id": "1209",
+                  "index": "0",
+                  "keyword": "reebok-com-us-obx-ggl-sponsored",
+                  "omnibox-min-chars": "4",
+                  "omnibox-providers": "1,1001",
+                  "parent": "0",
+                  "redirect-url": "https://rd-adm.ccleanerbrowser.com/?u=https://www.reebok.com/&cid={campaignId}&country=us&src=obx&provider=ggl&aid=73786",
+                  "sponsored": "true"
+               },
+               "name": "Reebok",
+               "type": "url",
+               "url": "https://www.reebok.com/"
+            }, {
+               "date_added": "13243539093000000",
+               "guid": "127a7e6b-41df-45cd-a73c-f0fa805d3e94",
+               "id": "130",
+               "meta_info": {
+                  "description": "Manage Your Entire Business",
+                  "description-separator": " - ",
+                  "disable-title-matching": "false",
+                  "hide-bookmark": "true",
+                  "hide-omnibox-suggestion": "false",
+                  "id": "1221",
+                  "index": "0",
+                  "keyword": "quickbooks-intuit-com-us-obx-ggl-sponsored",
+                  "omnibox-min-chars": "4",
+                  "omnibox-providers": "1,1001",
+                  "parent": "0",
+                  "redirect-url": "https://rd-adm.ccleanerbrowser.com/?u=https://quickbooks.intuit.com/&cid={campaignId}&country=us&src=obx&provider=ggl&aid=24138",
+                  "sponsored": "true"
+               },
+               "name": "Quickbooks.intuit.com",
+               "type": "url",
+               "url": "https://quickbooks.intuit.com/"
+            }, {
+               "date_added": "13241703143000000",
+               "guid": "54bf5467-f2e8-41b2-9f88-b8a8a1bfe660",
+               "id": "129",
+               "meta_info": {
+                  "description": "The World's First Comfort Tech Company Backed by Science",
+                  "description-separator": " - ",
+                  "disable-title-matching": "false",
+                  "hide-bookmark": "true",
+                  "hide-omnibox-suggestion": "false",
+                  "id": "1210",
+                  "index": "0",
+                  "keyword": "purple-com-us-obx-ggl-sponsored",
+                  "omnibox-min-chars": "6",
+                  "omnibox-providers": "1,1001",
+                  "parent": "0",
+                  "redirect-url": "https://rd-adm.ccleanerbrowser.com/?u=https://www.purple.com/&cid={campaignId}&country=us&src=obx&provider=ggl&aid=74711",
+                  "sponsored": "true"
+               },
+               "name": "Purple",
+               "type": "url",
+               "url": "https://www.purple.com/"
+            }, {
+               "date_added": "13241708862000000",
+               "guid": "9006d081-3ac8-4412-b3fb-7ac0d7adebae",
+               "id": "128",
+               "meta_info": {
+                  "description": "The Best Deals Online: Furniture, Bedding, Jewelry & More",
+                  "description-separator": " | ",
+                  "disable-title-matching": "false",
+                  "hide-bookmark": "true",
+                  "hide-omnibox-suggestion": "false",
+                  "id": "1213",
+                  "index": "0",
+                  "keyword": "overstock-com-gb-obx-ggl-sponsored",
+                  "omnibox-min-chars": "6",
+                  "omnibox-providers": "1,1001",
+                  "parent": "0",
+                  "redirect-url": "https://rd-adm.ccleanerbrowser.com/?u=https://www.overstock.com/&cid={campaignId}&country=us&src=obx&provider=ggl&aid=25216",
+                  "sponsored": "true"
+               },
+               "name": "Overstock.com",
+               "type": "url",
+               "url": "https://www.overstock.com/"
+            }, {
+               "date_added": "13243675235000000",
+               "guid": "59c6b496-4d52-4b82-a57f-9055ae2c257c",
+               "id": "127",
+               "meta_info": {
+                  "description": "Footwear, Apparel, Equipment and Accessories",
+                  "description-separator": " - ",
+                  "disable-title-matching": "false",
+                  "hide-bookmark": "true",
+                  "hide-omnibox-suggestion": "false",
+                  "id": "1208",
+                  "index": "0",
+                  "keyword": "nike-com-us-obx-ggl-sponsored",
+                  "omnibox-min-chars": "3",
+                  "omnibox-providers": "1,1001",
+                  "parent": "0",
+                  "redirect-url": "https://rd-adm.ccleanerbrowser.com/?u=https://www.nike.com/&cid={campaignId}&country=us&src=obx&provider=ggl&aid=74621",
+                  "sponsored": "true"
+               },
+               "name": "Nike",
+               "type": "url",
+               "url": "https://www.nike.com/"
+            }, {
+               "date_added": "13257520077000000",
+               "guid": "39eed005-cb46-4a8e-b007-8a1acc9c7920",
+               "id": "126",
+               "meta_info": {
+                  "description": "Tackle your workouts with confidence in performance running shoes and stylish clothes from New Balance. Our athletic footwear goes the distance with you.",
+                  "description-separator": " – ",
+                  "disable-title-matching": "false",
+                  "hide-bookmark": "true",
+                  "hide-omnibox-suggestion": "false",
+                  "id": "1255",
+                  "index": "0",
+                  "keyword": "newbalance-com-us-obx-ggl-sponsored",
+                  "omnibox-min-chars": "5",
+                  "omnibox-providers": "1,1001",
+                  "parent": "0",
+                  "redirect-url": "https://rd-vig.ccleanerbrowser.com/?u=https://www.newbalance.com/&cid={campaignId}&country=us&src=obx&provider=ggl",
+                  "sponsored": "true"
+               },
+               "name": "New Balance",
+               "type": "url",
+               "url": "https://www.newbalance.com/"
+            }, {
+               "date_added": "13255562278000000",
+               "guid": "148e586f-9b86-4bc0-8516-e7fb7a4f066a",
+               "id": "125",
+               "meta_info": {
+                  "description": "Shop Fashion Clothing & Accessories",
+                  "description-separator": " - ",
+                  "disable-title-matching": "false",
+                  "hide-bookmark": "true",
+                  "hide-omnibox-suggestion": "false",
+                  "id": "1207",
+                  "index": "0",
+                  "keyword": "macys-com-us-obx-ggl-sponsored",
+                  "omnibox-min-chars": "4",
+                  "omnibox-providers": "1,1001",
+                  "parent": "0",
+                  "redirect-url": "https://rd-vig.ccleanerbrowser.com/?u=https://www.macys.com/&cid={campaignId}&country=us&src=obx&provider=ggl",
+                  "sponsored": "true"
+               },
+               "name": "Macy's",
+               "type": "url",
+               "url": "https://www.macys.com/"
+            }, {
+               "date_added": "13245152411000000",
+               "guid": "fdc5c6d3-1dee-4c79-b08b-ee70ef816c7e",
+               "id": "124",
+               "meta_info": {
+                  "description": "Official LEGO® Shop US",
+                  "description-separator": " - ",
+                  "disable-title-matching": "false",
+                  "hide-bookmark": "true",
+                  "hide-omnibox-suggestion": "false",
+                  "id": "1234",
+                  "index": "0",
+                  "keyword": "lego-com-us-obx-ggl-sponsored",
+                  "omnibox-min-chars": "4",
+                  "omnibox-providers": "1,1001",
+                  "parent": "0",
+                  "redirect-url": "https://rd-vig.ccleanerbrowser.com/?u=https://www.lego.com/&cid={campaignId}&country=us&src=obx&provider=ggl",
+                  "sponsored": "true"
+               },
+               "name": "Lego.com",
+               "type": "url",
+               "url": "https://www.lego.com/"
+            }, {
+               "date_added": "13241793266000000",
+               "guid": "19c3f7d6-6244-4540-b073-bbb806697ce6",
+               "id": "123",
+               "meta_info": {
+                  "description": "Shop Clothing, Shoes, Home, Kitchen, Bedding and Toys",
+                  "description-separator": " | ",
+                  "disable-title-matching": "false",
+                  "hide-bookmark": "true",
+                  "hide-omnibox-suggestion": "false",
+                  "id": "1206",
+                  "index": "0",
+                  "keyword": "kohls-com-us-obx-ggl-sponsored",
+                  "omnibox-min-chars": "3",
+                  "omnibox-providers": "1,1001",
+                  "parent": "0",
+                  "redirect-url": "https://rd-adm.ccleanerbrowser.com/?u=https://www.kohls.com/&cid={campaignId}&country=us&src=obx&provider=ggl&aid=74104",
+                  "sponsored": "true"
+               },
+               "name": "Kohl's",
+               "type": "url",
+               "url": "https://www.kohls.com/"
+            }, {
+               "date_added": "13256393430000000",
+               "guid": "594af067-2f2c-4e00-90d0-acfce463997b",
+               "id": "122",
+               "meta_info": {
+                  "description": "Tax Preparation Services Company",
+                  "description-separator": " | ",
+                  "disable-title-matching": "false",
+                  "hide-bookmark": "true",
+                  "hide-omnibox-suggestion": "false",
+                  "id": "1406",
+                  "index": "0",
+                  "keyword": "hrblock-com-us-obx-ggl-sponsored",
+                  "omnibox-min-chars": "3",
+                  "omnibox-providers": "1,1001",
+                  "parent": "0",
+                  "redirect-url": "https://rd-adm.ccleanerbrowser.com/?u=https://www.hrblock.com/&cid={campaignId}&country=us&src=obx&provider=ggl&aid=23200",
+                  "sponsored": "true"
+               },
+               "name": "hrblock.com",
+               "type": "url",
+               "url": "https://www.hrblock.com/"
+            }, {
+               "date_added": "13243534052000000",
+               "guid": "530ee540-c894-46c7-b822-4572574f0d5a",
+               "id": "121",
+               "meta_info": {
+                  "description": "Enable Consumption-Based IT",
+                  "description-separator": " - ",
+                  "disable-title-matching": "false",
+                  "hide-bookmark": "true",
+                  "hide-omnibox-suggestion": "false",
+                  "id": "1219",
+                  "index": "0",
+                  "keyword": "hpe-com-us-obx-ggl-sponsored",
+                  "omnibox-min-chars": "3",
+                  "omnibox-providers": "1,1001",
+                  "parent": "0",
+                  "redirect-url": "https://rd-adm.ccleanerbrowser.com/?u=https://www.hpe.com/&cid={campaignId}&country=us&src=obx&provider=ggl&aid=74253",
+                  "sponsored": "true"
+               },
+               "name": "hpe.com",
+               "type": "url",
+               "url": "https://www.hpe.com/"
+            }, {
+               "date_added": "13243675396000000",
+               "guid": "9cb7a82d-f774-4549-a126-b6e3180420be",
+               "id": "120",
+               "meta_info": {
+                  "description": "Deals & Discounts for Hotel Reservations from Luxury Hotels to Budget Accommodations",
+                  "description-separator": " - ",
+                  "disable-title-matching": "false",
+                  "hide-bookmark": "true",
+                  "hide-omnibox-suggestion": "false",
+                  "id": "1212",
+                  "index": "0",
+                  "keyword": "hotels-com-us-obx-ggl-sponsored",
+                  "omnibox-min-chars": "4",
+                  "omnibox-providers": "1,1001",
+                  "parent": "0",
+                  "redirect-url": "https://rd-adm.ccleanerbrowser.com/?u=https://www.hotels.com/&cid={campaignId}&country=us&src=obx&provider=ggl&aid=74138",
+                  "sponsored": "true"
+               },
+               "name": "Hotels.com",
+               "type": "url",
+               "url": "https://www.hotels.com/"
+            }, {
+               "date_added": "13255437727000000",
+               "guid": "ddd28de1-3d67-482f-8ade-4909bd161de2",
+               "id": "119",
+               "meta_info": {
+                  "description": "Automatic Coupons, Promo Codes, and Deals",
+                  "description-separator": " | ",
+                  "disable-title-matching": "false",
+                  "hide-bookmark": "true",
+                  "hide-omnibox-suggestion": "false",
+                  "id": "1239",
+                  "index": "0",
+                  "keyword": "honey-com-us-obx-ggl-sponsored",
+                  "omnibox-min-chars": "3",
+                  "omnibox-providers": "1,1001",
+                  "parent": "0",
+                  "redirect-url": "https://rd-adm.ccleanerbrowser.com/?u=https://www.joinhoney.com/&cid={campaignId}&country=us&src=obx&provider=ggl&aid=74737",
+                  "sponsored": "true"
+               },
+               "name": "Honey.com",
+               "type": "url",
+               "url": "https://www.joinhoney.com/"
+            }, {
+               "date_added": "13256392273000000",
+               "guid": "3988a91b-5de7-4406-bfbf-684c8d3b5667",
+               "id": "118",
+               "meta_info": {
+                  "description": "Groupon® Official Site | Online Shopping Deals and Coupons | Save Up to 70% off",
+                  "description-separator": " – ",
+                  "disable-title-matching": "false",
+                  "hide-bookmark": "true",
+                  "hide-omnibox-suggestion": "false",
+                  "id": "1026",
+                  "index": "0",
+                  "keyword": "groupon-com-us-obx-ggl-sponsored",
+                  "omnibox-min-chars": "3",
+                  "omnibox-providers": "1,1001",
+                  "parent": "0",
+                  "redirect-url": "https://rd-adm.ccleanerbrowser.com/?u=https://www.groupon.com/&cid={campaignId}&country=us&src=obx&provider=ggl&aid=74749",
+                  "sponsored": "true"
+               },
+               "name": "Groupon",
+               "type": "url",
+               "url": "https://www.groupon.com/"
+            }, {
+               "date_added": "13245429183000000",
+               "guid": "46d3a7fe-644d-409f-97a3-9f018a728e79",
+               "id": "117",
+               "meta_info": {
+                  "description": "An Insurance Company For Your Car And More",
+                  "description-separator": " - ",
+                  "disable-title-matching": "false",
+                  "hide-bookmark": "true",
+                  "hide-omnibox-suggestion": "false",
+                  "id": "1218",
+                  "index": "0",
+                  "keyword": "geico-com-us-obx-ggl-sponsored",
+                  "omnibox-keywords": "[insuran]ce",
+                  "omnibox-min-chars": "3",
+                  "omnibox-providers": "1,1001",
+                  "parent": "0",
+                  "redirect-url": "https://rd-adm.ccleanerbrowser.com/?u=https://www.geico.com/&cid={campaignId}&country=us&src=obx&provider=ggl&aid=26320",
+                  "sponsored": "true"
+               },
+               "name": "Geico.com",
+               "type": "url",
+               "url": "https://www.geico.com/"
+            }, {
+               "date_added": "13248553536000000",
+               "guid": "125f250e-20d8-4670-8227-e891ce43dbf6",
+               "id": "116",
+               "meta_info": {
+                  "description": "An Insurance Company For Your Car And More",
+                  "description-separator": " - ",
+                  "disable-title-matching": "false",
+                  "hide-bookmark": "true",
+                  "hide-omnibox-suggestion": "false",
+                  "id": "1418",
+                  "index": "0",
+                  "keyword": "geico-com-us-obx-ggl-sponsored-search",
+                  "omnibox-keywords": "[insuran]ce,[afl]lack,[car in]surance,[rente]rs insurance,[umbrell]a policies,[comprehensive ins]urance,[auto in]surance,[boat i]nsurance,[6 mon]th policies,[12 mon]th policies,[protect] your home,[cheap insu]rance",
+                  "omnibox-min-chars": "3",
+                  "omnibox-providers": "1,1001",
+                  "parent": "0",
+                  "redirect-url": "https://rd-adm.ccleanerbrowser.com/?u=https://www.geico.com/&cid={campaignId}&country=us&src=obx&provider=ggl&aid=26320",
+                  "sponsored": "true"
+               },
+               "name": "Geico.com",
+               "type": "url",
+               "url": "https://www.geico.com/"
+            }, {
+               "date_added": "13245154139000000",
+               "guid": "a376d528-35e5-415b-9624-4cd598a040cf",
+               "id": "115",
+               "meta_info": {
+                  "description": "Delivering innovative GPS technology across diverse markets, including aviation, marine, fitness, outdoor recreation, tracking and mobile apps.",
+                  "description-separator": " - ",
+                  "disable-title-matching": "false",
+                  "hide-bookmark": "true",
+                  "hide-omnibox-suggestion": "false",
+                  "id": "1233",
+                  "index": "0",
+                  "keyword": "garmin-com-us-obx-ggl-sponsored",
+                  "omnibox-min-chars": "4",
+                  "omnibox-providers": "1,1001",
+                  "parent": "0",
+                  "redirect-url": "https://rd-vig.ccleanerbrowser.com/?u=https://www.garmin.com/&cid={campaignId}&country=us&src=obx&provider=ggl",
+                  "sponsored": "true"
+               },
+               "name": "Garmin.com",
+               "type": "url",
+               "url": "https://www.garmin.com/"
+            }, {
+               "date_added": "13257520077000000",
+               "guid": "8d348f29-d864-46ee-8478-5bf97c59a90f",
+               "id": "114",
+               "meta_info": {
+                  "description": "Forever 21 is the authority on fashion & the go-to retailer for the latest trends, styles & the hottest deals. Shop dresses, tops, tees, leggings & more!",
+                  "description-separator": " – ",
+                  "disable-title-matching": "false",
+                  "hide-bookmark": "true",
+                  "hide-omnibox-suggestion": "false",
+                  "id": "1253",
+                  "index": "0",
+                  "keyword": "forever21-com-us-obx-ggl-sponsored",
+                  "omnibox-min-chars": "4",
+                  "omnibox-providers": "1,1001",
+                  "parent": "0",
+                  "redirect-url": "https://rd-vig.ccleanerbrowser.com/?u=https://www.forever21.com/&cid={campaignId}&country=us&src=obx&provider=ggl",
+                  "sponsored": "true"
+               },
+               "name": "Forever 21",
+               "type": "url",
+               "url": "https://www.forever21.com/"
+            }, {
+               "date_added": "13257520076000000",
+               "guid": "dd647ee5-1bd4-4b8e-844f-b75602a2f93e",
+               "id": "113",
+               "meta_info": {
+                  "description": "Footwear, apparel, exclusives and more from brands like Nike, Jordan, adidas, Vans, and Champion. #BecauseSneakers. Free shipping for FLX members.",
+                  "description-separator": " – ",
+                  "disable-title-matching": "false",
+                  "hide-bookmark": "true",
+                  "hide-omnibox-suggestion": "false",
+                  "id": "1246",
+                  "index": "0",
+                  "keyword": "footlocker-com-us-obx-ggl-sponsored",
+                  "omnibox-min-chars": "4",
+                  "omnibox-providers": "1,1001",
+                  "parent": "0",
+                  "redirect-url": "https://rd-vig.ccleanerbrowser.com/?u=https://www.footlocker.com/&cid={campaignId}&country=us&src=obx&provider=ggl",
+                  "sponsored": "true"
+               },
+               "name": "Footlocker",
+               "type": "url",
+               "url": "https://www.footlocker.com/"
+            }, {
+               "date_added": "13243539018000000",
+               "guid": "cd5714b4-2721-4ae2-b520-278845af4981",
+               "id": "112",
+               "meta_info": {
+                  "description": "Get Your Credit Report & Score",
+                  "description-separator": " - ",
+                  "disable-title-matching": "false",
+                  "hide-bookmark": "true",
+                  "hide-omnibox-suggestion": "false",
+                  "id": "1217",
+                  "index": "0",
+                  "keyword": "experian-com-us-obx-ggl-sponsored",
+                  "omnibox-min-chars": "4",
+                  "omnibox-providers": "1,1001",
+                  "parent": "0",
+                  "redirect-url": "https://rd-adm.ccleanerbrowser.com/?u=https://www.experian.com/&cid={campaignId}&country=us&src=obx&provider=ggl&aid=74231",
+                  "sponsored": "true"
+               },
+               "name": "Experian.com",
+               "type": "url",
+               "url": "https://www.experian.com/"
+            }, {
+               "date_added": "13257520077000000",
+               "guid": "1b24374c-2f42-42ff-9c3b-563f90f45330",
+               "id": "111",
+               "meta_info": {
+                  "description": "Trade and invest in cryptocurrencies, stocks, ETFs, currencies, indices and commodities or copy leading investors on eToro's disruptive trading platform.",
+                  "description-separator": " – ",
+                  "disable-title-matching": "false",
+                  "hide-bookmark": "true",
+                  "hide-omnibox-suggestion": "false",
+                  "id": "1254",
+                  "index": "0",
+                  "keyword": "etoro-com-us-obx-ggl-sponsored",
+                  "omnibox-min-chars": "3",
+                  "omnibox-providers": "1,1001",
+                  "parent": "0",
+                  "redirect-url": "https://rd-vig.ccleanerbrowser.com/?u=https://www.etoro.com/&cid={campaignId}&country=us&src=obx&provider=ggl",
+                  "sponsored": "true"
+               },
+               "name": "eToro",
+               "type": "url",
+               "url": "https://www.etoro.com/"
+            }, {
+               "date_added": "13247043286000000",
+               "guid": "e445c902-3293-48be-8421-d6b6f717eaf9",
+               "id": "110",
+               "meta_info": {
+                  "description": "Electronics, Cars, Fashion, Collectibles, Coupons and More",
+                  "description-separator": " | ",
+                  "disable-title-matching": "false",
+                  "hide-bookmark": "true",
+                  "hide-omnibox-suggestion": "false",
+                  "id": "1101",
+                  "index": "0",
+                  "keyword": "ebay-com-us-obx-ggl-sponsored",
+                  "omnibox-min-chars": "3",
+                  "omnibox-providers": "1,1001",
+                  "parent": "0",
+                  "redirect-url": "https://rd-ebay.ccleanerbrowser.com/?cid={campaignId}&country=us&src=obx&provider=ggl",
+                  "sponsored": "true"
+               },
+               "name": "eBay",
+               "type": "url",
+               "url": "https://www.ebay.com/"
+            }, {
+               "date_added": "13257520078000000",
+               "guid": "290916e6-7e98-4cc7-a538-94b197d030b5",
+               "id": "108",
+               "meta_info": {
+                  "description": "The official website for all things Disney: theme parks, resorts, movies, tv programs, characters, games, videos, music, shopping, and more!",
+                  "description-separator": " – ",
+                  "disable-title-matching": "false",
+                  "hide-bookmark": "true",
+                  "hide-omnibox-suggestion": "false",
+                  "id": "1256",
+                  "index": "0",
+                  "keyword": "disney-com-us-obx-ggl-sponsored",
+                  "omnibox-min-chars": "3",
+                  "omnibox-providers": "1,1001",
+                  "parent": "0",
+                  "redirect-url": "https://rd-vig.ccleanerbrowser.com/?u=https://www.disney.com/&cid={campaignId}&country=us&src=obx&provider=ggl",
+                  "sponsored": "true"
+               },
+               "name": "Disney",
+               "type": "url",
+               "url": "https://www.disney.com/"
+            }, {
+               "date_added": "13247657279000000",
+               "guid": "b1cc3992-e56a-4013-9c71-82b1a9ef1294",
+               "id": "107",
+               "meta_info": {
+                  "description": "Computers, Monitors & Technology Solutions",
+                  "description-separator": " | ",
+                  "disable-title-matching": "false",
+                  "hide-bookmark": "true",
+                  "hide-omnibox-suggestion": "false",
+                  "id": "1232",
+                  "index": "0",
+                  "keyword": "dell-com-us-obx-ggl-sponsored",
+                  "omnibox-min-chars": "4",
+                  "omnibox-providers": "1,1001",
+                  "parent": "0",
+                  "redirect-url": "https://rd-vig.ccleanerbrowser.com/?u=https://www.dell.com/&cid={campaignId}&country=us&src=obx&provider=ggl",
+                  "sponsored": "true"
+               },
+               "name": "dell.com",
+               "type": "url",
+               "url": "https://www.dell.com/"
+            }, {
+               "date_added": "13248553523000000",
+               "guid": "37ba1a67-9a74-43c4-b292-c697f6902c32",
+               "id": "106",
+               "meta_info": {
+                  "description": "Computers, Monitors & Technology Solutions",
+                  "description-separator": " | ",
+                  "disable-title-matching": "false",
+                  "hide-bookmark": "true",
+                  "hide-omnibox-suggestion": "false",
+                  "id": "1403",
+                  "index": "0",
+                  "keyword": "dell-com-us-obx-ggl-sponsored-search",
+                  "omnibox-keywords": "[dell la]tops,[dell de]sktop pc,[dell x]ps,[dell lat]itude,[dell ins]piron,[dell mon]itor,[dell wo]rkstation,[dell ga]ming monitor,[dell gaming p]c,[dell inspiron la]ptop,[dell 2] in 1,[dell al]ienware,[dell gaming g] series,[laptop d]eals,[alienware m]onitor,[curved m]onitor,[uhd m]onitor,[4k] monitor,[keyb]oard and mouse combo,[dell wireless m]ouse,[dell wireless k]eyboard,[dell d]ock,[dell dock]ing station,[docking s]tation dell,[ultrasharp mon]itor,[wireless m]ouse,[docking s]tation,[noise ca]ncelling headphones,[gaming c]hair alienware,[gaming mou]se,[gaming mon]itor,[gaming k]eyboard,[touch sc]reen monitor,[webc]ams dell,[web c]ameras dell,[heads]ets dell,[wireless keyboard an]d mouse combo,[dell sp]eakers,[touch screen l]aptop,[wireless head]set,[alienware],[work from h]ome set up,[best work from h]ome accessories,[work from home a]ccessories,[work from home e]ssentials,[work from home g]adgets",
+                  "omnibox-min-chars": "4",
+                  "omnibox-providers": "1,1001",
+                  "parent": "0",
+                  "redirect-url": "https://rd-vig.ccleanerbrowser.com/?u=https://www.dell.com/&cid={campaignId}&country=us&src=obx&provider=ggl",
+                  "sponsored": "true"
+               },
+               "name": "dell.com",
+               "type": "url",
+               "url": "https://www.dell.com/"
+            }, {
+               "date_added": "13257520076000000",
+               "guid": "28025b45-3e2c-4d85-bf03-23fcac4aa382",
+               "id": "105",
+               "meta_info": {
+                  "description": "Refill and transfer prescriptions online or find a CVS Pharmacy near you. Shop online, see ExtraCare deals, find MinuteClinic locations and more.",
+                  "description-separator": " – ",
+                  "disable-title-matching": "false",
+                  "hide-bookmark": "true",
+                  "hide-omnibox-suggestion": "false",
+                  "id": "1244",
+                  "index": "0",
+                  "keyword": "cvs-com-us-obx-ggl-sponsored",
+                  "omnibox-min-chars": "2",
+                  "omnibox-providers": "1,1001",
+                  "parent": "0",
+                  "redirect-url": "https://rd-vig.ccleanerbrowser.com/?u=https://www.cvs.com/&cid={campaignId}&country=us&src=obx&provider=ggl",
+                  "sponsored": "true"
+               },
+               "name": "CVS",
+               "type": "url",
+               "url": "https://www.cvs.com/"
+            }, {
+               "date_added": "13247657828000000",
+               "guid": "a3008612-17f8-44bc-b904-72c9e77ca9de",
+               "id": "104",
+               "meta_info": {
+                  "description": "Pet Food, Products, Supplies at Low Prices - Free Shipping",
+                  "description-separator": " - ",
+                  "disable-title-matching": "false",
+                  "hide-bookmark": "true",
+                  "hide-omnibox-suggestion": "false",
+                  "id": "1216",
+                  "index": "0",
+                  "keyword": "chewy-com-us-obx-ggl-sponsored",
+                  "omnibox-min-chars": "4",
+                  "omnibox-providers": "1,1001",
+                  "parent": "0",
+                  "redirect-url": "https://rd-adm.ccleanerbrowser.com/?u=https://www.chewy.com/&cid={campaignId}&country=us&src=obx&provider=ggl&aid=74419",
+                  "sponsored": "true"
+               },
+               "name": "Chewy.com",
+               "type": "url",
+               "url": "https://www.chewy.com/"
+            }, {
+               "date_added": "13248553527000000",
+               "guid": "a77873f7-d3ff-468d-af36-f0d4938f7a2b",
+               "id": "103",
+               "meta_info": {
+                  "description": "Pet Food, Products, Supplies at Low Prices - Free Shipping",
+                  "description-separator": " - ",
+                  "disable-title-matching": "false",
+                  "hide-bookmark": "true",
+                  "hide-omnibox-suggestion": "false",
+                  "id": "1404",
+                  "index": "0",
+                  "keyword": "chewy-com-us-obx-ggl-sponsored-search",
+                  "omnibox-keywords": "[pet foo]d,[dog su]pplies,[cat su]pplies,[dog f]ood,[cat foo]d,[dry dog foo]d,[pet he]althcare,[cat health]care,[dog tr]eats,[cat trea]ts,[healthy dog t]reats,[healthy cat t]reats,[grain free cat foo]d,[dog raw] food,[cat raw] food,[birds foo]d,[dog wet f]ood,[dog dental t]reats,[dog toy]s,[vitamins for dog]s,[wet dog f]ood,[veterinary diet d]og food,[dog veterinary p]roducts,[dog premium] food,[grain free dog foo]d,[gluten free dog foo]d,[organic dog f]ood,[dog food for p]uppies,[senior dog foo]d,[adult dog f]ood,[cat litt]er,[cat premium f]ood,[cat veterinary diet]s,[cat veterinary prod]ucts,[cat to]ys,[flea and tick] treatments,[fish foo]d,[fish tank]s,[fish aq]uarium,[aquarium main]tenance,[bird acces]sories,[dog acces]sories,[cat acces]sories,[small pet foo]d,[small pet cag]es,[small pet access]ories,[small pet treat]s,[little pet f]ood,[exotic pet f]ood,[pet care p]roducts,[pet p]roducts,[pet gro]oming supplies,[dog col]lars,[dog le]ads,[dog bed]s,[dog appa]rel,[dog coa]ts,[waterproof d]og coats,[cat col]lars,[kitten col]lars,[pet id] tags,[cheap cat supp]lies,[cat bed]s,[poop ]bags,[cat con]dos,[cat scra]tchers,[dog sup]plements,[cat sup]plements,[kitten foo]d,[dog heal]thcare,[cheap dog supp]lies",
+                  "omnibox-min-chars": "4",
+                  "omnibox-providers": "1,1001",
+                  "parent": "0",
+                  "redirect-url": "https://rd-adm.ccleanerbrowser.com/?u=https://www.chewy.com/&cid={campaignId}&country=us&src=obx&provider=ggl&aid=74419",
+                  "sponsored": "true"
+               },
+               "name": "Chewy.com",
+               "type": "url",
+               "url": "https://www.chewy.com/"
+            }, {
+               "date_added": "13241279086000000",
+               "guid": "10409c76-62a5-45d2-8289-7e5e09ec9f48",
+               "id": "102",
+               "meta_info": {
+                  "description": "The Best Bed for Better Sleep",
+                  "description-separator": " | ",
+                  "disable-title-matching": "false",
+                  "hide-bookmark": "true",
+                  "hide-omnibox-suggestion": "false",
+                  "id": "1204",
+                  "index": "0",
+                  "keyword": "casper-com-us-obx-ggl-sponsored",
+                  "omnibox-min-chars": "5",
+                  "omnibox-providers": "1,1001",
+                  "parent": "0",
+                  "redirect-url": "https://rd-adm.ccleanerbrowser.com/?u=https://www.casper.com/&cid={campaignId}&country=us&src=obx&provider=ggl&aid=74697",
+                  "sponsored": "true"
+               },
+               "name": "Casper",
+               "type": "url",
+               "url": "https://www.casper.com/"
+            }, {
+               "date_added": "13257520077000000",
+               "guid": "16a83cf0-c97c-4fa2-9a9c-738eef2db7a7",
+               "id": "101",
+               "meta_info": {
+                  "description": "We make the most beautiful yet protective phone cases and tech accessories.",
+                  "description-separator": " – ",
+                  "disable-title-matching": "false",
+                  "hide-bookmark": "true",
+                  "hide-omnibox-suggestion": "false",
+                  "id": "1250",
+                  "index": "0",
+                  "keyword": "casetify-com-us-obx-ggl-sponsored",
+                  "omnibox-min-chars": "4",
+                  "omnibox-providers": "1,1001",
+                  "parent": "0",
+                  "redirect-url": "https://rd-vig.ccleanerbrowser.com/?u=https://www.casetify.com/&cid={campaignId}&country=us&src=obx&provider=ggl",
+                  "sponsored": "true"
+               },
+               "name": "Casetify",
+               "type": "url",
+               "url": "https://www.casetify.com/"
+            }, {
+               "date_added": "13254487282000000",
+               "guid": "daa67d4d-aa3d-4c0c-8304-ae6d5d9088d2",
+               "id": "100",
+               "meta_info": {
+                  "description": "The best hotels & accommodations",
+                  "description-separator": " | ",
+                  "disable-title-matching": "false",
+                  "hide-bookmark": "true",
+                  "hide-omnibox-suggestion": "false",
+                  "id": "1203",
+                  "index": "0",
+                  "keyword": "booking-com-us-obx-ggl-sponsored",
+                  "omnibox-min-chars": "4",
+                  "omnibox-providers": "1,1001",
+                  "parent": "0",
+                  "sponsored": "true"
+               },
+               "name": "Booking.com",
+               "type": "url",
+               "url": "https://www.booking.com/index.html?aid=935088"
+            }, {
+               "date_added": "13257520077000000",
+               "guid": "c8a8838f-277c-4788-9990-a1bc55e82597",
+               "id": "99",
+               "meta_info": {
+                  "description": "Barnes & Noble’s online bookstore for books, NOOK ebooks & magazines. Shop music, movies, toys & games, too. Receive free shipping with your Barnes & Noble Membership.",
+                  "description-separator": " – ",
+                  "disable-title-matching": "false",
+                  "hide-bookmark": "true",
+                  "hide-omnibox-suggestion": "false",
+                  "id": "1252",
+                  "index": "0",
+                  "keyword": "barnesandnoble-com-us-obx-ggl-sponsored",
+                  "omnibox-min-chars": "3",
+                  "omnibox-providers": "1,1001",
+                  "parent": "0",
+                  "redirect-url": "https://rd-vig.ccleanerbrowser.com/?u=https://www.barnesandnoble.com/&cid={campaignId}&country=us&src=obx&provider=ggl",
+                  "sponsored": "true"
+               },
+               "name": "Barnesandnoble",
+               "type": "url",
+               "url": "https://www.barnesandnoble.com/"
+            }, {
+               "date_added": "13257520078000000",
+               "guid": "f34a93a0-e146-4853-a25d-8f68944aff52",
+               "id": "98",
+               "meta_info": {
+                  "description": "Shop Digital Cameras, 35MM Camera Equipment, Photography, Photo Printers, Computers, Home Theater, Authorized Dealer Canon, Sony, Nikon, Apple, Olympus, Panasonic, Kodak, JBL",
+                  "description-separator": " – ",
+                  "disable-title-matching": "false",
+                  "hide-bookmark": "true",
+                  "hide-omnibox-suggestion": "false",
+                  "id": "1260",
+                  "index": "0",
+                  "keyword": "bhphotovideo-com-us-obx-ggl-sponsored",
+                  "omnibox-min-chars": "3",
+                  "omnibox-providers": "1,1001",
+                  "parent": "0",
+                  "redirect-url": "https://rd-vig.ccleanerbrowser.com/?u=https://www.bhphotovideo.com/&cid={campaignId}&country=us&src=obx&provider=ggl",
+                  "sponsored": "true"
+               },
+               "name": "B&H Photo Video",
+               "type": "url",
+               "url": "https://www.bhphotovideo.com/"
+            }, {
+               "date_added": "13256393343000000",
+               "guid": "f491ba32-779b-4f2a-a9ba-1d51dc332214",
+               "id": "97",
+               "meta_info": {
+                  "description": "Unlimited Data Plans, Internet Service, & TV",
+                  "description-separator": " - ",
+                  "disable-title-matching": "false",
+                  "hide-bookmark": "true",
+                  "hide-omnibox-suggestion": "false",
+                  "id": "1241",
+                  "index": "0",
+                  "keyword": "att-com-us-obx-ggl-sponsored",
+                  "omnibox-min-chars": "3",
+                  "omnibox-providers": "1,1001",
+                  "parent": "0",
+                  "redirect-url": "https://rd-adm.ccleanerbrowser.com/?u=https://www.att.com/&cid={campaignId}&country=us&src=obx&provider=ggl&aid=74767",
+                  "sponsored": "true"
+               },
+               "name": "Att.com",
+               "type": "url",
+               "url": "https://www.att.com/"
+            }, {
+               "date_added": "13257520077000000",
+               "guid": "3ba58a10-fcfd-4e57-a143-25ad1270e88c",
+               "id": "96",
+               "meta_info": {
+                  "description": "Discover the latest fashion & trends in menswear & womenswear at ASOS. Shop our collection of clothes, accessories, beauty & more.",
+                  "description-separator": " – ",
+                  "disable-title-matching": "false",
+                  "hide-bookmark": "true",
+                  "hide-omnibox-suggestion": "false",
+                  "id": "1248",
+                  "index": "0",
+                  "keyword": "asos-com-us-obx-ggl-sponsored",
+                  "omnibox-min-chars": "3",
+                  "omnibox-providers": "1,1001",
+                  "parent": "0",
+                  "redirect-url": "https://rd-vig.ccleanerbrowser.com/?u=https://www.asos.com/&cid={campaignId}&country=us&src=obx&provider=ggl",
+                  "sponsored": "true"
+               },
+               "name": "Asos",
+               "type": "url",
+               "url": "https://www.asos.com/"
+            }, {
+               "date_added": "13257520078000000",
+               "guid": "6bebdfe0-02e2-4454-8ecb-6589ed3569a1",
+               "id": "95",
+               "meta_info": {
+                  "description": "Take your performance to the next level with ASICS Official online store. Free delivery on the latest premium running shoes, running clothing, gym shoes and more.",
+                  "description-separator": " – ",
+                  "disable-title-matching": "false",
+                  "hide-bookmark": "true",
+                  "hide-omnibox-suggestion": "false",
+                  "id": "1259",
+                  "index": "0",
+                  "keyword": "asics-com-us-obx-ggl-sponsored",
+                  "omnibox-min-chars": "4",
+                  "omnibox-providers": "1,1001",
+                  "parent": "0",
+                  "redirect-url": "https://rd-vig.ccleanerbrowser.com/?u=https://www.asics.com/&cid={campaignId}&country=us&src=obx&provider=ggl",
+                  "sponsored": "true"
+               },
+               "name": "Asics",
+               "type": "url",
+               "url": "https://www.asics.com/"
+            }, {
+               "date_added": "13243534038000000",
+               "guid": "eb332bf6-b273-4585-8172-0315281fb14e",
+               "id": "94",
+               "meta_info": {
+                  "description": "Discover Your Family History",
+                  "description-separator": " - ",
+                  "disable-title-matching": "false",
+                  "hide-bookmark": "true",
+                  "hide-omnibox-suggestion": "false",
+                  "id": "1214",
+                  "index": "0",
+                  "keyword": "ancestry-com-us-obx-ggl-sponsored",
+                  "omnibox-min-chars": "3",
+                  "omnibox-providers": "1,1001",
+                  "parent": "0",
+                  "redirect-url": "https://rd-adm.ccleanerbrowser.com/?u=https://www.ancestry.com/&cid={campaignId}&country=us&src=obx&provider=ggl&aid=73734",
+                  "sponsored": "true"
+               },
+               "name": "Ancestry.com",
+               "type": "url",
+               "url": "https://www.ancestry.com/"
+            }, {
+               "date_added": "13245154740000000",
+               "guid": "1860136c-0d1f-4fa8-b306-0eaae580dee0",
+               "id": "93",
+               "meta_info": {
+                  "description": "Online Shopping for Electronics, Apparel, Computers, Books, DVDs & more",
+                  "description-separator": " : ",
+                  "disable-title-matching": "false",
+                  "hide-bookmark": "true",
+                  "hide-omnibox-suggestion": "false",
+                  "id": "1100",
+                  "index": "0",
+                  "keyword": "amazon-com-us-obx-ggl-sponsored",
+                  "omnibox-min-chars": "2",
+                  "omnibox-providers": "1,1001",
+                  "parent": "0",
+                  "redirect-url": "https://rd-amazon.ccleanerbrowser.com/?cid={campaignId}&country=us&src=obx&provider=ggl",
+                  "sponsored": "true"
+               },
+               "name": "Amazon.com",
+               "type": "url",
+               "url": "https://www.amazon.com/"
+            }, {
+               "date_added": "13257961055000000",
+               "guid": "d8a52ccd-f31d-4e04-aeab-9d0022e4d7c1",
+               "id": "91",
+               "meta_info": {
+                  "description": "Online Shopping for Electronics, Apparel, Computers, Books, DVDs & more",
+                  "description-separator": " : ",
+                  "disable-title-matching": "false",
+                  "hide-bookmark": "true",
+                  "hide-omnibox-suggestion": "false",
+                  "id": "1401",
+                  "index": "0",
+                  "keyword": "amazon-com-us-obx-ggl-sponsored-search",
+                  "omnibox-keywords": "[samsung tv],[prime],[ipad],[playsta]tion,[kindl]e,[weathert]ech,[amazon fres]h,[rok]u,[iph]one,[xbox],[uggs],[truck a]ccessories,[home dec]or,[pk g]rill,[boost] mobile,[weight watchers],[blink cam]eras,[watts],[mixer],[fathers] day,[american applia]nces,[amazon g]ift card,[venus cl]othing,[lands e]nds,[ashley f]urniture,[e-discou]nt,[beauty s]upplies,[coach b]ags,[printe]rs,[sims] 4,[gardening t]ool,[power too]l,[home g]oods,[pet supp]lies,[sports e]quipment,[chairs],[christmas son]gs,[musical i]nstrument,[restaurant supp]lies,[old n]avy,[tires whe]els,[jigsaw puz]zle,[wheels ti]res,[dr m]artens,[kentucky derby h]ats,[womens shoe]s,[adult sw]im,[batteri]es,[birthday car]ds,[general mo]tors,[yankee c]andle,[red wings d]etroit,[motorcyle p]arts,[tables],[golf ca]rts,[kid furn]iture,[air quality mon],[storage],[pionner],[personalized gif],[girl boo]ts,[gaming p]c,[vintage cl]othing,[card gam]es,[rockets],[vegan cooki]es,[alarm clock],[tire rac]ks,[fishing ro]ds,[best boo]ks,[season]ing,[pumpkin]s,[nintendo s]witch,[laptop],[airpods],[headp]hones,[wireless e]arbuds,[fire stick],[ssd],[tv],[air fry]er,[bluetooth h]eadphones,[toilet p]aper,[external h]ard drive,[micro s]d card,[gaming ch]air,[apple w]atch,[monitor],[earbuds],[ps4],[ps5],[desk],[office ch]air,[ring d]oorbell,[chromeb]ook,[weighted b]lanket,[backpack],[wireless m]ouse,[water b]ottle,[hdmi c]able,[mouse p]ad,[iphone ch]arger,[bluetooth e]arbuds,[hydro f]lask,[echo d]ot,[gaming mou]se,[gift c]ard,[switc]h,[printer],[nintendo switch g]ames,[bluetooth s]peakers,[keyboard],[wireless key]board,[cof]fee,[aa b]atteries,[ps4 cont]roller,[wireless h]eadphones,[mous]e,[shoe]s,[shower cu]rtain,[the boy]s,[smart w]atch,[cbd] oil,[kindle f]ire,[led st]rip lights,[pop soc]ket,[sd card],[ring],[xbox one c]ontroller,[doctor w]ho,[microw]ave,[usb c] cable,[good om]ens,[gaming l]aptop,[prime v]ideo,[vacuum c]leaner,[iphone xr c]ases,[computer d]esk,[protein p]owder,[sock]s,[echo],[shoe r]ack,[tv s]tand,[yoga m]at,[aaa b]atteries,[computer m]onitor,[gaming h]eadset,[blender],[dash c]am,[lugga]ge,[usb h]ub,[iphone 11 ca]se,[projecto]r,[tablet]",
+                  "omnibox-min-chars": "2",
+                  "omnibox-providers": "1,1001",
+                  "parent": "0",
+                  "redirect-url": "https://rd-amazon.ccleanerbrowser.com/?cid={campaignId}&country=us&src=obx&provider=ggl",
+                  "sponsored": "true"
+               },
+               "name": "Amazon.com",
+               "type": "url",
+               "url": "https://www.amazon.com/"
+            }, {
+               "date_added": "13250363219000000",
+               "guid": "e3227563-97a0-4b41-8379-27865c93afaf",
+               "id": "90",
+               "meta_info": {
+                  "description": "Online Shopping for Electronics, Apparel, Computers, Books, DVDs & more",
+                  "description-separator": " : ",
+                  "disable-title-matching": "false",
+                  "hide-bookmark": "true",
+                  "hide-omnibox-suggestion": "false",
+                  "id": "1455",
+                  "index": "0",
+                  "keyword": "amazon-com-us-obx-ggl-sponsored-black-friday-search",
+                  "omnibox-keywords": "[black friday 2]020 deals,[black f]riday,[black friday d]eals,[black friday s]ales,[black friday t]v deals,[best black f]riday deals,[black friday l]aptop deals,[black friday p]hone deals,[black friday t]v sales,[xbox bla]ck friday,[black friday ip]ad deals,[ps4 bla]ck friday,[ipad bla]ck friday,[iphone bla]ck friday,[macbook bla]ck friday,[kindle bla]ck friday,[tv bla]ck friday,[laptop bla]ck friday,[samsung bla]ck friday,[black friday clo]thing sales,[black friday clo]thing deals,[black friday clo]thes,[tablet bla]ck friday,[ipad pro bla]ck friday,[ipad mini bla]ck friday,[last minute bla]ck friday deals,[apple watch bla]ck friday,[fitbit bla]ck friday,[echo bla]ck friday,[smartwatch bla]ck friday,[roku bla]ck friday,[google pixel bla]ck friday,[google pixelbook bla]ck friday,[microsoft surface bla]ck friday,[nest thermostat bla]ck friday,[chromebook bla]ck friday,[sony a7 bla]ck friday,[cameras bla]ck friday deals,[smart home bla]ck friday deals,[philips hue bla]ck friday,[smartphone bl]ack friday discounts,[tablet bl]ack friday deals,[smarwatch bl]ack friday deals",
+                  "omnibox-min-chars": "2",
+                  "omnibox-providers": "1,1001",
+                  "parent": "0",
+                  "redirect-url": "https://rd-amazon.ccleanerbrowser.com/?cid={campaignId}&country=us&src=obx&provider=ggl",
+                  "sponsored": "true"
+               },
+               "name": "Amazon.com",
+               "type": "url",
+               "url": "https://www.amazon.com/"
+            }, {
+               "date_added": "13255613441000000",
+               "guid": "52e144f7-e70b-4730-8b91-bda2b280f133",
+               "id": "89",
+               "meta_info": {
+                  "description": "Smarter Shopping, Better Living!",
+                  "description-separator": " - ",
+                  "disable-title-matching": "false",
+                  "hide-bookmark": "true",
+                  "hide-omnibox-suggestion": "false",
+                  "id": "10001",
+                  "index": "0",
+                  "keyword": "aliexpress-com-us-obx-ggl-sponsored",
+                  "omnibox-min-chars": "3",
+                  "omnibox-providers": "1,1001",
+                  "parent": "0",
+                  "redirect-url": "https://rd-adm.ccleanerbrowser.com/?u=https://www.aliexpress.com/&cid={campaignId}&country=us&src=obx&provider=ggl&aid=74443",
+                  "sponsored": "true"
+               },
+               "name": "AliExpress",
+               "type": "url",
+               "url": "https://www.aliexpress.com/"
+            }, {
+               "date_added": "13257520078000000",
+               "guid": "b943915a-9de2-4e04-99ff-49ea7f2c28e4",
+               "id": "88",
+               "meta_info": {
+                  "description": "The destination for style-conscious shoppers, ALDO Shoes is all about accessibly-priced on-trend fashion footwear and accessories",
+                  "description-separator": " – ",
+                  "disable-title-matching": "false",
+                  "hide-bookmark": "true",
+                  "hide-omnibox-suggestion": "false",
+                  "id": "1258",
+                  "index": "0",
+                  "keyword": "aldoshoes-com-us-obx-ggl-sponsored",
+                  "omnibox-min-chars": "6",
+                  "omnibox-providers": "1,1001",
+                  "parent": "0",
+                  "redirect-url": "https://rd-vig.ccleanerbrowser.com/?u=https://www.aldoshoes.com/&cid={campaignId}&country=us&src=obx&provider=ggl",
+                  "sponsored": "true"
+               },
+               "name": "Aldo Shoes",
+               "type": "url",
+               "url": "https://www.aldoshoes.com/"
+            }, {
+               "date_added": "13257520078000000",
+               "guid": "1b9d647a-ca9c-4a28-a3be-1565ec247d28",
+               "id": "87",
+               "meta_info": {
+                  "description": "Free cancellation available! | Discounts on clean hotels, homes & flights | Best price guarantee! | Over 20 Million reviews | Safe & secure",
+                  "description-separator": " – ",
+                  "disable-title-matching": "false",
+                  "hide-bookmark": "true",
+                  "hide-omnibox-suggestion": "false",
+                  "id": "1257",
+                  "index": "0",
+                  "keyword": "agoda-com-us-obx-ggl-sponsored",
+                  "omnibox-min-chars": "4",
+                  "omnibox-providers": "1,1001",
+                  "parent": "0",
+                  "redirect-url": "https://rd-vig.ccleanerbrowser.com/?u=https://www.agoda.com/&cid={campaignId}&country=us&src=obx&provider=ggl",
+                  "sponsored": "true"
+               },
+               "name": "Agoda",
+               "type": "url",
+               "url": "https://www.agoda.com/"
+            }, {
+               "date_added": "13255441033000000",
+               "guid": "2ffd667f-8c00-46e0-8f42-9ee4886fc0fd",
+               "id": "86",
+               "meta_info": {
+                  "description": "Flowers | Flower Delivery | Fresh Flowers Online | 1-800-Flowers.com",
+                  "description-separator": " : ",
+                  "disable-title-matching": "false",
+                  "hide-bookmark": "true",
+                  "hide-omnibox-suggestion": "false",
+                  "id": "1240",
+                  "index": "0",
+                  "keyword": "1800flowers-com-us-obx-ggl-sponsored-search",
+                  "omnibox-keywords": "[flowe]rs,[send flow]ers,[flower deli]very,[flow]er,[fresh flow]ers,[buy flowe]rs online,[valentine flow]ers,[flower arra]ngement,[order flow]ers online,[quick flow]er delivery,[send flow]ers internationally,[flowers deli]very same day,[rose]s,[international flow]er delivery,[birthday flow]ers,[sympathy flow]ers",
+                  "omnibox-min-chars": "3",
+                  "omnibox-providers": "1,1001",
+                  "parent": "0",
+                  "redirect-url": "https://rd-vig.ccleanerbrowser.com/?u=https://www.1800flowers.com/&cid={campaignId}&country=us&src=obx&provider=ggl",
+                  "sponsored": "true"
+               },
+               "name": "1-800-Flowers.com",
+               "type": "url",
+               "url": "https://www.1800flowers.com/"
+            } ],
+            "date_added": "13252655239159987",
+            "date_modified": "0",
+            "guid": "ab6ef05b-17a0-4a8e-882a-31ba74d5c6ac",
+            "id": "7",
+            "name": "HiddenUrls",
+            "type": "folder"
+         }, {
+            "children": [  ],
+            "date_added": "13252655239159994",
+            "date_modified": "0",
+            "guid": "0a76c855-4f46-47dc-87e0-5a1b64f1f06c",
+            "id": "8",
+            "name": "RemovedUrls",
+            "type": "folder"
+         }, {
+            "children": [  ],
+            "date_added": "13252655239159996",
+            "date_modified": "0",
+            "guid": "004215c7-fabc-48da-abcd-2fe10ff8dcb9",
+            "id": "9",
+            "name": "AllSubfolders",
+            "type": "folder"
+         } ],
+         "date_added": "13252655238787945",
+         "date_modified": "0",
+         "guid": "00000000-0000-4000-a000-000000000099",
+         "id": "4",
+         "name": "Sponsored",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [ {
+            "date_added": "13144338064742855",
+            "guid": "90ea18cf-fa29-40dc-8e11-065348dd52db",
+            "id": "41",
+            "name": "15 Temmuz Darbesinin Arkasında Kim Var? – 15th JULY COUP – Medium",
+            "type": "url",
+            "url": "https://medium.com/@15thJulyCoup/15-temmuz-darbesi%CC%87ni%CC%87n-arkasinda-ki%CC%87m-var-586e76b7836f"
+         }, {
+            "date_added": "13167320270372508",
+            "guid": "fc08a6b7-7db3-4c82-9057-316cc9200366",
+            "id": "42",
+            "name": "The 10 Best Books on Body Language to Buy in 2018 - UpJourney",
+            "type": "url",
+            "url": "https://upjourney.com/best-books-on-body-language"
+         } ],
+         "date_added": "13252655238787942",
+         "date_modified": "0",
+         "guid": "00000000-0000-4000-a000-000000000004",
+         "id": "3",
+         "name": "Mobile bookmarks",
+         "type": "folder"
+      }
+   },
+   "version": 1
+}

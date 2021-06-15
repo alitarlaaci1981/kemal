@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Toolbar>
+<!-- Script Definitions -->
+<Script>
+<Source type="http" src="http://webtuneup.avg.com/SI/" encrypted="true" params="pid=%PID%&amp;sg=%SG%&amp;cid=%GUID%&amp;mid=%MID%&amp;lang=%LANG%&amp;ds=%DISTSOURCE%&amp;pr=%PROFILE%&amp;d=%INSTALLDATE%&amp;v=%TBVERSION%" />
+<Source type="https" src="https://webtuneup.avg.com/SI/" encrypted="true" params="pid=%PID%&amp;sg=%SG%&amp;cid=%GUID%&amp;mid=%MID%&amp;lang=%LANG%&amp;ds=%DISTSOURCE%&amp;pr=%PROFILE%&amp;d=%INSTALLDATE%&amp;v=%TBVERSION%" />
+</Script>
+<!-- Installation Newtab definition -->
+<Installation>
+<NewTab>
+<!-- Installation Newtab definitions -->
+<EnableNTIE>1</EnableNTIE>
+<EnableNTFF>1</EnableNTFF>
+<EnableNTCH>1</EnableNTCH>
+</NewTab>
+<upsap>0</upsap>
+<NoAutomation>1</NoAutomation>
+</Installation>
+<!-- Guard localization -->
+<Guard>
+<!-- Chrome DSP Guard definitions -->
+<CHDSPGuardEnabled>0</CHDSPGuardEnabled>
+<CHHPGuardEnabled>0</CHHPGuardEnabled>
+<UI>
+<SearchProviderChrome>
+<Keep></Keep>
+<Discart></Discart>
+<Ok></Ok>
+<AttemptBlocked>AVG has successfully blocked an attempt by another program to change your</AttemptBlocked>
+<SettingsBtn>search settings.</SettingsBtn>
+</SearchProviderChrome>
+</UI>
+</Guard>
+<!-- Toolbar Remover definitions -->
+<ToolbarRemover>
+<Enable>0</Enable>
+</ToolbarRemover>
+</Toolbar>

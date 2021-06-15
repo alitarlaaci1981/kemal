@@ -1,0 +1,28 @@
+{
+   "appDescription": {
+      "message": "Verbergt uw browservingerafdruk en gaat online-tracking tegen"
+   },
+   "appName": {
+      "message": "Bescherming tegen fingerprinting"
+   },
+   "popupStatusDisabled": {
+      "description": "Popup label shown when afp is disabled for current website",
+      "message": "Bescherming tegen fingerprinting is uitgeschakeld op deze website"
+   },
+   "popupStatusEnabled": {
+      "description": "Popup label shown when afp is enabled for current website",
+      "message": "Bescherming tegen fingerprinting is ingeschakeld op deze website"
+   },
+   "popupTotalFingerprintsAttemptsDetected": {
+      "description": "Popup total fingerprints attempts detected label",
+      "message": "Totaal aantal gedetecteerde pogingen tot fingerprinting"
+   },
+   "settingsAdvanced": {
+      "description": "Settings page title",
+      "message": "Geavanceerde instellingen voor Bescherming tegen fingerprinting"
+   },
+   "settingsSocialMediaLoginDetectionPrevention": {
+      "description": "Settings page social media login detection prevention title",
+      "message": "Detectie van aanmelding bij sociale media voorkomen"
+   }
+}

@@ -1,0 +1,863 @@
+{
+   "1pApplyChanges": {
+      "message": "تطبيق التغييرات"
+   },
+   "1pExport": {
+      "message": "تصدير"
+   },
+   "1pFormatHint": {
+      "message": "عامل تصفية واحد لكل سطر. يُمكن أن يكون عامل التصفية اسم مضيف عاديًّا، أو عامل تصفية أكثر توافقًا مع مانع الإعلانات. سيتم تجاهل الخطوط المسبوقة بـ &lsquo;!&rsquo;."
+   },
+   "1pImport": {
+      "message": "استيراد وإلحاق"
+   },
+   "1pPageName": {
+      "message": "عوامل التصفية"
+   },
+   "3pApplyChanges": {
+      "message": "تطبيق التغييرات"
+   },
+   "3pAutoUpdatePrompt1": {
+      "message": "قوائم عامل تصفية التحديث التلقائي"
+   },
+   "3pExternalListObsolete": {
+      "message": "غير محدث."
+   },
+   "3pExternalListsHint": {
+      "message": "عنوان URL واحد في كل سطر. سيتم تجاهل الخطوط المسبوقة بـ &lsquo;!&rsquo;. سيتم تجاهل عناوين URL غير الصالحة في صمت."
+   },
+   "3pGroupAds": {
+      "message": "إعلان"
+   },
+   "3pGroupAnnoyances": {
+      "message": "عناصر مزعجة"
+   },
+   "3pGroupCustom": {
+      "message": "تخصيص"
+   },
+   "3pGroupDefault": {
+      "message": "عوامل التصفية التحسينية والشبكة"
+   },
+   "3pGroupMalware": {
+      "message": "مجالات البرمجيات الخبيثة"
+   },
+   "3pGroupMultipurpose": {
+      "message": "متعددة الأغراض"
+   },
+   "3pGroupPrivacy": {
+      "message": "الخصوصية"
+   },
+   "3pGroupRegions": {
+      "message": "المناطق، واللغات"
+   },
+   "3pIgnoreGenericCosmeticFilters": {
+      "message": "تجاهل عوامل التصفية التحسينية العامة"
+   },
+   "3pIgnoreGenericCosmeticFiltersInfo": {
+      "message": "\u003Cp>تُعد عوامل التصفية التحسينية العامة هي تلك العوامل التحسينية التي تهدف إلى تطبيقها على جميع مواقع الويب.\u003Cp>ومن خلال التعامل معها بفاعلية بواسطة CCleaner Anti-Tracking، فقد تظل عوامل التصفية التحسينية العامة مساهمة في الذاكرة القابلة للقياس ووحدة المعالجة المركزية في بعض صفحات الويب، وخصوصًا بالنسبة لعوامل التصفية الكبيرة وطويلة الأجل.\u003Cp>وسيؤدي تمكين هذا الخيار إلى التخلص من سعة الذاكرة ووحدة المعالجة المركزية المضافة إلى صفحات الويب كنتيجة للتعامل مع عوامل التصفية التحسينية العامة، بالإضافة إلى تقليل مساحة الذاكرة الخاصة بـ CCleaner Anti-Tracking نفسه.\u003Cp>ومن المستحسن تمكين هذا الخيار على أجهزة أقل قوة."
+   },
+   "3pImport": {
+      "message": "جارٍ الاستيراد..."
+   },
+   "3pLastUpdate": {
+      "message": "آخر تحديث: {{ago}}.\nانقر فوق تنفيذ التحديث."
+   },
+   "3pListsOfBlockedHostsHeader": {
+      "message": "قوائم المضيفين المحظورين"
+   },
+   "3pListsOfBlockedHostsPerListStats": {
+      "message": "{{used}} مستخدمة من أصل {{total}}"
+   },
+   "3pListsOfBlockedHostsPrompt": {
+      "message": "{{netFilterCount}} من عوامل تصفية الشبكة + {{cosmeticFilterCount}} من عوامل التصفية التحسينية من:"
+   },
+   "3pNetworkError": {
+      "message": "لقد تسبب أحد أخطاء الشبكة في منع تحديث المورد."
+   },
+   "3pPageName": {
+      "message": "عوامل تصفية الأطراف الثالثة"
+   },
+   "3pParseAllABPHideFiltersInfo": {
+      "message": "\u003Cp>يسمح هذا الخيار بتحليل\u003Ca href=\"https://adblockplus.org/en/faq_internal#elemhide\">عوامل تصفية&ldquo;إخفاء العناصر&rdquo;الأكثر توافقًا مع مانع الإعلانات\u003C/a> وتطبيقها. تُعد عوامل التصفية هذه عوامل تحسينية بصورة أساسية، وهي تعمل على إخفاء العناصر في صفحة الويب التي تُشكل مصدرًا للإزعاج البصري، والتي لا يُمكن حظرها باستخدام محرك التصفية القائمة على طلب التصفية.\u003C/p>\u003Cp>يؤدي تمكين هذه الميزة إلى زيادة مساحة الذاكرة CCleaner Anti-Tracking.\u003C/p>"
+   },
+   "3pParseAllABPHideFiltersPrompt1": {
+      "message": "تحليل عوامل التصفية التحسينية وتطبيقها"
+   },
+   "3pPurgeAll": {
+      "message": "مسح جميع ذاكرات التخزين المؤقت"
+   },
+   "3pUpdateNow": {
+      "message": "تحديث الآن"
+   },
+   "3pUpdating": {
+      "message": "جارٍ التحديث..."
+   },
+   "aboutBackupDataButton": {
+      "message": "نسخ احتياطي لملف"
+   },
+   "aboutBackupFilename": {
+      "message": "CCleaner Anti-Tracking-backup_{{datetime}}.txt"
+   },
+   "aboutChangelog": {
+      "message": "تغيير السجل"
+   },
+   "aboutCode": {
+      "message": "كود المصدر (GPLv3)"
+   },
+   "aboutContributors": {
+      "message": "المساهمون"
+   },
+   "aboutDependencies": {
+      "message": "التبعيات الخارجية (متوافق مع GPLv3):"
+   },
+   "aboutIssues": {
+      "message": "أداة تعقب المشكلات"
+   },
+   "aboutPageName": {
+      "message": "حول"
+   },
+   "aboutResetDataButton": {
+      "message": "إعادة التعيين إلى إعدادات الوضع الافتراضي..."
+   },
+   "aboutResetDataConfirm": {
+      "message": "ستتم إزالة جميع الإعدادات، وستتم إعادة تشغيل CCleaner Anti-Tracking.\n\nهل ترغب في إعادة تعيين CCleaner Anti-Tracking إلى إعدادات المصنع؟"
+   },
+   "aboutRestoreDataButton": {
+      "message": "استعادة من ملف..."
+   },
+   "aboutRestoreDataConfirm": {
+      "message": "سيتم استبدال جميع إعداداتك باستخدام البيانات التي تم نسخها احتياطيًا في {{time}}، وستتم إعادة تشغيل CCleaner Anti-Tracking.\n\nهل ترغب في استبدال جميع الإعدادات الموجودة باستخدام البيانات المنسوخة احتياطيًا؟"
+   },
+   "aboutRestoreDataError": {
+      "message": "تعذرت قراءة البيانات أو أن البيانات غير صالحة"
+   },
+   "aboutSupport": {
+      "message": "الدعم"
+   },
+   "aboutWiki": {
+      "message": "Wiki"
+   },
+   "advancedSettingsPageName": {
+      "message": "إعدادات متقدمة"
+   },
+   "advancedSettingsWarning": {
+      "message": "تحذير! تغيير الإعدادات المتقدمة هذه يقع على عاتقك."
+   },
+   "assetViewerPageName": {
+      "message": "uBlock؟ عارض الأصول"
+   },
+   "cloudDeviceNamePrompt": {
+      "message": "اسم هذا الجهاز:"
+   },
+   "cloudPull": {
+      "message": "استيراد من التخزين السحابي"
+   },
+   "cloudPullAndMerge": {
+      "message": "استيراد من التخزين السحابي والدمج مع الإعدادات الحالية"
+   },
+   "cloudPush": {
+      "message": "تصدير إلى التخزين السحابي"
+   },
+   "contextMenuTemporarilyAllowLargeMediaElements": {
+      "message": "السماح مؤقتًا بعناصر الوسائط الكبيرة"
+   },
+   "dashboardName": {
+      "message": "CCleaner Anti-Tracking - لوحة المعلومات"
+   },
+   "docblockedBack": {
+      "message": "العودة"
+   },
+   "docblockedClose": {
+      "message": "إغلاق هذه النافذة"
+   },
+   "docblockedDisablePermanent": {
+      "message": "نهائي"
+   },
+   "docblockedDisableTemporary": {
+      "message": "مؤقتًا"
+   },
+   "docblockedFoundIn": {
+      "message": "وجد في:"
+   },
+   "docblockedNoParamsPrompt": {
+      "message": "دون مُعلمات"
+   },
+   "docblockedProceed": {
+      "message": "تعطيل الحظر الشديد لـ {{hostname}}"
+   },
+   "docblockedPrompt1": {
+      "message": "لقد منع CCleaner Anti-Tracking الصفحة التالية من التحميل:"
+   },
+   "docblockedPrompt2": {
+      "message": "بسبب عامل التصفية التالي"
+   },
+   "dummy": {
+      "message": "يجب أن يكون هذا الإدخال الأخير"
+   },
+   "elapsedManyDaysAgo": {
+      "message": "قبل {{value}} من الأيام"
+   },
+   "elapsedManyHoursAgo": {
+      "message": "قبل {{value}} من الساعات"
+   },
+   "elapsedManyMinutesAgo": {
+      "message": "قبل {{value}} من الدقائق"
+   },
+   "elapsedOneDayAgo": {
+      "message": "منذ يوم"
+   },
+   "elapsedOneHourAgo": {
+      "message": "منذ ساعة"
+   },
+   "elapsedOneMinuteAgo": {
+      "message": "منذ دقيقة"
+   },
+   "errorCantConnectTo": {
+      "message": "خطأ في الشبكة: {{msg}}"
+   },
+   "extShortDesc": {
+      "message": "حظر متعقبي الويب المتطفلين."
+   },
+   "extra1pPageNameDesc": {
+      "message": "إدارة عوامل التصفية المخصصة لديك"
+   },
+   "extra3pPageNameDesc": {
+      "message": "عوامل التصفية الخارجية للمتعقبين والخصوصية"
+   },
+   "extraAddFilter": {
+      "message": "إضافة عامل تصفية"
+   },
+   "extraAddRrule": {
+      "message": "إضافة قاعدة مؤقتة"
+   },
+   "extraAddSetting": {
+      "message": "إضافة إعداد"
+   },
+   "extraAddSite": {
+      "message": "إضافة موقع"
+   },
+   "extraAdsFilters": {
+      "message": "عوامل تصفية الإعلانات"
+   },
+   "extraAdvancedUserSettings": {
+      "message": "إعدادات المستخدم المتقدمة"
+   },
+   "extraAllowOnSites": {
+      "message": "السماح للمتعقبين بدخول هذا الموقع"
+   },
+   "extraBlockMediaElementsLargerThan": {
+      "message": "حظر عناصر الوسائط التي تزيد عن"
+   },
+   "extraBtnAdd": {
+      "message": "إضافة"
+   },
+   "extraBtnCancel": {
+      "message": "إلغاء"
+   },
+   "extraBtnEdit": {
+      "message": "تحرير"
+   },
+   "extraBtnExport": {
+      "message": "تصدير"
+   },
+   "extraBtnImport": {
+      "message": "استيراد"
+   },
+   "extraBtnRemove": {
+      "message": "إزالة"
+   },
+   "extraBtnUpdateAll": {
+      "message": "تحديث الكل"
+   },
+   "extraDefaultBehaviour": {
+      "message": "السلوك الافتراضي"
+   },
+   "extraEditFilter": {
+      "message": "تحرير عامل التصفية"
+   },
+   "extraEditRule": {
+      "message": "تحرير قاعدة مؤقتة"
+   },
+   "extraEditSetting": {
+      "message": "تحرير إعداد"
+   },
+   "extraEditSite": {
+      "message": "تحرير موقع"
+   },
+   "extraGeneralSettings": {
+      "message": "الإعدادات العامة"
+   },
+   "extraGeneralSettingsDesc": {
+      "message": "تعمل على إدارة ما تظهره معلومات CCleaner Anti-Tracking"
+   },
+   "extraIndexDescription": {
+      "message": "استمتع بحظر المتعقبين لاستعراض أسرع وأكثر أمانًا"
+   },
+   "extraIndexFooter": {
+      "message": "مدعوم من uBlock Origin."
+   },
+   "extraIndexHeader": {
+      "message": "إعدادات CCleaner Anti-Tracking المتقدمة"
+   },
+   "extraIndexTitle": {
+      "message": "CCleaner Anti-Tracking"
+   },
+   "extraInterstitialBlocking": {
+      "message": "تمكين الحجب البيني"
+   },
+   "extraLabelFilter": {
+      "message": "عامل التصفية"
+   },
+   "extraLearnMore": {
+      "message": "التعرف على المزيد"
+   },
+   "extraManageFilters": {
+      "message": "إدارة عوامل التصفية"
+   },
+   "extraMyCustomFilter": {
+      "message": "عوامل التصفية المخصصة لديّ"
+   },
+   "extraPrivacy": {
+      "message": "الخصوصية"
+   },
+   "extraRule": {
+      "message": "القاعدة"
+   },
+   "extraRuleDefinition": {
+      "message": "تعريف القاعدة"
+   },
+   "extraRuleSyntax": {
+      "message": "بناء جملة القاعدة"
+   },
+   "extraRulesPageNameDesc": {
+      "message": "قائمة بقواعد التصفية الديناميكية لديك"
+   },
+   "extraSetting": {
+      "message": "إعداد"
+   },
+   "extraShowMore": {
+      "message": "إظهار المزيد"
+   },
+   "extraSite": {
+      "message": "موقع"
+   },
+   "extraSlider0": {
+      "message": "لا تحظر الإعلانات"
+   },
+   "extraSlider100": {
+      "message": "الحد الأقصى لحظر الإعلانات"
+   },
+   "extraSlider50": {
+      "message": "حظر الإعلانات بدرجة متوسطة"
+   },
+   "extraSourceDestinationTypeAction": {
+      "message": "إجراء نوع وجهة المصدر."
+   },
+   "extraWhitelistPageNameDesc": {
+      "message": "قائمة بالمواقع التي تسمح بدخول المتعقبين"
+   },
+   "fennecMenuItemBlockingOff": {
+      "message": "إيقاف"
+   },
+   "genericApplyChanges": {
+      "message": "تطبيق التغييرات"
+   },
+   "genericBytes": {
+      "message": "وحدات البايت"
+   },
+   "genericCopyToClipboard": {
+      "message": "نسخ إلى الحافظة"
+   },
+   "genericMergeViewScrollLock": {
+      "message": "تبديل التمرير المغلق"
+   },
+   "genericRevert": {
+      "message": "العودة"
+   },
+   "genericSubmit": {
+      "message": "إرسال"
+   },
+   "logAll": {
+      "message": "الكل"
+   },
+   "logBehindTheScene": {
+      "message": "خلف المشهد"
+   },
+   "logFilterPrompt": {
+      "message": "إدخالات سجل التصفية"
+   },
+   "logMaxEntriesTip": {
+      "message": "الحد الأقصى لعدد إدخالات السجل"
+   },
+   "logRequestsHeaderDomain": {
+      "message": "المجال"
+   },
+   "logRequestsHeaderFilter": {
+      "message": "عامل التصفية"
+   },
+   "logRequestsHeaderType": {
+      "message": "النوع"
+   },
+   "logRequestsHeaderURL": {
+      "message": "عنوان URL"
+   },
+   "loggerClearTip": {
+      "message": "مسح مسجل البيانات"
+   },
+   "loggerCurrentTab": {
+      "message": "علامة التبويب الحالية"
+   },
+   "loggerDomInspectorTip": {
+      "message": "تبديل DOM inspector"
+   },
+   "loggerEntryDetailsContext": {
+      "message": "السياق"
+   },
+   "loggerEntryDetailsFilter": {
+      "message": "عامل التصفية"
+   },
+   "loggerEntryDetailsFilterList": {
+      "message": "قائمة عامل التصفية"
+   },
+   "loggerEntryDetailsHeader": {
+      "message": "تفاصيل"
+   },
+   "loggerEntryDetailsPartyness": {
+      "message": "ملحق"
+   },
+   "loggerEntryDetailsRootContext": {
+      "message": "سياق الجذر"
+   },
+   "loggerEntryDetailsRule": {
+      "message": "القاعدة"
+   },
+   "loggerEntryDetailsType": {
+      "message": "النوع"
+   },
+   "loggerEntryDetailsURL": {
+      "message": "عنوان URL"
+   },
+   "loggerExportEncodeMarkdown": {
+      "message": "خصم"
+   },
+   "loggerExportEncodePlain": {
+      "message": "عادي"
+   },
+   "loggerExportFormatList": {
+      "message": "قائمة"
+   },
+   "loggerExportFormatTable": {
+      "message": "جدول"
+   },
+   "loggerInfoTip": {
+      "message": "uBlock Origin wiki: مسجل البيانات"
+   },
+   "loggerPauseTip": {
+      "message": "إيقاف مسجل البيانات مؤقتًا (تجاهل جميع البيانات الواردة)"
+   },
+   "loggerPopupPanelTip": {
+      "message": "تبديل لوحة النافذة المنبثقة"
+   },
+   "loggerReloadTip": {
+      "message": "إعادة تحميل محتوى علامة التبويب"
+   },
+   "loggerRowFiltererBuiltin1p": {
+      "message": "الطرف الأول"
+   },
+   "loggerRowFiltererBuiltin3p": {
+      "message": "الطرف الثالث"
+   },
+   "loggerRowFiltererBuiltinAllowed": {
+      "message": "المسموح"
+   },
+   "loggerRowFiltererBuiltinBlocked": {
+      "message": "المحظور"
+   },
+   "loggerRowFiltererBuiltinEventful": {
+      "message": "حافل بالأحداث"
+   },
+   "loggerRowFiltererBuiltinNot": {
+      "message": "لا"
+   },
+   "loggerRowFiltererBuiltinTip": {
+      "message": "خيارات تصفية مسجل البيانات"
+   },
+   "loggerRowFiltererButtonTip": {
+      "message": "تبديل تصفية مسجل البيانات"
+   },
+   "loggerSettingDiscardPrompt": {
+      "message": "سيتم تجاهل إدخالات مُسجل البيانات التي لا تستوفي الشروط الثلاثة أدناه تلقائيًا:"
+   },
+   "loggerSettingHideColumnContext": {
+      "message": "سياق {{input}}"
+   },
+   "loggerSettingHideColumnFilter": {
+      "message": "قاعدة/عامل تصفية {{input}}"
+   },
+   "loggerSettingHideColumnPartyness": {
+      "message": "ملحق {{input}}"
+   },
+   "loggerSettingHideColumnTime": {
+      "message": "وقت {{input}}"
+   },
+   "loggerSettingHideColumnsPrompt": {
+      "message": "إخفاء الأعمدة:"
+   },
+   "loggerSettingPerEntryLineCount": {
+      "message": "استخدم خطوط {{input}} لكل إدخال في الوضع الممدد أفقيًا"
+   },
+   "loggerSettingPerEntryMaxAge": {
+      "message": "احتفظ بالإدخالات التي تمت منذ آخر {{input}} من الدقائق"
+   },
+   "loggerSettingPerTabMaxEntries": {
+      "message": "احتفظ بأكثر إدخالات {{input}} لكل صفحة"
+   },
+   "loggerSettingPerTabMaxLoads": {
+      "message": "احتفظ بأكثر تحميلات صفحة {{input}} لكل صفحة"
+   },
+   "loggerStaticFilteringFinderSentence1": {
+      "message": "تم العثور على \u003Ccode>{{filter}}\u003C/code> الخاص بعامل التصفية الثابت في:"
+   },
+   "loggerStaticFilteringFinderSentence2": {
+      "message": "لم يتم العثور على \u003Ccode>{{filter}}\u003C/code> الخاص بعامل التصفية الثابت في أيٍّ من قوائم عامل التصفية الحالية الممكن"
+   },
+   "loggerStaticFilteringHeader": {
+      "message": "تصفية ثابتة"
+   },
+   "loggerStaticFilteringSentence": {
+      "message": "{{action}} طلبات الشبكة من {{type}} {{br}}التي يتطابق عنوان URL الخاص بها {{url}} {{br}}والتي تنشأ من {{origin}}،{{br}}{{importance}} هناك عامل تصفية لاستثناء مطابق."
+   },
+   "loggerStaticFilteringSentencePartAllow": {
+      "message": "سماح"
+   },
+   "loggerStaticFilteringSentencePartAnyOrigin": {
+      "message": "من أي مكان"
+   },
+   "loggerStaticFilteringSentencePartAnyType": {
+      "message": "أي نوع"
+   },
+   "loggerStaticFilteringSentencePartBlock": {
+      "message": "حظر"
+   },
+   "loggerStaticFilteringSentencePartImportant": {
+      "message": "حتى لو"
+   },
+   "loggerStaticFilteringSentencePartNotImportant": {
+      "message": "باستثناء عند"
+   },
+   "loggerStaticFilteringSentencePartOrigin": {
+      "message": "من ؟{{origin}}؟"
+   },
+   "loggerStaticFilteringSentencePartType": {
+      "message": "ما النوع ؟{{type}}؟"
+   },
+   "loggerURLFilteringContextLabel": {
+      "message": "السياق:"
+   },
+   "loggerURLFilteringHeader": {
+      "message": "تصفية URL الديناميكية"
+   },
+   "loggerURLFilteringTypeLabel": {
+      "message": "النوع:"
+   },
+   "loggerUnpauseTip": {
+      "message": "إلغاء إيقاف مسجل البيانات مؤقتًا"
+   },
+   "pickerContextMenuEntry": {
+      "message": "حجب عنصر"
+   },
+   "pickerCosmeticFilters": {
+      "message": "عوامل تصفية تحسينية"
+   },
+   "pickerCosmeticFiltersHint": {
+      "message": "انقر فوق، Ctrl-click"
+   },
+   "pickerCreate": {
+      "message": "إنشاء"
+   },
+   "pickerNetFilters": {
+      "message": "عوامل تصفية الشبكة"
+   },
+   "pickerPick": {
+      "message": "انتقاء"
+   },
+   "pickerPreview": {
+      "message": "معاينة"
+   },
+   "pickerQuit": {
+      "message": "إنهاء"
+   },
+   "popup1pScriptRulePrompt": {
+      "message": "البرامج النصية للطرف الأول"
+   },
+   "popup3pAnyRulePrompt": {
+      "message": "الطرف الثالث"
+   },
+   "popup3pFrameRulePrompt": {
+      "message": "إطارات الطرف الثالث"
+   },
+   "popup3pPassiveRulePrompt": {
+      "message": "css الخاص بالطرف الثالث/الصور"
+   },
+   "popup3pScriptRulePrompt": {
+      "message": "البرامج النصية للطرف الثالث"
+   },
+   "popupAdvancedSettings": {
+      "message": "إعدادات متقدمة"
+   },
+   "popupAnyRulePrompt": {
+      "message": "الكل"
+   },
+   "popupExtraAdsAllowedOnSites": {
+      "message": "يُسمح بدخول المتعقبين لهذا الموقع"
+   },
+   "popupExtraAdsBlockedOnPage": {
+      "message": "المتعقبون المحظورون من دخول هذه الصفحة"
+   },
+   "popupExtraAdsBlockedOnSites": {
+      "message": "يتم حظر المتعقبين من دخول هذا الموقع"
+   },
+   "popupExtraAdsBlockedTotal": {
+      "message": "إجمالي المتعقبين المحظورين"
+   },
+   "popupExtraLessOptions": {
+      "message": "خيارات أقل"
+   },
+   "popupExtraListAllowedSites": {
+      "message": "قائمة المواقع المسموح بها"
+   },
+   "popupExtraMoreInformation": {
+      "message": "المزيد من المعلومات"
+   },
+   "popupExtraMoreOptions": {
+      "message": "المزيد من الخيارات"
+   },
+   "popupExtraNoSitesAddedYet": {
+      "message": "لم تتم إضافة مواقع بعد"
+   },
+   "popupExtraProtectionCanNotEnabled": {
+      "message": "يتعذر تمكين الحماية على هذا الموقع"
+   },
+   "popupExtraProtectionDisabledForSession": {
+      "message": "يتعذر تمكين الحماية لهذه الجلسة"
+   },
+   "popupExtraSeeListAllowedSites": {
+      "message": "الاطلاع على قائمة بجميع المواقع المسموح بها"
+   },
+   "popupHitDomainCount": {
+      "message": "{{count}} من أصل {{total}}"
+   },
+   "popupHitDomainCountPrompt": {
+      "message": "اتصلت المجالات"
+   },
+   "popupImageRulePrompt": {
+      "message": "الصور"
+   },
+   "popupInlineScriptRulePrompt": {
+      "message": "البرامج النصية المضمنة"
+   },
+   "popupTipDashboard": {
+      "message": "فتح لوحة المعلومات"
+   },
+   "popupTipGlobalRules": {
+      "message": "القواعد العامة: هذا العمود مخصص للقواعد التي تنطبق على جميع المواقع."
+   },
+   "popupTipLocalRules": {
+      "message": "القواعد المحلية: هذا العمود مخصص للقواعد التي تنطبق على الموقع الحالي فقط.\nكما تقوم القواعد المحلية بإبطال القواعد العامة."
+   },
+   "popupTipLog": {
+      "message": "فتح مسجل البيانات"
+   },
+   "popupTipNoCosmeticFiltering": {
+      "message": "تبديل تصفية الأدوات التجميلية لهذا الموقع"
+   },
+   "popupTipNoCosmeticFiltering1": {
+      "message": "انقر لتعطيل تصفية الأدوات التجميلية في هذا الموقع"
+   },
+   "popupTipNoCosmeticFiltering2": {
+      "message": "انقر لتمكين تصفية الأدوات التجميلية في هذا الموقع"
+   },
+   "popupTipNoLargeMedia": {
+      "message": "تبديل حظر عناصر الوسائط الكبيرة لهذا الموقع"
+   },
+   "popupTipNoLargeMedia1": {
+      "message": "انقر لحظر عناصر الوسائط الكبيرة في هذا الموقع"
+   },
+   "popupTipNoLargeMedia2": {
+      "message": "انقر لإلغاء حظر عناصر الوسائط الكبيرة في هذا الموقع"
+   },
+   "popupTipNoPopups": {
+      "message": "تبديل حظر جميع النوافذ المنبثقة لهذا الموقع"
+   },
+   "popupTipNoPopups1": {
+      "message": "انقر لحظر جميع النوافذ المنبثقة في هذا الموقع"
+   },
+   "popupTipNoPopups2": {
+      "message": "انقر لإلغاء حظر جميع النوافذ المنبثقة في هذا الموقع"
+   },
+   "popupTipNoRemoteFonts": {
+      "message": "تبديل حظر الخطوط البعيدة لهذا الموقع"
+   },
+   "popupTipNoRemoteFonts1": {
+      "message": "انقر لحظر الخطوط البعيدة في هذا الموقع"
+   },
+   "popupTipNoRemoteFonts2": {
+      "message": "انقر لإلغاء حظر الخطوط البعيدة في هذا الموقع"
+   },
+   "popupTipNoScripting1": {
+      "message": "انقر لتعطيل JavaScript في هذا الموقع"
+   },
+   "popupTipNoScripting2": {
+      "message": "انقر لإلغاء تعطيل JavaScript في هذا الموقع"
+   },
+   "popupTipPicker": {
+      "message": "الدخول في وضع منتقي العناصر"
+   },
+   "popupTipRevertRules": {
+      "message": "انقر للتراجع عن التغييرات."
+   },
+   "popupTipSaveRules": {
+      "message": "انقر لإجراء تغييراتك الدائمة."
+   },
+   "popupTipZapper": {
+      "message": "الدخول في وضع أداة إزالة العناصر"
+   },
+   "rulesCommit": {
+      "message": "تأكيد"
+   },
+   "rulesEdit": {
+      "message": "تحرير"
+   },
+   "rulesEditDiscard": {
+      "message": "تجاهل"
+   },
+   "rulesEditSave": {
+      "message": "حفظ"
+   },
+   "rulesExport": {
+      "message": "التصدير إلى ملف"
+   },
+   "rulesFormatHint": {
+      "message": "بناء جملة القاعدة: \u003Ccode>إجراء نوع وجهة المصدر\u003C/code>(\u003Ca href='https://github.com/gorhill/uBlock/wiki/Dynamic-filtering:-rule-syntax'>الوثائق الكاملة\u003C/a>)."
+   },
+   "rulesHint": {
+      "message": "قائمة بقواعد التصفية الديناميكية لديك."
+   },
+   "rulesImport": {
+      "message": "استيراد من ملف..."
+   },
+   "rulesPageName": {
+      "message": "قواعدي"
+   },
+   "rulesPermanentHeader": {
+      "message": "قواعد دائمة"
+   },
+   "rulesRevert": {
+      "message": "العودة"
+   },
+   "rulesTemporaryHeader": {
+      "message": "قواعد مؤقتة"
+   },
+   "settingPerSiteSwitchGroup": {
+      "message": "السلوك الافتراضي"
+   },
+   "settingPerSiteSwitchGroupSynopsis": {
+      "message": "يُمكن استبدال السلوكيات الافتراضية هذه حسب كل موقع"
+   },
+   "settingsAdvancedUserPrompt": {
+      "message": "أنا مستخدم مُتقدم (\u003Ca href='https://github.com/gorhill/uBlock/wiki/Advanced-user-features'>القراءة مطلوبة\u003C/a>)"
+   },
+   "settingsAdvancedUserSettings": {
+      "message": "إعدادات متقدمة"
+   },
+   "settingsCloudStorageEnabledPrompt": {
+      "message": "تمكين دعم التخزين السحابي"
+   },
+   "settingsCollapseBlockedPrompt": {
+      "message": "إخفاء العناصر النائبة للعناصر المحظورة"
+   },
+   "settingsColorBlindPrompt": {
+      "message": "مناسب للمصابين بعمى الألوان"
+   },
+   "settingsContextMenuPrompt": {
+      "message": "استخدام قائمة السياق حسب الاقتضاء"
+   },
+   "settingsHyperlinkAuditingDisabledPrompt": {
+      "message": "تعطيل تدقيق الارتباط التشعبي"
+   },
+   "settingsIconBadgePrompt": {
+      "message": "إظهار عدد الطلبات المحظورة في الأيقونة"
+   },
+   "settingsLastBackupPrompt": {
+      "message": "آخر عملية نسخ احتياطي:"
+   },
+   "settingsLastRestorePrompt": {
+      "message": "آخر استعادة:"
+   },
+   "settingsNoCSPReportsPrompt": {
+      "message": "حظر تقارير CSP"
+   },
+   "settingsNoCosmeticFilteringPrompt": {
+      "message": "تعطيل التصفية التحسينية"
+   },
+   "settingsNoLargeMediaPrompt": {
+      "message": "حظر عناصر الوسائط الكُبرى من {{input:number}} كيلوبايت"
+   },
+   "settingsNoRemoteFontsPrompt": {
+      "message": "حظر الخطوط الخارجية"
+   },
+   "settingsNoScriptingPrompt": {
+      "message": "تعطيل JavaScript"
+   },
+   "settingsPageName": {
+      "message": "الإعدادات"
+   },
+   "settingsPrefetchingDisabledPrompt": {
+      "message": "تعطيل التحميل المسبق (لمنع أي اتصال لطلبات الشبكة المحظورة)"
+   },
+   "settingsStorageUsed": {
+      "message": "التخزين المستخدم: {{value}} بايت"
+   },
+   "settingsTooltipsPrompt": {
+      "message": "تعطيل تلميحات الأدوات"
+   },
+   "settingsWebRTCIPAddressHiddenPrompt": {
+      "message": "منع تسرب عناوين IP المحلية عبر WebRTC"
+   },
+   "shortcutCapturePlaceholder": {
+      "message": "اكتب اختصارًا"
+   },
+   "shortcutsPageName": {
+      "message": "اختصارات"
+   },
+   "showDashboardButton": {
+      "message": "إظهار لوحة المعلومات"
+   },
+   "showNetworkLogButton": {
+      "message": "إظهار المسجل"
+   },
+   "statsPageName": {
+      "message": "CCleaner Anti-Tracking - المسجل"
+   },
+   "subscriberConfirm": {
+      "message": "CCleaner Anti-Tracking: هل ترغب في إضافة عنوان URL التالي إلى قائمة عوامل التصفية المخصصة لديك؟\n\nالعنوان: \"{{title}}\"\nعنوان URL: {{url}}"
+   },
+   "whitelistApply": {
+      "message": "تطبيق التغييرات"
+   },
+   "whitelistExport": {
+      "message": "تصدير"
+   },
+   "whitelistExportFilename": {
+      "message": "CCleaner Anti-Tracking-whitelist_{{datetime}}.txt"
+   },
+   "whitelistImport": {
+      "message": "استيراد وإلحاق"
+   },
+   "whitelistPageName": {
+      "message": "القائمة البيضاء"
+   },
+   "whitelistPrompt": {
+      "message": "تحدد تعليمات القائمة البيضاء أي صفحات العناوين CCleaner Anti-Tracking يجب تعطيلها. إدخال واحد لكل سطر. وسيتم تجاهل التعليمات غير الصالحة واسبتعادها."
+   }
+}

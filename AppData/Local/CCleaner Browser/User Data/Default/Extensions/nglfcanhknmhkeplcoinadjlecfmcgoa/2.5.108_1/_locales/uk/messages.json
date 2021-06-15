@@ -1,0 +1,239 @@
+{
+   "adBlock": {
+      "message": "Блокування реклами"
+   },
+   "adBlockSettings": {
+      "message": "Налаштування блокування реклами"
+   },
+   "adblockIsOff": {
+      "message": "Блокування реклами вимкнуто"
+   },
+   "adblockIsPaused": {
+      "message": "Блокування реклами призупинено на всіх сайтах"
+   },
+   "adblockIsPausedOnSite": {
+      "message": "Блокування реклами призупинено на цьому сайті"
+   },
+   "addSite": {
+      "message": "Додати сайт"
+   },
+   "addWebsiteToAllowAds": {
+      "message": "Додати сайт, щоб дозволити рекламу"
+   },
+   "adsAreAllowed": {
+      "message": "Рекламні модулі на цьому сайті дозволено"
+   },
+   "adsBlocked": {
+      "message": "Заблокована реклама: "
+   },
+   "allowAdsOnSite": {
+      "message": "Дозволити рекламу на цьому сайті"
+   },
+   "alwaysAllowAdsOnSites": {
+      "message": "Завжди дозволяти рекламу на сайтах, указаних нижче"
+   },
+   "balancedBlocking": {
+      "message": "Збалансоване блокування"
+   },
+   "balancedBlockingName": {
+      "message": "Збалансоване"
+   },
+   "blockAdsOnThisSite": {
+      "message": "Блокувати рекламу на цьому сайті"
+   },
+   "blockingOptions": {
+      "message": "Варіанти блокування"
+   },
+   "btnAdd": {
+      "message": "Додати"
+   },
+   "cancel": {
+      "message": "Скасувати"
+   },
+   "cancelAddSiteOperation": {
+      "message": "Скасувати дію з додавання сайту"
+   },
+   "cancelEditSiteOperation": {
+      "message": "Скасувати дію з редагування сайту"
+   },
+   "cancelSetStrict": {
+      "message": "Скасувати встановлення жорсткого режиму"
+   },
+   "edit": {
+      "message": "Змінити"
+   },
+   "editFromWhitelist": {
+      "message": "Редагувати сайт із білого списку"
+   },
+   "editSiteFromWhitelist": {
+      "message": "Редагувати сайт із білого списку"
+   },
+   "essentialBlocking": {
+      "message": "Базове блокування"
+   },
+   "essentialBlockingName": {
+      "message": "Базове"
+   },
+   "extShortDesc": {
+      "message": "Нарешті з’явився ефективний засіб блокування реклами, який не перенавантажує процесор і пам’ять."
+   },
+   "generalSettings": {
+      "message": "Загальні налаштування"
+   },
+   "hideAmountAds": {
+      "message": "Приховати кількість заблокованої реклами"
+   },
+   "indexDescription": {
+      "message": "Блокування реклами для швидшого та безпечнішого перегляду сайтів"
+   },
+   "keep_balanced": {
+      "message": "Залишити збалансований"
+   },
+   "keep_essential": {
+      "message": "Залишити базовий"
+   },
+   "learnMore": {
+      "message": "Докладніше"
+   },
+   "learnMoreAAS": {
+      "message": "Докладніше про стандарти прийнятної реклами"
+   },
+   "learnMoreAboutAdBLock": {
+      "message": "Докладніше про функцію блокування реклами"
+   },
+   "learnMoreUblock": {
+      "message": "Докладніше про uBlock"
+   },
+   "modifyWhitelistedSite": {
+      "message": "Змінити сайт із білого списку"
+   },
+   "noAdsToBlock": {
+      "message": "На цій сторінці немає реклами, яку можна заблокувати"
+   },
+   "openSettings": {
+      "message": "Відкрити налаштування"
+   },
+   "pauseAdBlock": {
+      "message": "Призупинити блокування реклами"
+   },
+   "pauseAdBlockOnAllSites": {
+      "message": "Призупинити блокування реклами на всіх сайтах"
+   },
+   "pauseAdsOnAllSites": {
+      "message": "Призупинити рекламу на всіх сайтах"
+   },
+   "pauseAdsOnSite": {
+      "message": "Призупинити рекламу на цьому сайті"
+   },
+   "pauseOnAllSites": {
+      "message": "Призупинити на всіх сайтах"
+   },
+   "pauseOnThisSite": {
+      "message": "Призупинити на цьому сайті"
+   },
+   "poweredByUblock": {
+      "message": "На платформі \u003Cu>\u003Ca style='color: inherit;' target='_blank' href='__SET_HREF__'>uBlock\u003C/a>\u003C/u>"
+   },
+   "remove": {
+      "message": "Видалити"
+   },
+   "removeFromWhitelist": {
+      "message": "Видалити сайт із білого списку"
+   },
+   "save": {
+      "message": "Зберегти"
+   },
+   "saveSiteIntoWhitelist": {
+      "message": "Зберегти сайт у білому списку"
+   },
+   "setBalancedMode": {
+      "message": "Установити збалансований режим"
+   },
+   "setEssentialMode": {
+      "message": "Установити базовий режим"
+   },
+   "setStrict": {
+      "message": "Установити жорсткий режим"
+   },
+   "setStrictDescription_avast": {
+      "message": "Невелика кількість ненав’язливої реклами допомагає нам фінансувати Avast Secure Browser. Вона не заважає вам під час перегляду сторінок і дає змогу користуватися браузером безкоштовно. Будемо дуже вдячні, якщо ви дозволите відображення цієї реклами."
+   },
+   "setStrictDescription_avg": {
+      "message": "Невелика кількість ненав’язливої реклами допомагає нам фінансувати AVG Secure Browser. Вона не заважає вам під час перегляду сторінок і дає змогу користуватися браузером безкоштовно. Будемо дуже вдячні, якщо ви дозволите відображення цієї реклами."
+   },
+   "setStrictDescription_ccleaner": {
+      "message": "Невелика кількість ненав’язливої реклами допомагає нам фінансувати CCleaner Browser. Вона не заважає вам під час перегляду сторінок і дає змогу користуватися браузером безкоштовно. Будемо дуже вдячні, якщо ви дозволите відображення цієї реклами."
+   },
+   "setStrictMode": {
+      "message": "Установити жорсткий режим"
+   },
+   "setStrictTitle": {
+      "message": "Установити жорсткий режим блокування реклами"
+   },
+   "settingsCardAcceptableAds": {
+      "message": "Блокування реклами, яка перешкоджає перегляду сайтів і порушує\n \u003Cu>\u003Ca style='color: inherit;' target='_blank' href='__SET_HREF__'>Стандарти прийнятної реклами\u003C/a>\u003C/u>."
+   },
+   "settingsCardAcceptableAdsBlocks": {
+      "message": "\u003Cb>Рекомендовано\u003C/b>. Блокування більшості рекламних оголошень для швидшого перегляду сторінок без зайвих елементів."
+   },
+   "settingsCardAcceptableAdsBlocksNearly": {
+      "message": "Блокування майже всієї реклами для швидшого перегляду сторінок без зайвих елементів. \u003Cb>Це може зашкодити роботі деяких сайтів.\u003C/b>"
+   },
+   "settingsCardDisruptive": {
+      "message": "Інша реклама, що перешкоджає"
+   },
+   "settingsCardOtherAds": {
+      "message": "99 % іншої реклами"
+   },
+   "settingsCardPopups": {
+      "message": "Спливаюча реклама та банери"
+   },
+   "settingsCardSocialMedia": {
+      "message": "Певна реклама із соціальних мереж"
+   },
+   "settingsShowNumberBadge": {
+      "message": "Показувати кількість заблокованих рекламних оголошень на піктограмі"
+   },
+   "showAmountAds": {
+      "message": "Показати кількість заблокованої реклами"
+   },
+   "site": {
+      "message": "Сайт"
+   },
+   "sitesYouHaveAllowed": {
+      "message": "Сайти, на яких ви дозволили показувати рекламу, відображатимуться тут."
+   },
+   "stayOn_balanced": {
+      "message": "Залишити збалансований режим"
+   },
+   "stayOn_essential": {
+      "message": "Залишити базовий режим"
+   },
+   "strictBlocking": {
+      "message": "Жорстке блокування"
+   },
+   "strictBlockingName": {
+      "message": "Жорстке"
+   },
+   "turnAdblockOn": {
+      "message": "Увімкнути"
+   },
+   "turnOff": {
+      "message": "Вимкнути функцію блокування реклами"
+   },
+   "turnOn": {
+      "message": "Увімкнути функцію блокування реклами"
+   },
+   "unpauseAdBlockAllSites": {
+      "message": "Відновити блокування реклами на всіх сайтах"
+   },
+   "unpauseAdblockOnAllSites": {
+      "message": "Відновити"
+   },
+   "whitelistModalDescription": {
+      "message": "На якому сайті дозволити рекламу?"
+   },
+   "youHaveAllowAdsOnThisSite": {
+      "message": "Ви дозволили показувати рекламу на цьому сайті "
+   }
+}

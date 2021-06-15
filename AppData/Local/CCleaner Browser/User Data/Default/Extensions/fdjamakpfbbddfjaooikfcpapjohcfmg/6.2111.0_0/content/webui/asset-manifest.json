@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "./static/css/main.css",
+    "main.js": "./static/js/main.js",
+    "index.html": "./index.html",
+    "static/js/main.js.LICENSE": "./static/js/main.js.LICENSE",
+    "static/media/index.scss": "./static/media/SpaceMono-Regular.cf2de1f8.woff2",
+    "static/media/BankStatementItem.module.scss": "./static/media/bank_statement_folder.c3aa733c.svg",
+    "static/media/dashlane_logo.3e60f039.svg": "./static/media/dashlane_logo.3e60f039.svg",
+    "static/media/SemiFancySelectionItem.module.scss": "./static/media/tax_number.7764431f.svg"
+  },
+  "entrypoints": [
+    "static/css/main.css",
+    "static/js/main.js"
+  ]
+}

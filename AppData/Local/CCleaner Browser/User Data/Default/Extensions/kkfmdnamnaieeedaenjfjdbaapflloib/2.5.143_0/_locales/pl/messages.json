@@ -1,0 +1,117 @@
+{
+   "appDesc": {
+      "message": "Pobierz filmy do oglądania offline"
+   },
+   "appName": {
+      "message": "Pobieranie filmów"
+   },
+   "barDetachBtn": {
+      "description": "The Detach button text as visible on the floating bar",
+      "message": "Odłącz"
+   },
+   "barDownloadBtn": {
+      "description": "The Download button text as visible on the floating bar",
+      "message": "Pobierz"
+   },
+   "barMediaBtn": {
+      "description": "The Media button text as visible on the floating bar",
+      "message": "Multimedia"
+   },
+   "barQualityAudio": {
+      "description": "Audio title",
+      "message": "Dźwięk"
+   },
+   "barQualityVideo": {
+      "description": "Video title",
+      "message": "Wideo"
+   },
+   "barSettingsAbout": {
+      "description": "About Button in settings popup",
+      "message": "Więcej informacji"
+   },
+   "barSettingsBtn": {
+      "description": "The Settings button text as visible on the floating bar",
+      "message": "Ustawienia"
+   },
+   "barSettingsDescription": {
+      "description": "Video download feature description in settings popup",
+      "message": "Technologia CCleaner Secure Browser"
+   },
+   "barSettingsDoNotShow": {
+      "description": "Button in settings popup disabling video-downloader",
+      "message": "Nie pokazuj ponownie"
+   },
+   "barSettingsDoNotShowForSite": {
+      "description": "Button in settings popup disabling video-downloader for exact site",
+      "message": "Nie pokazuj w tej witrynie"
+   },
+   "barSettingsTitle": {
+      "description": "Settings popup title in the floating bar",
+      "message": "Ustawienia"
+   },
+   "eulaContinue": {
+      "description": "EUlA continue button",
+      "message": "Kontynuuj"
+   },
+   "eulaText": {
+      "description": "EULA message displayed to the user",
+      "message": "Akceptując naszą \u003Cdiv>\u003Ca target='blank' href='$link$'>Umowę licencyjną użytkownika końcowego\u003C/a>\u003C/div> (EULA), przyjmujesz do wiadomości i zgadzasz się, że Twoim obowiązkiem jest korzystanie z modułu Pobieranie filmów zgodnie z obowiązującymi przepisami prawa autorskiego i warunkami korzystania z danej strony internetowej.",
+      "placeholders": {
+         "link": {
+            "content": "$1"
+         }
+      }
+   },
+   "eulaTitle": {
+      "description": "EULA popup title",
+      "message": "Przed pobraniem"
+   },
+   "eulaUnderstandAccept": {
+      "description": "EULA user agreement checkbox text",
+      "message": "Rozumiem i akceptuję umowę EULA"
+   },
+   "extensionName": {
+      "description": "Name shown in the extension button in SZB Control Center.",
+      "message": "Pobieranie filmów"
+   },
+   "extensionTitle": {
+      "description": "Title shown on hover over the extension button in SZB Control Center.",
+      "message": "Pobierz filmy do oglądania offline."
+   },
+   "optionUnknownSize": {
+      "description": "Videa or audio download option of unknown size",
+      "message": "nieznany rozmiar"
+   },
+   "popupAudioHeading": {
+      "description": "The heading of the audio section in the media popup list",
+      "message": "Dźwięk"
+   },
+   "popupDisabledFor": {
+      "description": "Page was disabled for video downloader",
+      "message": "Pobieranie filmów zostało wyłączone dla"
+   },
+   "popupDownloadBtn": {
+      "description": "The Download button text as visible in the media popup list",
+      "message": "Pobierz"
+   },
+   "popupEnable": {
+      "description": "Enable video downloader for current page",
+      "message": "Włącz"
+   },
+   "popupNoVideos": {
+      "description": "Page does not contain any videos",
+      "message": "Na tej stronie nie ma filmów do pobrania"
+   },
+   "popupNoVideos_v2": {
+      "description": "",
+      "message": "Aby pobrać film, przejdź do strony ze szczegółami."
+   },
+   "popupVideoHeading": {
+      "description": "The heading of the video section in the media popup list",
+      "message": "Wideo"
+   },
+   "reattachBtn": {
+      "description": "The Reattach button text as visible on the detached video page",
+      "message": "Dołącz"
+   }
+}

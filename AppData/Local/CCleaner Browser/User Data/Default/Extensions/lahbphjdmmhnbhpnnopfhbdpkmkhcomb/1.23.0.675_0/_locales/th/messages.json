@@ -1,0 +1,860 @@
+{
+   "1pApplyChanges": {
+      "message": "นำการเปลี่ยนแปลงไปใช้"
+   },
+   "1pExport": {
+      "message": "ส่งออก"
+   },
+   "1pFormatHint": {
+      "message": "หนึ่งตัวกรองต่อบรรทัด ตัวกรองสามารถเป็นชื่อโฮสต์แบบธรรมดา หรือตัวกรองที่่ใช้งานร่วมกับ Adblock Plus ได้ บรรทัดที่นำหน้าด้วย &lsquo;!&rsquo; จะถูกข้ามไป"
+   },
+   "1pImport": {
+      "message": "นำเข้าและผนวกรวม"
+   },
+   "1pPageName": {
+      "message": " My filters"
+   },
+   "3pApplyChanges": {
+      "message": "นำการเปลี่ยนแปลงไปใช้"
+   },
+   "3pAutoUpdatePrompt1": {
+      "message": "รายการตัวกรองการอัปเดตอัตโนมัติ"
+   },
+   "3pExternalListObsolete": {
+      "message": "ล้าสมัย"
+   },
+   "3pExternalListsHint": {
+      "message": "หนึ่ง URL ต่อบรรทัด บรรทัดที่นำหน้าด้วย &lsquo;!&rsquo; จะถูกข้ามไป URL ที่ใช้ไม่ได้ก็จะถูกข้ามในเบื้องหลังแบบไม่แสดงให้เห็น"
+   },
+   "3pGroupAds": {
+      "message": "โฆษณา"
+   },
+   "3pGroupAnnoyances": {
+      "message": "การรบกวน"
+   },
+   "3pGroupCustom": {
+      "message": "กำหนดเอง"
+   },
+   "3pGroupDefault": {
+      "message": "ตัวกรองเครือข่ายและการตกแต่ง"
+   },
+   "3pGroupMalware": {
+      "message": "โดเมนของมัลแวร์"
+   },
+   "3pGroupMultipurpose": {
+      "message": "อเนกประสงค์"
+   },
+   "3pGroupPrivacy": {
+      "message": "ความเป็นส่วนตัว"
+   },
+   "3pGroupRegions": {
+      "message": "ภูมิภาค ภาษา"
+   },
+   "3pIgnoreGenericCosmeticFilters": {
+      "message": "ข้ามตัวกรองการตกแต่งทั่วไป"
+   },
+   "3pIgnoreGenericCosmeticFiltersInfo": {
+      "message": "\u003Cp>ตัวกรองการตกแต่งทั่วไปคือตัวกรองการตกแต่งซึ่งมีจุดมุ่งหมายสำหรับการนำไปใช้กับทุกเว็บไซต์\u003Cp>แม้ว่าจะจัดการได้อย่างมีประสิทธิภาพโดย CCleaner Anti-Tracking แต่ตัวกรองการตกแต่งทั่วไปอาจมีส่วนที่ก่อให้เกิดค่าใช้จ่ายสำหรับหน่วยความจำและ CPU ที่สามารถวัดได้บนบางเว็บเพจ โดยเฉพาะอย่างยิ่งเว็บเพจที่มีขนาดใหญ่และสร้างขึ้นมาเป็นเวลานานแล้ว\u003Cp>การเปิดใช้งานตัวเลือกนี้จะช่วยขจัดค่าใช้จ่ายในส่วนหน่วยความจำและ CPU ที่ถูกเพิ่มเข้าไปในเว็บเพจอันเป็นผลจากการจัดการตัวกรองการตกแต่งทั่วไป และยังลดพื้นที่หน่วยความจำของ CCleaner Anti-Tracking\u003Cp>ขอแนะนำให้เปิดใช้งานตัวเลือกนี้บนอุปกรณ์ที่มีประสิทธิภาพน้อย"
+   },
+   "3pImport": {
+      "message": "นำเข้า..."
+   },
+   "3pLastUpdate": {
+      "message": "อัปเดตล่าสุด: {{ago}}.\nคลิกเพื่อบังคับการอัปเดต"
+   },
+   "3pListsOfBlockedHostsHeader": {
+      "message": "รายการโฮสต์ที่ถูกบล็อค"
+   },
+   "3pListsOfBlockedHostsPerListStats": {
+      "message": "{{used}} ที่ใช้ไปจาก {{total}}"
+   },
+   "3pListsOfBlockedHostsPrompt": {
+      "message": "ตัวกรองเครือข่าย {{netFilterCount}} ＋ ตัวกรองการตกแต่ง {{cosmeticFilterCount}} จาก:"
+   },
+   "3pNetworkError": {
+      "message": "เครือข่ายที่ผิดพลาดจะกันมิให้ทรัพยากรได้รับการอัปเดต"
+   },
+   "3pPageName": {
+      "message": "ตัวกรองของบุคคลที่สาม"
+   },
+   "3pParseAllABPHideFiltersInfo": {
+      "message": "\u003Cp>ตัวเลือกนี้จะเปิดใช้งานการแยกวิเคราะห์และการบังคับใช้ตัวกรองการซ่อนองค์ประกอบที่ใช้งานร่วมกับ \u003Ca href=\"https://adblockplus.org/en/faq_internal#elemhide\">Adblock Plus ได้ &ldquo;&rdquo;\u003C/a> ตัวเลือกเหล่านี้ถือเป็นการตกแต่งที่จำเป็น โดยจะทำหน้าที่ซ่อนองค์ประกอบต่างๆ ในเว็บเพจ ซึ่งดูเหมือนว่าจะรบกวนสายตา และไม่สามารถถูกบล็อคโดยเครื่องมือกรองบน Net Request\u003C/p>\u003Cp>การเปิดใช้งานคุณลักษณะนี้จะเป็นการเพิ่มพื้นที่หน่วยความจำของ CCleaner Anti-Tracking\u003C/p>"
+   },
+   "3pParseAllABPHideFiltersPrompt1": {
+      "message": "แยกวิเคราะห์ และบังคับใช้ตัวกรองการตกแต่ง"
+   },
+   "3pPurgeAll": {
+      "message": "ล้างแคชทั้งหมด"
+   },
+   "3pUpdateNow": {
+      "message": "อัปเดตตอนนี้"
+   },
+   "3pUpdating": {
+      "message": "กำลังอัปเดต..."
+   },
+   "aboutBackupDataButton": {
+      "message": "สำรองข้อมูลไปยังไฟล์"
+   },
+   "aboutBackupFilename": {
+      "message": "CCleaner Anti-Tracking-backup_{{datetime}}.txt"
+   },
+   "aboutChangelog": {
+      "message": "เปลี่ยนบันทึก"
+   },
+   "aboutCode": {
+      "message": "ซอร์สโค้ด (GPLv3)"
+   },
+   "aboutContributors": {
+      "message": "ผู้สนับสนุน"
+   },
+   "aboutDependencies": {
+      "message": "ความเข้ากันได้กับระบบภายนอก (ที่ใช้ได้กับ GPLv3):"
+   },
+   "aboutIssues": {
+      "message": "ระบบติดตามปัญหา"
+   },
+   "aboutPageName": {
+      "message": "เกี่ยวกับ"
+   },
+   "aboutResetDataButton": {
+      "message": "รีเซ็ตเป็นการตั้งค่าเริ่มต้น..."
+   },
+   "aboutResetDataConfirm": {
+      "message": "การตั้งค่าทั้งหมดจะถูกนำออก และ CCleaner Anti-Tracking จะรีสตาร์ท\n\nรีเซ็ต CCleaner Anti-Tracking เป็นการตั้งค่าจากโรงงานหรือไม่"
+   },
+   "aboutRestoreDataButton": {
+      "message": "คืนค่าจากไฟล์..."
+   },
+   "aboutRestoreDataConfirm": {
+      "message": "การตั้งค่าทั้งหมดของคุณจะถูกบันทึกทับด้วยการใช้ข้อมูลที่ได้ทำการสำรองไว้เมื่อ {{time}} และ CCleaner Anti-Tracking จะรีสตาร์ท\n\nบันทึกทับการตั้งค่าที่มีอยู่ทั้งหมดโดยใช้ข้อมูลที่ได้ทำการสำรองไว้หรือไม่"
+   },
+   "aboutRestoreDataError": {
+      "message": "ไม่สามารถอ่านข้อมูลได้ หรือข้อมูลไม่ถูกต้อง"
+   },
+   "aboutSupport": {
+      "message": "การสนับสนุน"
+   },
+   "aboutWiki": {
+      "message": "Wiki"
+   },
+   "advancedSettingsPageName": {
+      "message": "การตั้งค่าขั้นสูง"
+   },
+   "advancedSettingsWarning": {
+      "message": "คำเตือน! การเปลี่ยนการตั้งค่าขั้นสูงเหล่านี้ถือเป็นความเสี่ยงของตัวคุณเอง"
+   },
+   "assetViewerPageName": {
+      "message": "uBlock? ? ตัวดูแอสเซท"
+   },
+   "cloudDeviceNamePrompt": {
+      "message": "ชื่ออุปกรณ์นี้:"
+   },
+   "cloudPull": {
+      "message": "นำเข้าจากที่จัดเก็บบนคลาวด์"
+   },
+   "cloudPullAndMerge": {
+      "message": "นำเข้าจากที่จัดเก็บบนคลาวด์และผสานกับการตั้งค่าปัจจุบัน"
+   },
+   "cloudPush": {
+      "message": "ส่งออกไปยังที่จัดเก็บบนคลาวด์"
+   },
+   "contextMenuTemporarilyAllowLargeMediaElements": {
+      "message": "อนุญาตองค์ประกอบสื่อขนาดใหญ่ชั่วคราว"
+   },
+   "dashboardName": {
+      "message": "CCleaner Anti-Tracking — แดชบอร์ด"
+   },
+   "docblockedBack": {
+      "message": "ย้อนกลับ"
+   },
+   "docblockedClose": {
+      "message": "ปิดหน้าต่างนี้"
+   },
+   "docblockedDisablePermanent": {
+      "message": "ถาวร"
+   },
+   "docblockedDisableTemporary": {
+      "message": "ชั่วคราว"
+   },
+   "docblockedFoundIn": {
+      "message": "พบใน:"
+   },
+   "docblockedNoParamsPrompt": {
+      "message": "โดยไม่มีพารามิเตอร์"
+   },
+   "docblockedProceed": {
+      "message": "ปิดใช้งานการบล็อคอย่างเข้มงวดสำหรับ {{hostname}}"
+   },
+   "docblockedPrompt1": {
+      "message": "CCleaner Anti-Tracking ป้องกันไม่ให้โหลดหน้าต่อไปนี้ขึ้นมา:"
+   },
+   "docblockedPrompt2": {
+      "message": "เนื่องจากตัวกรองต่อไปนี้"
+   },
+   "dummy": {
+      "message": "รายการนี้ต้องเป็นรายการสุดท้าย"
+   },
+   "elapsedManyDaysAgo": {
+      "message": "{{value}} วันที่แล้ว"
+   },
+   "elapsedManyHoursAgo": {
+      "message": "{{value}} ชั่วโมงที่แล้ว"
+   },
+   "elapsedManyMinutesAgo": {
+      "message": "{{value}} นาทีที่แล้ว"
+   },
+   "elapsedOneDayAgo": {
+      "message": "หนึ่งวันที่แล้ว"
+   },
+   "elapsedOneHourAgo": {
+      "message": "หนึ่งชั่วโมงที่แล้ว"
+   },
+   "elapsedOneMinuteAgo": {
+      "message": "หนึ่งนาทีที่ผ่านมา"
+   },
+   "errorCantConnectTo": {
+      "message": "ข้อผิดพลาดเครือข่าย: {{msg}}"
+   },
+   "extShortDesc": {
+      "message": "บล็อกตัวติดตามเว็บที่น่ารำคาญ"
+   },
+   "extra1pPageNameDesc": {
+      "message": "จัดการตัวกรองที่คุณกำหนดเอง"
+   },
+   "extra3pPageNameDesc": {
+      "message": "ตัวกรองตัวติดตามและความเป็นส่วนตัวของบุคคลที่สาม"
+   },
+   "extraAddFilter": {
+      "message": "เพิ่มตัวกรอง"
+   },
+   "extraAddRrule": {
+      "message": "เพิ่มกฎชั่วคราว"
+   },
+   "extraAddSetting": {
+      "message": "เพิ่มการตั้งค่า"
+   },
+   "extraAddSite": {
+      "message": "เพิ่มเว็บไซต์"
+   },
+   "extraAdsFilters": {
+      "message": "ตัวกรองโฆษณา"
+   },
+   "extraAdvancedUserSettings": {
+      "message": "การตั้งค่าผู้ใช้ขั้นสูง"
+   },
+   "extraAllowOnSites": {
+      "message": "อนุญาตให้ใช้ตัวติดตามบนเว็บไซต์เหล่านี้"
+   },
+   "extraBlockMediaElementsLargerThan": {
+      "message": "บล็อกองค์ประกอบสื่อที่ใหญ่กว่า"
+   },
+   "extraBtnAdd": {
+      "message": "เพิ่ม"
+   },
+   "extraBtnCancel": {
+      "message": "ยกเลิก"
+   },
+   "extraBtnEdit": {
+      "message": "แก้ไข"
+   },
+   "extraBtnExport": {
+      "message": "ส่งออก"
+   },
+   "extraBtnImport": {
+      "message": "นำเข้า"
+   },
+   "extraBtnRemove": {
+      "message": "ลบออก"
+   },
+   "extraBtnUpdateAll": {
+      "message": "อัปเดตทั้งหมด"
+   },
+   "extraDefaultBehaviour": {
+      "message": "พฤติกรรมเริ่มต้น"
+   },
+   "extraEditFilter": {
+      "message": "แก้ไขตัวกรอง"
+   },
+   "extraEditRule": {
+      "message": "แก้ไขกฎชั่วคราว"
+   },
+   "extraEditSetting": {
+      "message": "แก้ไขการตั้งค่า"
+   },
+   "extraEditSite": {
+      "message": "แก้ไขเว็บไซต์"
+   },
+   "extraGeneralSettings": {
+      "message": "การตั้งค่าทั่วไป"
+   },
+   "extraGeneralSettingsDesc": {
+      "message": "จัดการข้อมูลที่ CCleaner Anti-Tracking แสดง"
+   },
+   "extraIndexDescription": {
+      "message": "บล็อกตัวติดตามเพื่อการท่องเว็บที่รวดเร็วและปลอดภัยยิ่งขึ้น"
+   },
+   "extraIndexFooter": {
+      "message": "สนับสนุนโดย uBlock Origin"
+   },
+   "extraIndexHeader": {
+      "message": "CCleaner Anti-Tracking การตั้งค่าขั้นสูง"
+   },
+   "extraInterstitialBlocking": {
+      "message": "เปิดใช้งานการบล็อกเนื้อหาไม่เกี่ยวข้องที่แทรกอยู่"
+   },
+   "extraLabelFilter": {
+      "message": "ตัวกรอง"
+   },
+   "extraLearnMore": {
+      "message": "เรียนรู้เพิ่มเติม"
+   },
+   "extraManageFilters": {
+      "message": "จัดการตัวกรอง"
+   },
+   "extraMyCustomFilter": {
+      "message": "ตัวกรองกำหนดเองของฉัน"
+   },
+   "extraPrivacy": {
+      "message": "ความเป็นส่วนตัว"
+   },
+   "extraRule": {
+      "message": "กฎ"
+   },
+   "extraRuleDefinition": {
+      "message": "คำนิยามกฎ"
+   },
+   "extraRuleSyntax": {
+      "message": "วากยสัมพันธ์ของกฎ"
+   },
+   "extraRulesPageNameDesc": {
+      "message": "รายการกฎการกรองแบบไดนามิกของคุณ"
+   },
+   "extraSetting": {
+      "message": "การตั้งค่า"
+   },
+   "extraShowMore": {
+      "message": "แสดงเพิ่มเติม"
+   },
+   "extraSite": {
+      "message": "เว็บไซต์"
+   },
+   "extraSlider0": {
+      "message": "ไม่ต้องบล็อกโฆษณา"
+   },
+   "extraSlider100": {
+      "message": "การบล็อกโฆษณาระดับสูงสุด"
+   },
+   "extraSlider50": {
+      "message": "การบล็อกโฆษณาระดับปานกลาง"
+   },
+   "extraSourceDestinationTypeAction": {
+      "message": "ต้นทาง ปลายทาง ประเภท การดำเนินการ"
+   },
+   "extraWhitelistPageNameDesc": {
+      "message": "รายชื่อเว็บไซต์ที่อนุญาตให้แสดงตัวติดตาม"
+   },
+   "fennecMenuItemBlockingOff": {
+      "message": "ปิด"
+   },
+   "genericApplyChanges": {
+      "message": "นำการเปลี่ยนแปลงไปใช้"
+   },
+   "genericBytes": {
+      "message": "ไบต์"
+   },
+   "genericCopyToClipboard": {
+      "message": "คัดลอกไปยังคลิปบอร์ด"
+   },
+   "genericMergeViewScrollLock": {
+      "message": "สลับเปิดปิดล็อคการเลื่อน"
+   },
+   "genericRevert": {
+      "message": "คืนกลับ"
+   },
+   "genericSubmit": {
+      "message": "ส่ง"
+   },
+   "logAll": {
+      "message": "ทั้งหมด"
+   },
+   "logBehindTheScene": {
+      "message": "เบื้องหลัง"
+   },
+   "logFilterPrompt": {
+      "message": "กรองรายการบันทึก"
+   },
+   "logMaxEntriesTip": {
+      "message": "จำนวนรายการบันทึกสูงสุด"
+   },
+   "logRequestsHeaderDomain": {
+      "message": "โดเมน"
+   },
+   "logRequestsHeaderFilter": {
+      "message": "ตัวกรอง"
+   },
+   "logRequestsHeaderType": {
+      "message": "ประเภท"
+   },
+   "logRequestsHeaderURL": {
+      "message": "URL"
+   },
+   "loggerClearTip": {
+      "message": "ล้างตัวบันทึกข้อมูล"
+   },
+   "loggerCurrentTab": {
+      "message": "แท็บปัจจุบัน"
+   },
+   "loggerDomInspectorTip": {
+      "message": "สลับเปิดปิดโปรแกรมตรวจสอบ DOM"
+   },
+   "loggerEntryDetailsContext": {
+      "message": "บริบท"
+   },
+   "loggerEntryDetailsFilter": {
+      "message": "ตัวกรอง"
+   },
+   "loggerEntryDetailsFilterList": {
+      "message": "รายการตัวกรอง"
+   },
+   "loggerEntryDetailsHeader": {
+      "message": "รายละเอียด"
+   },
+   "loggerEntryDetailsPartyness": {
+      "message": "ปาร์ตี้เนส"
+   },
+   "loggerEntryDetailsRootContext": {
+      "message": "บริบทราก"
+   },
+   "loggerEntryDetailsRule": {
+      "message": "กฎ"
+   },
+   "loggerEntryDetailsType": {
+      "message": "ประเภท"
+   },
+   "loggerEntryDetailsURL": {
+      "message": "URL"
+   },
+   "loggerExportEncodeMarkdown": {
+      "message": "Markdown"
+   },
+   "loggerExportEncodePlain": {
+      "message": "ธรรมดา"
+   },
+   "loggerExportFormatList": {
+      "message": "รายการ"
+   },
+   "loggerExportFormatTable": {
+      "message": "ตาราง"
+   },
+   "loggerInfoTip": {
+      "message": "วิกิ uBlock Origin: ตัวบันทึกข้อมูล"
+   },
+   "loggerPauseTip": {
+      "message": "หยุดตัวบันทึกข้อมูล (ละทิ้งข้อมูลขาเข้าทั้งหมด)"
+   },
+   "loggerPopupPanelTip": {
+      "message": "สลับเปิดปิดแผงป็อปอัพ"
+   },
+   "loggerReloadTip": {
+      "message": "โหลดเนื้อหาของแท็บอีกครั้ง"
+   },
+   "loggerRowFiltererBuiltin1p": {
+      "message": "บุคคลที่หนึ่ง"
+   },
+   "loggerRowFiltererBuiltin3p": {
+      "message": "บุคคลที่สาม"
+   },
+   "loggerRowFiltererBuiltinAllowed": {
+      "message": "ได้รับอนุญาต"
+   },
+   "loggerRowFiltererBuiltinBlocked": {
+      "message": "ถูกบล็อก"
+   },
+   "loggerRowFiltererBuiltinEventful": {
+      "message": "มีความสำคัญ"
+   },
+   "loggerRowFiltererBuiltinNot": {
+      "message": "ไม่"
+   },
+   "loggerRowFiltererBuiltinTip": {
+      "message": "ตัวเลือกการกรองตัวบันทึกข้อมูล"
+   },
+   "loggerRowFiltererButtonTip": {
+      "message": "สลับเปิดปิดการกรองตัวบันทึกข้อมูล"
+   },
+   "loggerSettingDiscardPrompt": {
+      "message": "รายการตัวบันทึกข้อมูลซึ่งไม่เป็นไปตามเงื่อนไขสามข้อด้านล่างจะถูกละทิ้งโดยอัตโนมัติ"
+   },
+   "loggerSettingHideColumnContext": {
+      "message": "บริบท {{input}}"
+   },
+   "loggerSettingHideColumnFilter": {
+      "message": "ตัวกรอง/กฎ {{input}}"
+   },
+   "loggerSettingHideColumnPartyness": {
+      "message": "ปาร์ตี้เนส {{input}}"
+   },
+   "loggerSettingHideColumnTime": {
+      "message": "เวลา {{input}}"
+   },
+   "loggerSettingHideColumnsPrompt": {
+      "message": "ซ่อนคอลัมน์:"
+   },
+   "loggerSettingPerEntryLineCount": {
+      "message": "ใช้ {{input}} บรรทัดต่อรายการในโหมดขยายแนวตั้ง"
+   },
+   "loggerSettingPerEntryMaxAge": {
+      "message": "คงไว้ซึ่งรายการใน {{input}} นาทีสุดท้าย"
+   },
+   "loggerSettingPerTabMaxEntries": {
+      "message": "คงไว้มากที่สุด {{input}} รายการต่อแท็บ"
+   },
+   "loggerSettingPerTabMaxLoads": {
+      "message": "คงไว้ให้โหลดมากที่สุด {{input}} หน้าต่อแท็บ"
+   },
+   "loggerStaticFilteringFinderSentence1": {
+      "message": "ตัวกรองแบบคงที่ \u003Ccode>{{filter}}\u003C/code> พบใน:"
+   },
+   "loggerStaticFilteringFinderSentence2": {
+      "message": "ไม่พบตัวกรองแบบคงที่ \u003Ccode>{{filter}}\u003C/code> ในรายการตัวกรองใดๆ ที่เปิดใช้งานในปัจจุบัน"
+   },
+   "loggerStaticFilteringHeader": {
+      "message": "การกรองแบบคงที่"
+   },
+   "loggerStaticFilteringSentence": {
+      "message": "{{action}} คำร้องเครือข่าย {{type}} {{br}}ซึ่งที่อยู่ URL ตรงกับ {{url}} {{br}}และมาจาก {{origin}},{{br}}{{importance}} มีตัวกรองข้อยกเว้นการจับคู่"
+   },
+   "loggerStaticFilteringSentencePartAllow": {
+      "message": "อนุญาต"
+   },
+   "loggerStaticFilteringSentencePartAnyOrigin": {
+      "message": "จากที่ใดก็ได้"
+   },
+   "loggerStaticFilteringSentencePartAnyType": {
+      "message": "ประเภทใดก็ได้"
+   },
+   "loggerStaticFilteringSentencePartBlock": {
+      "message": "บล็อก"
+   },
+   "loggerStaticFilteringSentencePartImportant": {
+      "message": "แม้ว่า"
+   },
+   "loggerStaticFilteringSentencePartNotImportant": {
+      "message": "ยกเว้นเมื่อ"
+   },
+   "loggerStaticFilteringSentencePartOrigin": {
+      "message": "จาก ?{{origin}}?"
+   },
+   "loggerStaticFilteringSentencePartType": {
+      "message": "ประเภท ?{{type}}?"
+   },
+   "loggerURLFilteringContextLabel": {
+      "message": "บริบท:"
+   },
+   "loggerURLFilteringHeader": {
+      "message": "การกรอง URL แบบไดนามิก"
+   },
+   "loggerURLFilteringTypeLabel": {
+      "message": "ประเภท:"
+   },
+   "loggerUnpauseTip": {
+      "message": "ยกเลิกการหยุดตัวบันทึกข้อมูล"
+   },
+   "pickerContextMenuEntry": {
+      "message": "บล็อคองค์ประกอบ"
+   },
+   "pickerCosmeticFilters": {
+      "message": "ตัวกรองการตกแต่ง"
+   },
+   "pickerCosmeticFiltersHint": {
+      "message": "คลิก, Ctrl-click"
+   },
+   "pickerCreate": {
+      "message": "สร้าง"
+   },
+   "pickerNetFilters": {
+      "message": "ตัวกรองเครือข่าย"
+   },
+   "pickerPick": {
+      "message": "เลือก"
+   },
+   "pickerPreview": {
+      "message": "ดูตัวอย่าง"
+   },
+   "pickerQuit": {
+      "message": "ออก"
+   },
+   "popup1pScriptRulePrompt": {
+      "message": "สคริปต์บุคคลที่หนึ่ง"
+   },
+   "popup3pAnyRulePrompt": {
+      "message": "บุคคลที่สาม"
+   },
+   "popup3pFrameRulePrompt": {
+      "message": "เฟรมบุคคลที่สาม"
+   },
+   "popup3pPassiveRulePrompt": {
+      "message": " CSS/รูปภาพบุคคลที่สาม"
+   },
+   "popup3pScriptRulePrompt": {
+      "message": "สคริปต์บุคคลที่สาม"
+   },
+   "popupAdvancedSettings": {
+      "message": "การตั้งค่าขั้นสูง"
+   },
+   "popupAnyRulePrompt": {
+      "message": "ทั้งหมด"
+   },
+   "popupExtraAdsAllowedOnSites": {
+      "message": "อนุญาตตัวติดตามในเว็บนี้"
+   },
+   "popupExtraAdsBlockedOnPage": {
+      "message": "บล็อกตัวติดตามในหน้านี้"
+   },
+   "popupExtraAdsBlockedOnSites": {
+      "message": "บล็อกตัวติดตามในเว็บนี้"
+   },
+   "popupExtraAdsBlockedTotal": {
+      "message": "บล็อกตัวติดตามทั้งหมด"
+   },
+   "popupExtraLessOptions": {
+      "message": "ตัวเลือกน้อยลง"
+   },
+   "popupExtraListAllowedSites": {
+      "message": "รายชื่อเว็บไซต์ที่อนุญาต"
+   },
+   "popupExtraMoreInformation": {
+      "message": "ข้อมูลเพิ่มเติม"
+   },
+   "popupExtraMoreOptions": {
+      "message": "ตัวเลือกเพิ่มเติม"
+   },
+   "popupExtraNoSitesAddedYet": {
+      "message": "ยังไม่ได้เพิ่มเว็บไซต์"
+   },
+   "popupExtraProtectionCanNotEnabled": {
+      "message": "ไม่สามารถเปิดใช้งานการป้องกันบนเว็บไซต์นี้"
+   },
+   "popupExtraProtectionDisabledForSession": {
+      "message": "ไม่สามารถเปิดใช้งานการป้องกันสำหรับเซสชันนี้ได้"
+   },
+   "popupExtraSeeListAllowedSites": {
+      "message": "ดูรายชื่อเว็บไซต์ทั้งหมดที่อนุญาต"
+   },
+   "popupHitDomainCount": {
+      "message": "{{count}} จาก {{total}}"
+   },
+   "popupHitDomainCountPrompt": {
+      "message": "เชื่อมต่อโดเมนแล้ว"
+   },
+   "popupImageRulePrompt": {
+      "message": "รูปภาพ"
+   },
+   "popupInlineScriptRulePrompt": {
+      "message": "สคริปต์แบบอินไลน์"
+   },
+   "popupTipDashboard": {
+      "message": "เปิดแดชบอร์ด"
+   },
+   "popupTipGlobalRules": {
+      "message": "กฎสากล: คอลัมน์นี้มีไว้สำหรับกฎที่ใช้กับไซต์ทั้งหมด"
+   },
+   "popupTipLocalRules": {
+      "message": "กฏเฉพาะที่: คอลัมน์นี้มีไว้สำหรับกฏที่ใช้กับไซต์ปัจจุบันเท่านั้น\nกฏเฉพาะที่จะอยู่เหนือกฎสากล"
+   },
+   "popupTipLog": {
+      "message": "เปิดตัวบันทึกข้อมูล"
+   },
+   "popupTipNoCosmeticFiltering": {
+      "message": "สลับเปิดปิดตัวกรองการตกแต่งสำหรับไซต์นี้"
+   },
+   "popupTipNoCosmeticFiltering1": {
+      "message": "คลิกเพื่อปิดใช้งานตัวกรองการตกแต่งบนไซต์นี้"
+   },
+   "popupTipNoCosmeticFiltering2": {
+      "message": "คลิกเพื่อเปิดใช้งานตัวกรอบการตกแต่งบนไซต์นี้"
+   },
+   "popupTipNoLargeMedia": {
+      "message": "สลับใช้การบล็อกองค์ประกอบสื่อขนาดใหญ่สำหรับไซต์นี้"
+   },
+   "popupTipNoLargeMedia1": {
+      "message": "คลิกเพื่อบล็อกองค์ประกอบสื่อขนาดใหญ่บนไซต์นี้"
+   },
+   "popupTipNoLargeMedia2": {
+      "message": "คลิกเพื่อไม่บล็อกองค์ประกอบสื่อขนาดใหญ่บนไซต์นี้อีกต่อไป"
+   },
+   "popupTipNoPopups": {
+      "message": "สลับใช้การบล็อกป็อปอัพทั้งหมดสำหรับไซต์นี้"
+   },
+   "popupTipNoPopups1": {
+      "message": "คลิกเพื่อบล็อกป็อปอัพทั้งหมดบนไซต์นี้"
+   },
+   "popupTipNoPopups2": {
+      "message": "คลิกเพื่อไม่บล็อกป็อปอัพทั้งหมดบนไซต์นี้อีกต่อไป"
+   },
+   "popupTipNoRemoteFonts": {
+      "message": "สลับเปิดปิดการบล็อกฟอนต์ระยะไกลสำหรับไซต์นี้"
+   },
+   "popupTipNoRemoteFonts1": {
+      "message": "คลิกเพื่อบล็อกฟอนต์ระยะไกลบนไซต์นี้"
+   },
+   "popupTipNoRemoteFonts2": {
+      "message": "คลิกเพื่อไม่บล็อกฟอนต์ระยะไกลบนไซต์นี้อีกต่อไป"
+   },
+   "popupTipNoScripting1": {
+      "message": "คลิกเพื่อปิดใช้งาน JavaScript บนไซต์นี้"
+   },
+   "popupTipNoScripting2": {
+      "message": "คลิกเพื่อไม่ปิดใช้งาน JavaScript บนไซต์นี้อีกต่อไป"
+   },
+   "popupTipPicker": {
+      "message": "เข้าสู่โหมด Element Picker"
+   },
+   "popupTipRevertRules": {
+      "message": "คลิกเพื่อคืนกลับการเปลี่ยนแปลงของคุณ"
+   },
+   "popupTipSaveRules": {
+      "message": "คลิกเพื่อให้การเปลี่ยนแปลงของคุณเป็นไปอย่างถาวร"
+   },
+   "popupTipZapper": {
+      "message": "เข้าสู่โหมด Element Zapper"
+   },
+   "rulesCommit": {
+      "message": "ยืนยัน"
+   },
+   "rulesEdit": {
+      "message": "แก้ไข"
+   },
+   "rulesEditDiscard": {
+      "message": "ละทิ้ง"
+   },
+   "rulesEditSave": {
+      "message": "บันทึก"
+   },
+   "rulesExport": {
+      "message": "ส่งออกไปยังไฟล์"
+   },
+   "rulesFormatHint": {
+      "message": "ไวยากรณ์ของกฎ: \u003Ccode>source destination type action\u003C/code> (\u003Ca href='https://github.com/gorhill/uBlock/wiki/Dynamic-filtering:-rule-syntax'>full documentation\u003C/a>)"
+   },
+   "rulesHint": {
+      "message": "รายการกฎการกรองแบบไดนามิก"
+   },
+   "rulesImport": {
+      "message": "นำเข้าจากไฟล์..."
+   },
+   "rulesPageName": {
+      "message": "กฎของฉัน"
+   },
+   "rulesPermanentHeader": {
+      "message": "กฎถาวร"
+   },
+   "rulesRevert": {
+      "message": "คืนกลับ"
+   },
+   "rulesTemporaryHeader": {
+      "message": "กฎชั่วคราว"
+   },
+   "settingPerSiteSwitchGroup": {
+      "message": "พฤติกรรมเริ่มต้น"
+   },
+   "settingPerSiteSwitchGroupSynopsis": {
+      "message": "พฤติกรรมเริ่มต้นเหล่านี้สามารถลบล้างได้แบบต่อไซต์"
+   },
+   "settingsAdvancedUserPrompt": {
+      "message": "ฉันคือผู้ใช้งานขั้นสูง (\u003Ca href='https://github.com/gorhill/uBlock/wiki/Advanced-user-features'>จำเป็นต้องอ่าน\u003C/a>)"
+   },
+   "settingsAdvancedUserSettings": {
+      "message": "การตั้งค่าขั้นสูง"
+   },
+   "settingsCloudStorageEnabledPrompt": {
+      "message": "เปิดใช้งานการสนับสนุนการจัดเก็บข้อมูลบนคลาวด์"
+   },
+   "settingsCollapseBlockedPrompt": {
+      "message": "ซ่อนตัวยึดตำแหน่งขององค์ประกอบที่ถูกบล็อค"
+   },
+   "settingsColorBlindPrompt": {
+      "message": "ใช้ได้กับผู้ที่ตาบอดสี"
+   },
+   "settingsContextMenuPrompt": {
+      "message": "ใช้ประโยชน์จากเมนูบริบทเมื่อเหมาะสม"
+   },
+   "settingsHyperlinkAuditingDisabledPrompt": {
+      "message": "ปิดใช้งานการตรวจสอบไฮเปอร์ลิงก์"
+   },
+   "settingsIconBadgePrompt": {
+      "message": "แสดงจำนวนการร้องขอที่ถูกบล็อคบนไอคอน"
+   },
+   "settingsLastBackupPrompt": {
+      "message": "การสำรองข้อมูลล่าสุด:"
+   },
+   "settingsLastRestorePrompt": {
+      "message": "คืนค่าล่าสุด:"
+   },
+   "settingsNoCSPReportsPrompt": {
+      "message": "บล็อครายงาน CSP"
+   },
+   "settingsNoCosmeticFilteringPrompt": {
+      "message": "ปิดใช้งานตัวกรองการตกแต่ง"
+   },
+   "settingsNoLargeMediaPrompt": {
+      "message": "บล็อกองค์ประกอบสื่อที่ใหญ่กว่า {{input:number}} kB"
+   },
+   "settingsNoRemoteFontsPrompt": {
+      "message": "บล็อคฟอนต์จากระยะไกล"
+   },
+   "settingsNoScriptingPrompt": {
+      "message": "ปิดใช้งาน JavaScript"
+   },
+   "settingsPageName": {
+      "message": "การตั้งค่า"
+   },
+   "settingsPrefetchingDisabledPrompt": {
+      "message": "ปิดใช้งานการดึงข้อมูลล่วงหน้า (เพื่อป้องกันการเชื่อมต่อใดๆ สำหรับการร้องขอของเครือข่ายที่ถูกบล็อค)"
+   },
+   "settingsStorageUsed": {
+      "message": "พื้นที่จัดเก็บที่ใช้: {{value}} ไบต์"
+   },
+   "settingsTooltipsPrompt": {
+      "message": "ปิดใช้งานกล่องคำอธิบาย"
+   },
+   "settingsWebRTCIPAddressHiddenPrompt": {
+      "message": "ป้องกัน WebRTC มิให้ปล่อยข้อมูลที่อยู่ IP เฉพาะเครื่องให้รั่วไหลออกไป"
+   },
+   "shortcutCapturePlaceholder": {
+      "message": "พิมพ์ทางลัด"
+   },
+   "shortcutsPageName": {
+      "message": "ทางลัด"
+   },
+   "showDashboardButton": {
+      "message": "แสดงแดชบอร์ด"
+   },
+   "showNetworkLogButton": {
+      "message": "แสดงตัวบันทึกข้อมูล"
+   },
+   "statsPageName": {
+      "message": "CCleaner Anti-Tracking — ตัวบันทึกข้อมูล"
+   },
+   "subscriberConfirm": {
+      "message": "CCleaner Anti-Tracking: เพิ่ม URL ต่อไปนี้ลงในรายการตัวกรองแบบกำหนดเองของคุณหรือไม่\n\nTitle: \"{{title}}\"\nURL: {{url}}"
+   },
+   "whitelistApply": {
+      "message": "นำการเปลี่ยนแปลงไปใช้"
+   },
+   "whitelistExport": {
+      "message": "ส่งออก"
+   },
+   "whitelistExportFilename": {
+      "message": "CCleaner Anti-Tracking-whitelist_{{datetime}}.txt"
+   },
+   "whitelistImport": {
+      "message": "นำเข้าและผนวกรวม"
+   },
+   "whitelistPageName": {
+      "message": "บัญชีขาว"
+   },
+   "whitelistPrompt": {
+      "message": "คำสั่งในบัญชีขาวจะสั่งการว่าควรปิดใช้งานเว็บเพจใด CCleaner Anti-Tracking หนึ่งรายการต่อหนึ่งบรรทัด คำสั่งที่ใช้ไม่ได้จะถูกข้ามไปในเบื้องหลังแบบไม่แสดงให้เห็น และจะปิดใช้งานซอร์สโค้ดและแปลงให้เป็นความคิดเห็น"
+   }
+}

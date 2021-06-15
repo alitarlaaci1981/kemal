@@ -1,0 +1,117 @@
+{
+   "appDesc": {
+      "message": "Tải xuống video để xem ngoại tuyến"
+   },
+   "appName": {
+      "message": "Trình tải xuống Video"
+   },
+   "barDetachBtn": {
+      "description": "The Detach button text as visible on the floating bar",
+      "message": "Tháo"
+   },
+   "barDownloadBtn": {
+      "description": "The Download button text as visible on the floating bar",
+      "message": "Tải xuống"
+   },
+   "barMediaBtn": {
+      "description": "The Media button text as visible on the floating bar",
+      "message": "Phương tiện nghe nhìn"
+   },
+   "barQualityAudio": {
+      "description": "Audio title",
+      "message": "Âm thanh"
+   },
+   "barQualityVideo": {
+      "description": "Video title",
+      "message": "Video"
+   },
+   "barSettingsAbout": {
+      "description": "About Button in settings popup",
+      "message": "Thông tin thêm"
+   },
+   "barSettingsBtn": {
+      "description": "The Settings button text as visible on the floating bar",
+      "message": "Cài đặt"
+   },
+   "barSettingsDescription": {
+      "description": "Video download feature description in settings popup",
+      "message": "Được hỗ trợ bởi CCleaner Secure Browser"
+   },
+   "barSettingsDoNotShow": {
+      "description": "Button in settings popup disabling video-downloader",
+      "message": "Không hiển thị lại"
+   },
+   "barSettingsDoNotShowForSite": {
+      "description": "Button in settings popup disabling video-downloader for exact site",
+      "message": "Không hiển thị trên trang này"
+   },
+   "barSettingsTitle": {
+      "description": "Settings popup title in the floating bar",
+      "message": "Cài đặt"
+   },
+   "eulaContinue": {
+      "description": "EUlA continue button",
+      "message": "Tiếp tục"
+   },
+   "eulaText": {
+      "description": "EULA message displayed to the user",
+      "message": "Với việc chấp nhận \u003Cdiv>\u003Ca target='blank' href='$link$'>Thỏa thuận Cấp phép Người dùng Cuối\u003C/a>\u003C/div> (EULA), bạn thừa nhận và đồng ý rằng bạn chịu trách nhiệm sử dụng Trình tải xuống Video tuân thủ luật bản quyền hiện hành và điều khoản sử dụng của mọi trang web.",
+      "placeholders": {
+         "link": {
+            "content": "$1"
+         }
+      }
+   },
+   "eulaTitle": {
+      "description": "EULA popup title",
+      "message": "Trước khi tải xuống"
+   },
+   "eulaUnderstandAccept": {
+      "description": "EULA user agreement checkbox text",
+      "message": "Tôi hiểu và chấp nhận EULA"
+   },
+   "extensionName": {
+      "description": "Name shown in the extension button in SZB Control Center.",
+      "message": "Trình tải xuống Video"
+   },
+   "extensionTitle": {
+      "description": "Title shown on hover over the extension button in SZB Control Center.",
+      "message": "Tải xuống video để xem ngoại tuyến."
+   },
+   "optionUnknownSize": {
+      "description": "Videa or audio download option of unknown size",
+      "message": "kích thước không xác định"
+   },
+   "popupAudioHeading": {
+      "description": "The heading of the audio section in the media popup list",
+      "message": "Âm thanh"
+   },
+   "popupDisabledFor": {
+      "description": "Page was disabled for video downloader",
+      "message": "Đã tắt Trình tải xuống video cho"
+   },
+   "popupDownloadBtn": {
+      "description": "The Download button text as visible in the media popup list",
+      "message": "Tải xuống"
+   },
+   "popupEnable": {
+      "description": "Enable video downloader for current page",
+      "message": "Bật"
+   },
+   "popupNoVideos": {
+      "description": "Page does not contain any videos",
+      "message": "Trang này không có video nào để tải xuống"
+   },
+   "popupNoVideos_v2": {
+      "description": "",
+      "message": "Để tải xuống video, hãy đi tới trang chi tiết của video."
+   },
+   "popupVideoHeading": {
+      "description": "The heading of the video section in the media popup list",
+      "message": "Video"
+   },
+   "reattachBtn": {
+      "description": "The Reattach button text as visible on the detached video page",
+      "message": "Gắn lại"
+   }
+}

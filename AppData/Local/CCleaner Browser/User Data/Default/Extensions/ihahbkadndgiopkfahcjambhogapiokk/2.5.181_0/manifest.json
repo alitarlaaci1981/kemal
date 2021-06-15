@@ -1,0 +1,35 @@
+{
+   "author": "CCleaner",
+   "background": {
+      "persistent": true,
+      "scripts": [ "js/background.bundle.js" ]
+   },
+   "browser_action": {
+      "default_popup": "views/popup.html",
+      "default_title": "CCleaner __MSG_appName__"
+   },
+   "content_scripts": [ {
+      "all_frames": true,
+      "js": [ "js/fpattr.bundle.js", "js/content.bundle.js" ],
+      "match_about_blank": true,
+      "matches": [ "\u003Call_urls>", "http://*/*", "https://*/*" ],
+      "run_at": "document_start"
+   } ],
+   "content_security_policy": "script-src 'self'; object-src 'self'",
+   "dataKeys": [ "AFPData" ],
+   "default_locale": "en",
+   "description": "__MSG_appDescription__",
+   "icons": {
+      "128": "img/icon-128.png",
+      "16": "img/icon-16.png",
+      "48": "img/icon-48.png"
+   },
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAxN84LM1ToGybew9MO5X7RtBJtFle+1tUJOmrKNO+mTxmfVUcZQFnA79ycXDlSfkim9cyb+9qWj3YDrpsLH2cLaFAMUZAC2gWm5SWoBfvDyrAU8W7TKkQsb3e7QyzbZx8SW8nBpBHh1njKEhVBJ0nv+1sKo5K71grVtLXVMEkLvs2R8yikNrCCeiY7PY+M4govS4jXrz9Vta3jL7hWT091qR6I3KEIdSCkiJvKvctV7ds+3KS2/p7a1ce3EqtNfJzNJMPCA/ce7x0rVLNhWXepIF0IH6/pNBFkcW7COq+dxxqrxvAmm7q8YdLGrNLykYo/A0tlTrS6XPnJaZYQ6lNpQIDAQAB",
+   "manifest_version": 2,
+   "minimum_chrome_version": "73",
+   "name": "CCleaner __MSG_appName__",
+   "options_page": "views/options.html",
+   "permissions": [ "fontSettings", "storage", "tabs", "notifications", "webNavigation", "webRequest", "webRequestBlocking", "\u003Call_urls>" ],
+   "version": "2.5.181",
+   "web_accessible_resources": [ "img/*", "js/content.bundle.js", "content.bundle.js", "content.js", "fingerprint.attributes.js" ]
+}

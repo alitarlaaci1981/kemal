@@ -1,0 +1,28 @@
+{
+   "appDescription": {
+      "message": "Maschează amprenta dvs. digitală din browser și limitează urmărirea online"
+   },
+   "appName": {
+      "message": "Antiamprentare"
+   },
+   "popupStatusDisabled": {
+      "description": "Popup label shown when afp is disabled for current website",
+      "message": "Protecția amprentelor digitale este dezactivată pe acest site"
+   },
+   "popupStatusEnabled": {
+      "description": "Popup label shown when afp is enabled for current website",
+      "message": "Protecția amprentelor digitale este activată pe acest site"
+   },
+   "popupTotalFingerprintsAttemptsDetected": {
+      "description": "Popup total fingerprints attempts detected label",
+      "message": "Tentative de disimulare amprente digitale detectate în total"
+   },
+   "settingsAdvanced": {
+      "description": "Settings page title",
+      "message": "Setări avansate Antiamprentare"
+   },
+   "settingsSocialMediaLoginDetectionPrevention": {
+      "description": "Settings page social media login detection prevention title",
+      "message": "Prevenirea detectării conectării la rețele sociale"
+   }
+}

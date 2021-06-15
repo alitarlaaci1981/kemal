@@ -1,0 +1,28 @@
+{
+   "appDescription": {
+      "message": "Skjuler nettleserens ID-informasjon for å begrense sporing på nettet"
+   },
+   "appName": {
+      "message": "ID-beskyttelse"
+   },
+   "popupStatusDisabled": {
+      "description": "Popup label shown when afp is disabled for current website",
+      "message": "ID-beskyttelse er deaktivert på dette nettstedet"
+   },
+   "popupStatusEnabled": {
+      "description": "Popup label shown when afp is enabled for current website",
+      "message": "ID-beskyttelse er aktivert på dette nettstedet"
+   },
+   "popupTotalFingerprintsAttemptsDetected": {
+      "description": "Popup total fingerprints attempts detected label",
+      "message": "Antall ID-forsøk oppdaget totalt"
+   },
+   "settingsAdvanced": {
+      "description": "Settings page title",
+      "message": "Avanserte innstillinger for ID-beskyttelse"
+   },
+   "settingsSocialMediaLoginDetectionPrevention": {
+      "description": "Settings page social media login detection prevention title",
+      "message": "Hindre oppdagelse av pålogging via sosiale medier"
+   }
+}

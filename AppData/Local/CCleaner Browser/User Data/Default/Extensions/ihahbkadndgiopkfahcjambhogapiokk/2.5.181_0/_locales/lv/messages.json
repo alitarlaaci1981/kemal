@@ -1,0 +1,28 @@
+{
+   "appDescription": {
+      "message": "Slēpj mana pārlūka pirksta nospiedumu un ierobežo izsekošanu tiešsaistē"
+   },
+   "appName": {
+      "message": "Anonimizācijas tehnoloģija"
+   },
+   "popupStatusDisabled": {
+      "description": "Popup label shown when afp is disabled for current website",
+      "message": "Šajā vietnē ir atspējota pirksta nospieduma aizsardzība"
+   },
+   "popupStatusEnabled": {
+      "description": "Popup label shown when afp is enabled for current website",
+      "message": "Šajā vietnē ir iespējota pirksta nospieduma aizsardzība"
+   },
+   "popupTotalFingerprintsAttemptsDetected": {
+      "description": "Popup total fingerprints attempts detected label",
+      "message": "Konstatēto pirksta nospieduma mēģinājumu kopskaits"
+   },
+   "settingsAdvanced": {
+      "description": "Settings page title",
+      "message": "Anonimizācijas tehnoloģijas uzlabotie iestatījumi"
+   },
+   "settingsSocialMediaLoginDetectionPrevention": {
+      "description": "Settings page social media login detection prevention title",
+      "message": "Sociālo tīklu lietotājvārda noteikšanas novēršana"
+   }
+}

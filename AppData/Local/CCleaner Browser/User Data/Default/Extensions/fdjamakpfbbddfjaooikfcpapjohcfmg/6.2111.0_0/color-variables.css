@@ -1,0 +1,73 @@
+:root {
+  --dash-green-00: #0e353d;
+  --dash-green-01: #3e5d64;
+  --dash-green-02: #6e868b;
+  --dash-green-03: #9faeb1;
+  --dash-green-04: #cfd7d8;
+  --dash-green-05: #d9dfe0;
+  --dash-green-06: #f5f7f7;
+
+  --dash-darker-green-00: #071a1e;
+
+  --mid-green-00: #0e6476;
+  --mid-green-01: #3e8391;
+  --mid-green-02: #6ea2ad;
+  --mid-green-03: #9fc1c8;
+  --mid-green-04: #cfe0e4;
+  --mid-green-05: #d9e6e9;
+
+  --pink-00: #fdb5af;
+  --pink-01: #fdc4bf;
+  --pink-02: #fed3cf;
+  --pink-03: #fee1df;
+  --pink-04: #fff0ef;
+  --pink-05: #fff3f2;
+
+  --orange-00: #fe5b33;
+  --orange-01: #fe7c5c;
+  --orange-02: #fe9d85;
+  --orange-03: #ffbdad;
+  --orange-04: #ffded6;
+  --orange-05: #ffe5de;
+
+  --functional-red-00: #4e000d;
+  --functional-red-01: #8b0018;
+  --functional-red-02: #ff002d;
+  --functional-red-03: #ffa49f;
+
+  --red-00: #bf0a33;
+  --red-01: #cc3b5c;
+  --red-02: #d96c85;
+  --red-03: #e59dad;
+  --red-04: #f2ced6;
+  --red-05: #f5d8de;
+
+  --black: #000000;
+  --white: #ffffff;
+
+  --grey-00: #615b57;
+  --grey-01: #999592;
+  --grey-02: #ccc7c2;
+  --grey-03: #d6d2ce;
+  --grey-04: #e0ddda;
+  --grey-05: #ebe9e7;
+  --grey-06: #f5f4f3;
+
+  --validator-green: #20b422;
+  --validator-red: var(--functional-red-02);
+
+  --accessible-validator-green: #278637;
+  --accessible-validator-red: #e00635;
+
+  --red: var(--red-00);
+  --orange: var(--orange-00);
+  --pink: var(--pink-00);
+  --dash-green: var(--dash-green-00);
+  --mid-green: var(--mid-green-00);
+
+  --modal-box-shadow-color: rgba(0, 0, 0, 0.2);
+  --transparent-black-color: rgba(0, 0, 0, 0.75);
+  --transparent-dark-background-color: rgba(71, 71, 71, 0.75);
+  --transparent-white-color: rgba(255, 255, 255, 0.75);
+  --transparent-dash-green-00-background-color: rgba(14, 53, 61, 0.9);
+}

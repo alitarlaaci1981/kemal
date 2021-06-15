@@ -1,0 +1,28 @@
+{
+   "appDescription": {
+      "message": "Prikrije prstni odtis brskalnika in omeji sledenje v spletu"
+   },
+   "appName": {
+      "message": "Preprečevanje zajema prstnih odtisov"
+   },
+   "popupStatusDisabled": {
+      "description": "Popup label shown when afp is disabled for current website",
+      "message": "Na tem spletnem mestu je onemogočena zaščita prstnih odtisov"
+   },
+   "popupStatusEnabled": {
+      "description": "Popup label shown when afp is enabled for current website",
+      "message": "Na tem spletnem mestu je omogočena zaščita prstnih odtisov"
+   },
+   "popupTotalFingerprintsAttemptsDetected": {
+      "description": "Popup total fingerprints attempts detected label",
+      "message": "Skupno število zaznanih poskusov zajemanja prstnih odtisov"
+   },
+   "settingsAdvanced": {
+      "description": "Settings page title",
+      "message": "Napredne nastavitve preprečevanja zajemanja prstnih odtisov"
+   },
+   "settingsSocialMediaLoginDetectionPrevention": {
+      "description": "Settings page social media login detection prevention title",
+      "message": "Preprečevanje zaznavanja prijave v družabne medije"
+   }
+}

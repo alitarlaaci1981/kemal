@@ -1,0 +1,117 @@
+{
+   "appDesc": {
+      "message": "Descărcați videoclipuri pentru vizualizare offline"
+   },
+   "appName": {
+      "message": "Descărcare video"
+   },
+   "barDetachBtn": {
+      "description": "The Detach button text as visible on the floating bar",
+      "message": "Desprindere"
+   },
+   "barDownloadBtn": {
+      "description": "The Download button text as visible on the floating bar",
+      "message": "Descărcare"
+   },
+   "barMediaBtn": {
+      "description": "The Media button text as visible on the floating bar",
+      "message": "Multimedia"
+   },
+   "barQualityAudio": {
+      "description": "Audio title",
+      "message": "Audio"
+   },
+   "barQualityVideo": {
+      "description": "Video title",
+      "message": "Video"
+   },
+   "barSettingsAbout": {
+      "description": "About Button in settings popup",
+      "message": "Mai multe informații"
+   },
+   "barSettingsBtn": {
+      "description": "The Settings button text as visible on the floating bar",
+      "message": "Setări"
+   },
+   "barSettingsDescription": {
+      "description": "Video download feature description in settings popup",
+      "message": "Pe platformă CCleaner Secure Browser"
+   },
+   "barSettingsDoNotShow": {
+      "description": "Button in settings popup disabling video-downloader",
+      "message": "Nu se mai afișează"
+   },
+   "barSettingsDoNotShowForSite": {
+      "description": "Button in settings popup disabling video-downloader for exact site",
+      "message": "Nu se afișează pe acest site"
+   },
+   "barSettingsTitle": {
+      "description": "Settings popup title in the floating bar",
+      "message": "Setări"
+   },
+   "eulaContinue": {
+      "description": "EUlA continue button",
+      "message": "Continuare"
+   },
+   "eulaText": {
+      "description": "EULA message displayed to the user",
+      "message": "Prin acceptarea \u003Cdiv>\u003Ca target='blank' href='$link$'>Acordului nostru de licență pentru utilizatorul final\u003C/a>\u003C/div> (EULA), confirmați și sunteți de acord că este responsabilitatea dvs. să utilizați instrumentul de Descărcare video în conformitate cu legile în vigoare privind drepturile de autor și cu termenii de utilizare pentru orice site Web.",
+      "placeholders": {
+         "link": {
+            "content": "$1"
+         }
+      }
+   },
+   "eulaTitle": {
+      "description": "EULA popup title",
+      "message": "Înainte de descărcare"
+   },
+   "eulaUnderstandAccept": {
+      "description": "EULA user agreement checkbox text",
+      "message": "Am înțeles și accept acordul EULA"
+   },
+   "extensionName": {
+      "description": "Name shown in the extension button in SZB Control Center.",
+      "message": "Descărcare video"
+   },
+   "extensionTitle": {
+      "description": "Title shown on hover over the extension button in SZB Control Center.",
+      "message": "Descărcați videoclipuri pentru vizualizare offline."
+   },
+   "optionUnknownSize": {
+      "description": "Videa or audio download option of unknown size",
+      "message": "dimensiune necunoscută"
+   },
+   "popupAudioHeading": {
+      "description": "The heading of the audio section in the media popup list",
+      "message": "Audio"
+   },
+   "popupDisabledFor": {
+      "description": "Page was disabled for video downloader",
+      "message": "Descărcarea video este dezactivată pentru"
+   },
+   "popupDownloadBtn": {
+      "description": "The Download button text as visible in the media popup list",
+      "message": "Descărcare"
+   },
+   "popupEnable": {
+      "description": "Enable video downloader for current page",
+      "message": "Activare"
+   },
+   "popupNoVideos": {
+      "description": "Page does not contain any videos",
+      "message": "Nu există videoclipuri de descărcat de pe această pagină"
+   },
+   "popupNoVideos_v2": {
+      "description": "",
+      "message": "Pentru a descărca un videoclip, accesați pagina cu detaliile acestuia."
+   },
+   "popupVideoHeading": {
+      "description": "The heading of the video section in the media popup list",
+      "message": "Video"
+   },
+   "reattachBtn": {
+      "description": "The Reattach button text as visible on the detached video page",
+      "message": "Reatașare"
+   }
+}

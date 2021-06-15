@@ -1,0 +1,28 @@
+{
+   "appDescription": {
+      "message": "Che giấu thông tin nhận dạng trên trình duyệt và hạn chế theo dõi trực tuyến"
+   },
+   "appName": {
+      "message": "Chống In dấu vân tay"
+   },
+   "popupStatusDisabled": {
+      "description": "Popup label shown when afp is disabled for current website",
+      "message": "Tính năng Bảo vệ thông tin nhận dạng bị tắt trên trang web này"
+   },
+   "popupStatusEnabled": {
+      "description": "Popup label shown when afp is enabled for current website",
+      "message": "Tính năng Bảo vệ thông tin nhận dạng được bật trên trang web này"
+   },
+   "popupTotalFingerprintsAttemptsDetected": {
+      "description": "Popup total fingerprints attempts detected label",
+      "message": "Tổng số nỗ lực đánh cắp thông tin nhận dạng phát hiện được"
+   },
+   "settingsAdvanced": {
+      "description": "Settings page title",
+      "message": "Cài đặt Chống In dấu vân tay nâng cao"
+   },
+   "settingsSocialMediaLoginDetectionPrevention": {
+      "description": "Settings page social media login detection prevention title",
+      "message": "Ngăn chặn việc phát hiện đăng nhập vào mạng xã hội"
+   }
+}

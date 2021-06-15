@@ -1,0 +1,28 @@
+{
+   "appDescription": {
+      "message": "Paslepia jūsų naršyklės identifikavimo informaciją ir riboja sekimą internete"
+   },
+   "appName": {
+      "message": "Identifikavimo blokavimas"
+   },
+   "popupStatusDisabled": {
+      "description": "Popup label shown when afp is disabled for current website",
+      "message": "Šioje svetainėje išjungta identifikavimo apsauga"
+   },
+   "popupStatusEnabled": {
+      "description": "Popup label shown when afp is enabled for current website",
+      "message": "Šioje svetainėje įjungta identifikavimo apsauga"
+   },
+   "popupTotalFingerprintsAttemptsDetected": {
+      "description": "Popup total fingerprints attempts detected label",
+      "message": "Iš viso aptikta identifikavimo bandymų"
+   },
+   "settingsAdvanced": {
+      "description": "Settings page title",
+      "message": "Pažangiosios identifikavimo blokavimo nuostatos"
+   },
+   "settingsSocialMediaLoginDetectionPrevention": {
+      "description": "Settings page social media login detection prevention title",
+      "message": "Apsauga nuo socialinės žiniasklaidos prisijungimo aptikimo"
+   }
+}

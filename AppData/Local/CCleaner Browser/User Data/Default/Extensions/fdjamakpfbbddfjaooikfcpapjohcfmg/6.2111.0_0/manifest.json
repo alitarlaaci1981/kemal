@@ -1,0 +1,52 @@
+{
+   "author": "Dashlane",
+   "background": {
+      "persistent": true,
+      "scripts": [ "content/scripts/vendors.js", "content/scripts/background.js", "content/scripts/deps.js", "content/scripts/carbon.js", "content/tiresias/js/background.js" ]
+   },
+   "browser_action": {
+      "default_icon": {
+         "19": "skin/icon/icon_loading.png",
+         "38": "skin/icon/icon_loading@2x.png"
+      },
+      "default_title": "Dashlane"
+   },
+   "commands": {
+      "_execute_browser_action": {
+         "suggested_key": {
+            "default": "Ctrl+Shift+X"
+         }
+      }
+   },
+   "content_scripts": [ {
+      "all_frames": true,
+      "css": [ "styles/webui-frame.css" ],
+      "exclude_globs": [ "*://www.google.*/*sourceid=chrome-instant*", "*://www.google.*/blank.html*" ],
+      "exclude_matches": [ "*://platform.twitter.com/widgets/*", "*://www.facebook.com/plugins/*", "*://plusone.google.com/_/+1/*" ],
+      "js": [ "content/contentScripts/kwift.CHROME.min.js" ],
+      "matches": [ "http://*/*", "https://*/*" ],
+      "run_at": "document_end"
+   } ],
+   "content_security_policy": "script-src 'self' 'unsafe-eval' https://js.processout.com/processout.js; object-src 'self'",
+   "default_locale": "en",
+   "description": "__MSG_ExtensionDescription__",
+   "differential_fingerprint": "1.68148ad89315a974c530b173439df7616193cf6d7886fed42ebc15f081d2a569",
+   "homepage_url": "https://www.dashlane.com/",
+   "icons": {
+      "128": "skin/icon/dashlane-128px.png",
+      "16": "skin/icon/dashlane-16px.png",
+      "48": "skin/icon/dashlane-48px.png"
+   },
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEArf+Mb0ro41bJ+FURIhp7YhwTyaP1UbJY2pMApYFTnl1F++bW65Zf80pwIRFt4b6VUQ7qt3kNE3XWrN5VUpbO5pasQZLk4czaEJzFBGPsxFfe89guXb2Xd6CGAHpfdn+wPIU8hMie0ajoUqIC+YWjEZJ0vf3lP0r9EpEbPUSCdg1SjvLb/NzNzq2h/Eev/BfcrEZ7e3wEb9NgM2/pdP2tfowmBg6xLuoiUz2TaQbTVoBRgmkpik3gy4KojFaHgdidT7AVGIpmHZycEd491E9MG/mHuQ0nWZD9pJOp9n1dBHA4LAq5WxU6f/K+h+qhekWO7KVK0M3/mwxxGhizPbjpJQIDAQAB",
+   "manifest_version": 2,
+   "name": "__MSG_ExtensionName__",
+   "options_ui": {
+      "chrome_style": false,
+      "open_in_tab": true,
+      "page": "options.html"
+   },
+   "permissions": [ "http://*/*", "https://*/*", "tabs", "privacy", "storage", "unlimitedStorage", "webRequest", "webRequestBlocking", "cookies", "idle", "commands", "nativeMessaging" ],
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "6.2111.0",
+   "web_accessible_resources": [ "content/webui/index.html", "content/injected/logo-autofill-known.svg", "content/injected/logo-autofill-unknown.svg" ]
+}

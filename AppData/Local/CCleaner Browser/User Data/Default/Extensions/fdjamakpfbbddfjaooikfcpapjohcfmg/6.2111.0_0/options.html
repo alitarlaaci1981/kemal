@@ -1,0 +1,343 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <title>Dashlane Extension - Options</title>
+    <style>
+      /* GT Walsheim Pro */
+
+      @font-face {
+        font-family: 'GT Walsheim Pro';
+        font-weight: 500;
+        font-style: normal;
+        font-stretch: normal;
+        src: local('GTWalsheimPro-Medium'),
+          url('../styles/font/GT-Walsheim-Pro-Medium.woff') format('woff');
+      }
+
+      /* Public Sans */
+
+      @font-face {
+        font-family: 'Public Sans';
+        font-weight: 400;
+        font-style: normal;
+        font-stretch: normal;
+        src: local('PublicSans-Regular'),
+          url('../styles/font/PublicSans-Regular.woff') format('woff');
+      }
+
+      @font-face {
+        font-family: 'Public Sans';
+        font-weight: 600;
+        font-style: normal;
+        font-stretch: normal;
+        src: local('PublicSans-SemiBold'),
+          url('../styles/font/PublicSans-SemiBold.woff') format('woff');
+      }
+
+      body {
+        overflow: hidden;
+        --font: 'Public Sans', 'Helvetica Neue', Helvetica, Arial,
+          'Lucida Grande', sans-serif;
+        --title-font: 'GT Walsheim Pro', 'Helvetica Neue', Helvetica, Arial,
+          'Lucida Grande', sans-serif;
+      }
+
+      .card {
+        display: flex;
+        flex-direction: column;
+        align-items: flex-start;
+        padding: 32px !important;
+
+        width: 480px !important;
+
+        overflow-y: auto;
+        position: fixed;
+        top: 32px;
+        bottom: 32px;
+        left: calc(50% - 240px);
+
+        background: #ffffff;
+
+        box-shadow: 0px 12px 24px rgba(0, 0, 0, 0.24);
+        border-radius: 8px;
+
+        font-family: var(--font);
+        font-style: normal;
+        font-weight: 600;
+        font-size: 12px;
+        line-height: 16px;
+      }
+
+      h2 {
+        text-transform: uppercase;
+        font-family: var(--font);
+        font-style: normal;
+        font-weight: 500;
+        font-size: 12px;
+        line-height: 16px;
+
+        color: #3e5d64;
+        margin: 16px 0px;
+      }
+
+      label {
+        font-family: var(--font);
+        font-style: normal;
+        font-weight: normal;
+        font-size: 14px;
+        line-height: 20px;
+
+        color: #000000;
+      }
+
+      [type='radio']:not(:checked),
+      [type='radio']:checked {
+        position: absolute;
+        left: 0;
+        opacity: 0.01;
+      }
+
+      [type='radio'] + label::before {
+        content: ' ';
+        display: inline-block;
+        width: 12px;
+        height: 12px;
+        background-color: white;
+        position: absolute;
+        top: 4px;
+        border-radius: 24px;
+        left: 6px;
+        top: 6px;
+      }
+
+      [type='radio'] + label {
+        overflow: visible;
+        border-radius: 24px;
+        border: #3e5d64 thin solid;
+        display: inline-block;
+        max-width: 24px;
+        width: 24px;
+        height: 24px;
+        position: relative;
+        margin-inline-end: 10px;
+      }
+
+      [type='radio']:checked + label::before {
+        background-color: #0e6476;
+      }
+
+      .radioItem {
+        margin-bottom: 0.5em;
+        display: flex;
+        flex-direction: row;
+        align-items: center;
+      }
+
+      .radioItemDescription {
+        font-family: var(--font);
+        font-style: normal;
+        font-weight: normal;
+        font-size: 12px;
+        line-height: 16px;
+
+        display: flex;
+        align-items: center;
+
+        color: #3e5d64;
+
+        margin-top: 6px;
+        margin-bottom: 18px;
+        margin-left: 35px;
+      }
+
+      #full_version_info {
+        display: none;
+      }
+
+      .version_info {
+        color: grey;
+        font-size: 13px;
+      }
+
+      .hidden {
+        display: none;
+      }
+
+      button {
+        font-family: var(--font);
+        font-style: normal;
+        font-weight: 500;
+        font-size: 12px;
+        line-height: 16px;
+
+        width: 125px;
+        height: 32px;
+        padding: 8px 16px;
+        margin-top: 6px;
+        margin-bottom: 26px;
+
+        appearance: none !important;
+        background: #0e6476;
+        color: white;
+        border: none transparent;
+        border-radius: 4px;
+
+        cursor: pointer;
+      }
+
+      form:not(:last-of-type) {
+        border-bottom: 1px solid #ebe9e7;
+      }
+
+      .warning {
+        background: #ffe5de;
+        border-radius: 4px;
+        font-family: var(--font);
+        font-style: normal;
+        font-weight: normal;
+        font-size: 12px;
+        line-height: 16px;
+
+        color: #bf2600;
+
+        padding: 12px;
+        padding-left: 36px;
+
+        margin-left: 32px;
+        margin-bottom: 18px;
+        position: relative;
+      }
+
+      #infoIcon {
+        position: absolute;
+        left: 8px;
+      }
+
+      h1 {
+        font-family: var(--title-font);
+        font-style: normal;
+        font-weight: 500;
+        font-size: 25px;
+        line-height: 28px;
+
+        color: #000000;
+
+        margin-bottom: 30px;
+      }
+
+      #logo {
+        width: 40px;
+        height: 40px;
+        margin-right: 10px;
+        vertical-align: middle;
+      }
+
+      #short_version_info {
+        cursor: pointer;
+      }
+
+      #short_version_info:hover {
+        text-decoration: underline;
+      }
+    </style>
+  </head>
+  <body>
+    <div class="card">
+      <h1>
+        <img id="logo" alt="Dashlane Logo" />
+        <span id="extensionName">Dashlane</span>
+      </h1>
+      <form id="mode_selector_form">
+        <h2>Extension Mode</h2>
+
+        <div class="browser-style">
+          <div class="radioItem">
+            <input
+              type="radio"
+              name="standalone"
+              value="true"
+              id="standalone"
+            />
+            <label for="standalone"></label>
+            <label for="standalone">Standalone</label>
+          </div>
+
+          <p class="radioItemDescription">
+            Can be used without installing the desktop application. On Linux,
+            this is the only mode available.
+          </p>
+
+          <div class="radioItem">
+            <input type="radio" name="standalone" value="false" id="desktop" />
+            <label for="desktop"></label>
+            <label for="desktop">Desktop</label>
+          </div>
+
+          <p class="radioItemDescription">
+            Requires the Dashlane application to be installed on your
+            Windows/Mac computer.
+          </p>
+        </div>
+
+        <button class="browser-style" type="submit">
+          Save and restart
+        </button>
+      </form>
+
+      <form id="engine_selector_form" class="hidden">
+        <h2>Engine selection</h2>
+
+        <div class="browser-style">
+          <div class="radioItem">
+            <input
+              type="radio"
+              name="marshmallow"
+              value="true"
+              id="marshmallow"
+            />
+            <label for="marshmallow"></label>
+            <label for="marshmallow">Machine Learning Engine (Beta)</label>
+          </div>
+          <p class="radioItemDescription">
+            Use the newly improved engine to classify forms and fields.&nbsp;<a
+              target="_blank"
+              href="https://support.dashlane.com/hc/articles/360006828759"
+            >
+              Learn more </a
+            >.
+          </p>
+
+          <div class="radioItem">
+            <input
+              type="radio"
+              name="marshmallow"
+              value="false"
+              id="rule-based"
+            />
+            <label for="rule-based"></label>
+            <label for="rule-based">Semantic Rule Engine</label>
+          </div>
+          <p class="radioItemDescription">
+            Use the analysis engine currently in production.
+          </p>
+        </div>
+
+        <div>
+          <button class="browser-style" type="submit">Save changes</button>
+          <span
+            id="confirmEngineChanged"
+            class="hidden"
+            style="font-style: italic; color: green;"
+          >
+            Saved
+          </span>
+        </div>
+      </form>
+      <pre class="version_info" id="short_version_info"></pre>
+      <pre class="version_info" id="full_version_info"></pre>
+    </div>
+
+    <script src="options.js"></script>
+  </body>
+</html>

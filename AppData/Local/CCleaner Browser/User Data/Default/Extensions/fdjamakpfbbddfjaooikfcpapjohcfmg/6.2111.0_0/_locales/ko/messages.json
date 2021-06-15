@@ -1,0 +1,10 @@
+{
+   "ExtensionDescription": {
+      "description": "Description of the extension on chrome_extension page below extension title",
+      "message": "Dashlane을 사용하면 인터넷이 훨씬 쉬워집니다. 모든 암호를 저장하고 양식을 빠르게 채우고 데이터를 액세스 가능한 상태로 안전하게 유지하십시오."
+   },
+   "ExtensionName": {
+      "description": "Name of the extension on chrome_extension page and on Chrome Web Store page",
+      "message": "Dashlane 암호 관리자"
+   }
+}

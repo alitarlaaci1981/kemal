@@ -1,0 +1,28 @@
+{
+   "appDescription": {
+      "message": "브라우저 지문을 위장하고 온라인 추적을 제한합니다"
+   },
+   "appName": {
+      "message": "Anti-Fingerprinting"
+   },
+   "popupStatusDisabled": {
+      "description": "Popup label shown when afp is disabled for current website",
+      "message": "이 사이트에서 지문 보호 기능이 비활성화됨"
+   },
+   "popupStatusEnabled": {
+      "description": "Popup label shown when afp is enabled for current website",
+      "message": "이 사이트에서 지문 보호 기능이 활성화됨"
+   },
+   "popupTotalFingerprintsAttemptsDetected": {
+      "description": "Popup total fingerprints attempts detected label",
+      "message": "지문 시도가 탐지된 총 횟수"
+   },
+   "settingsAdvanced": {
+      "description": "Settings page title",
+      "message": "Anti-Fingerprinting 고급 설정"
+   },
+   "settingsSocialMediaLoginDetectionPrevention": {
+      "description": "Settings page social media login detection prevention title",
+      "message": "소셜 미디어 로그인 탐지 차단"
+   }
+}

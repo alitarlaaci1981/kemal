@@ -1,0 +1,857 @@
+{
+   "1pApplyChanges": {
+      "message": "Εφαρμογή αλλαγών"
+   },
+   "1pExport": {
+      "message": "Εξαγωγή"
+   },
+   "1pFormatHint": {
+      "message": "Ένα φίλτρο ανά γραμμή. Το φίλτρο μπορεί να είναι ένα απλό όνομα κεντρικού υπολογιστή ή ένα φίλτρο συμβατό με το Adblock Plus. Γραμμές με το πρόθεμα &lsquo;!&rsquo; θα παραβλέπονται σιωπηλά."
+   },
+   "1pImport": {
+      "message": "Εισαγωγή και προσάρτηση"
+   },
+   "1pPageName": {
+      "message": " Τα Φίλτρα μου"
+   },
+   "3pApplyChanges": {
+      "message": "Εφαρμογή αλλαγών"
+   },
+   "3pAutoUpdatePrompt1": {
+      "message": "Αυτόματη ενημέρωση λίστας φίλτρων"
+   },
+   "3pExternalListObsolete": {
+      "message": "Ξεπερασμένο."
+   },
+   "3pExternalListsHint": {
+      "message": "Μία διεύθυνση URL ανά γραμμή. Γραμμές με πρόθεμα &lsquo;!&rsquo; θα παραβλέπονται. Μη έγκυρες διευθύνσεις URL θα παραβλέπονται σιωπηλά."
+   },
+   "3pGroupAds": {
+      "message": "Διαφημ."
+   },
+   "3pGroupAnnoyances": {
+      "message": "Ενοχλήσεις"
+   },
+   "3pGroupCustom": {
+      "message": "Προσαρμοσμ."
+   },
+   "3pGroupDefault": {
+      "message": "Φίλτρα δικτύου & διακόσμησης"
+   },
+   "3pGroupMalware": {
+      "message": "Τομείς κακόβουλου λογισμικού"
+   },
+   "3pGroupMultipurpose": {
+      "message": "Πολλαπλών χρήσεων"
+   },
+   "3pGroupPrivacy": {
+      "message": "Απόρρητο"
+   },
+   "3pGroupRegions": {
+      "message": "Περιoχές, γλώσσες"
+   },
+   "3pIgnoreGenericCosmeticFilters": {
+      "message": "Παράβλεψη γενικών κοσμητικών φίλτρων"
+   },
+   "3pIgnoreGenericCosmeticFiltersInfo": {
+      "message": "\u003Cp>Τα γενικά κοσμητικά φίλτρα είναι τα κοσμητικά φίλτρα που προορίζονται για εφαρμογή σε όλους τους ιστότοπους.\u003Cp>Παρά την αποτελεσματική διαχείριση του CCleaner Anti-Tracking, τα γενικά κοσμητικά φίλτρα μπορούν να συμβάλλουν σε σημαντική οικονομία μνήμης και CPU σε ορισμένες ιστοσελίδες.\u003Cp>Η ενεργοποίηση αυτής της επιλογής θα εξαλείψει τη σπατάλη μνήμης και CPU που προστίθεται στις ιστοσελίδες ως αποτέλεσμα του χειρισμού γενικών κοσμητικών φίλτρων, ενώ θα μειώσει επίσης το αποτύπωμα μνήμης του CCleaner Anti-Tracking.\u003Cp>Σας συνιστούμε να ενεργοποιήσετε αυτήν την επιλογή σε συσκευές που δεν είναι ιδιαίτερα ισχυρές."
+   },
+   "3pImport": {
+      "message": "Εισαγωγή..."
+   },
+   "3pLastUpdate": {
+      "message": "Τελευταία ενημέρωση: {{ago}}. \nΚάντε κλικ εδώ για υποχρεωτική ενημέρωση."
+   },
+   "3pListsOfBlockedHostsHeader": {
+      "message": "Λίστες αποκλεισμένων κεντρικών υπολογιστών"
+   },
+   "3pListsOfBlockedHostsPerListStats": {
+      "message": "{{used}} σε χρήση από {{total}}"
+   },
+   "3pListsOfBlockedHostsPrompt": {
+      "message": "{{netFilterCount}} φίλτρα δικτύου ＋ {{cosmeticFilterCount}} κοσμητικά φίλτρα από:"
+   },
+   "3pNetworkError": {
+      "message": "Ένα σφάλμα δικτύου εμπόδισε την ενημέρωση της προέλευσης."
+   },
+   "3pPageName": {
+      "message": "Φίλτρα τρίτων"
+   },
+   "3pParseAllABPHideFiltersInfo": {
+      "message": "\u003Cp>Αυτή η επιλογή επιτρέπει την ανάλυση και επιβολή φίλτρων &ldquo;απόκρυψης στοιχείων&rdquo; συμβατών με το \u003Ca href=\"https://adblockplus.org/en/faq_internal#elemhide\">Adblock Plus\u003C/a>. Πρόκειται για φίλτρα που είναι ουσιαστικά κοσμητικά, χρησιμεύουν σε ιστοσελίδες για την απόκρυψη στοιχείων που θεωρούνται οπτική όχληση και δεν μπορούν να αποκλειστούν από τη μηχανή φιλτραρίσματος κατόπιν αιτήματος.\u003C/p>\u003Cp>Η ενεργοποίηση αυτής της λειτουργίας αυξάνει το αποτύπωμα μνήμης του CCleaner Anti-Tracking.\u003C/p>"
+   },
+   "3pParseAllABPHideFiltersPrompt1": {
+      "message": "Ανάλυση και επιβολή κοσμητικών φίλτρων"
+   },
+   "3pPurgeAll": {
+      "message": "Εκκαθάριση όλων των cache"
+   },
+   "3pUpdateNow": {
+      "message": "Ενημέρωση τώρα"
+   },
+   "3pUpdating": {
+      "message": "Ενημέρωση..."
+   },
+   "aboutBackupDataButton": {
+      "message": "Δημιουργία backup σε αρχείο"
+   },
+   "aboutBackupFilename": {
+      "message": "CCleaner Anti-Tracking-backup_{{datetime}}.txt"
+   },
+   "aboutChangelog": {
+      "message": "Καταγραφή αλλαγών"
+   },
+   "aboutCode": {
+      "message": "Κώδικας προέλευσης (GPLv3)"
+   },
+   "aboutContributors": {
+      "message": "Συνεργάτες"
+   },
+   "aboutDependencies": {
+      "message": "Εξωτερικές εξαρτήσεις (συμβατές με GPLv3):"
+   },
+   "aboutIssues": {
+      "message": "Παρακολούθηση θέματος"
+   },
+   "aboutPageName": {
+      "message": "Σχετικά με"
+   },
+   "aboutResetDataButton": {
+      "message": "Επαναφορά στις προεπιλεγμένες ρυθμίσεις..."
+   },
+   "aboutResetDataConfirm": {
+      "message": "Όλες οι ρυθμίσεις σας θα διαγραφούν και το #title # θα επανεκκινηθεί. \n\nΕπαναφορά του CCleaner Anti-Tracking στις εργοστασιακές ρυθμίσεις;"
+   },
+   "aboutRestoreDataButton": {
+      "message": "Επαναφορά από αρχείο..."
+   },
+   "aboutRestoreDataConfirm": {
+      "message": "Όλες οι ρυθμίσεις σας θα αντικατασταθούν με χρήση δεδομένων από backup στις {{time}}, και το #title # θα επανεκκινηθεί. \n\nΝα αντικατασταθούν όλες οι υπάρχουσες ρυθμίσεις με χρήση δεδομένων από backup;"
+   },
+   "aboutRestoreDataError": {
+      "message": "Τα δεδομένα δεν μπόρεσαν να αναγνωστούν ή δεν είναι έγκυρα"
+   },
+   "aboutSupport": {
+      "message": "Υποστήριξη"
+   },
+   "aboutWiki": {
+      "message": "Wiki"
+   },
+   "advancedSettingsPageName": {
+      "message": "Ρυθμίσεις για προχωρημένους"
+   },
+   "advancedSettingsWarning": {
+      "message": "Προσοχή! Αλλάξτε τις προηγμένες ρυθμίσεις με δική σας ευθύνη."
+   },
+   "assetViewerPageName": {
+      "message": "uBlock? ? Προβολή στοιχείου"
+   },
+   "cloudDeviceNamePrompt": {
+      "message": "Όνομα αυτής της συσκευής:"
+   },
+   "cloudPull": {
+      "message": "Εξαγωγή από χώρο αποθήκευσης στο cloud"
+   },
+   "cloudPullAndMerge": {
+      "message": "Εισαγωγή από χώρο αποθήκευσης στο cloud και συγχώνευση με τις τρέχουσες ρυθμίσεις"
+   },
+   "cloudPush": {
+      "message": "Εξαγωγή σε χώρο αποθήκευσης στο cloud"
+   },
+   "contextMenuTemporarilyAllowLargeMediaElements": {
+      "message": "Να επιτραπούν προσωρινά τα στοιχεία μεγάλων πολυμέσων"
+   },
+   "dashboardName": {
+      "message": "CCleaner Anti-Tracking — Πίνακας ελέγχου"
+   },
+   "docblockedBack": {
+      "message": "Επιστροφή"
+   },
+   "docblockedClose": {
+      "message": "Κλείσιμο παραθύρου"
+   },
+   "docblockedDisablePermanent": {
+      "message": "Μόνιμα"
+   },
+   "docblockedDisableTemporary": {
+      "message": "Προσωρινά"
+   },
+   "docblockedFoundIn": {
+      "message": "Βρέθηκε σε:"
+   },
+   "docblockedNoParamsPrompt": {
+      "message": "χωρίς παραμέτρους"
+   },
+   "docblockedProceed": {
+      "message": "Απενεργοποίηση αυστηρού αποκλεισμού για {{hostname}}"
+   },
+   "docblockedPrompt1": {
+      "message": "Το #title # εμπόδισε τη φόρτωση της παρακάτω σελίδας:"
+   },
+   "docblockedPrompt2": {
+      "message": "Λόγω του παρακάτω φίλτρου"
+   },
+   "dummy": {
+      "message": "Αυτή η καταχώρηση πρέπει να είναι η τελευταία"
+   },
+   "elapsedManyDaysAgo": {
+      "message": "{{value}} ημέρες πριν"
+   },
+   "elapsedManyHoursAgo": {
+      "message": "{{value}} ώρες πριν"
+   },
+   "elapsedManyMinutesAgo": {
+      "message": "{{value}} λεπτά πριν"
+   },
+   "elapsedOneDayAgo": {
+      "message": "μία ημέρα πριν"
+   },
+   "elapsedOneHourAgo": {
+      "message": "μία ώρα πριν"
+   },
+   "elapsedOneMinuteAgo": {
+      "message": "ένα λεπτό πριν"
+   },
+   "errorCantConnectTo": {
+      "message": "Σφάλμα δικτύου: {{msg}}"
+   },
+   "extShortDesc": {
+      "message": "Αποκλείει ενοχλητικά προγράμματα ανίχνευσης στο web."
+   },
+   "extra1pPageNameDesc": {
+      "message": "Διαχειριστείτε τα προσαρμοσμένα φίλτρα"
+   },
+   "extra3pPageNameDesc": {
+      "message": "Προγράμματα ανίχνευσης και φίλτρα προστασίας απορρήτου τρίτων"
+   },
+   "extraAddFilter": {
+      "message": "Προσθήκη φίλτρου"
+   },
+   "extraAddRrule": {
+      "message": "Προσθήκη προσωρινού κανόνα"
+   },
+   "extraAddSetting": {
+      "message": "Προσθήκη ρύθμισης"
+   },
+   "extraAddSite": {
+      "message": "Προσθ. ιστότοπου"
+   },
+   "extraAdsFilters": {
+      "message": "Φίλτρο διαφημίσεων"
+   },
+   "extraAdvancedUserSettings": {
+      "message": "Ρυθμίσεις για προχωρημένους χρήστες"
+   },
+   "extraAllowOnSites": {
+      "message": "Να επιτρέπονται τα προγράμματα ανίχνευσης στους ιστότοπους"
+   },
+   "extraBlockMediaElementsLargerThan": {
+      "message": "Αποκλεισμός στοιχείων πολυμέσων που είναι μεγαλύτερο από"
+   },
+   "extraBtnAdd": {
+      "message": "προσθ."
+   },
+   "extraBtnCancel": {
+      "message": "ακύρωση"
+   },
+   "extraBtnEdit": {
+      "message": "Επεξεργ."
+   },
+   "extraBtnExport": {
+      "message": "εξαγωγή"
+   },
+   "extraBtnImport": {
+      "message": "εισαγωγή"
+   },
+   "extraBtnRemove": {
+      "message": "Κατάργηση"
+   },
+   "extraBtnUpdateAll": {
+      "message": "ενημέρωση όλων"
+   },
+   "extraDefaultBehaviour": {
+      "message": "Προεπιλεγμένη συμπεριφορά"
+   },
+   "extraEditFilter": {
+      "message": "Επεξεργασία φίλτρου"
+   },
+   "extraEditRule": {
+      "message": "Επεξεργασία προσωρινού κανόνα"
+   },
+   "extraEditSetting": {
+      "message": "Επεξεργασία ρύθμισης"
+   },
+   "extraEditSite": {
+      "message": "Επεξεργ. ιστότοπου"
+   },
+   "extraGeneralSettings": {
+      "message": "Γενικές ρυθμίσεις"
+   },
+   "extraGeneralSettingsDesc": {
+      "message": "Διαχειριστείτε ποιες πληροφορίες θα δείχνει το CCleaner Anti-Tracking"
+   },
+   "extraIndexDescription": {
+      "message": "Αποκλείστε προγράμματα ανίχνευσης για ταχύτερη και ασφαλέστερη περιήγηση"
+   },
+   "extraIndexFooter": {
+      "message": "Από την uBlock Origin."
+   },
+   "extraIndexHeader": {
+      "message": "#title # Ρυθμίσεις για προχωρημένους"
+   },
+   "extraInterstitialBlocking": {
+      "message": "Αποκλεισμός εμβόλιμων διαφημίσεων"
+   },
+   "extraLabelFilter": {
+      "message": "Φίλτρο"
+   },
+   "extraLearnMore": {
+      "message": "Μάθετε περισσότερα"
+   },
+   "extraManageFilters": {
+      "message": "Διαχείριση φίλτρων"
+   },
+   "extraMyCustomFilter": {
+      "message": "Προσωπικά φίλτρα"
+   },
+   "extraPrivacy": {
+      "message": "Απόρρητο"
+   },
+   "extraRule": {
+      "message": "Κανόνας"
+   },
+   "extraRuleDefinition": {
+      "message": "Ορισμός κανόνα"
+   },
+   "extraRuleSyntax": {
+      "message": "Σύνταξη κανόνα"
+   },
+   "extraRulesPageNameDesc": {
+      "message": "Λίστα δυναμικών κανόνων φιλτραρίσματος"
+   },
+   "extraSetting": {
+      "message": "Ρύθμιση"
+   },
+   "extraShowMore": {
+      "message": "Δείτε περισσότερα"
+   },
+   "extraSite": {
+      "message": "Ιστότοπ."
+   },
+   "extraSlider0": {
+      "message": "Μην αποκλείσετε διαφημίσεις"
+   },
+   "extraSlider100": {
+      "message": "Μέγιστος αποκλεισμός διαφημίσεων"
+   },
+   "extraSlider50": {
+      "message": "Μέτριος αποκλεισμός διαφημίσεων"
+   },
+   "extraSourceDestinationTypeAction": {
+      "message": "ενέργεια τύπου προέλευσης προορισμού."
+   },
+   "extraWhitelistPageNameDesc": {
+      "message": "Λίστα ιστότοπων όπου επιτρέπονται τα προγράμματα ανίχνευσης"
+   },
+   "fennecMenuItemBlockingOff": {
+      "message": "off"
+   },
+   "genericApplyChanges": {
+      "message": "Εφαρμογή αλλαγών"
+   },
+   "genericBytes": {
+      "message": "bytes"
+   },
+   "genericCopyToClipboard": {
+      "message": "Αντιγραφή στο πρόχειρο"
+   },
+   "genericMergeViewScrollLock": {
+      "message": "Εναλλαγή κλειδωμένης κύλισης"
+   },
+   "genericRevert": {
+      "message": "Επαναφορά"
+   },
+   "genericSubmit": {
+      "message": "Υποβολή"
+   },
+   "logAll": {
+      "message": "Όλα"
+   },
+   "logBehindTheScene": {
+      "message": "Στο παρασκήνιο"
+   },
+   "logFilterPrompt": {
+      "message": "φιλτράρισμα καταγραφών αρχείου"
+   },
+   "logMaxEntriesTip": {
+      "message": "Μέγιστος αριθμός αρχείων καταγραφής"
+   },
+   "logRequestsHeaderDomain": {
+      "message": "Τομέας"
+   },
+   "logRequestsHeaderFilter": {
+      "message": "Φιλτράρισμα"
+   },
+   "logRequestsHeaderType": {
+      "message": "Τύπος"
+   },
+   "logRequestsHeaderURL": {
+      "message": "URL"
+   },
+   "loggerClearTip": {
+      "message": "Καθαρισμός καταγραφέα"
+   },
+   "loggerCurrentTab": {
+      "message": "Τρέχουσα καρτέλα"
+   },
+   "loggerDomInspectorTip": {
+      "message": "Εναλλαγή του ελεγκτή DOM"
+   },
+   "loggerEntryDetailsContext": {
+      "message": "Περιεχόμενο"
+   },
+   "loggerEntryDetailsFilter": {
+      "message": "Φίλτρο"
+   },
+   "loggerEntryDetailsFilterList": {
+      "message": "Φιλτράρισμα λίστας"
+   },
+   "loggerEntryDetailsHeader": {
+      "message": "Λεπτομέρειες"
+   },
+   "loggerEntryDetailsPartyness": {
+      "message": "Κατασκευαστές"
+   },
+   "loggerEntryDetailsRootContext": {
+      "message": "Περιβάλλον ρίζας"
+   },
+   "loggerEntryDetailsRule": {
+      "message": "Κανόνας"
+   },
+   "loggerEntryDetailsType": {
+      "message": "Τύπος"
+   },
+   "loggerEntryDetailsURL": {
+      "message": "URL"
+   },
+   "loggerExportEncodeMarkdown": {
+      "message": "Φθίνουσα τιμή"
+   },
+   "loggerExportEncodePlain": {
+      "message": "Απλό"
+   },
+   "loggerExportFormatList": {
+      "message": "Λίστα"
+   },
+   "loggerExportFormatTable": {
+      "message": "Πίνακας"
+   },
+   "loggerInfoTip": {
+      "message": "uBlock Origin wiki: Ο καταγραφέας"
+   },
+   "loggerPauseTip": {
+      "message": "Παύση καταγραφέα (απόρριψη όλων των εισερχόμενων δεδομένων)"
+   },
+   "loggerPopupPanelTip": {
+      "message": "Εναλλαγή του αναδυόμενου πίνακα"
+   },
+   "loggerReloadTip": {
+      "message": "Επαναφόρτωση του περιεχομένου της καρτέλας"
+   },
+   "loggerRowFiltererBuiltin1p": {
+      "message": "κατασκευαστής"
+   },
+   "loggerRowFiltererBuiltin3p": {
+      "message": "τρίτα μέρη"
+   },
+   "loggerRowFiltererBuiltinAllowed": {
+      "message": "επιτρέπεται"
+   },
+   "loggerRowFiltererBuiltinBlocked": {
+      "message": "αποκλείστηκε"
+   },
+   "loggerRowFiltererBuiltinNot": {
+      "message": "Όχι"
+   },
+   "loggerRowFiltererBuiltinTip": {
+      "message": "Επιλογές φιλτραρίσματος καταγραφέα"
+   },
+   "loggerRowFiltererButtonTip": {
+      "message": "Εναλλαγή φιλτραρίσματος καταγραφέα"
+   },
+   "loggerSettingDiscardPrompt": {
+      "message": "Οι εγγραφές καταγραφέα που δεν πληρούν και τις τρεις παρακάτω προϋποθέσεις θα απορρίπτονται αυτόματα:"
+   },
+   "loggerSettingHideColumnContext": {
+      "message": "{{input}} Περιεχόμενο"
+   },
+   "loggerSettingHideColumnFilter": {
+      "message": "{{input}} Φίλτρο/κανόνας"
+   },
+   "loggerSettingHideColumnPartyness": {
+      "message": "{{input}} Κατασκευαστές"
+   },
+   "loggerSettingHideColumnTime": {
+      "message": "{{input}} Χρόνος"
+   },
+   "loggerSettingHideColumnsPrompt": {
+      "message": "Απόκρυψη στηλών:"
+   },
+   "loggerSettingPerEntryLineCount": {
+      "message": "Χρήση {{input}} γραμμών ανά εγγραφή σε λειτουργία κατακόρυφης ανάπτυξης"
+   },
+   "loggerSettingPerEntryMaxAge": {
+      "message": "Διατήρηση εγγραφών από τα τελευταία {{input}} λεπτά"
+   },
+   "loggerSettingPerTabMaxEntries": {
+      "message": "Διατήρηση το πολύ {{input}} εγγραφών ανά καρτέλα"
+   },
+   "loggerSettingPerTabMaxLoads": {
+      "message": "Διατήρηση το πολύ {{input}} φορτώσεις σελίδας ανά καρτέλα"
+   },
+   "loggerStaticFilteringFinderSentence1": {
+      "message": "Στατικό φίλτρο \u003Ccode>{{filter}}\u003C/code> βρέθηκε στο:"
+   },
+   "loggerStaticFilteringFinderSentence2": {
+      "message": "Στατικό φίλτρο \u003Ccode>{{filter}}\u003C/code> δεν βρέθηκε σε καμία από τις λίστες φιλτραρίσματος που είναι διαθέσιμες αυτήν τη στιγμή"
+   },
+   "loggerStaticFilteringHeader": {
+      "message": "Φιλτράρισμα στατικών σελίδων"
+   },
+   "loggerStaticFilteringSentence": {
+      "message": "{{action}} αιτημάτων δικτύου του {{type}} {{br}}των οποίων η διεύθυνση URL ταιριάζει με το {{url}} {{br}}και προέρχεται από το {{origin}},{{br}}{{importance}} υπάρχει ένα φίλτρο εξαίρεσης που ταιριάζει."
+   },
+   "loggerStaticFilteringSentencePartAllow": {
+      "message": "Επιτρέπ."
+   },
+   "loggerStaticFilteringSentencePartAnyOrigin": {
+      "message": "από οπουδήποτε"
+   },
+   "loggerStaticFilteringSentencePartAnyType": {
+      "message": "όλοι οι τύποι"
+   },
+   "loggerStaticFilteringSentencePartBlock": {
+      "message": "Αποκλεισμ."
+   },
+   "loggerStaticFilteringSentencePartImportant": {
+      "message": "ακόμη και αν"
+   },
+   "loggerStaticFilteringSentencePartNotImportant": {
+      "message": "με εξαίρεση το"
+   },
+   "loggerStaticFilteringSentencePartOrigin": {
+      "message": "από ?{{origin}}?"
+   },
+   "loggerStaticFilteringSentencePartType": {
+      "message": "τύπος ?{{type}}?"
+   },
+   "loggerURLFilteringContextLabel": {
+      "message": "Περιεχόμενο:"
+   },
+   "loggerURLFilteringHeader": {
+      "message": "Φιλτράρισμα δυναμικών διευθύνσεων URL"
+   },
+   "loggerURLFilteringTypeLabel": {
+      "message": "Τύπος:"
+   },
+   "loggerUnpauseTip": {
+      "message": "Αναίρεση παύσης καταγραφέα"
+   },
+   "pickerContextMenuEntry": {
+      "message": "Αποκλεισμός στοιχείου"
+   },
+   "pickerCosmeticFilters": {
+      "message": "Κοσμητικά φίλτρα"
+   },
+   "pickerCosmeticFiltersHint": {
+      "message": "Πατήστε Ctrl και κάντε κλικ"
+   },
+   "pickerCreate": {
+      "message": "Δημιουργία"
+   },
+   "pickerNetFilters": {
+      "message": "Φίλτρα δικτύου"
+   },
+   "pickerPick": {
+      "message": "Επιλογή"
+   },
+   "pickerPreview": {
+      "message": "Προεπισκόπηση"
+   },
+   "pickerQuit": {
+      "message": "Έξοδος"
+   },
+   "popup1pScriptRulePrompt": {
+      "message": "δέσμες ενεργειών κατασκευαστή"
+   },
+   "popup3pAnyRulePrompt": {
+      "message": "τρίτα μέρη"
+   },
+   "popup3pFrameRulePrompt": {
+      "message": "καρέ τρίτων"
+   },
+   "popup3pPassiveRulePrompt": {
+      "message": "css/εικόνες τρίτων κατασκευαστών"
+   },
+   "popup3pScriptRulePrompt": {
+      "message": "δέσμες ενεργειών τρίτων"
+   },
+   "popupAdvancedSettings": {
+      "message": "Ρυθμίσεις για προχωρημένους"
+   },
+   "popupAnyRulePrompt": {
+      "message": "όλα"
+   },
+   "popupExtraAdsAllowedOnSites": {
+      "message": "Τα προγράμματα ανίχνευσης επιτρέπονται σε αυτόν τον ιστότοπο"
+   },
+   "popupExtraAdsBlockedOnPage": {
+      "message": "Αποκλεισμένα προγράμματα ανίχνευσης στη σελίδα"
+   },
+   "popupExtraAdsBlockedOnSites": {
+      "message": "Τα προγράμματα ανίχνευσης έχουν αποκλειστεί σε αυτόν τον ιστότοπο"
+   },
+   "popupExtraAdsBlockedTotal": {
+      "message": "Αποκλεισμένα προγράμματα ανίχνευσης στο σύνολο"
+   },
+   "popupExtraLessOptions": {
+      "message": "Λιγότερες επιλογές"
+   },
+   "popupExtraListAllowedSites": {
+      "message": "Λίστα επιτρεπόμενων ιστότοπων"
+   },
+   "popupExtraMoreInformation": {
+      "message": "Περισσότερες πληροφορίες"
+   },
+   "popupExtraMoreOptions": {
+      "message": "Περισσότερες επιλογές"
+   },
+   "popupExtraNoSitesAddedYet": {
+      "message": "Δεν έχουν προστεθεί ακόμα ιστότοποι"
+   },
+   "popupExtraProtectionCanNotEnabled": {
+      "message": "Η προστασία σε αυτόν τον ιστότοπο δεν μπορεί να ενεργοποιηθεί"
+   },
+   "popupExtraProtectionDisabledForSession": {
+      "message": "Δεν μπορεί να ενεργοποιηθεί η προστασία για την παρούσα περίοδο λειτουργίας"
+   },
+   "popupExtraSeeListAllowedSites": {
+      "message": "Δείτε τη λίστα με όλους τους επιτρεπόμενους ιστότοπους"
+   },
+   "popupHitDomainCount": {
+      "message": "{{count}} από {{total}}"
+   },
+   "popupHitDomainCountPrompt": {
+      "message": "συνδεδεμένοι τομείς"
+   },
+   "popupImageRulePrompt": {
+      "message": "εικόνες"
+   },
+   "popupInlineScriptRulePrompt": {
+      "message": "ενσωματωμ. δέσμες ενεργειών"
+   },
+   "popupTipDashboard": {
+      "message": "Άνοιγμα πίνακα ελέγχου"
+   },
+   "popupTipGlobalRules": {
+      "message": "Παγκόσμιοι κανόνες: αυτή η στήλη αφορά τους κανόνες που ισχύουν για όλους τους ιστότοπους."
+   },
+   "popupTipLocalRules": {
+      "message": "Τοπικοί κανόνες: αυτή η στήλη αφορά κανόνες που ισχύουν μόνο για τον τρέχοντα ιστότοπο.\nΟι τοπικοί κανόνες υπερισχύουν των παγκόσμιων κανόνων."
+   },
+   "popupTipLog": {
+      "message": "Άνοιγμα καταγραφέα"
+   },
+   "popupTipNoCosmeticFiltering": {
+      "message": "Εναλλαγή κοσμητικών φίλτρων για αυτόν τον ιστότοπο"
+   },
+   "popupTipNoCosmeticFiltering1": {
+      "message": "Κάντε κλικ για να απενεργοποιηθεί η εναλλαγή κοσμητικών φίλτρων για αυτόν τον ιστότοπο"
+   },
+   "popupTipNoCosmeticFiltering2": {
+      "message": "Κάντε κλικ για να ενεργοποιηθεί η εναλλαγή κοσμητικών φίλτρων για αυτόν τον ιστότοπο"
+   },
+   "popupTipNoLargeMedia": {
+      "message": "Εναλλαγή αποκλεισμού μεγάλων στοιχείων μέσων για αυτόν τον ιστότοπο"
+   },
+   "popupTipNoLargeMedia1": {
+      "message": "Κάντε κλικ για αποκλεισμό μεγάλων στοιχείων μέσων σε αυτόν τον ιστότοπο"
+   },
+   "popupTipNoLargeMedia2": {
+      "message": "Κάντε κλικ για να μην αποκλείονται πλέον μεγάλα στοιχεία μέσων σε αυτόν τον ιστότοπο"
+   },
+   "popupTipNoPopups": {
+      "message": "Εναλλαγή αποκλεισμού όλων των αναδυόμενων παραθύρων αυτού του ιστότοπου"
+   },
+   "popupTipNoPopups1": {
+      "message": "Κάντε κλικ για αποκλεισμό όλων των αναδυόμενων παραθύρων αυτού του ιστότοπου"
+   },
+   "popupTipNoPopups2": {
+      "message": "Κάντε κλικ για να μην αποκλείονται πλέον όλα τα αναδυόμενα παράθυρα αυτού του ιστότοπου"
+   },
+   "popupTipNoRemoteFonts": {
+      "message": "Εναλλαγή αποκλεισμού απομακρυσμένων γραμματοσειρών για αυτόν τον ιστότοπο"
+   },
+   "popupTipNoRemoteFonts1": {
+      "message": "Κάντε κλικ για αποκλεισμό απομακρυσμένων γραμματοσειρών για αυτόν τον ιστότοπο"
+   },
+   "popupTipNoRemoteFonts2": {
+      "message": "Κάντε κλικ για να μην αποκλείονται πλέον απομακρυσμένες γραμματοσειρές για αυτόν τον ιστότοπο"
+   },
+   "popupTipNoScripting1": {
+      "message": "Κάντε κλικ για να απενεργοποιήσετε το JavaScript σε αυτόν τον ιστότοπο"
+   },
+   "popupTipNoScripting2": {
+      "message": "Κάντε κλικ για να μην απενεργοποιείται πλέον το JavaScript σε αυτόν τον ιστότοπο"
+   },
+   "popupTipPicker": {
+      "message": "Καταχωρίστε τη λειτουργία επιλογής στοιχείων"
+   },
+   "popupTipRevertRules": {
+      "message": "Κάντε κλικ για να επαναφέρετε τις αλλαγές σας."
+   },
+   "popupTipSaveRules": {
+      "message": "Κάντε κλικ για να γίνουν οι αλλαγές σας μόνιμες."
+   },
+   "popupTipZapper": {
+      "message": "Καταχωρίστε τη λειτουργία στοιχείων zapper"
+   },
+   "rulesCommit": {
+      "message": "Δέσμευση"
+   },
+   "rulesEdit": {
+      "message": "Επεξεργ."
+   },
+   "rulesEditDiscard": {
+      "message": "Απόρριψη"
+   },
+   "rulesEditSave": {
+      "message": "Αποθήκ."
+   },
+   "rulesExport": {
+      "message": "Εξαγωγή σε αρχείο"
+   },
+   "rulesFormatHint": {
+      "message": "Σύνταξη κανόνα: \u003Ccode>είδος ενέργειας προέλευσης/προορισμού\u003C/code> (\u003Ca href='https://github.com/gorhill/uBlock/wiki/Dynamic-filtering:-rule-syntax'>πλήρης τεκμηρίωση\u003C/a>)."
+   },
+   "rulesHint": {
+      "message": "Λίστα δυναμικών κανόνων φιλτραρίσματος."
+   },
+   "rulesImport": {
+      "message": "Εισαγωγή από αρχείο..."
+   },
+   "rulesPageName": {
+      "message": "Οι κανόνες μου"
+   },
+   "rulesPermanentHeader": {
+      "message": "Μόνιμοι κανόνες"
+   },
+   "rulesRevert": {
+      "message": "Επαναφορά"
+   },
+   "rulesTemporaryHeader": {
+      "message": "Προσωρινοί κανόνες"
+   },
+   "settingPerSiteSwitchGroup": {
+      "message": "Προεπιλεγμένη συμπεριφορά"
+   },
+   "settingPerSiteSwitchGroupSynopsis": {
+      "message": "Οι προεπιλεγμένες συμπεριφορές μπορεί να παρακάμπτονται ανάλογα με την τοποθεσία"
+   },
+   "settingsAdvancedUserPrompt": {
+      "message": "Είμαι έμπειρος χρήστης (\u003Ca href='https://github.com/gorhill/uBlock/wiki/Advanced-user-features'>απαιτείται ανάγνωση\u003C/a>)"
+   },
+   "settingsAdvancedUserSettings": {
+      "message": "ρυθμίσεις για προχωρημένους"
+   },
+   "settingsCloudStorageEnabledPrompt": {
+      "message": "Ενεργοποίηση υποστήριξης για αποθήκευση στο cloud"
+   },
+   "settingsCollapseBlockedPrompt": {
+      "message": "Απόκρυψη συμβόλων κράτησης θέσης των αποκλεισμένων στοιχείων"
+   },
+   "settingsColorBlindPrompt": {
+      "message": "Για άτομα με αχρωματοψία"
+   },
+   "settingsContextMenuPrompt": {
+      "message": "Χρήση του μενού περιβάλλοντος όπου χρειάζεται"
+   },
+   "settingsHyperlinkAuditingDisabledPrompt": {
+      "message": "Απενεργοποίηση ελέγχου υπερ-σύνδεσης"
+   },
+   "settingsIconBadgePrompt": {
+      "message": "Εμφάνιση του αριθμού αποκλεισμένων αιτήσεων στο εικονίδιο"
+   },
+   "settingsLastBackupPrompt": {
+      "message": "Τελευταίο backup:"
+   },
+   "settingsLastRestorePrompt": {
+      "message": "Τελευταία επαναφορά:"
+   },
+   "settingsNoCSPReportsPrompt": {
+      "message": "Αποκλεισμός αναφορών CSP"
+   },
+   "settingsNoCosmeticFilteringPrompt": {
+      "message": "Απενεργοποίηση κοσμητικού φιλτραρίσματος"
+   },
+   "settingsNoLargeMediaPrompt": {
+      "message": "Αποκλεισμός στοιχείων μέσων που είναι μεγαλύτερα από {{input:number}} kB"
+   },
+   "settingsNoRemoteFontsPrompt": {
+      "message": "Αποκλεισμός απομακρ. γραμματοσειρών"
+   },
+   "settingsNoScriptingPrompt": {
+      "message": "Απενεργοποίηση JavaScript"
+   },
+   "settingsPageName": {
+      "message": "Ρυθμίσεις"
+   },
+   "settingsPrefetchingDisabledPrompt": {
+      "message": "Απενεργοποίηση προ-λήψης (για αποφυγή σύνδεσης για αποκλεισμένα αιτήματα δικτύου)"
+   },
+   "settingsStorageUsed": {
+      "message": "Χώρος αποθήκευσης σε χρήση: {{value}} bytes"
+   },
+   "settingsTooltipsPrompt": {
+      "message": "Απενεργοπ. επεξήγησης εργαλείων"
+   },
+   "settingsWebRTCIPAddressHiddenPrompt": {
+      "message": "Αποτροπή του WebRTC από διαρροή τοπικών διευθύνσεων IP"
+   },
+   "shortcutCapturePlaceholder": {
+      "message": "Πληκτρολογήστε μια συντόμευση"
+   },
+   "shortcutsPageName": {
+      "message": "Συντομεύσεις"
+   },
+   "showDashboardButton": {
+      "message": "Εμφάνιση Πίνακα ελέγχου"
+   },
+   "showNetworkLogButton": {
+      "message": "Εμφάνιση Καταγραφής"
+   },
+   "statsPageName": {
+      "message": "CCleaner Anti-Tracking — Πρόγραμμα καταγραφής"
+   },
+   "subscriberConfirm": {
+      "message": "#title #: Προσθήκη της ακόλουθης διεύθυνσης URL στη λίστα προσαρμοσμένων φίλτρων; \n\nΤίτλος: «{{title}}» \nURL: {{url}}"
+   },
+   "whitelistApply": {
+      "message": "Εφαρμογή αλλαγών"
+   },
+   "whitelistExport": {
+      "message": "Εξαγωγή"
+   },
+   "whitelistExportFilename": {
+      "message": "CCleaner Anti-Tracking-whitelist_{{datetime}}.txt"
+   },
+   "whitelistImport": {
+      "message": "Εισαγωγή και προσάρτηση"
+   },
+   "whitelistPageName": {
+      "message": "Λευκή λίστα"
+   },
+   "whitelistPrompt": {
+      "message": "Η λευκή λίστα υπαγορεύει οδηγίες σχετικά με το ποιο CCleaner Anti-Tracking σελίδων web θα πρέπει να απενεργοποιηθεί. Μία καταχώρηση ανά γραμμή. Μη έγκυρες οδηγίες θα παραβλέπονται σιωπηλά και θα μετατρέπονται σε απλά σχόλια."
+   }
+}

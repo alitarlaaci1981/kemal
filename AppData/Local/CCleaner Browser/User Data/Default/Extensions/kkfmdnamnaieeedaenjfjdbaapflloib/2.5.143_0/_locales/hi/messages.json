@@ -1,0 +1,117 @@
+{
+   "appDesc": {
+      "message": "ऑफ़लाइन देखने के लिए वीडियो डाउनलोड करें"
+   },
+   "appName": {
+      "message": "वीडियो डाउनलोडर"
+   },
+   "barDetachBtn": {
+      "description": "The Detach button text as visible on the floating bar",
+      "message": "अलग करें"
+   },
+   "barDownloadBtn": {
+      "description": "The Download button text as visible on the floating bar",
+      "message": "डाउनलोड करें"
+   },
+   "barMediaBtn": {
+      "description": "The Media button text as visible on the floating bar",
+      "message": "मीडिया"
+   },
+   "barQualityAudio": {
+      "description": "Audio title",
+      "message": "ऑडियो"
+   },
+   "barQualityVideo": {
+      "description": "Video title",
+      "message": "वीडियो"
+   },
+   "barSettingsAbout": {
+      "description": "About Button in settings popup",
+      "message": "अधिक जानकारी"
+   },
+   "barSettingsBtn": {
+      "description": "The Settings button text as visible on the floating bar",
+      "message": "सेटिंग"
+   },
+   "barSettingsDescription": {
+      "description": "Video download feature description in settings popup",
+      "message": "CCleaner द्वारा संचालित Secure Browser"
+   },
+   "barSettingsDoNotShow": {
+      "description": "Button in settings popup disabling video-downloader",
+      "message": "फिर से न दिखाएँ"
+   },
+   "barSettingsDoNotShowForSite": {
+      "description": "Button in settings popup disabling video-downloader for exact site",
+      "message": "इस साइट पर न दिखाएँ"
+   },
+   "barSettingsTitle": {
+      "description": "Settings popup title in the floating bar",
+      "message": "सेटिंग"
+   },
+   "eulaContinue": {
+      "description": "EUlA continue button",
+      "message": "जारी रखें"
+   },
+   "eulaText": {
+      "description": "EULA message displayed to the user",
+      "message": "हमारे \u003Cdiv>\u003Ca target='blank' href='$link$'>अंतिम उपयोगकर्ता लाइसेंस अनुबंध\u003C/a>\u003C/div> (EULA) को स्वीकार करने से, आप अपनी स्वीकृति और सहमति देते हैं कि लागू कॉपीराइट कानूनों और किसी भी वेबसाइट के उपयोग की शर्तों के अनुपालन में वीडियो डाउनलोडर का उपयोग करना आपकी जिम्मेदारी है.",
+      "placeholders": {
+         "link": {
+            "content": "$1"
+         }
+      }
+   },
+   "eulaTitle": {
+      "description": "EULA popup title",
+      "message": "डाउनलोड करने से पहले"
+   },
+   "eulaUnderstandAccept": {
+      "description": "EULA user agreement checkbox text",
+      "message": "मैं EULA को समझता और स्वीकार करता हूँ"
+   },
+   "extensionName": {
+      "description": "Name shown in the extension button in SZB Control Center.",
+      "message": "वीडियो डाउनलोडर"
+   },
+   "extensionTitle": {
+      "description": "Title shown on hover over the extension button in SZB Control Center.",
+      "message": "ऑफ़लाइन देखने के लिए वीडियो डाउनलोड करें."
+   },
+   "optionUnknownSize": {
+      "description": "Videa or audio download option of unknown size",
+      "message": "अज्ञात आकार"
+   },
+   "popupAudioHeading": {
+      "description": "The heading of the audio section in the media popup list",
+      "message": "ऑडियो"
+   },
+   "popupDisabledFor": {
+      "description": "Page was disabled for video downloader",
+      "message": "इसके लिए वीडियो डाउनलोडर अक्षम है"
+   },
+   "popupDownloadBtn": {
+      "description": "The Download button text as visible in the media popup list",
+      "message": "डाउनलोड करें"
+   },
+   "popupEnable": {
+      "description": "Enable video downloader for current page",
+      "message": "सक्षम करें"
+   },
+   "popupNoVideos": {
+      "description": "Page does not contain any videos",
+      "message": "इस पृष्ठ पर डाउनलोड करने के लिए कोई वीडियो नहीं है"
+   },
+   "popupNoVideos_v2": {
+      "description": "",
+      "message": "विडियो को डाउनलोड करने के लिए, उसके जानकारी पृष्ठ पर जाएँ."
+   },
+   "popupVideoHeading": {
+      "description": "The heading of the video section in the media popup list",
+      "message": "वीडियो"
+   },
+   "reattachBtn": {
+      "description": "The Reattach button text as visible on the detached video page",
+      "message": "पुनः संलग्न करें"
+   }
+}

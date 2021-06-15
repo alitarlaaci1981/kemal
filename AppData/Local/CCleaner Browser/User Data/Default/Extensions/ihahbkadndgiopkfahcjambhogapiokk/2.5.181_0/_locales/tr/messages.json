@@ -1,0 +1,28 @@
+{
+   "appDescription": {
+      "message": "Tarayıcı parmak izinizi gizler ve çevrim içi izlemeyi sınırlandırır"
+   },
+   "appName": {
+      "message": "Parmak İzi Kopyalama Engelleyici"
+   },
+   "popupStatusDisabled": {
+      "description": "Popup label shown when afp is disabled for current website",
+      "message": "Parmak izi koruması bu sitede devre dışı"
+   },
+   "popupStatusEnabled": {
+      "description": "Popup label shown when afp is enabled for current website",
+      "message": "Parmak izi koruması bu sitede etkin"
+   },
+   "popupTotalFingerprintsAttemptsDetected": {
+      "description": "Popup total fingerprints attempts detected label",
+      "message": "Tespit edilen toplam parmak izi girişimi"
+   },
+   "settingsAdvanced": {
+      "description": "Settings page title",
+      "message": "Parmak İzi Kopyalama Engelleyici Gelişmiş Ayarları"
+   },
+   "settingsSocialMediaLoginDetectionPrevention": {
+      "description": "Settings page social media login detection prevention title",
+      "message": "Sosyal Medya Oturum Açma Tespitini Önleme"
+   }
+}

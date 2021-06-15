@@ -1,0 +1,161 @@
+{
+   "adBlock": {
+      "message": "Reklam Engelleyici"
+   },
+   "adBlockSettings": {
+      "message": "Reklam Engelleyici - Ayarlar"
+   },
+   "adblockIsOff": {
+      "message": "Reklam Engelleyici kapalı"
+   },
+   "adblockIsPaused": {
+      "message": "Reklam Engelleyici tüm siteler için duraklatıldı"
+   },
+   "adblockIsPausedOnSite": {
+      "message": "Reklam Engelleyici bu site için duraklatıldı"
+   },
+   "addSite": {
+      "message": "Site ekle"
+   },
+   "adsAreAllowed": {
+      "message": "Bu sitedeki reklamlara izin veriliyor"
+   },
+   "adsBlocked": {
+      "message": "Engellenen reklam sayısı: "
+   },
+   "allowAdsOnSite": {
+      "message": "Bu sitede reklamlara izin ver"
+   },
+   "alwaysAllowAdsOnSites": {
+      "message": "Şu siteler için her zaman reklamlara izin ver:"
+   },
+   "balancedBlocking": {
+      "message": "Dengeli engelleme"
+   },
+   "balancedBlockingName": {
+      "message": "Dengeli"
+   },
+   "blockAdsOnThisSite": {
+      "message": "Bu sitede reklamları engelle"
+   },
+   "blockingOptions": {
+      "message": "Engelleme seçenekleri"
+   },
+   "btnAdd": {
+      "message": "Ekle"
+   },
+   "cancel": {
+      "message": "İptal"
+   },
+   "edit": {
+      "message": "Düzenle"
+   },
+   "essentialBlocking": {
+      "message": "Temel engelleme"
+   },
+   "essentialBlockingName": {
+      "message": "Temel"
+   },
+   "extShortDesc": {
+      "message": "Nihayet çok fazla işlemci ve bellek kullanmayan verimli bir engelleyici."
+   },
+   "generalSettings": {
+      "message": "Genel ayarlar"
+   },
+   "indexDescription": {
+      "message": "Daha hızlı ve güvenli gezinme için reklamları engelleyin"
+   },
+   "keep_balanced": {
+      "message": "Dengeli olarak kalsın"
+   },
+   "keep_essential": {
+      "message": "Temel olarak kalsın"
+   },
+   "learnMore": {
+      "message": "Daha fazla bilgi edinin"
+   },
+   "noAdsToBlock": {
+      "message": "Bu sitede engellenecek reklam bulunmuyor"
+   },
+   "pauseAdBlock": {
+      "message": "Reklam Engelleyiciyi duraklat"
+   },
+   "pauseAdBlockOnAllSites": {
+      "message": "Reklam Engelleyici tüm siteler için duraklat"
+   },
+   "pauseOnAllSites": {
+      "message": "Tüm siteler için duraklat"
+   },
+   "pauseOnThisSite": {
+      "message": "Bu site için duraklat"
+   },
+   "poweredByUblock": {
+      "message": "\u003Cu>\u003Ca style='color: inherit;' target='_blank' href='__SET_HREF__'>uBlock\u003C/a>\u003C/u> altyapısını kullanmaktadır"
+   },
+   "remove": {
+      "message": "Kaldır"
+   },
+   "save": {
+      "message": "Kaydet"
+   },
+   "setStrict": {
+      "message": "Katı engelleme ata"
+   },
+   "setStrictDescription_avast": {
+      "message": "Birkaç rahatsız etmeyen reklam Avast Secure Browser'ı finanse etmemize yardımcı oluyor. Gezinmenizi olumsuz yönde etkilemez ve tarayıcınızın ücretsiz kalmasını sağlar. Lütfen bu reklamlara izin vererek bize destek olun."
+   },
+   "setStrictDescription_avg": {
+      "message": "Birkaç rahatsız etmeyen reklam AVG Secure Browser'ı finanse etmemize yardımcı oluyor. Gezinmenizi olumsuz yönde etkilemez ve tarayıcınızın ücretsiz kalmasını sağlar. Lütfen bu reklamlara izin vererek bize destek olun."
+   },
+   "setStrictDescription_ccleaner": {
+      "message": "Birkaç rahatsız etmeyen reklam CCleaner Browser'ı finanse etmemize yardımcı oluyor. Gezinmenizi olumsuz yönde etkilemez ve tarayıcınızın ücretsiz kalmasını sağlar. Lütfen bu reklamlara izin vererek bize destek olun."
+   },
+   "setStrictTitle": {
+      "message": "Reklam Engelleyiciye katı engelleme atayın"
+   },
+   "settingsCardAcceptableAds": {
+      "message": "\u003Cu>\u003Ca style='color: inherit;' target='_blank' href='__SET_HREF__'>Kabul Edilebilir Reklam Standartları\u003C/a>\u003C/u>'nı ihlal eden rahatsız edici reklamları engelleyin."
+   },
+   "settingsCardAcceptableAdsBlocks": {
+      "message": "\u003Cb>Önerilir\u003C/b> - Daha hızlı ve daha temiz bir gezinme deneyimi için reklamların çoğunu engelleyin."
+   },
+   "settingsCardAcceptableAdsBlocksNearly": {
+      "message": "Daha hızlı ve daha temiz bir gezinme deneyimi için neredeyse tüm reklamları engelleyin. \u003Cb>Bu, bazı sitelerin düzgün bir şekilde çalışmasına engel olabilir.\u003C/b>"
+   },
+   "settingsCardDisruptive": {
+      "message": "Diğer rahatsız edici reklamlar"
+   },
+   "settingsCardOtherAds": {
+      "message": "Diğer reklamların %99'u"
+   },
+   "settingsCardPopups": {
+      "message": "Açılır reklam pencereleri ve reklam bantları"
+   },
+   "settingsCardSocialMedia": {
+      "message": "Bazı sosyal medya reklamları"
+   },
+   "settingsShowNumberBadge": {
+      "message": "Engellenen reklam sayısını simge üzerinde göster"
+   },
+   "site": {
+      "message": "Site"
+   },
+   "sitesYouHaveAllowed": {
+      "message": "Reklamlara izin verdiğiniz siteler burada görünür"
+   },
+   "strictBlocking": {
+      "message": "Katı engelleme"
+   },
+   "strictBlockingName": {
+      "message": "Katı"
+   },
+   "turnAdblockOn": {
+      "message": "Aç"
+   },
+   "unpauseAdblockOnAllSites": {
+      "message": "Duraklatmayı kaldır"
+   },
+   "youHaveAllowAdsOnThisSite": {
+      "message": "Bu sitedeki reklamlara izin verdiniz "
+   }
+}

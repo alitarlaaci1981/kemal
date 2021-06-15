@@ -1,0 +1,239 @@
+{
+   "adBlock": {
+      "message": "Αποκλεισμός Διαφημίσεων"
+   },
+   "adBlockSettings": {
+      "message": "Αποκλεισμός Διαφημίσεων - Ρυθμίσεις"
+   },
+   "adblockIsOff": {
+      "message": "Ο Αποκλεισμός Διαφημίσεων είναι ανενεργός"
+   },
+   "adblockIsPaused": {
+      "message": "Ο Αποκλεισμός Διαφημίσεων έχει διακοπεί παντού"
+   },
+   "adblockIsPausedOnSite": {
+      "message": "Ο Αποκλεισμός Διαφημίσεων έχει διακοπεί στον ιστότοπο"
+   },
+   "addSite": {
+      "message": "Προσθ. ιστότοπου"
+   },
+   "addWebsiteToAllowAds": {
+      "message": "Προσθέστε «ιστότοπο» για να επιτρέψετε διαφημίσεις"
+   },
+   "adsAreAllowed": {
+      "message": "Οι διαφημίσεις επιτρέπονται σε αυτόν τον ιστότοπο"
+   },
+   "adsBlocked": {
+      "message": "Αποκλεισμ. διαφημίσεις: "
+   },
+   "allowAdsOnSite": {
+      "message": "Επιτρέπονται διαφημίσεις στον ιστότοπο αυτό"
+   },
+   "alwaysAllowAdsOnSites": {
+      "message": "Να επιτρέπονται πάντα διαφημίσεις στους παρακάτω ιστότοπους"
+   },
+   "balancedBlocking": {
+      "message": "Ισορροπημένος αποκλεισμός"
+   },
+   "balancedBlockingName": {
+      "message": "Ισορροπημένος"
+   },
+   "blockAdsOnThisSite": {
+      "message": "Αποκλεισμός διαφημίσεων στον ιστότοπο"
+   },
+   "blockingOptions": {
+      "message": "Επιλογές αποκλεισμού"
+   },
+   "btnAdd": {
+      "message": "Προσθ."
+   },
+   "cancel": {
+      "message": "Ακύρωση"
+   },
+   "cancelAddSiteOperation": {
+      "message": "Ακύρωση λειτουργίας προσθήκης ιστότοπου"
+   },
+   "cancelEditSiteOperation": {
+      "message": "Ακύρωση λειτουργίας επεξεργασίας ιστότοπου"
+   },
+   "cancelSetStrict": {
+      "message": "Ακύρωση ορισμού Αυστηρής λειτουργίας"
+   },
+   "edit": {
+      "message": "Επεξεργ."
+   },
+   "editFromWhitelist": {
+      "message": "Επεξεργασία ιστότοπου από τη λευκή λίστα"
+   },
+   "editSiteFromWhitelist": {
+      "message": "Επεξεργασία ιστότοπου από λευκή λίστα"
+   },
+   "essentialBlocking": {
+      "message": "Βασικός αποκλεισμός"
+   },
+   "essentialBlockingName": {
+      "message": "Βασικός"
+   },
+   "extShortDesc": {
+      "message": "Επιτέλους, ένα αποτελεσματικό πρόγραμμα αποκλεισμού. Καλό για τη CPU και τη μνήμη."
+   },
+   "generalSettings": {
+      "message": "Γενικές ρυθμίσεις"
+   },
+   "hideAmountAds": {
+      "message": "Απόκρυψη αριθμού αποκλεισμένων διαφημίσεων"
+   },
+   "indexDescription": {
+      "message": "Αποκλείστε διαφημίσεις για πιο γρήγορη και πιο ασφαλή περιήγηση"
+   },
+   "keep_balanced": {
+      "message": "Διατήρηση ισορροπημένου"
+   },
+   "keep_essential": {
+      "message": "Διατήρηση βασικού"
+   },
+   "learnMore": {
+      "message": "Μάθετε περισσότερα"
+   },
+   "learnMoreAAS": {
+      "message": "Μάθετε περισσότερα σχετικά με τα Αποδεκτά Επίπεδα Διαφημίσεων"
+   },
+   "learnMoreAboutAdBLock": {
+      "message": "Μάθετε περισ. για τον Αποκλεισμό Διαφημίσεων"
+   },
+   "learnMoreUblock": {
+      "message": "Μάθετε περισ. για το uBlock"
+   },
+   "modifyWhitelistedSite": {
+      "message": "Τροποποίηση ιστότοπου στη λευκή λίστα"
+   },
+   "noAdsToBlock": {
+      "message": "Καμία διαφήμιση για αποκλεισμό σε αυτήν τη σελίδα"
+   },
+   "openSettings": {
+      "message": "Άνοιγμα ρυθμίσεων"
+   },
+   "pauseAdBlock": {
+      "message": "Παύση Αποκλ. Διαφημίσεων"
+   },
+   "pauseAdBlockOnAllSites": {
+      "message": "Παύση Αποκλ. Διαφημίσεων σε όλους τους ιστότοπους"
+   },
+   "pauseAdsOnAllSites": {
+      "message": "Παύση διαφημίσεων σε όλους τους ιστότοπους"
+   },
+   "pauseAdsOnSite": {
+      "message": "Παύση διαφημίσεων σε αυτόν τον ιστότοπο"
+   },
+   "pauseOnAllSites": {
+      "message": "Παύση σε όλους τους ιστότοπους"
+   },
+   "pauseOnThisSite": {
+      "message": "Παύση σε αυτόν τον ιστότοπο"
+   },
+   "poweredByUblock": {
+      "message": "Με την υποστήριξη του \u003Cu>\u003Ca style='color: inherit;' target='_blank' href='__SET_HREF__'>uBlock\u003C/a>\u003C/u>"
+   },
+   "remove": {
+      "message": "Κατάργηση"
+   },
+   "removeFromWhitelist": {
+      "message": "Κατάργηση ιστότοπου από τη λευκή λίστα"
+   },
+   "save": {
+      "message": "Αποθήκ."
+   },
+   "saveSiteIntoWhitelist": {
+      "message": "Αποθήκευση ιστότοπου στη λευκή λίστα"
+   },
+   "setBalancedMode": {
+      "message": "Ορισμός Ισορροπημένης λειτουργίας"
+   },
+   "setEssentialMode": {
+      "message": "Ορισμός Βασικής λειτουργίας"
+   },
+   "setStrict": {
+      "message": "Ορισμός αυστηρού"
+   },
+   "setStrictDescription_avast": {
+      "message": "Οι ελάχιστες μη επεμβατικές διαφημίσεις μάς βοηθούν να χρηματοδοτούμε το Avast Secure Browser. Δεν διακόπτουμε την περιήγησή σας και βοηθάμε να παραμένει δωρεάν το πρόγραμμα περιήγησης. Επιτρέψτε αυτές τις διαφημίσεις για να μας δείξετε την αγάπη σας."
+   },
+   "setStrictDescription_avg": {
+      "message": "Οι ελάχιστες μη επεμβατικές διαφημίσεις μάς βοηθούν να χρηματοδοτούμε το AVG Secure Browser. Δεν διακόπτουμε την περιήγησή σας και βοηθάμε να παραμένει δωρεάν το πρόγραμμα περιήγησης. Επιτρέψτε αυτές τις διαφημίσεις για να μας δείξετε την αγάπη σας."
+   },
+   "setStrictDescription_ccleaner": {
+      "message": "Οι ελάχιστες μη επεμβατικές διαφημίσεις μάς βοηθούν να χρηματοδοτούμε το CCleaner Browser. Δεν διακόπτουμε την περιήγησή σας και βοηθάμε να παραμένει δωρεάν το πρόγραμμα περιήγησης. Επιτρέψτε αυτές τις διαφημίσεις για να μας δείξετε την αγάπη σας."
+   },
+   "setStrictMode": {
+      "message": "Ορισμός Αυστηρής λειτουργίας"
+   },
+   "setStrictTitle": {
+      "message": "Ορισμός Αποκλεισμού Διαφημίσεων σε αυστηρό"
+   },
+   "settingsCardAcceptableAds": {
+      "message": "Αποκλεισμός ενοχλητικών διαφημίσεων που παραβιάζουν\n τα \u003Cu>\u003Ca style='color: inherit;' target='_blank' href='__SET_HREF__'>Αποδεκτά Πρότυπα Διαφημίσεων\u003C/a>\u003C/u>."
+   },
+   "settingsCardAcceptableAdsBlocks": {
+      "message": "\u003Cb>Συνιστάται\u003C/b> - Αποκλεισμός των περισσότερων διαφημίσεων για πιο γρήγορη και πιο καθαρή εμπειρία περιήγησης."
+   },
+   "settingsCardAcceptableAdsBlocksNearly": {
+      "message": "Αποκλεισμός όλων σχεδόν των διαφημίσεων για πιο γρήγορη και πιο καθαρή εμπειρία περιήγησης. \u003Cb>Αυτό μπορεί να καταστρέψει ορισμένους ιστότοπους.\u003C/b>"
+   },
+   "settingsCardDisruptive": {
+      "message": "Άλλες ενοχλητικές διαφημίσεις"
+   },
+   "settingsCardOtherAds": {
+      "message": "Το 99% άλλων διαφημίσεων"
+   },
+   "settingsCardPopups": {
+      "message": "Αναδυόμενες διαφημίσεις και μπάνερ"
+   },
+   "settingsCardSocialMedia": {
+      "message": "Ορισμένες διαφημίσεις κοινωνικών μέσων"
+   },
+   "settingsShowNumberBadge": {
+      "message": "Εμφάνιση του αριθμού αποκλεισμένων διαφημίσεων στο εικονίδιο"
+   },
+   "showAmountAds": {
+      "message": "Εμφάνιση αριθμού αποκλεισμένων διαφημίσεων"
+   },
+   "site": {
+      "message": "Ιστότοπ."
+   },
+   "sitesYouHaveAllowed": {
+      "message": "Οι ιστότοποι στους οποίους έχετε επιτρέψει διαφημίσεις θα εμφανίζονται εδώ"
+   },
+   "stayOn_balanced": {
+      "message": "Παραμονή στην ισορροπημένη λειτουργία"
+   },
+   "stayOn_essential": {
+      "message": "Παραμονή στη βασική λειτουργία"
+   },
+   "strictBlocking": {
+      "message": "Αυστηρός αποκλεισμός"
+   },
+   "strictBlockingName": {
+      "message": "Αυστηρός"
+   },
+   "turnAdblockOn": {
+      "message": "Ενεργοποίηση"
+   },
+   "turnOff": {
+      "message": "Αποκλ. Διαφημίσεων ανενεργός"
+   },
+   "turnOn": {
+      "message": "Αποκλ. Διαφημίσεων ενεργός"
+   },
+   "unpauseAdBlockAllSites": {
+      "message": "Κατάργ. παύσης Αποκλεισμού Διαφημίσεων σε κάθε ιστότοπο"
+   },
+   "unpauseAdblockOnAllSites": {
+      "message": "Διακοπή παύσης"
+   },
+   "whitelistModalDescription": {
+      "message": "Σε ποιον ιστότοπο θέλετε να επιτρέπετε διαφημίσεις;"
+   },
+   "youHaveAllowAdsOnThisSite": {
+      "message": "Έχετε επιτρέψει διαφημίσεις σε αυτόν τον ιστότοπο "
+   }
+}

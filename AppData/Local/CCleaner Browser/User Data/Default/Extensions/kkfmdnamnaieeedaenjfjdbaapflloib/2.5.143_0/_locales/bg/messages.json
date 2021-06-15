@@ -1,0 +1,117 @@
+{
+   "appDesc": {
+      "message": "Изтеглете видеоклипове за гледане офлайн"
+   },
+   "appName": {
+      "message": "Видео изтегляне"
+   },
+   "barDetachBtn": {
+      "description": "The Detach button text as visible on the floating bar",
+      "message": "Премахване"
+   },
+   "barDownloadBtn": {
+      "description": "The Download button text as visible on the floating bar",
+      "message": "Изтегляне"
+   },
+   "barMediaBtn": {
+      "description": "The Media button text as visible on the floating bar",
+      "message": "Мултимедия"
+   },
+   "barQualityAudio": {
+      "description": "Audio title",
+      "message": "Аудио"
+   },
+   "barQualityVideo": {
+      "description": "Video title",
+      "message": "Видео"
+   },
+   "barSettingsAbout": {
+      "description": "About Button in settings popup",
+      "message": "Повече информация"
+   },
+   "barSettingsBtn": {
+      "description": "The Settings button text as visible on the floating bar",
+      "message": "Настройки"
+   },
+   "barSettingsDescription": {
+      "description": "Video download feature description in settings popup",
+      "message": "Поддържано от CCleaner Secure Browser"
+   },
+   "barSettingsDoNotShow": {
+      "description": "Button in settings popup disabling video-downloader",
+      "message": "Не показвай отново"
+   },
+   "barSettingsDoNotShowForSite": {
+      "description": "Button in settings popup disabling video-downloader for exact site",
+      "message": "Не показвай за този сайт"
+   },
+   "barSettingsTitle": {
+      "description": "Settings popup title in the floating bar",
+      "message": "Настройки"
+   },
+   "eulaContinue": {
+      "description": "EUlA continue button",
+      "message": "Напред"
+   },
+   "eulaText": {
+      "description": "EULA message displayed to the user",
+      "message": "С приемането на нашето \u003Cdiv>\u003Ca target='blank' href='$link$'>Лицензионно споразумение с крайния потребител\u003C/a>\u003C/div> (ЛСКП) вие потвърждавате и се съгласявате, че е ваша отговорност да използвате Видео изтеглянето в съответствие с приложимите закони за авторски права и с условията за ползване на който и да е уеб сайт.",
+      "placeholders": {
+         "link": {
+            "content": "$1"
+         }
+      }
+   },
+   "eulaTitle": {
+      "description": "EULA popup title",
+      "message": "Преди да изтеглите"
+   },
+   "eulaUnderstandAccept": {
+      "description": "EULA user agreement checkbox text",
+      "message": "Разбирам и прием ЛСКП"
+   },
+   "extensionName": {
+      "description": "Name shown in the extension button in SZB Control Center.",
+      "message": "Видео изтегляне"
+   },
+   "extensionTitle": {
+      "description": "Title shown on hover over the extension button in SZB Control Center.",
+      "message": "Изтеглете видеоклипове за гледане офлайн."
+   },
+   "optionUnknownSize": {
+      "description": "Videa or audio download option of unknown size",
+      "message": "неизвестен размер"
+   },
+   "popupAudioHeading": {
+      "description": "The heading of the audio section in the media popup list",
+      "message": "Аудио"
+   },
+   "popupDisabledFor": {
+      "description": "Page was disabled for video downloader",
+      "message": "Видео изтеглянето е деактивирано за"
+   },
+   "popupDownloadBtn": {
+      "description": "The Download button text as visible in the media popup list",
+      "message": "Изтегляне"
+   },
+   "popupEnable": {
+      "description": "Enable video downloader for current page",
+      "message": "Активиране"
+   },
+   "popupNoVideos": {
+      "description": "Page does not contain any videos",
+      "message": "На тази страница няма видеоклипове за изтегляне"
+   },
+   "popupNoVideos_v2": {
+      "description": "",
+      "message": "За да изтеглите видеоклип, преминете към страницата му с подробности."
+   },
+   "popupVideoHeading": {
+      "description": "The heading of the video section in the media popup list",
+      "message": "Видео"
+   },
+   "reattachBtn": {
+      "description": "The Reattach button text as visible on the detached video page",
+      "message": "Повторно прикачване"
+   }
+}

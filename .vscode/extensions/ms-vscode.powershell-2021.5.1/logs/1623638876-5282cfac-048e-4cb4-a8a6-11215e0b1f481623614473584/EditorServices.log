@@ -5,3 +5,57 @@
 2021-06-13 21:48:02.847 -05:00 [WRN] Tried to send request or notification before initialization was completed and will be sent later {"Method":"powerShell/executionStatusChanged","Params":{"ExecutionOptions":{"WriteOutputToHost":false,"WriteErrorsToHost":false,"AddToHistory":false,"InterruptCommandPrompt":false,"WriteInputToHost":false,"InputString":null,"UseNewScope":false,"$type":"ExecutionOptions"},"ExecutionStatus":"Completed","HadErrors":false,"$type":"ExecutionStatusChangedEventArgs"},"TraceParent":null,"TraceState":null,"$type":"OutgoingNotification"}
 2021-06-13 21:48:02.871 -05:00 [WRN] Tried to send request or notification before initialization was completed and will be sent later {"Method":"powerShell/executionStatusChanged","Params":{"ExecutionOptions":{"WriteOutputToHost":false,"WriteErrorsToHost":true,"AddToHistory":false,"InterruptCommandPrompt":false,"WriteInputToHost":false,"InputString":null,"UseNewScope":false,"$type":"ExecutionOptions"},"ExecutionStatus":"Completed","HadErrors":false,"$type":"ExecutionStatusChangedEventArgs"},"TraceParent":null,"TraceState":null,"$type":"OutgoingNotification"}
 2021-06-13 21:48:04.412 -05:00 [WRN] No ConfigurationItems have been defined, configuration won't surface any configuration from the client!
+2021-06-14 23:28:24.931 -05:00 [ERR] Execution of the following command(s) completed with errors:
+
+    npm dev
+    Out-Default
+
+
+2021-06-14 23:31:28.109 -05:00 [ERR] Execution of the following command(s) completed with errors:
+
+    npm run dev
+    Out-Default
+
+
+2021-06-14 23:37:28.348 -05:00 [ERR] Execution of the following command(s) completed with errors:
+
+    nodemon app.js
+    Out-Default
+
+
+2021-06-14 23:41:22.850 -05:00 [ERR] Execution of the following command(s) completed with errors:
+
+    nodemon app.js
+    Out-Default
+
+
+2021-06-14 23:43:42.572 -05:00 [ERR] Execution of the following command(s) completed with errors:
+
+    npm start
+    Out-Default
+
+
+2021-06-15 00:12:23.052 -05:00 [ERR] Execution of the following command(s) completed with errors:
+
+    npm start
+    Out-Default
+
+
+2021-06-15 00:14:04.491 -05:00 [ERR] Execution of the following command(s) completed with errors:
+
+    git pull --origin aslantep
+    Out-Default
+
+
+2021-06-15 00:15:58.371 -05:00 [ERR] Execution of the following command(s) completed with errors:
+
+    git checkout -q master
+    Out-Default
+
+
+2021-06-15 00:16:13.769 -05:00 [ERR] Execution of the following command(s) completed with errors:
+
+    git merge
+    Out-Default
+
+

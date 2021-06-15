@@ -1,0 +1,117 @@
+{
+   "appDesc": {
+      "message": "Lataa videoita katseltavaksi offline-tilassa"
+   },
+   "appName": {
+      "message": "Videolataaja"
+   },
+   "barDetachBtn": {
+      "description": "The Detach button text as visible on the floating bar",
+      "message": "Irrota"
+   },
+   "barDownloadBtn": {
+      "description": "The Download button text as visible on the floating bar",
+      "message": "Lataa"
+   },
+   "barMediaBtn": {
+      "description": "The Media button text as visible on the floating bar",
+      "message": "Media"
+   },
+   "barQualityAudio": {
+      "description": "Audio title",
+      "message": "Ääni"
+   },
+   "barQualityVideo": {
+      "description": "Video title",
+      "message": "Video"
+   },
+   "barSettingsAbout": {
+      "description": "About Button in settings popup",
+      "message": "Lisätietoja"
+   },
+   "barSettingsBtn": {
+      "description": "The Settings button text as visible on the floating bar",
+      "message": "Asetukset"
+   },
+   "barSettingsDescription": {
+      "description": "Video download feature description in settings popup",
+      "message": "Käyttää CCleaner Secure Browseria"
+   },
+   "barSettingsDoNotShow": {
+      "description": "Button in settings popup disabling video-downloader",
+      "message": "Älä näytä tätä enää uudelleen"
+   },
+   "barSettingsDoNotShowForSite": {
+      "description": "Button in settings popup disabling video-downloader for exact site",
+      "message": "Älä näytä enää uudelleen tällä sivustolla"
+   },
+   "barSettingsTitle": {
+      "description": "Settings popup title in the floating bar",
+      "message": "Asetukset"
+   },
+   "eulaContinue": {
+      "description": "EUlA continue button",
+      "message": "Jatka"
+   },
+   "eulaText": {
+      "description": "EULA message displayed to the user",
+      "message": "Hyväksymällä \u003Cdiv>\u003Ca target='blank' href='$link$'>Loppukäyttäjän lisenssisopimuksen\u003C/a>\u003C/div> (EULA) ymmärrät ja hyväksyt, että on sinun vastuullasi varmistaa, että Videolataajaa käytetään voimassa olevien tekijänoikeuslakien ja käyttämäsi verkkosivuston käyttöehtojen mukaisesti.",
+      "placeholders": {
+         "link": {
+            "content": "$1"
+         }
+      }
+   },
+   "eulaTitle": {
+      "description": "EULA popup title",
+      "message": "Ennen lataamista"
+   },
+   "eulaUnderstandAccept": {
+      "description": "EULA user agreement checkbox text",
+      "message": "Ymmärrän ja hyväksyn Loppukäyttäjän lisenssisopimuksen"
+   },
+   "extensionName": {
+      "description": "Name shown in the extension button in SZB Control Center.",
+      "message": "Videolataaja"
+   },
+   "extensionTitle": {
+      "description": "Title shown on hover over the extension button in SZB Control Center.",
+      "message": "Lataa videoita katseltavaksi offline-tilassa."
+   },
+   "optionUnknownSize": {
+      "description": "Videa or audio download option of unknown size",
+      "message": "tuntematon koko"
+   },
+   "popupAudioHeading": {
+      "description": "The heading of the audio section in the media popup list",
+      "message": "Ääni"
+   },
+   "popupDisabledFor": {
+      "description": "Page was disabled for video downloader",
+      "message": "Videolataaja pois käytöstä sivulla"
+   },
+   "popupDownloadBtn": {
+      "description": "The Download button text as visible in the media popup list",
+      "message": "Lataa"
+   },
+   "popupEnable": {
+      "description": "Enable video downloader for current page",
+      "message": "Ota käyttöön"
+   },
+   "popupNoVideos": {
+      "description": "Page does not contain any videos",
+      "message": "Tällä sivulla ei ole ladattavia videoita"
+   },
+   "popupNoVideos_v2": {
+      "description": "",
+      "message": "Siirry lisätietosivulle ladaksesi videon."
+   },
+   "popupVideoHeading": {
+      "description": "The heading of the video section in the media popup list",
+      "message": "Video"
+   },
+   "reattachBtn": {
+      "description": "The Reattach button text as visible on the detached video page",
+      "message": "Liitä takaisin"
+   }
+}

@@ -1,0 +1,860 @@
+{
+   "1pApplyChanges": {
+      "message": "Rakenda muudatused"
+   },
+   "1pExport": {
+      "message": "Ekspordi"
+   },
+   "1pFormatHint": {
+      "message": "Üks filter rea kohta. Filtriks võib olla tavaline hostinimi või Adblock Plusiga ühilduv filter. Eesliitega &lsquo;!&rsquo; ridu eiratakse."
+   },
+   "1pImport": {
+      "message": "Impordi ja lisa"
+   },
+   "1pPageName": {
+      "message": " Minu filtrid"
+   },
+   "3pApplyChanges": {
+      "message": "Rakenda muudatused"
+   },
+   "3pAutoUpdatePrompt1": {
+      "message": "Uuenda filtrite loendid automaatselt"
+   },
+   "3pExternalListObsolete": {
+      "message": "Aegunud."
+   },
+   "3pExternalListsHint": {
+      "message": "Üks URL rea kohta. Eesliitega &lsquo;!&rsquo; ridu eiratakse. Kehtetuid URL-e eiratakse vaikimisi."
+   },
+   "3pGroupAds": {
+      "message": "Reklaamid"
+   },
+   "3pGroupAnnoyances": {
+      "message": "Häirivad asjaolud"
+   },
+   "3pGroupCustom": {
+      "message": "Valikuline"
+   },
+   "3pGroupDefault": {
+      "message": "Võrgu- ja kosmeetilised filtrid"
+   },
+   "3pGroupMalware": {
+      "message": "Pahavara domeenid"
+   },
+   "3pGroupMultipurpose": {
+      "message": "Universaalne"
+   },
+   "3pGroupPrivacy": {
+      "message": "Privaatsus"
+   },
+   "3pGroupRegions": {
+      "message": "Piirkonnad, keeled"
+   },
+   "3pIgnoreGenericCosmeticFilters": {
+      "message": "Eira üldised kosmeetilisi filtreid"
+   },
+   "3pIgnoreGenericCosmeticFiltersInfo": {
+      "message": "\u003Cp>Üldised kosmeetilised filtrid on sellised kosmeetilised filtrid, mis on mõeldud kasutamiseks kõikidel veebilehtedel.\u003Cp>Kuigi üldiseid kosmeetilisi filtreid haldab tõhusalt CCleaner Anti-Tracking, võivad need mõnedel veebilehtedel, eriti just mahukatel ja pikaajalistel, kulutada ülemääraselt mälu ja protsessorit.\u003Cp>Selle suvandi lubamine väldib mälu ja protsessori kulutamist üldiste kosmeetiliste filtrite kasutamise tõttu veebilehtedel, vähendades seega CCleaner Anti-Tracking mõju mälule.\u003Cp>Soovitame selle suvandi lubada vähem võimsamatel seadmetel."
+   },
+   "3pImport": {
+      "message": "Impordi..."
+   },
+   "3pLastUpdate": {
+      "message": "Viimane uuendus: {{ago}}.\nKlõpsa sunduuendamiseks."
+   },
+   "3pListsOfBlockedHostsHeader": {
+      "message": "Blokeeritud hostide loendid"
+   },
+   "3pListsOfBlockedHostsPerListStats": {
+      "message": "{{used}} kasutatud {{total}}"
+   },
+   "3pListsOfBlockedHostsPrompt": {
+      "message": "{{netFilterCount}} võrgu filtrid ＋ {{cosmeticFilterCount}} kosmeetilised filtrid:"
+   },
+   "3pNetworkError": {
+      "message": "Võrgu tõrge tõkestas allika uuendamist."
+   },
+   "3pPageName": {
+      "message": "kolmanda poole filtrid"
+   },
+   "3pParseAllABPHideFiltersInfo": {
+      "message": "\u003Cp>See suvand võimaldab sõeluda ja jõustada \u003Ca href=\"https://adblockplus.org/en/faq_internal#elemhide\">Adblock Plus-compatible &ldquo;element hiding&rdquo; filters\u003C/a>. Need filtrid on ainult kosmeetilised. Nende eesmärk on peita veebilehe elemente, mida peetakse visuaalselt häirivaks ja mida ei saa blokeerida kasutades võrgu päringupõhist filtreerimismootorit.\u003C/p>\u003Cp>Selle funktsiooni lubamine suurendab CCleaner Anti-Tracking's mõju mälule.\u003C/p>"
+   },
+   "3pParseAllABPHideFiltersPrompt1": {
+      "message": "Sõelu ja jõusta kosmeetilised filtrid"
+   },
+   "3pPurgeAll": {
+      "message": "Puhasta kõik vahemälud"
+   },
+   "3pUpdateNow": {
+      "message": "Uuenda kohe"
+   },
+   "3pUpdating": {
+      "message": "Uuendan..."
+   },
+   "aboutBackupDataButton": {
+      "message": "Varunda faili"
+   },
+   "aboutBackupFilename": {
+      "message": "CCleaner Anti-Tracking-backup_{{datetime}}.txt"
+   },
+   "aboutChangelog": {
+      "message": "Muuda logi"
+   },
+   "aboutCode": {
+      "message": "Allika kood (GPLv3)"
+   },
+   "aboutContributors": {
+      "message": "Panustajad"
+   },
+   "aboutDependencies": {
+      "message": "Välised sõltuvused (GPLv3-ühilduv):"
+   },
+   "aboutIssues": {
+      "message": "Probleemijälgija"
+   },
+   "aboutPageName": {
+      "message": "Lisateave"
+   },
+   "aboutResetDataButton": {
+      "message": "Lähtesta vaikesätted..."
+   },
+   "aboutResetDataConfirm": {
+      "message": "Kõik teie seaded eemaldatakse ja CCleaner Anti-Tracking taaskäivitatakse.\n\nLähtestada CCleaner Anti-Tracking tehaseseadetele?"
+   },
+   "aboutRestoreDataButton": {
+      "message": "Taasta failist..."
+   },
+   "aboutRestoreDataConfirm": {
+      "message": "Kõik teie seaded kirjutatakse üle kasutades andmeid, mis on varundatud {{time}}, ja CCleaner Anti-Tracking taaskäivitub.\n\nKirjutada kõik olemasolevad andmed üle kasutades varundatud andmeid?"
+   },
+   "aboutRestoreDataError": {
+      "message": "Andmete lugemine ei õnnestunud või andmed on kehtetud"
+   },
+   "aboutSupport": {
+      "message": "Tugi"
+   },
+   "aboutWiki": {
+      "message": "Wiki"
+   },
+   "advancedSettingsPageName": {
+      "message": "Edasijõudnute seaded"
+   },
+   "advancedSettingsWarning": {
+      "message": "Hoiatus! Nende edasijõudnute seadete muutmine toimub oma vastutusel."
+   },
+   "assetViewerPageName": {
+      "message": "uBlock? ? Omaduse vaataja"
+   },
+   "cloudDeviceNamePrompt": {
+      "message": "Selle seadme nimi:"
+   },
+   "cloudPull": {
+      "message": "Impordi pilvelaost"
+   },
+   "cloudPullAndMerge": {
+      "message": "Impordi pilvelaost ja ühilda praeguste seadetega"
+   },
+   "cloudPush": {
+      "message": "Ekspordi pilvelattu"
+   },
+   "contextMenuTemporarilyAllowLargeMediaElements": {
+      "message": "Luba ajutiselt suuri meediumielemente"
+   },
+   "dashboardName": {
+      "message": "CCleaner Anti-Tracking — Esipaneel"
+   },
+   "docblockedBack": {
+      "message": "Mine tagasi"
+   },
+   "docblockedClose": {
+      "message": "Sulge aken"
+   },
+   "docblockedDisablePermanent": {
+      "message": "Püsivalt"
+   },
+   "docblockedDisableTemporary": {
+      "message": "Ajutiselt"
+   },
+   "docblockedFoundIn": {
+      "message": "Leitud:"
+   },
+   "docblockedNoParamsPrompt": {
+      "message": "ilma parameetriteta"
+   },
+   "docblockedProceed": {
+      "message": "Keela range blokeerimine {{hostname}}"
+   },
+   "docblockedPrompt1": {
+      "message": "CCleaner Anti-Tracking takistas järgmise lehe allalaadimist:"
+   },
+   "docblockedPrompt2": {
+      "message": "Järgmise filtri pärast"
+   },
+   "dummy": {
+      "message": "See kirje peab olema viimane"
+   },
+   "elapsedManyDaysAgo": {
+      "message": "{{value}} päeva tagasi"
+   },
+   "elapsedManyHoursAgo": {
+      "message": "{{value}} tundi tagasi"
+   },
+   "elapsedManyMinutesAgo": {
+      "message": "{{value}} minutit tagasi"
+   },
+   "elapsedOneDayAgo": {
+      "message": "üks päev tagasi"
+   },
+   "elapsedOneHourAgo": {
+      "message": "tund aega tagasi"
+   },
+   "elapsedOneMinuteAgo": {
+      "message": "minut tagasi"
+   },
+   "errorCantConnectTo": {
+      "message": "Võrgu viga: {{msg}}"
+   },
+   "extShortDesc": {
+      "message": "Blokeerib pealetükkivad veebijälgijad."
+   },
+   "extra1pPageNameDesc": {
+      "message": "Halda oma kohandatud filtreid"
+   },
+   "extra3pPageNameDesc": {
+      "message": "Jälgijate ja privaatsuse kolmanda poole filtrid"
+   },
+   "extraAddFilter": {
+      "message": "Lisa filter"
+   },
+   "extraAddRrule": {
+      "message": "Lisa ajutine reegel"
+   },
+   "extraAddSetting": {
+      "message": "Lisa seade"
+   },
+   "extraAddSite": {
+      "message": "Lisa leht"
+   },
+   "extraAdsFilters": {
+      "message": "Reklaamide filtrid"
+   },
+   "extraAdvancedUserSettings": {
+      "message": "Edasijõudnute kasutajaseaded"
+   },
+   "extraAllowOnSites": {
+      "message": "Luba jälgijad nendel lehtedel"
+   },
+   "extraBlockMediaElementsLargerThan": {
+      "message": "Blokeeri meediumi elemendid, mis on suuremad kui"
+   },
+   "extraBtnAdd": {
+      "message": "lisa"
+   },
+   "extraBtnCancel": {
+      "message": "tühista"
+   },
+   "extraBtnEdit": {
+      "message": "Muuda"
+   },
+   "extraBtnExport": {
+      "message": "ekspordi"
+   },
+   "extraBtnImport": {
+      "message": "impordi"
+   },
+   "extraBtnRemove": {
+      "message": "Eemalda"
+   },
+   "extraBtnUpdateAll": {
+      "message": "värskenda kõik"
+   },
+   "extraDefaultBehaviour": {
+      "message": "Vaikimisi käitumine"
+   },
+   "extraEditFilter": {
+      "message": "Muuda filtrit"
+   },
+   "extraEditRule": {
+      "message": "Muuda ajutist reeglit"
+   },
+   "extraEditSetting": {
+      "message": "Muuda seadet"
+   },
+   "extraEditSite": {
+      "message": "Muuda lehte"
+   },
+   "extraGeneralSettings": {
+      "message": "Üldised seadistused"
+   },
+   "extraGeneralSettingsDesc": {
+      "message": "Halda CCleaner Anti-Tracking poolt kuvatavat teavet"
+   },
+   "extraIndexDescription": {
+      "message": "Blokeeri jälgijad, et tagada kiirem ja turvalisem sirvimine"
+   },
+   "extraIndexFooter": {
+      "message": "uBlock Origini toel."
+   },
+   "extraIndexHeader": {
+      "message": "CCleaner Anti-Tracking edasijõudnute seaded"
+   },
+   "extraInterstitialBlocking": {
+      "message": "Luba sisemine blokeerimine"
+   },
+   "extraLabelFilter": {
+      "message": "Filtreeri"
+   },
+   "extraLearnMore": {
+      "message": "Rohkem teavet"
+   },
+   "extraManageFilters": {
+      "message": "Halda filtreid"
+   },
+   "extraMyCustomFilter": {
+      "message": "Minu kohandatud filtrid"
+   },
+   "extraPrivacy": {
+      "message": "Privaatne"
+   },
+   "extraRule": {
+      "message": "Reegel"
+   },
+   "extraRuleDefinition": {
+      "message": "Reegli määratlus"
+   },
+   "extraRuleSyntax": {
+      "message": "Reegli süntaks"
+   },
+   "extraRulesPageNameDesc": {
+      "message": "Sinu dünaamiliste filtreerimisreeglite loend"
+   },
+   "extraSetting": {
+      "message": "Seaded"
+   },
+   "extraShowMore": {
+      "message": "Kuva rohkem"
+   },
+   "extraSite": {
+      "message": "Leht"
+   },
+   "extraSlider0": {
+      "message": "Ära blokeeri reklaame"
+   },
+   "extraSlider100": {
+      "message": "Maksimaalne reklaamide blokeerimine"
+   },
+   "extraSlider50": {
+      "message": "Mõõdukas reklaamide blokeerimine"
+   },
+   "extraSourceDestinationTypeAction": {
+      "message": "allika sihtkoha tüüpi toiming."
+   },
+   "extraWhitelistPageNameDesc": {
+      "message": "Lehtede loend, kus jälgijad on lubatud"
+   },
+   "fennecMenuItemBlockingOff": {
+      "message": "välja lülitatud"
+   },
+   "genericApplyChanges": {
+      "message": "Rakenda muudatused"
+   },
+   "genericBytes": {
+      "message": "baiti"
+   },
+   "genericCopyToClipboard": {
+      "message": "Kopeeri lõikelauale"
+   },
+   "genericMergeViewScrollLock": {
+      "message": "Luba ja keela lukustatud kerimine"
+   },
+   "genericRevert": {
+      "message": "Võta tagasi"
+   },
+   "genericSubmit": {
+      "message": "Saada"
+   },
+   "logAll": {
+      "message": "Kõik"
+   },
+   "logBehindTheScene": {
+      "message": "Stseeni taga"
+   },
+   "logFilterPrompt": {
+      "message": "filtreeri logi kirjed"
+   },
+   "logMaxEntriesTip": {
+      "message": "Logi kirjete maksimaalne arv"
+   },
+   "logRequestsHeaderDomain": {
+      "message": "Domeen"
+   },
+   "logRequestsHeaderFilter": {
+      "message": "Filtreeri"
+   },
+   "logRequestsHeaderType": {
+      "message": "Tüüp"
+   },
+   "logRequestsHeaderURL": {
+      "message": "URL"
+   },
+   "loggerClearTip": {
+      "message": "Tühista loger"
+   },
+   "loggerCurrentTab": {
+      "message": "Praegune sakk"
+   },
+   "loggerDomInspectorTip": {
+      "message": "Luba ja keela DOM-inspektor"
+   },
+   "loggerEntryDetailsContext": {
+      "message": "Kontekst"
+   },
+   "loggerEntryDetailsFilter": {
+      "message": "Filter"
+   },
+   "loggerEntryDetailsFilterList": {
+      "message": "Filtrite list"
+   },
+   "loggerEntryDetailsHeader": {
+      "message": "Detailid"
+   },
+   "loggerEntryDetailsPartyness": {
+      "message": "Parteilisus"
+   },
+   "loggerEntryDetailsRootContext": {
+      "message": "Juurkontekst"
+   },
+   "loggerEntryDetailsRule": {
+      "message": "Reegel"
+   },
+   "loggerEntryDetailsType": {
+      "message": "Tüüp"
+   },
+   "loggerEntryDetailsURL": {
+      "message": "URL"
+   },
+   "loggerExportEncodeMarkdown": {
+      "message": "Allahindlus"
+   },
+   "loggerExportEncodePlain": {
+      "message": "Lihtne"
+   },
+   "loggerExportFormatList": {
+      "message": "List"
+   },
+   "loggerExportFormatTable": {
+      "message": "Tabel"
+   },
+   "loggerInfoTip": {
+      "message": "uBlocki päritolu wiki: loger"
+   },
+   "loggerPauseTip": {
+      "message": "Pane loger pausile (kustuta kõik sissetulevad andmed)"
+   },
+   "loggerPopupPanelTip": {
+      "message": "Luba ja keela hüpikpaneel"
+   },
+   "loggerReloadTip": {
+      "message": "Laadi uuesti saki sisu"
+   },
+   "loggerRowFiltererBuiltin1p": {
+      "message": "esimene pool"
+   },
+   "loggerRowFiltererBuiltin3p": {
+      "message": "kolmas pool"
+   },
+   "loggerRowFiltererBuiltinAllowed": {
+      "message": "lubatud"
+   },
+   "loggerRowFiltererBuiltinBlocked": {
+      "message": "blokeeritud"
+   },
+   "loggerRowFiltererBuiltinEventful": {
+      "message": "vaheldusrikas"
+   },
+   "loggerRowFiltererBuiltinNot": {
+      "message": "Ei"
+   },
+   "loggerRowFiltererBuiltinTip": {
+      "message": "Logeri filtreerimise variandid"
+   },
+   "loggerRowFiltererButtonTip": {
+      "message": "Luba ja keela logeri filtreerimine"
+   },
+   "loggerSettingDiscardPrompt": {
+      "message": "Logeri sisestused, mis ei täida kõiki allpool toodud tingimusi, kustutatakse automaatselt:"
+   },
+   "loggerSettingHideColumnContext": {
+      "message": "{{input}} Kontekst"
+   },
+   "loggerSettingHideColumnFilter": {
+      "message": "{{input}} Filter/reegel"
+   },
+   "loggerSettingHideColumnPartyness": {
+      "message": "{{input}} Parteilisus"
+   },
+   "loggerSettingHideColumnTime": {
+      "message": "{{input}} Aeg"
+   },
+   "loggerSettingHideColumnsPrompt": {
+      "message": "Peida veerud:"
+   },
+   "loggerSettingPerEntryLineCount": {
+      "message": "Kasuta {{input}} rida sisestuse kohta vertikaalselt laiendatud režiimis"
+   },
+   "loggerSettingPerEntryMaxAge": {
+      "message": "Säilita sisestused viimase {{input}} minuti jooksul"
+   },
+   "loggerSettingPerTabMaxEntries": {
+      "message": "Säilita maksimaalselt {{input}} sisestust saki kohta"
+   },
+   "loggerSettingPerTabMaxLoads": {
+      "message": "Säilita maksimaalselt {{input}} lehe laadimist saki kohta"
+   },
+   "loggerStaticFilteringFinderSentence1": {
+      "message": "Staatiline filter \u003Ccode>{{filter}}\u003C/code> leitu:"
+   },
+   "loggerStaticFilteringFinderSentence2": {
+      "message": "Staatilist filtrit \u003Ccode>{{filter}}\u003C/code> ei leitud ühestki praegu lubatud filtriloenditest"
+   },
+   "loggerStaticFilteringHeader": {
+      "message": "Staatiline filtreerimine"
+   },
+   "loggerStaticFilteringSentence": {
+      "message": "{{action}} võrgupäringut / {{type}} {{br}}, mille URLi aadressid sobivad {{url}} {{br}}ja mille päritolu on {{origin}},{{br}}{{importance}} siin on sobiv erandifilter."
+   },
+   "loggerStaticFilteringSentencePartAllow": {
+      "message": "Luba"
+   },
+   "loggerStaticFilteringSentencePartAnyOrigin": {
+      "message": "igalt poolt"
+   },
+   "loggerStaticFilteringSentencePartAnyType": {
+      "message": "ükskõik milline tüüp"
+   },
+   "loggerStaticFilteringSentencePartBlock": {
+      "message": "Blokeeri"
+   },
+   "loggerStaticFilteringSentencePartImportant": {
+      "message": "isegi kui"
+   },
+   "loggerStaticFilteringSentencePartNotImportant": {
+      "message": "v. a kui"
+   },
+   "loggerStaticFilteringSentencePartOrigin": {
+      "message": "kust ?{{origin}}?"
+   },
+   "loggerStaticFilteringSentencePartType": {
+      "message": "tüüp ?{{type}}?"
+   },
+   "loggerURLFilteringContextLabel": {
+      "message": "Kontekst:"
+   },
+   "loggerURLFilteringHeader": {
+      "message": "Dünaamiline URL filtreerimine"
+   },
+   "loggerURLFilteringTypeLabel": {
+      "message": "Tüüp:"
+   },
+   "loggerUnpauseTip": {
+      "message": "Tühista logeri paus"
+   },
+   "pickerContextMenuEntry": {
+      "message": "Blokeeri element"
+   },
+   "pickerCosmeticFilters": {
+      "message": "Kosmeetilised filtrid"
+   },
+   "pickerCosmeticFiltersHint": {
+      "message": "Klõpsa, Ctrl-klõpsa"
+   },
+   "pickerCreate": {
+      "message": "Loo"
+   },
+   "pickerNetFilters": {
+      "message": "Võrgu filtrid"
+   },
+   "pickerPick": {
+      "message": "Vali"
+   },
+   "pickerPreview": {
+      "message": "Eelvaade"
+   },
+   "pickerQuit": {
+      "message": "Loobu"
+   },
+   "popup1pScriptRulePrompt": {
+      "message": "esimese poole skriptid"
+   },
+   "popup3pAnyRulePrompt": {
+      "message": "kolmas pool"
+   },
+   "popup3pFrameRulePrompt": {
+      "message": "kolmanda poole raamid"
+   },
+   "popup3pPassiveRulePrompt": {
+      "message": "kolmanda poole css/kujutised"
+   },
+   "popup3pScriptRulePrompt": {
+      "message": "kolmanda poole sktriptid"
+   },
+   "popupAdvancedSettings": {
+      "message": "Edasijõudnute seaded"
+   },
+   "popupAnyRulePrompt": {
+      "message": "kõik"
+   },
+   "popupExtraAdsAllowedOnSites": {
+      "message": "Jälgijad on sellel lehel lubatud"
+   },
+   "popupExtraAdsBlockedOnPage": {
+      "message": "Blokeeritud jälgijad sellel lehel"
+   },
+   "popupExtraAdsBlockedOnSites": {
+      "message": "Jälgijad on sellel lehel blokeeritud"
+   },
+   "popupExtraAdsBlockedTotal": {
+      "message": "Blokeeritud jälgijaid kokku"
+   },
+   "popupExtraLessOptions": {
+      "message": "Vähem võimalusi"
+   },
+   "popupExtraListAllowedSites": {
+      "message": "Lubatud lehtede loend"
+   },
+   "popupExtraMoreInformation": {
+      "message": "Lisateave"
+   },
+   "popupExtraMoreOptions": {
+      "message": "Rohkem võimalusi"
+   },
+   "popupExtraNoSitesAddedYet": {
+      "message": "Ühtegi saiti ei ole veel lisatud"
+   },
+   "popupExtraProtectionCanNotEnabled": {
+      "message": "Selle lehe kaitset ei saa lubada"
+   },
+   "popupExtraProtectionDisabledForSession": {
+      "message": "Selle seansi kaitset ei saa lubada"
+   },
+   "popupExtraSeeListAllowedSites": {
+      "message": "Vaata kõikide lubatud lehtede loendit"
+   },
+   "popupHitDomainCount": {
+      "message": "{{count}} / {{total}}"
+   },
+   "popupHitDomainCountPrompt": {
+      "message": "domeenid ühendatud"
+   },
+   "popupImageRulePrompt": {
+      "message": "kujutised"
+   },
+   "popupInlineScriptRulePrompt": {
+      "message": "teksti sees olevad skriptid"
+   },
+   "popupTipDashboard": {
+      "message": "Ava esipaneel"
+   },
+   "popupTipGlobalRules": {
+      "message": "Üleilmsed reeglid: see veerg on reeglite jaoks, mis kohalduvad kõigile lehtedele."
+   },
+   "popupTipLocalRules": {
+      "message": "Kohalikud reeglid: see veerg on reeglite jaoks, mis kohalduvad ainult praegusele lehele.\nKohalikud reeglid alistavad üleilmsed reeglid."
+   },
+   "popupTipLog": {
+      "message": "Ava loger"
+   },
+   "popupTipNoCosmeticFiltering": {
+      "message": "Luba või keela kosmeetiline filtreerimine sellel lehel"
+   },
+   "popupTipNoCosmeticFiltering1": {
+      "message": "Klõpsa, et keelata kosmeetiline filtreerimine sellel lehel"
+   },
+   "popupTipNoCosmeticFiltering2": {
+      "message": "Klõpsa, et lubada kosmeetiline filtreerimine sellel lehel"
+   },
+   "popupTipNoLargeMedia": {
+      "message": "Luba või keela suurte meediaelementide blokeerimine sellel lehel"
+   },
+   "popupTipNoLargeMedia1": {
+      "message": "Klõpsa suurte meediaelementide blokeerimiseks sellel lehel"
+   },
+   "popupTipNoLargeMedia2": {
+      "message": "Klõpsa, et tühistada suurte meediaelementide blokeerimine sellel lehel"
+   },
+   "popupTipNoPopups": {
+      "message": "Luba või keela kõigi hüpikakende blokeerimine sellel lehel"
+   },
+   "popupTipNoPopups1": {
+      "message": "Klõpsa kõigi hüpikakende blokeerimiseks sellel lehel"
+   },
+   "popupTipNoPopups2": {
+      "message": "Klõpsa, et tühistada kõigi hüpikakende blokeerimine sellel lehel"
+   },
+   "popupTipNoRemoteFonts": {
+      "message": "Luba või keela kaugfontide blokeerimine sellel lehel"
+   },
+   "popupTipNoRemoteFonts1": {
+      "message": "Klõpsa, et blokeerida kaugfondid sellel lehel"
+   },
+   "popupTipNoRemoteFonts2": {
+      "message": "Klõpsa, et tühistada kaugfontide blokeerimine sellel lehel"
+   },
+   "popupTipNoScripting1": {
+      "message": "Klõpsa, et keelata JavaScript sellel lehel"
+   },
+   "popupTipNoScripting2": {
+      "message": "Klõpsa, et tühistada JavaScripti keelamine sellel lehel"
+   },
+   "popupTipPicker": {
+      "message": "Sisene elemendi valija režiimi"
+   },
+   "popupTipRevertRules": {
+      "message": "Klõpsa muudatuste tühistamiseks."
+   },
+   "popupTipSaveRules": {
+      "message": "Klõpsa muudatuste püsivaks kinnitamiseks."
+   },
+   "popupTipZapper": {
+      "message": "Sisene elemendi kanalivahetaja režiimi"
+   },
+   "rulesCommit": {
+      "message": "Soorita"
+   },
+   "rulesEdit": {
+      "message": "Muuda"
+   },
+   "rulesEditDiscard": {
+      "message": "Kustuta"
+   },
+   "rulesEditSave": {
+      "message": "Salvesta"
+   },
+   "rulesExport": {
+      "message": "Ekspordi faili"
+   },
+   "rulesFormatHint": {
+      "message": "Reegli süntaks: \u003Ccode>source destination type action\u003C/code> (\u003Ca href='https://github.com/gorhill/uBlock/wiki/Dynamic-filtering:-rule-syntax'>full documentation\u003C/a>)."
+   },
+   "rulesHint": {
+      "message": "Sinu dünaamiliste filtreerimisreeglite loend."
+   },
+   "rulesImport": {
+      "message": "Impordi failist..."
+   },
+   "rulesPageName": {
+      "message": "Minu reeglid"
+   },
+   "rulesPermanentHeader": {
+      "message": "Püsivad reeglid"
+   },
+   "rulesRevert": {
+      "message": "Võta tagasi"
+   },
+   "rulesTemporaryHeader": {
+      "message": "Ajutised reeglid"
+   },
+   "settingPerSiteSwitchGroup": {
+      "message": "Vaikimisi käitumine"
+   },
+   "settingPerSiteSwitchGroupSynopsis": {
+      "message": "Need vaikekäitumised saab alistada lehe kaupa"
+   },
+   "settingsAdvancedUserPrompt": {
+      "message": "Olen edasijõudnud kasutaja (\u003Ca href='https://github.com/gorhill/uBlock/wiki/Advanced-user-features'>required reading\u003C/a>)"
+   },
+   "settingsAdvancedUserSettings": {
+      "message": "edasijõudnute seaded"
+   },
+   "settingsCloudStorageEnabledPrompt": {
+      "message": "Luba pilvelao tugi"
+   },
+   "settingsCollapseBlockedPrompt": {
+      "message": "Peida blokeeritud elementide kohatäited"
+   },
+   "settingsColorBlindPrompt": {
+      "message": "Värvipimeda suhtes sõbralik"
+   },
+   "settingsContextMenuPrompt": {
+      "message": "Kus vaja, kasuta kontekstimenüüd"
+   },
+   "settingsHyperlinkAuditingDisabledPrompt": {
+      "message": "Luba hüperlingi auditeerimine"
+   },
+   "settingsIconBadgePrompt": {
+      "message": "Näita blokeeritud päringute arvu ikoonil"
+   },
+   "settingsLastBackupPrompt": {
+      "message": "Viimane varundamine:"
+   },
+   "settingsLastRestorePrompt": {
+      "message": "Viimati taastatud:"
+   },
+   "settingsNoCSPReportsPrompt": {
+      "message": "Blokeeri CSP aruanded"
+   },
+   "settingsNoCosmeticFilteringPrompt": {
+      "message": "Keela kosmeetiline filtreerimine"
+   },
+   "settingsNoLargeMediaPrompt": {
+      "message": "Blokeeri meediaelemendid, mis on suuremad kui {{input:number}} kB"
+   },
+   "settingsNoRemoteFontsPrompt": {
+      "message": "Blokeeri välised fondid"
+   },
+   "settingsNoScriptingPrompt": {
+      "message": "Keela JavaScript"
+   },
+   "settingsPageName": {
+      "message": "Seaded"
+   },
+   "settingsPrefetchingDisabledPrompt": {
+      "message": "Luba eeltoomine (vältimaks ühendust blokeeritud võrgu päringule)"
+   },
+   "settingsStorageUsed": {
+      "message": "Kasutatud mäluruum: {{value}} baiti"
+   },
+   "settingsTooltipsPrompt": {
+      "message": "Keela kohtspikrid"
+   },
+   "settingsWebRTCIPAddressHiddenPrompt": {
+      "message": "Tõkesta kohalike IP-aadresside lekitamine WebRTC poolt"
+   },
+   "shortcutCapturePlaceholder": {
+      "message": "Sisesta kiirtee"
+   },
+   "shortcutsPageName": {
+      "message": "Kiirteed"
+   },
+   "showDashboardButton": {
+      "message": "Näita esipaneeli"
+   },
+   "showNetworkLogButton": {
+      "message": "Näiga logerit"
+   },
+   "statsPageName": {
+      "message": "CCleaner Anti-Tracking — Loger"
+   },
+   "subscriberConfirm": {
+      "message": "CCleaner Anti-Tracking: Lisada järgmine URL sinu kohandatud filtrite loenditesse?\n\nPealkiri: \"{{title}}\"\nURL: {{url}}"
+   },
+   "whitelistApply": {
+      "message": "Rakenda muudatused"
+   },
+   "whitelistExport": {
+      "message": "Ekspordi"
+   },
+   "whitelistExportFilename": {
+      "message": "CCleaner Anti-Tracking-whitelist_{{datetime}}.txt"
+   },
+   "whitelistImport": {
+      "message": "Impordi ja lisa"
+   },
+   "whitelistPageName": {
+      "message": "Valge list"
+   },
+   "whitelistPrompt": {
+      "message": "Valgete listide direktiivis sätestatakse, millistel veebilehtedel tuleb CCleaner Anti-Tracking keelata. Üks kirje rea kohta. Kehtetuid direktiive eiratakse vaikimisi ja need blokeeritakse."
+   }
+}

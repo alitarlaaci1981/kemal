@@ -1,0 +1,36 @@
+{
+   "author": "CCleaner powered by HTTPSEverywhere",
+   "background": {
+      "scripts": [ "background-scripts/bootstrap.js", "background-scripts/util.js", "wasm/https_everywhere_lib_wasm.js", "background-scripts/wasm.js", "background-scripts/update_channels.js", "background-scripts/update.js", "background-scripts/rules.js", "background-scripts/store.js", "external/pako-1.0.5/pako_inflate.min.js", "background-scripts/incognito.js", "background-scripts/ip_utils.js", "background-scripts/background.js" ]
+   },
+   "browser_action": {
+      "default_icon": {
+         "16": "images/icons/icon-active-16.png",
+         "32": "images/icons/icon-active-32.png",
+         "38": "images/icons/icon-active-38.png"
+      },
+      "default_popup": "pages/popup/index.html",
+      "default_title": "CCleaner HTTPS Encryption"
+   },
+   "content_security_policy": "script-src 'self' 'wasm-eval'; object-src 'self'",
+   "default_locale": "en",
+   "description": "__MSG_about_ext_description__",
+   "differential_fingerprint": "",
+   "icons": {
+      "128": "icon128.png",
+      "16": "icon16.png",
+      "48": "icon48.png"
+   },
+   "incognito": "spanning",
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAp0jbhiKEEH9FieiN/P7T7ActCwkoXOOe1lXHLB4xr6RNvPyyddkjFt/TQ9BEZSjnCTYC1SoJBkzRO5bC5zuyo3y+SJe3Hv6LG0a4chfaIlU58YAhDwieSoW8OcH0hdun+nTgNe9IXJXvueLiutxr/F2uhPZn8i45nJ6N5M2Psq6peu7ZTpZl667EsHE0J5KaJbOSMYaqzGZ8xkxO2RQqHQ8b8nyoQJh9T7Jo2zFIwHL3L+7ZxbHGafxf9MTqUEv7n75G0DLYifZWiUrC6mnNb8vvLLKJJI+7xOkiXNU/CTd+uShShHSUO9mrkxXofmDK/xnNWwDwnJ8UtX7N8U1R/wIDAQAB",
+   "manifest_version": 2,
+   "minimum_chrome_version": "55",
+   "name": "CCleaner HTTPS Encryption",
+   "options_ui": {
+      "page": "pages/options/index.html"
+   },
+   "permissions": [ "webNavigation", "webRequest", "webRequestBlocking", "tabs", "cookies", "storage", "*://*/*", "ftp://*/*" ],
+   "short_name": "CCleaner HTTPS Encryption",
+   "version": "21.1.17.24",
+   "web_accessible_resources": [ "/pages/cancel/index.html" ]
+}

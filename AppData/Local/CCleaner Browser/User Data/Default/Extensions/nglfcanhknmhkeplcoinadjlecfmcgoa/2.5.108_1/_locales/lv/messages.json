@@ -1,0 +1,239 @@
+{
+   "adBlock": {
+      "message": "Adblock"
+   },
+   "adBlockSettings": {
+      "message": "Adblock — iestatījumi"
+   },
+   "adblockIsOff": {
+      "message": "Adblock ir izslēgts"
+   },
+   "adblockIsPaused": {
+      "message": "Adblock ir pauzēts visās vietnēs"
+   },
+   "adblockIsPausedOnSite": {
+      "message": "Adblock ir pauzēts šajā vietnē"
+   },
+   "addSite": {
+      "message": "Pievienot vietni"
+   },
+   "addWebsiteToAllowAds": {
+      "message": "Pievienot “tīmekļa vietni” lai atļautu reklāmas"
+   },
+   "adsAreAllowed": {
+      "message": "Šajā vietnē ir atļautas reklāmas"
+   },
+   "adsBlocked": {
+      "message": "Reklāmas bloķētas: "
+   },
+   "allowAdsOnSite": {
+      "message": "Atļaut reklāmas šajā vietnē"
+   },
+   "alwaysAllowAdsOnSites": {
+      "message": "Vienmēr atļaut reklāmas šajās vietnes"
+   },
+   "balancedBlocking": {
+      "message": "Balansēta bloķēšana"
+   },
+   "balancedBlockingName": {
+      "message": "Balansēts"
+   },
+   "blockAdsOnThisSite": {
+      "message": "Bloķēt reklāmas šajā vietnē"
+   },
+   "blockingOptions": {
+      "message": "Bloķēšanas opcijas"
+   },
+   "btnAdd": {
+      "message": "Pievienot"
+   },
+   "cancel": {
+      "message": "Atcelt"
+   },
+   "cancelAddSiteOperation": {
+      "message": "Atcelt vietnes pievienošanas darbību"
+   },
+   "cancelEditSiteOperation": {
+      "message": "Atcelt vietnes rediģēšanas darbību"
+   },
+   "cancelSetStrict": {
+      "message": "Atcelt iestatīto stingrā režīma darbību"
+   },
+   "edit": {
+      "message": "Rediģēt"
+   },
+   "editFromWhitelist": {
+      "message": "Rediģēt vietni no baltā saraksta"
+   },
+   "editSiteFromWhitelist": {
+      "message": "Rediģēt vietni no baltā saraksta"
+   },
+   "essentialBlocking": {
+      "message": "Svarīgākā bloķēšana"
+   },
+   "essentialBlockingName": {
+      "message": "Svarīgākais"
+   },
+   "extShortDesc": {
+      "message": "Visbeidzot efektīvs bloķētājs. Vienkārši izmantot centrālajam procesoram un atmiņai."
+   },
+   "generalSettings": {
+      "message": "Vispārējie iestatījumi"
+   },
+   "hideAmountAds": {
+      "message": "Paslēpt bloķēto reklāmu skaitu"
+   },
+   "indexDescription": {
+      "message": "Bloķēt reklāmas ātrākai un drošākai pārlūkošanai"
+   },
+   "keep_balanced": {
+      "message": "Saglabāt līdzsvaru"
+   },
+   "keep_essential": {
+      "message": "Saglabāt svarīgāko"
+   },
+   "learnMore": {
+      "message": "Uzzināt vairāk"
+   },
+   "learnMoreAAS": {
+      "message": "Uzzināt vairāk par pieņemamo reklāmu standartu"
+   },
+   "learnMoreAboutAdBLock": {
+      "message": "Uzzināt vairāk par Adblock"
+   },
+   "learnMoreUblock": {
+      "message": "Uzzināt vairāk par uBlock"
+   },
+   "modifyWhitelistedSite": {
+      "message": "Modificēt baltajā sarakstā iekļauto vietni"
+   },
+   "noAdsToBlock": {
+      "message": "Nav reklāmu šajā lapā"
+   },
+   "openSettings": {
+      "message": "Atvērt iestatījumus"
+   },
+   "pauseAdBlock": {
+      "message": "Pauzēt Adblock"
+   },
+   "pauseAdBlockOnAllSites": {
+      "message": "Pauzēt Adblock visās vietnēs"
+   },
+   "pauseAdsOnAllSites": {
+      "message": "Pauzēt reklāmas visās vietnēs"
+   },
+   "pauseAdsOnSite": {
+      "message": "Pauzēt reklāmas šajā vietnē"
+   },
+   "pauseOnAllSites": {
+      "message": "Pauzēt visās vietnēs"
+   },
+   "pauseOnThisSite": {
+      "message": "Pauzēt šajā vietnē"
+   },
+   "poweredByUblock": {
+      "message": "Nodrošināt \u003Cu>\u003Ca style='color: inherit;' target='_blank' href='__SET_HREF__'>uBlock\u003C/a>\u003C/u>"
+   },
+   "remove": {
+      "message": "Noņemt"
+   },
+   "removeFromWhitelist": {
+      "message": "Noņemt vietni no baltā saraksta"
+   },
+   "save": {
+      "message": "Ietaupīt"
+   },
+   "saveSiteIntoWhitelist": {
+      "message": "Saglabāt vietni baltajā sarakstā"
+   },
+   "setBalancedMode": {
+      "message": "Iestatīt balansēto režīmu"
+   },
+   "setEssentialMode": {
+      "message": "Iestatīt pamata režīmu"
+   },
+   "setStrict": {
+      "message": "Iestatiet stingru"
+   },
+   "setStrictDescription_avast": {
+      "message": "Dažas ļoti neuzmācīgas reklāmas mums palīdz finansēt Avast Secure Browser. Tās nepārtrauc jūsu pārlūkošanu un palīdz uzturēt pārlūku bez maksas. Lūdzu, izrādiet mums nedaudz mīlestības, atļaujot šīs reklāmas."
+   },
+   "setStrictDescription_avg": {
+      "message": "Dažas ļoti neuzmācīgas reklāmas mums palīdz finansēt AVG Secure Browser. Tās nepārtrauc jūsu pārlūkošanu un palīdz uzturēt pārlūku bez maksas. Lūdzu, izrādiet mums nedaudz mīlestības, atļaujot šīs reklāmas."
+   },
+   "setStrictDescription_ccleaner": {
+      "message": "Dažas ļoti neuzmācīgas reklāmas mums palīdz finansēt CCleaner Browser. Tās nepārtrauc jūsu pārlūkošanu un palīdz uzturēt pārlūku bez maksas. Lūdzu, izrādiet mums nedaudz mīlestības, atļaujot šīs reklāmas."
+   },
+   "setStrictMode": {
+      "message": "Iestatīt stingro režīmu"
+   },
+   "setStrictTitle": {
+      "message": "Iestatiet Adblock kā stingru"
+   },
+   "settingsCardAcceptableAds": {
+      "message": "Bloķējiet graujošās reklāmas, kas pārkāpj\n \u003Cu>\u003Ca style='color: inherit;' target='_blank' href='__SET_HREF__'>Pieņemamo reklāmu standartus\u003C/a>\u003C/u>."
+   },
+   "settingsCardAcceptableAdsBlocks": {
+      "message": "\u003Cb>Ieteicams\u003C/b> - Bloķējiet lielāko daļu reklāmu, lai paātrinātu un attīrītu pārlūkošanas pieredzi."
+   },
+   "settingsCardAcceptableAdsBlocksNearly": {
+      "message": "Bloķējiet gandrīz visas reklāmas, lai paātrinātu un attīrītu pārlūkošanas pieredzi. \u003Cb>Tas var sašķelt dažas vietnes.\u003C/b>"
+   },
+   "settingsCardDisruptive": {
+      "message": "Mūsu graujošās reklāmas"
+   },
+   "settingsCardOtherAds": {
+      "message": "99 % citu reklāmu"
+   },
+   "settingsCardPopups": {
+      "message": "Uznirstošās reklāmas un reklāmkarogi"
+   },
+   "settingsCardSocialMedia": {
+      "message": "Dažas sociālo tīklu reklāmas"
+   },
+   "settingsShowNumberBadge": {
+      "message": "Rādīt bloķēto reklāmu skaitu ikonā"
+   },
+   "showAmountAds": {
+      "message": "Rādīt bloķēto reklāmu skaitu"
+   },
+   "site": {
+      "message": "Vietne"
+   },
+   "sitesYouHaveAllowed": {
+      "message": "Vietne, kurā esat atļāvis reklāmas, tiks parādīta šeit"
+   },
+   "stayOn_balanced": {
+      "message": "Palikt balansētā režīmā"
+   },
+   "stayOn_essential": {
+      "message": "Palikt pamata režīmā"
+   },
+   "strictBlocking": {
+      "message": "Stingra bloķēšana"
+   },
+   "strictBlockingName": {
+      "message": "Stingra"
+   },
+   "turnAdblockOn": {
+      "message": "Ieslēgt"
+   },
+   "turnOff": {
+      "message": "Izslēgt Adblock"
+   },
+   "turnOn": {
+      "message": "Ieslēgt Adblock"
+   },
+   "unpauseAdBlockAllSites": {
+      "message": "Pārtraukt Adblock pauzi visās vietnēs"
+   },
+   "unpauseAdblockOnAllSites": {
+      "message": "Pārtraukt pauzi"
+   },
+   "whitelistModalDescription": {
+      "message": "Kurā vietnē vēlaties atļaut reklāmas?"
+   },
+   "youHaveAllowAdsOnThisSite": {
+      "message": "Jūs atļāvāt reklāmas šajā vietnē "
+   }
+}

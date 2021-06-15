@@ -1,0 +1,117 @@
+{
+   "appDesc": {
+      "message": "Prenesite videoposnetke za ogled v načinu brez povezave"
+   },
+   "appName": {
+      "message": "Orodje za prenos videoposnetkov"
+   },
+   "barDetachBtn": {
+      "description": "The Detach button text as visible on the floating bar",
+      "message": "Odstrani povezavo"
+   },
+   "barDownloadBtn": {
+      "description": "The Download button text as visible on the floating bar",
+      "message": "Prenesi"
+   },
+   "barMediaBtn": {
+      "description": "The Media button text as visible on the floating bar",
+      "message": "Predstavnost"
+   },
+   "barQualityAudio": {
+      "description": "Audio title",
+      "message": "Zvok"
+   },
+   "barQualityVideo": {
+      "description": "Video title",
+      "message": "Videoposnetek"
+   },
+   "barSettingsAbout": {
+      "description": "About Button in settings popup",
+      "message": "Več informacij"
+   },
+   "barSettingsBtn": {
+      "description": "The Settings button text as visible on the floating bar",
+      "message": "Nastavitve"
+   },
+   "barSettingsDescription": {
+      "description": "Video download feature description in settings popup",
+      "message": "Uporablja tehnologijo CCleaner Secure Browser"
+   },
+   "barSettingsDoNotShow": {
+      "description": "Button in settings popup disabling video-downloader",
+      "message": "Tega ne kaži več"
+   },
+   "barSettingsDoNotShowForSite": {
+      "description": "Button in settings popup disabling video-downloader for exact site",
+      "message": "Tega ne kaži več na tem spletnem mestu"
+   },
+   "barSettingsTitle": {
+      "description": "Settings popup title in the floating bar",
+      "message": "Nastavitve"
+   },
+   "eulaContinue": {
+      "description": "EUlA continue button",
+      "message": "Nadaljuj"
+   },
+   "eulaText": {
+      "description": "EULA message displayed to the user",
+      "message": "Če sprejmete našo \u003Cdiv>\u003Ca target='blank' href='$link$'>licenčno pogodbo za končnega uporabnika\u003C/a>\u003C/div> (EULA), potrjujete in soglašate, da ste sami odgovorni za uporabo orodja za prenos videoposnetkov v skladu z veljavnimi zakoni o avtorskih pravicah in pogoji uporabe vseh spletnih mest.",
+      "placeholders": {
+         "link": {
+            "content": "$1"
+         }
+      }
+   },
+   "eulaTitle": {
+      "description": "EULA popup title",
+      "message": "Pred prenosom"
+   },
+   "eulaUnderstandAccept": {
+      "description": "EULA user agreement checkbox text",
+      "message": "Seznanjen(-a) sem s pogoji EULA in soglašam z njimi"
+   },
+   "extensionName": {
+      "description": "Name shown in the extension button in SZB Control Center.",
+      "message": "Orodje za prenos videoposnetkov"
+   },
+   "extensionTitle": {
+      "description": "Title shown on hover over the extension button in SZB Control Center.",
+      "message": "Prenesite videoposnetke za ogled v načinu brez povezave."
+   },
+   "optionUnknownSize": {
+      "description": "Videa or audio download option of unknown size",
+      "message": "neznana velikost"
+   },
+   "popupAudioHeading": {
+      "description": "The heading of the audio section in the media popup list",
+      "message": "Zvok"
+   },
+   "popupDisabledFor": {
+      "description": "Page was disabled for video downloader",
+      "message": "Orodje za prenos videoposnetkov je onemogočeno za"
+   },
+   "popupDownloadBtn": {
+      "description": "The Download button text as visible in the media popup list",
+      "message": "Prenesi"
+   },
+   "popupEnable": {
+      "description": "Enable video downloader for current page",
+      "message": "Omogoči"
+   },
+   "popupNoVideos": {
+      "description": "Page does not contain any videos",
+      "message": "Na tej strani ni nobenega videoposnetka za prenos"
+   },
+   "popupNoVideos_v2": {
+      "description": "",
+      "message": "Če želite prenesti videoposnetek, obiščite stran s podrobnostmi o njem."
+   },
+   "popupVideoHeading": {
+      "description": "The heading of the video section in the media popup list",
+      "message": "Videoposnetek"
+   },
+   "reattachBtn": {
+      "description": "The Reattach button text as visible on the detached video page",
+      "message": "Znova poveži"
+   }
+}

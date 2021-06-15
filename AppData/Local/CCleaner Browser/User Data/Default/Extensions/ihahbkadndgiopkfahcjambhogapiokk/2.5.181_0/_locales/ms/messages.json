@@ -1,0 +1,28 @@
+{
+   "appDescription": {
+      "message": "Melakukan penyamaran kepada cap jari pelayar anda dan mengehadkan penjejakan dalam talian"
+   },
+   "appName": {
+      "message": "Anticap Jari"
+   },
+   "popupStatusDisabled": {
+      "description": "Popup label shown when afp is disabled for current website",
+      "message": "Perlindungan cap jari dinyahdayakan pada tapak ini"
+   },
+   "popupStatusEnabled": {
+      "description": "Popup label shown when afp is enabled for current website",
+      "message": "Perlindungan cap jari didayakan pada tapak ini"
+   },
+   "popupTotalFingerprintsAttemptsDetected": {
+      "description": "Popup total fingerprints attempts detected label",
+      "message": "Cubaan untuk mendapatkan cap jari dikesan"
+   },
+   "settingsAdvanced": {
+      "description": "Settings page title",
+      "message": "Tetapan Lanjutan Anticap Jari"
+   },
+   "settingsSocialMediaLoginDetectionPrevention": {
+      "description": "Settings page social media login detection prevention title",
+      "message": "Pencegahan Pengesanan Log Masuk Media Sosial"
+   }
+}

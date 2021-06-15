@@ -1,0 +1,6 @@
+2020-11-02T22:56:21: LogHost: Initializing to normal mode
+2020-11-02T22:56:23: Could not obtain git dir, C:\Users\kemal\AppData\Local\SourceTree\app-3.3.9 is not a git repo.
+2020-11-02T22:56:23: Could not obtain git dir, C:\Users\kemal\AppData\Local\SourceTree is not a git repo.
+2020-11-02T22:56:23: Could not obtain git dir, C:\Users\kemal\AppData\Local is not a git repo.
+2020-11-02T22:56:23: Could not obtain git dir, C:\Users\kemal\AppData is not a git repo.
+2020-11-02T22:56:23: ReactiveList`1: Property change notifications are enabled and type SourceTree.Model.RepositoryRemoteProjectLink isn't INotifyPropertyChanged or IReactiveObject

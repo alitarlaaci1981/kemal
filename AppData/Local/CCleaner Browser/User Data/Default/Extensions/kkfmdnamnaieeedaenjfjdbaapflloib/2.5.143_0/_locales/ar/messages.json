@@ -1,0 +1,117 @@
+{
+   "appDesc": {
+      "message": "تنزيل مقاطع الفيديو للعرض دون اتصال بالإنترنت"
+   },
+   "appName": {
+      "message": "أداة تنزيل الفيديو"
+   },
+   "barDetachBtn": {
+      "description": "The Detach button text as visible on the floating bar",
+      "message": "فصل"
+   },
+   "barDownloadBtn": {
+      "description": "The Download button text as visible on the floating bar",
+      "message": "تنزيل"
+   },
+   "barMediaBtn": {
+      "description": "The Media button text as visible on the floating bar",
+      "message": "وسائط"
+   },
+   "barQualityAudio": {
+      "description": "Audio title",
+      "message": "صوت"
+   },
+   "barQualityVideo": {
+      "description": "Video title",
+      "message": "فيديو"
+   },
+   "barSettingsAbout": {
+      "description": "About Button in settings popup",
+      "message": "المزيد من المعلومات"
+   },
+   "barSettingsBtn": {
+      "description": "The Settings button text as visible on the floating bar",
+      "message": "الإعدادات"
+   },
+   "barSettingsDescription": {
+      "description": "Video download feature description in settings popup",
+      "message": "يدعمه CCleaner Secure Browser"
+   },
+   "barSettingsDoNotShow": {
+      "description": "Button in settings popup disabling video-downloader",
+      "message": "عدم الإظهار مرة أخرى"
+   },
+   "barSettingsDoNotShowForSite": {
+      "description": "Button in settings popup disabling video-downloader for exact site",
+      "message": "عدم الإظهار على هذا الموقع"
+   },
+   "barSettingsTitle": {
+      "description": "Settings popup title in the floating bar",
+      "message": "الإعدادات"
+   },
+   "eulaContinue": {
+      "description": "EUlA continue button",
+      "message": "متابعة"
+   },
+   "eulaText": {
+      "description": "EULA message displayed to the user",
+      "message": "بقبول \u003Cdiv>\u003Ca target='blank' href='$link$'>اتفاقية ترخيص المستخدم النهائي\u003C/a>\u003C/div>(EULA)، فأنت تقر وتوافق على أنه من مسؤوليتك استخدام أداة تنزيل الفيديو وفقًا لقوانين حقوق النشر المعمول بها وكذلك شروط الاستخدام الخاصة بأي موقع ويب.",
+      "placeholders": {
+         "link": {
+            "content": "$1"
+         }
+      }
+   },
+   "eulaTitle": {
+      "description": "EULA popup title",
+      "message": "قبل التنزيل"
+   },
+   "eulaUnderstandAccept": {
+      "description": "EULA user agreement checkbox text",
+      "message": "أنا أفهم اتفاقية ترخيص المستخدم النهائي وأوافق عليها"
+   },
+   "extensionName": {
+      "description": "Name shown in the extension button in SZB Control Center.",
+      "message": "أداة تنزيل الفيديو"
+   },
+   "extensionTitle": {
+      "description": "Title shown on hover over the extension button in SZB Control Center.",
+      "message": "نزِّل مقاطع الفيديو للعرض دون اتصال بالإنترنت."
+   },
+   "optionUnknownSize": {
+      "description": "Videa or audio download option of unknown size",
+      "message": "حجم غير معروف"
+   },
+   "popupAudioHeading": {
+      "description": "The heading of the audio section in the media popup list",
+      "message": "صوت"
+   },
+   "popupDisabledFor": {
+      "description": "Page was disabled for video downloader",
+      "message": "تم تعطيل أداة تنزيل الفيديو لـ"
+   },
+   "popupDownloadBtn": {
+      "description": "The Download button text as visible in the media popup list",
+      "message": "تنزيل"
+   },
+   "popupEnable": {
+      "description": "Enable video downloader for current page",
+      "message": "تمكين"
+   },
+   "popupNoVideos": {
+      "description": "Page does not contain any videos",
+      "message": "لا توجد مقاطع فيديو على هذه الصفحة لتنزيلها"
+   },
+   "popupNoVideos_v2": {
+      "description": "",
+      "message": "لتنزيل أحد مقاطع الفيديو، انتقل إلى صفحة التفاصيل الخاصة به."
+   },
+   "popupVideoHeading": {
+      "description": "The heading of the video section in the media popup list",
+      "message": "فيديو"
+   },
+   "reattachBtn": {
+      "description": "The Reattach button text as visible on the detached video page",
+      "message": "إعادة الإرفاق"
+   }
+}

@@ -1,0 +1,28 @@
+{
+   "appDescription": {
+      "message": "Приховування даних браузера, щоб забезпечити захист від відстежування в Інтернеті"
+   },
+   "appName": {
+      "message": "Без ідентифікації"
+   },
+   "popupStatusDisabled": {
+      "description": "Popup label shown when afp is disabled for current website",
+      "message": "На цьому сайті вимкнуто захист від ідентифікації"
+   },
+   "popupStatusEnabled": {
+      "description": "Popup label shown when afp is enabled for current website",
+      "message": "На цьому сайті ввімкнуто захист від ідентифікації"
+   },
+   "popupTotalFingerprintsAttemptsDetected": {
+      "description": "Popup total fingerprints attempts detected label",
+      "message": "Загальна кількість виявлених спроб зібрати дані для ідентифікації"
+   },
+   "settingsAdvanced": {
+      "description": "Settings page title",
+      "message": "Додаткові налаштування функції «Без ідентифікації»"
+   },
+   "settingsSocialMediaLoginDetectionPrevention": {
+      "description": "Settings page social media login detection prevention title",
+      "message": "Social Media Login Detection Prevention"
+   }
+}

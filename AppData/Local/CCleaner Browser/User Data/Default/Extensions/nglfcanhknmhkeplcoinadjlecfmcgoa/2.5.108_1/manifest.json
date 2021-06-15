@@ -1,0 +1,54 @@
+{
+   "author": "Safer Technologies LLC & uBlock Origin contributors",
+   "background": {
+      "page": "background.html"
+   },
+   "browser_action": {
+      "default_icon": {
+         "16": "img/browsericons/icon_16.png",
+         "32": "img/browsericons/icon_32.png"
+      },
+      "default_popup": "extra/app.html",
+      "default_title": "CCleaner Adblock"
+   },
+   "content_scripts": [ {
+      "all_frames": true,
+      "js": [ "/js/vapi.js", "/js/vapi-client.js", "/js/contentscript.js" ],
+      "match_about_blank": true,
+      "matches": [ "http://*/*", "https://*/*" ],
+      "run_at": "document_start"
+   }, {
+      "all_frames": false,
+      "js": [ "/js/scriptlets/subscriber.js" ],
+      "matches": [ "http://*/*", "https://*/*" ],
+      "run_at": "document_idle"
+   } ],
+   "content_security_policy": "default-src 'self'; font-src *; script-src 'self' 'unsafe-eval'; connect-src *; style-src * 'unsafe-inline' 'self' blob:; img-src * data:; object-src 'self'",
+   "dataKeys": [ "AdBlockData" ],
+   "default_locale": "en",
+   "description": "__MSG_extShortDesc__",
+   "differential_fingerprint": "",
+   "externally_connectable": {
+      "ids": [ "*" ],
+      "matches": [ "*://*.avastbrowser.com/*", "*://*.avgbrowser.com/*", "*://*.ccleanerbrowser.com/*", "*://*.avast.com/*" ]
+   },
+   "icons": {
+      "128": "img/icon_128.png",
+      "16": "img/icon_16.png",
+      "32": "img/icon_32.png",
+      "48": "img/icon_48.png"
+   },
+   "incognito": "split",
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAzEgWWxQJ+qVHhSjEaXu7fnMJSh+jlQ8Afnyl5rRSH3sqmpMA7td4e3afFzqdVdUQvQFVxEkOLfMvROm1lf5GgrqDgpdFcqsH4zoerYQKhyI7GrO+PsT1uP5HMdOIjBidNIEqt4RXrayFLGNMRHhE3hi0qR71D+VxjIjBR/PHkYcOLrgiimTpRh7MI+isMu+WCq/PgauVFALojq4rk9//EYXsD8SNAGkH9AHs0W5x16DTpZX2tFdEg6qTMINPDwfeglI1HAhN9cvK0kLu9+LWsBUh+cgweYxPCz2WCRIjH4wU4koL9sOeR0d0dbMNTlWC6i/tSkQMajM1qfMla5ugkQIDAQAB",
+   "manifest_version": 2,
+   "minimum_chrome_version": "55.0",
+   "name": "CCleaner Adblock",
+   "options_page": "extra/options.html",
+   "permissions": [ "contextMenus", "privacy", "storage", "tabs", "unlimitedStorage", "webNavigation", "webRequest", "webRequestBlocking", "\u003Call_urls>" ],
+   "short_name": "CCleaner Adblock",
+   "storage": {
+      "managed_schema": "managed_storage.json"
+   },
+   "version": "2.5.108",
+   "web_accessible_resources": [ "/web_accessible_resources/*" ]
+}

@@ -1,0 +1,860 @@
+{
+   "1pApplyChanges": {
+      "message": "Hyväksy muutokset"
+   },
+   "1pExport": {
+      "message": "Vie"
+   },
+   "1pFormatHint": {
+      "message": "Yksi suodatin riviä kohden. Suodatin voi olla pelkkä isäntänimi tai Adblock Plus -yhteensopiva suodatin. Jos rivin etuliitteenä on &lsquo;!&rsquo; niin rivi ohitetaan."
+   },
+   "1pImport": {
+      "message": "Tuo ja liitä"
+   },
+   "1pPageName": {
+      "message": " Omat suodattimet"
+   },
+   "3pApplyChanges": {
+      "message": "Hyväksy muutokset"
+   },
+   "3pAutoUpdatePrompt1": {
+      "message": "Suodatusluetteloiden automaattinen päivitys"
+   },
+   "3pExternalListObsolete": {
+      "message": "Vanhentunut."
+   },
+   "3pExternalListsHint": {
+      "message": "Yksi URL-osoite riviä kohden. Jos rivin etuliitteenä on &lsquo;!&rsquo; niin rivi ohitetaan. Virheelliset URL-osoitteet ohitetaan ilman erillistä ilmoitusta."
+   },
+   "3pGroupAds": {
+      "message": "Mainokset"
+   },
+   "3pGroupAnnoyances": {
+      "message": "Ärsyttävyydet"
+   },
+   "3pGroupCustom": {
+      "message": "Mukautettu"
+   },
+   "3pGroupDefault": {
+      "message": "Verkko- & ulkonäkösuodattimet"
+   },
+   "3pGroupMalware": {
+      "message": "Haittaohjelmien domainit"
+   },
+   "3pGroupMultipurpose": {
+      "message": "Monikäyttöinen"
+   },
+   "3pGroupPrivacy": {
+      "message": "Yksityisyys"
+   },
+   "3pGroupRegions": {
+      "message": "Alueet, kielet"
+   },
+   "3pIgnoreGenericCosmeticFilters": {
+      "message": "Ohita yleiset kosmeettisia suodattimet"
+   },
+   "3pIgnoreGenericCosmeticFiltersInfo": {
+      "message": "\u003Cp>Yleiset kosmeettiset suodattimet ovat kosmeettisia suodattimia, joita on tarkoitus soveltaa kaikkiin web-sivustoihin.\u003Cp>Vaikka CCleaner Anti-Tracking hoitaa ne tehokkaasti, voi yleisten kosmeettisten suodattimien käyttö viedä paljon muistia ja suoritinteho, etenkin suurilla ja pitkään käytössä olevilla.\u003Cp>Jos otat tämän asetuksen käyttöön, kuluu yleisten kosmeettisten suodattimien käsittelyyn vähemmän muistia ja suoritintehoa. Myös CCleaner Anti-Tracking käyttää tällöin vähemmän muistia.\u003Cp>Tämän asetuksen käyttäminen on suositeltavaa vähemmän tehokkailla laitteilla."
+   },
+   "3pImport": {
+      "message": "Tuo..."
+   },
+   "3pLastUpdate": {
+      "message": "Viimeisin päivitys: {{ago}}. Napsauta päivityksen pakottamiseksi."
+   },
+   "3pListsOfBlockedHostsHeader": {
+      "message": "Estettyjen isäntien luettelo"
+   },
+   "3pListsOfBlockedHostsPerListStats": {
+      "message": "{{used}} käytetty kokonaismäärästä {{total}}"
+   },
+   "3pListsOfBlockedHostsPrompt": {
+      "message": "{{netFilterCount}} verkkosuodatusta＋ {{cosmeticFilterCount}} kosmeettista suodatusta kohteesta:"
+   },
+   "3pNetworkError": {
+      "message": "Verkkovirhe esti resurssin päivittämisen."
+   },
+   "3pPageName": {
+      "message": "Kolmannen osapuolen suodattimet"
+   },
+   "3pParseAllABPHideFiltersInfo": {
+      "message": "\u003Cp>Tämä valinta mahdollistaa \u003Ca href=\"https://adblockplus.org/en/faq_internal#elemhide\">Adblock Plus -yhteensopivien &ldquo;elementtien piilotussuodattimien&rdquo;\u003C/a> jäsentämisen ja käytön. Nämä suodattimet ovat pääsääntöisesti kosmeettisia, niiden avulla voidaan piilottaa sivustojen elementtejä, jotka ovat visuaalisesti häiritseviä ja joita ei voida estää verkkopyyntöön perustuvilla suodattimilla. \u003C/p>\u003Cp>Jos otat tämän käyttöön, käyttää CCleaner Anti-Tracking enemmän muistia.\u003C/p>"
+   },
+   "3pParseAllABPHideFiltersPrompt1": {
+      "message": "Jäsennä ja vahvista kosmeettisia suodattimia"
+   },
+   "3pPurgeAll": {
+      "message": "Tyhjennä kaikki välimuistit"
+   },
+   "3pUpdateNow": {
+      "message": "Päivitä nyt"
+   },
+   "3pUpdating": {
+      "message": "Päivitys meneillään..."
+   },
+   "aboutBackupDataButton": {
+      "message": "Varmuuskopioi tiedostoon"
+   },
+   "aboutBackupFilename": {
+      "message": "CCleaner Anti-Tracking-backup_{{datetime}}.txt"
+   },
+   "aboutChangelog": {
+      "message": "Vaihda loki"
+   },
+   "aboutCode": {
+      "message": "Lähdekoodi (GPLv3)"
+   },
+   "aboutContributors": {
+      "message": "Osallistujat"
+   },
+   "aboutDependencies": {
+      "message": "Ulkoiset riippuvuudet (GPLv3-yhteensopivat):"
+   },
+   "aboutIssues": {
+      "message": "Virheidenjäljitin"
+   },
+   "aboutPageName": {
+      "message": "Tietoja"
+   },
+   "aboutResetDataButton": {
+      "message": "Oletusasetukset palautetaan..."
+   },
+   "aboutResetDataConfirm": {
+      "message": "Kaikki asetukset poistetaan ja CCleaner Anti-Tracking käynnistyy uudelleen. Palautetaanko CCleaner Anti-Tracking tehdasetuksiin?"
+   },
+   "aboutRestoreDataButton": {
+      "message": "Palauta tiedostosta..."
+   },
+   "aboutRestoreDataConfirm": {
+      "message": "Kaikki asetukset korvataan {{time}} varmuuskopioiduilla tiedoilla ja #title # käynnistyy uudelleen. Korvataanko kaikki nykyiset asetukset käyttämällä varmuuskopioituja tietoja?"
+   },
+   "aboutRestoreDataError": {
+      "message": "Tietoja ei voida lukea tai tiedot eivät kelpaa"
+   },
+   "aboutSupport": {
+      "message": "Tuki"
+   },
+   "aboutWiki": {
+      "message": "Wiki"
+   },
+   "advancedSettingsPageName": {
+      "message": "Lisäasetukset"
+   },
+   "advancedSettingsWarning": {
+      "message": "Varoitus! Muutat näitä lisäasetuksia omalla vastuullasi."
+   },
+   "assetViewerPageName": {
+      "message": "uBlock? ? Asset viewer"
+   },
+   "cloudDeviceNamePrompt": {
+      "message": "Laitteen nimi:"
+   },
+   "cloudPull": {
+      "message": "Tuo pilvitallennuksesta"
+   },
+   "cloudPullAndMerge": {
+      "message": "Tuo pilvitallennuksesta ja yhdistä nykyisiin asetuksiin"
+   },
+   "cloudPush": {
+      "message": "Vie pilvitallennukseen"
+   },
+   "contextMenuTemporarilyAllowLargeMediaElements": {
+      "message": "Salli väliaikaisesti suuret mediaelementit"
+   },
+   "dashboardName": {
+      "message": "CCleaner Anti-Tracking — Kojelauta"
+   },
+   "docblockedBack": {
+      "message": "Palaa takaisin"
+   },
+   "docblockedClose": {
+      "message": "Sulje tämä ikkuna"
+   },
+   "docblockedDisablePermanent": {
+      "message": "Pysyvästi"
+   },
+   "docblockedDisableTemporary": {
+      "message": "Tilapäisesti"
+   },
+   "docblockedFoundIn": {
+      "message": "Löytyi kohteesta:"
+   },
+   "docblockedNoParamsPrompt": {
+      "message": "ilman parametreja"
+   },
+   "docblockedProceed": {
+      "message": "Poista kohteen {{hostname}} tiukka esto"
+   },
+   "docblockedPrompt1": {
+      "message": "#title # esti seuraavaa sivua lastautumasta:"
+   },
+   "docblockedPrompt2": {
+      "message": "Seuraavasta suodattimesta johtuen"
+   },
+   "dummy": {
+      "message": "Tämän merkinnän on oltava viimeinen"
+   },
+   "elapsedManyDaysAgo": {
+      "message": "{{value}} päivää sitten"
+   },
+   "elapsedManyHoursAgo": {
+      "message": "{{value}} tuntia sitten"
+   },
+   "elapsedManyMinutesAgo": {
+      "message": "{{value}} minuuttia sitten"
+   },
+   "elapsedOneDayAgo": {
+      "message": "päivä sitten"
+   },
+   "elapsedOneHourAgo": {
+      "message": "tunti sitten"
+   },
+   "elapsedOneMinuteAgo": {
+      "message": "minuutti sitten"
+   },
+   "errorCantConnectTo": {
+      "message": "Verkkovirhe: {{msg}}"
+   },
+   "extShortDesc": {
+      "message": "Estää haitalliset seuraimet Internetissä."
+   },
+   "extra1pPageNameDesc": {
+      "message": "Hallitse mukautettuja suodattimia"
+   },
+   "extra3pPageNameDesc": {
+      "message": "Seuraimien ja kolmannen osapuolen tietosuojasuodattimet"
+   },
+   "extraAddFilter": {
+      "message": "Lisää suodatin"
+   },
+   "extraAddRrule": {
+      "message": "Lisää väliaikainen sääntö"
+   },
+   "extraAddSetting": {
+      "message": "Lisää asetus"
+   },
+   "extraAddSite": {
+      "message": "Lisää sivusto"
+   },
+   "extraAdsFilters": {
+      "message": "Lisää suodattimet"
+   },
+   "extraAdvancedUserSettings": {
+      "message": "Käyttäjän lisäasetukset"
+   },
+   "extraAllowOnSites": {
+      "message": "Salli seuraimet näillä sivustoilla"
+   },
+   "extraBlockMediaElementsLargerThan": {
+      "message": "Estä mediaelementit, jotka ovat suurempia kuin"
+   },
+   "extraBtnAdd": {
+      "message": "lisää"
+   },
+   "extraBtnCancel": {
+      "message": "peruuta"
+   },
+   "extraBtnEdit": {
+      "message": "Muokkaa"
+   },
+   "extraBtnExport": {
+      "message": "vie"
+   },
+   "extraBtnImport": {
+      "message": "tuo"
+   },
+   "extraBtnRemove": {
+      "message": "Poista"
+   },
+   "extraBtnUpdateAll": {
+      "message": "päivitä kaikki"
+   },
+   "extraDefaultBehaviour": {
+      "message": "Oletustoiminto"
+   },
+   "extraEditFilter": {
+      "message": "Muokkaa suodatinta"
+   },
+   "extraEditRule": {
+      "message": "Muokkaa väliaikaista sääntöä"
+   },
+   "extraEditSetting": {
+      "message": "Muokata asetusta"
+   },
+   "extraEditSite": {
+      "message": "Muokkaa sivustoa"
+   },
+   "extraGeneralSettings": {
+      "message": "Yleiset asetukset"
+   },
+   "extraGeneralSettingsDesc": {
+      "message": "Hallitse, mitä tietoja #title # näyttää"
+   },
+   "extraIndexDescription": {
+      "message": "Estä seuraimet ja selaa nopeammin ja turvallisemmin"
+   },
+   "extraIndexFooter": {
+      "message": "Perustana uBlock Origin."
+   },
+   "extraIndexHeader": {
+      "message": "CCleaner Anti-Tracking Lisäasetukset"
+   },
+   "extraInterstitialBlocking": {
+      "message": "Ota väliesto käyttöön"
+   },
+   "extraLabelFilter": {
+      "message": "Suodatin"
+   },
+   "extraLearnMore": {
+      "message": "Lisätietoja"
+   },
+   "extraManageFilters": {
+      "message": "Suodatinten hallinta"
+   },
+   "extraMyCustomFilter": {
+      "message": "Omat mukautetut suodattimet"
+   },
+   "extraPrivacy": {
+      "message": "Yksityisyys"
+   },
+   "extraRule": {
+      "message": "Sääntö"
+   },
+   "extraRuleDefinition": {
+      "message": "Säännön määritys"
+   },
+   "extraRuleSyntax": {
+      "message": "Säännön syntaksi"
+   },
+   "extraRulesPageNameDesc": {
+      "message": "Dynaamisten suodatussääntöjen luettelo"
+   },
+   "extraSetting": {
+      "message": "Asetus"
+   },
+   "extraShowMore": {
+      "message": "Lisätietoja"
+   },
+   "extraSite": {
+      "message": "Sivusto"
+   },
+   "extraSlider0": {
+      "message": "Älä estä mainoksia"
+   },
+   "extraSlider100": {
+      "message": "Täydellinen mainonnan esto"
+   },
+   "extraSlider50": {
+      "message": "Kohtalainen mainonnan esto"
+   },
+   "extraSourceDestinationTypeAction": {
+      "message": "lähde kohde tyyppi toiminta."
+   },
+   "extraWhitelistPageNameDesc": {
+      "message": "Luettelo sivustoista, joissa seuraimet ovat sallittuja"
+   },
+   "fennecMenuItemBlockingOff": {
+      "message": "ei käytössä"
+   },
+   "genericApplyChanges": {
+      "message": "Hyväksy muutokset"
+   },
+   "genericBytes": {
+      "message": "tavua"
+   },
+   "genericCopyToClipboard": {
+      "message": "Kopioi leikepöydälle"
+   },
+   "genericMergeViewScrollLock": {
+      "message": "Aktivoi lukittu vieritys"
+   },
+   "genericRevert": {
+      "message": "Palauta"
+   },
+   "genericSubmit": {
+      "message": "Lähetä"
+   },
+   "logAll": {
+      "message": "Kaikki"
+   },
+   "logBehindTheScene": {
+      "message": "Taustalla"
+   },
+   "logFilterPrompt": {
+      "message": "suodata lokimerkinnät"
+   },
+   "logMaxEntriesTip": {
+      "message": "Lokimerkintöjen enimmäismäärä"
+   },
+   "logRequestsHeaderDomain": {
+      "message": "Toimialue"
+   },
+   "logRequestsHeaderFilter": {
+      "message": "Suodatin"
+   },
+   "logRequestsHeaderType": {
+      "message": "Tyyppi"
+   },
+   "logRequestsHeaderURL": {
+      "message": "URL-osoite"
+   },
+   "loggerClearTip": {
+      "message": "Tyhjennä loki"
+   },
+   "loggerCurrentTab": {
+      "message": "Nykyinen välilehti"
+   },
+   "loggerDomInspectorTip": {
+      "message": "Aktivoi DOM-tarkastaja"
+   },
+   "loggerEntryDetailsContext": {
+      "message": "Konteksti"
+   },
+   "loggerEntryDetailsFilter": {
+      "message": "Suodatin"
+   },
+   "loggerEntryDetailsFilterList": {
+      "message": "Suodatinluettelo"
+   },
+   "loggerEntryDetailsHeader": {
+      "message": "Tiedot"
+   },
+   "loggerEntryDetailsPartyness": {
+      "message": "Osallisuus"
+   },
+   "loggerEntryDetailsRootContext": {
+      "message": "Root-konteksti"
+   },
+   "loggerEntryDetailsRule": {
+      "message": "Sääntö"
+   },
+   "loggerEntryDetailsType": {
+      "message": "Tyyppi"
+   },
+   "loggerEntryDetailsURL": {
+      "message": "URL"
+   },
+   "loggerExportEncodeMarkdown": {
+      "message": "Markdown"
+   },
+   "loggerExportEncodePlain": {
+      "message": "Muotoilematon"
+   },
+   "loggerExportFormatList": {
+      "message": "Lista"
+   },
+   "loggerExportFormatTable": {
+      "message": "Taulukko"
+   },
+   "loggerInfoTip": {
+      "message": "uBlock Origin wiki: loki"
+   },
+   "loggerPauseTip": {
+      "message": "Pysäytä loki (ohita kaikki sisään tuleva data)"
+   },
+   "loggerPopupPanelTip": {
+      "message": "Aktivoi ponnahdusikkunapaneeli"
+   },
+   "loggerReloadTip": {
+      "message": "Lataa välilehden sisältö uudelleen"
+   },
+   "loggerRowFiltererBuiltin1p": {
+      "message": "Ensimmäinen osapuoli"
+   },
+   "loggerRowFiltererBuiltin3p": {
+      "message": "Kolmas osapuoli"
+   },
+   "loggerRowFiltererBuiltinAllowed": {
+      "message": "sallittu"
+   },
+   "loggerRowFiltererBuiltinBlocked": {
+      "message": "estetty"
+   },
+   "loggerRowFiltererBuiltinEventful": {
+      "message": "tapahtumarikas"
+   },
+   "loggerRowFiltererBuiltinNot": {
+      "message": "Ei"
+   },
+   "loggerRowFiltererBuiltinTip": {
+      "message": "Loki-suodatuksen asetukset"
+   },
+   "loggerRowFiltererButtonTip": {
+      "message": "Aktivoi loki-suodatus"
+   },
+   "loggerSettingDiscardPrompt": {
+      "message": "Lokitapahtumat, jotka eivät täytä kaikkia seuraavia ehtoja, ohitetaan automaattisesti:"
+   },
+   "loggerSettingHideColumnContext": {
+      "message": "{{input}} konteksti"
+   },
+   "loggerSettingHideColumnFilter": {
+      "message": "{{input}} suodatin/sääntö"
+   },
+   "loggerSettingHideColumnPartyness": {
+      "message": "{{input}} osallisuus"
+   },
+   "loggerSettingHideColumnTime": {
+      "message": "{{input}} aika"
+   },
+   "loggerSettingHideColumnsPrompt": {
+      "message": "Piilota sarakkeet:"
+   },
+   "loggerSettingPerEntryLineCount": {
+      "message": "Käytä {{input}} riviä merkintää kohden sivuttain laajenevassa muodossa"
+   },
+   "loggerSettingPerEntryMaxAge": {
+      "message": "Säilytä viimeisten {{input}} minuutin aikaiset tiedot"
+   },
+   "loggerSettingPerTabMaxEntries": {
+      "message": "Säilytä korkeintaan {{input}} merkintää välilehteä kohden"
+   },
+   "loggerSettingPerTabMaxLoads": {
+      "message": "Säilytä korkeintaan {{input}} sivulatausta välilehteä kohden"
+   },
+   "loggerStaticFilteringFinderSentence1": {
+      "message": "Staattinen suodatin \u003Ccode>{{filter}}\u003C/code> löydetty kohteesta:"
+   },
+   "loggerStaticFilteringFinderSentence2": {
+      "message": "Staattista suodatinta \u003Ccode>{{filter}}\u003C/code> ei löytynyt mistään käytössä olevista suodatinluetteloista"
+   },
+   "loggerStaticFilteringHeader": {
+      "message": "Staattinen suodatus"
+   },
+   "loggerStaticFilteringSentence": {
+      "message": "{{action}} verkkopyynnöille kohteesta {{type}} {{br}}joiden URL-osoite vastaa kohdetta {{url}} {{br}}ja joiden alkuperä on {{origin}},{{br}}{{importance}} on vastaava poikkeussuodatin."
+   },
+   "loggerStaticFilteringSentencePartAllow": {
+      "message": "Salli"
+   },
+   "loggerStaticFilteringSentencePartAnyOrigin": {
+      "message": "mistä tahansa"
+   },
+   "loggerStaticFilteringSentencePartAnyType": {
+      "message": "kaikki tyypit"
+   },
+   "loggerStaticFilteringSentencePartBlock": {
+      "message": "Estä"
+   },
+   "loggerStaticFilteringSentencePartImportant": {
+      "message": "vaikka"
+   },
+   "loggerStaticFilteringSentencePartNotImportant": {
+      "message": "paitsi kun"
+   },
+   "loggerStaticFilteringSentencePartOrigin": {
+      "message": "mistä?{{origin}}?"
+   },
+   "loggerStaticFilteringSentencePartType": {
+      "message": "tyyppi?{{type}}?"
+   },
+   "loggerURLFilteringContextLabel": {
+      "message": "Konteksti:"
+   },
+   "loggerURLFilteringHeader": {
+      "message": "Dynaaminen URL-suodatus"
+   },
+   "loggerURLFilteringTypeLabel": {
+      "message": "Tyyppi:"
+   },
+   "loggerUnpauseTip": {
+      "message": "Käynnistä loki uudelleen"
+   },
+   "pickerContextMenuEntry": {
+      "message": "Estä elementti"
+   },
+   "pickerCosmeticFilters": {
+      "message": "Kosmeettiset suodattimet"
+   },
+   "pickerCosmeticFiltersHint": {
+      "message": "Napsauta, Ctrl-napsauta"
+   },
+   "pickerCreate": {
+      "message": "Luo"
+   },
+   "pickerNetFilters": {
+      "message": "Verkon suodattimet"
+   },
+   "pickerPick": {
+      "message": "Valitse"
+   },
+   "pickerPreview": {
+      "message": "Esikatselu"
+   },
+   "pickerQuit": {
+      "message": "Lopeta"
+   },
+   "popup1pScriptRulePrompt": {
+      "message": "Ensimmäisen osapuolen skriptit"
+   },
+   "popup3pAnyRulePrompt": {
+      "message": "kolmannen osapuolen"
+   },
+   "popup3pFrameRulePrompt": {
+      "message": "Kolmannen osapuolen kehykset"
+   },
+   "popup3pPassiveRulePrompt": {
+      "message": "Kolmannen osapuolen css/kuvat"
+   },
+   "popup3pScriptRulePrompt": {
+      "message": "Kolmannen osapuolen skriptit"
+   },
+   "popupAdvancedSettings": {
+      "message": "Lisäasetukset"
+   },
+   "popupAnyRulePrompt": {
+      "message": "kaikki"
+   },
+   "popupExtraAdsAllowedOnSites": {
+      "message": "Seuraimet on sallittu tällä sivustolla"
+   },
+   "popupExtraAdsBlockedOnPage": {
+      "message": "Tällä sivulla estetyt seuraimet"
+   },
+   "popupExtraAdsBlockedOnSites": {
+      "message": "Tällä sivustolla estetyt seuraimet"
+   },
+   "popupExtraAdsBlockedTotal": {
+      "message": "Kaikki estetyt seuraimet"
+   },
+   "popupExtraLessOptions": {
+      "message": "Vähemmän asetuksia"
+   },
+   "popupExtraListAllowedSites": {
+      "message": "Sallittujen sivustojen luettelo"
+   },
+   "popupExtraMoreInformation": {
+      "message": "Lisätietoja"
+   },
+   "popupExtraMoreOptions": {
+      "message": "Lisää asetuksia"
+   },
+   "popupExtraNoSitesAddedYet": {
+      "message": "Sivustoja ei ole vielä lisätty"
+   },
+   "popupExtraProtectionCanNotEnabled": {
+      "message": "Tätä sivustoa ei voida suojata"
+   },
+   "popupExtraProtectionDisabledForSession": {
+      "message": "Tätä istuntoa ei voida suojata"
+   },
+   "popupExtraSeeListAllowedSites": {
+      "message": "Katso sallittujen sivustojen luettelo"
+   },
+   "popupHitDomainCount": {
+      "message": "{{count}} / {{total}}"
+   },
+   "popupHitDomainCountPrompt": {
+      "message": "liitetyt domainit"
+   },
+   "popupImageRulePrompt": {
+      "message": "kuvat"
+   },
+   "popupInlineScriptRulePrompt": {
+      "message": "inline-skriptit"
+   },
+   "popupTipDashboard": {
+      "message": "Ovaa kojelauta"
+   },
+   "popupTipGlobalRules": {
+      "message": "Yleissäännöt: tämä sarake on niitä sääntöjä varten, joita sovelletaan kaikilla sivustoilla."
+   },
+   "popupTipLocalRules": {
+      "message": "Paikalliset säännöt: tämä sarake on niitä sääntöjä varten, joita sovelletaan vain tähän sivustoon.\nPaikalliset säännöt ohittavat yleissäännöt."
+   },
+   "popupTipLog": {
+      "message": "Avaa loki"
+   },
+   "popupTipNoCosmeticFiltering": {
+      "message": "Kosmeettiinen suodatus tällä sivustolla"
+   },
+   "popupTipNoCosmeticFiltering1": {
+      "message": "Napsauta ottaaksesi kosmeettisen suodatuksen pois käytöstä tällä sivustolla"
+   },
+   "popupTipNoCosmeticFiltering2": {
+      "message": "Napsauta ottaaksesi kosmeettisen suodatuksen käyttöön tällä sivustolla"
+   },
+   "popupTipNoLargeMedia": {
+      "message": "Suurten mediaelementtien esto tällä sivustolla"
+   },
+   "popupTipNoLargeMedia1": {
+      "message": "Napsauta estääksesi suuret mediaelementit tällä sivustolla"
+   },
+   "popupTipNoLargeMedia2": {
+      "message": "Napsauta lopettaaksesi suurten mediaelementtien eston tällä sivustolla"
+   },
+   "popupTipNoPopups": {
+      "message": "Kaikkien ponnahdusikkunoiden esto tällä sivustolla"
+   },
+   "popupTipNoPopups1": {
+      "message": "Napsauta estääksesi kaikki ponnahdusikkunat tällä sivustolla"
+   },
+   "popupTipNoPopups2": {
+      "message": "Napsauta lopettaaksesi kaikkien ponnahdusikkunoiden esto tällä sivustolla"
+   },
+   "popupTipNoRemoteFonts": {
+      "message": "Ulkoisten fonttien esto tällä sivustolla"
+   },
+   "popupTipNoRemoteFonts1": {
+      "message": "Napsauta estääksesi ulkoiset fontit tällä sivustolla"
+   },
+   "popupTipNoRemoteFonts2": {
+      "message": "Napsauta lopettaaksesi ulkoisten fonttien eston tällä sivustolla"
+   },
+   "popupTipNoScripting1": {
+      "message": "Napsauta ottaaksesi JavaScriptin pois käytöstä tällä sivustolla"
+   },
+   "popupTipNoScripting2": {
+      "message": "Napsauta ottaaksesi JavaScriptin jälleen käyttöön tällä sivustolla"
+   },
+   "popupTipPicker": {
+      "message": "Siirry elementtien valinta -tilaan"
+   },
+   "popupTipRevertRules": {
+      "message": "Napsauta peruaksesi muutokset."
+   },
+   "popupTipSaveRules": {
+      "message": "Napsauta tehdäksesi muutoksista pysyviä."
+   },
+   "popupTipZapper": {
+      "message": "Siirry elementtien esto -tilaan"
+   },
+   "rulesCommit": {
+      "message": "Suorita"
+   },
+   "rulesEdit": {
+      "message": "Muokkaa"
+   },
+   "rulesEditDiscard": {
+      "message": "Ohita"
+   },
+   "rulesEditSave": {
+      "message": "Tallenna"
+   },
+   "rulesExport": {
+      "message": "Vie tiedostoon"
+   },
+   "rulesFormatHint": {
+      "message": "Säännön syntaksi: \u003Ccode>lähde kohde tyyppi toiminto\u003C/code> (\u003Ca href='https://github.com/gorhill/uBlock/wiki/Dynamic-filtering:-rule-syntax'>täydellinen dokumentaatio\u003C/a>)."
+   },
+   "rulesHint": {
+      "message": "Dynaamisten suodatussääntöjen luettelo."
+   },
+   "rulesImport": {
+      "message": "Tuo tiedostosta..."
+   },
+   "rulesPageName": {
+      "message": "Omat säännöt"
+   },
+   "rulesPermanentHeader": {
+      "message": "Pysyvät säännöt"
+   },
+   "rulesRevert": {
+      "message": "Palauta"
+   },
+   "rulesTemporaryHeader": {
+      "message": "Väliaikaiset säännöt"
+   },
+   "settingPerSiteSwitchGroup": {
+      "message": "Oletustoiminto"
+   },
+   "settingPerSiteSwitchGroupSynopsis": {
+      "message": "Nämä oletustoiminnot voidaan ohittaa sivustojen perusteella"
+   },
+   "settingsAdvancedUserPrompt": {
+      "message": "Olen pitkälle edistynyt käyttäjä (\u003Ca href='https://github.com/gorhill/uBlock/wiki/Advanced-user-features'>luettava\u003C/a>)"
+   },
+   "settingsAdvancedUserSettings": {
+      "message": "lisäasetukset"
+   },
+   "settingsCloudStorageEnabledPrompt": {
+      "message": "Ota käyttöön pilvitallennuksen tuki"
+   },
+   "settingsCollapseBlockedPrompt": {
+      "message": "Piilota estettyjen elementtien paikkamerkit"
+   },
+   "settingsColorBlindPrompt": {
+      "message": "Sopii värisokeille"
+   },
+   "settingsContextMenuPrompt": {
+      "message": "Käytä pikavalikkoa soveltuvissa kohdissa"
+   },
+   "settingsHyperlinkAuditingDisabledPrompt": {
+      "message": "Ota hyperlinkit pois käytöstä"
+   },
+   "settingsIconBadgePrompt": {
+      "message": "Näytä estetyttyjen pyyntöjen lukumäärä kuvakkeessa"
+   },
+   "settingsLastBackupPrompt": {
+      "message": "Viimeisin varmuuskopiointi:"
+   },
+   "settingsLastRestorePrompt": {
+      "message": "Viimeisin palautus:"
+   },
+   "settingsNoCSPReportsPrompt": {
+      "message": "Estä CSP-raportit"
+   },
+   "settingsNoCosmeticFilteringPrompt": {
+      "message": "Ota kosmeettinen suodatus pois päältä"
+   },
+   "settingsNoLargeMediaPrompt": {
+      "message": "Estä mediaelementit, joiden koko ylittää {{input:number}} kB"
+   },
+   "settingsNoRemoteFontsPrompt": {
+      "message": "Estä kaukofontit"
+   },
+   "settingsNoScriptingPrompt": {
+      "message": "Ota JavaScript pois käytöstä"
+   },
+   "settingsPageName": {
+      "message": "Asetukset"
+   },
+   "settingsPrefetchingDisabledPrompt": {
+      "message": "Poista esihaku käytöstä (jotta estettyjä verkkopyyntöjä ei suoriteta)"
+   },
+   "settingsStorageUsed": {
+      "message": "Tallennutilaa käytetty: {{value}} tavua"
+   },
+   "settingsTooltipsPrompt": {
+      "message": "Poista käytöstä työkaluvihjeet"
+   },
+   "settingsWebRTCIPAddressHiddenPrompt": {
+      "message": "Estä WebRTC:tä vuotamasta paikallisia IP-osoitteita"
+   },
+   "shortcutCapturePlaceholder": {
+      "message": "Anna oikotie"
+   },
+   "shortcutsPageName": {
+      "message": "Pikakuvakkeet"
+   },
+   "showDashboardButton": {
+      "message": "Näytä Kojelauta"
+   },
+   "showNetworkLogButton": {
+      "message": "Näytä Logger"
+   },
+   "statsPageName": {
+      "message": "CCleaner Anti-Tracking — Logger"
+   },
+   "subscriberConfirm": {
+      "message": "#title #: Lisätäänkö seuraava URL-osoite mukautettujen suodattimien luetteloihin?\n\nOtsikko: \"{{title}}\"\nURL: {{url}}"
+   },
+   "whitelistApply": {
+      "message": "Hyväksy muutokset"
+   },
+   "whitelistExport": {
+      "message": "Vie"
+   },
+   "whitelistExportFilename": {
+      "message": "CCleaner Anti-Tracking-whitelist_{{datetime}}.txt"
+   },
+   "whitelistImport": {
+      "message": "Tuo ja liitä"
+   },
+   "whitelistPageName": {
+      "message": "Hyväksyttyjen lista"
+   },
+   "whitelistPrompt": {
+      "message": "Hyväksyttyjen lista määrittelee, millä web-sivuilla CCleaner Anti-Tracking poistetaan käytöstä. Yksi kohde riviä kohden. Kelpaamattomat kohteet ohitetaan hiljaisesti ja kommentoidaan pois."
+   }
+}

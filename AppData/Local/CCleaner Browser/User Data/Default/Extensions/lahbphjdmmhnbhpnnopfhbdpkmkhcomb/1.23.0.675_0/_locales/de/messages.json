@@ -1,0 +1,860 @@
+{
+   "1pApplyChanges": {
+      "message": "Änderungen übernehmen"
+   },
+   "1pExport": {
+      "message": "Exportieren"
+   },
+   "1pFormatHint": {
+      "message": "Ein Filter pro Zeile. Ein Filter kann ein einfacher Hostname oder ein Adblock Plus-kompatibler Filter sein. Zeilen mit dem Präfix „!“ werden ignoriert."
+   },
+   "1pImport": {
+      "message": "Importieren und anhängen"
+   },
+   "1pPageName": {
+      "message": " Meine Filter"
+   },
+   "3pApplyChanges": {
+      "message": "Änderungen übernehmen"
+   },
+   "3pAutoUpdatePrompt1": {
+      "message": "Filterlisten automatisch aktualisieren"
+   },
+   "3pExternalListObsolete": {
+      "message": "Veraltet."
+   },
+   "3pExternalListsHint": {
+      "message": "Eine URL pro Zeile. Zeilen mit dem Präfix „!“ werden ignoriert. Ungültige URLs werden ohne Meldung ignoriert."
+   },
+   "3pGroupAds": {
+      "message": "Werbung"
+   },
+   "3pGroupAnnoyances": {
+      "message": "Störend"
+   },
+   "3pGroupCustom": {
+      "message": "Benutzerdefiniert"
+   },
+   "3pGroupDefault": {
+      "message": "Netzwerk und kosmetische Filter"
+   },
+   "3pGroupMalware": {
+      "message": "Malware-Domänen"
+   },
+   "3pGroupMultipurpose": {
+      "message": "Mehrzweck"
+   },
+   "3pGroupPrivacy": {
+      "message": "Privatsphäre"
+   },
+   "3pGroupRegions": {
+      "message": "Regionen, Sprachen"
+   },
+   "3pIgnoreGenericCosmeticFilters": {
+      "message": "Generische kosmetische Filter ignorieren"
+   },
+   "3pIgnoreGenericCosmeticFiltersInfo": {
+      "message": "\u003Cp>Generische kosmetische Filter sind diejenigen kosmetischen Filter, die für alle Websites gelten sollen.\u003Cp>Obwohl generische kosmetische Filter von CCleaner Anti-Tracking effizient verarbeitet werden, können sie auf einigen Webseiten, besonders bei großen und langlebigen, trotzdem messbar zu Speicherbelegung und CPU-Belastung beitragen.\u003Cp>Indem SIe diese Option aktivieren, beseitigen Sie diese zusätzliche Belastung durch die Verarbeitung generischer kosmetischer Filter für Webseiten und verringern zudem den Speicherplatzbedarf von CCleaner Anti-Tracking selbst.\u003Cp>Es wird empfohlen, diese Optionen auf weniger leistungsfähigen Geräten zu aktivieren."
+   },
+   "3pImport": {
+      "message": "Importieren..."
+   },
+   "3pLastUpdate": {
+      "message": "Letzte Aktualisierung: {{ago}}.\nKlicken Sie, um eine Aktualisierung zu erzwingen."
+   },
+   "3pListsOfBlockedHostsHeader": {
+      "message": "Listen blockierter Hosts"
+   },
+   "3pListsOfBlockedHostsPerListStats": {
+      "message": "{{used}} von {{total}} verwendet"
+   },
+   "3pListsOfBlockedHostsPrompt": {
+      "message": "{{netFilterCount}} Netzwerkfilter + {{cosmeticFilterCount}} kosmetische Filter aus:"
+   },
+   "3pNetworkError": {
+      "message": "Aufgrund eines Netzwerkfehlers konnte die Ressource nicht aktualisiert werden."
+   },
+   "3pPageName": {
+      "message": "Filter von Drittanbietern"
+   },
+   "3pParseAllABPHideFiltersInfo": {
+      "message": "\u003Cp>Mit dieser Option können Sie \u003Ca href=\"https://adblockplus.org/en/faq_internal#elemhide\">Adblock Plus-kompatible Filter zum Ausblenden von Elementen\u003C/a> analysieren und erzwingen. Diese Filter sind im Wesentlichen kosmetischer Natur und dienen dazu, Elemente auf einer Webseite zu verbergen, die als optisch störend eingestuft werden und nicht durch die auf Netzanforderungen basierende Filter-Engine blockiert werden können.\u003C/p>\u003Cp>Wenn diese Funktion aktiviert ist, belegt CCleaner Anti-Tracking mehr Speicherplatz.\u003C/p>"
+   },
+   "3pParseAllABPHideFiltersPrompt1": {
+      "message": "Kosmetische Filter analysieren und erzwingen"
+   },
+   "3pPurgeAll": {
+      "message": "Alle Caches leeren"
+   },
+   "3pUpdateNow": {
+      "message": "Jetzt aktualisieren"
+   },
+   "3pUpdating": {
+      "message": "Aktualisieren..."
+   },
+   "aboutBackupDataButton": {
+      "message": "In Datei sichern"
+   },
+   "aboutBackupFilename": {
+      "message": "CCleaner Anti-Tracking-backup_{{datetime}}.txt"
+   },
+   "aboutChangelog": {
+      "message": "Änderungsprotokoll"
+   },
+   "aboutCode": {
+      "message": "Quellcode (GPLv3)"
+   },
+   "aboutContributors": {
+      "message": "Mitwirkende"
+   },
+   "aboutDependencies": {
+      "message": "Externe Abhängigkeiten (GPLv3-kompatibel):"
+   },
+   "aboutIssues": {
+      "message": "Problemverfolgung"
+   },
+   "aboutPageName": {
+      "message": "Info"
+   },
+   "aboutResetDataButton": {
+      "message": "Auf Standardeinstellungen zurücksetzen..."
+   },
+   "aboutResetDataConfirm": {
+      "message": "Alle Ihre Einstellungen werden entfernt und CCleaner Anti-Tracking wird neu gestartet.\n\nCCleaner Anti-Tracking auf die Werkseinstellungen zurücksetzen?"
+   },
+   "aboutRestoreDataButton": {
+      "message": "Aus Datei wiederherstellen..."
+   },
+   "aboutRestoreDataConfirm": {
+      "message": "Alle Ihre Einstellungen werden mit gesicherten Daten vom {{time}} überschrieben und CCleaner Anti-Tracking wird neu gestartet.\n\nAlle vorhandenen Einstellungen mit gesicherten Daten überschreiben?"
+   },
+   "aboutRestoreDataError": {
+      "message": "Die Daten konnten nicht gelesen werden oder sind ungültig"
+   },
+   "aboutSupport": {
+      "message": "Support"
+   },
+   "aboutWiki": {
+      "message": "Wiki"
+   },
+   "advancedSettingsPageName": {
+      "message": "Erweiterte Einstellungen"
+   },
+   "advancedSettingsWarning": {
+      "message": "Warnung! Änderungen an diesen erweiterten Einstellungen erfolgen auf Ihr Risiko."
+   },
+   "assetViewerPageName": {
+      "message": "uBlock? ? Asset Viewer"
+   },
+   "cloudDeviceNamePrompt": {
+      "message": "Dieser Gerätename:"
+   },
+   "cloudPull": {
+      "message": "Aus Cloud-Speicher importieren"
+   },
+   "cloudPullAndMerge": {
+      "message": "Aus Cloud-Speicher importieren und mit aktuellen Einstellungen zusammenführen"
+   },
+   "cloudPush": {
+      "message": "In Cloud-Speicher exportieren"
+   },
+   "contextMenuTemporarilyAllowLargeMediaElements": {
+      "message": "Große Medienelemente temporär zulassen"
+   },
+   "dashboardName": {
+      "message": "CCleaner Anti-Tracking – Dashboard"
+   },
+   "docblockedBack": {
+      "message": "Zurück"
+   },
+   "docblockedClose": {
+      "message": "Dieses Fenster schließen"
+   },
+   "docblockedDisablePermanent": {
+      "message": "Permanent"
+   },
+   "docblockedDisableTemporary": {
+      "message": "Temporär"
+   },
+   "docblockedFoundIn": {
+      "message": "Gefunden in:"
+   },
+   "docblockedNoParamsPrompt": {
+      "message": "ohne Parameter"
+   },
+   "docblockedProceed": {
+      "message": "Strenge Blockierung für {{hostname}} deaktivieren"
+   },
+   "docblockedPrompt1": {
+      "message": "CCleaner Anti-Tracking hat das Laden der folgenden Seite verhindert:"
+   },
+   "docblockedPrompt2": {
+      "message": "Aufgrund des folgenden Filters"
+   },
+   "dummy": {
+      "message": "Dieser Eintrag muss der letzte sein"
+   },
+   "elapsedManyDaysAgo": {
+      "message": "vor {{value}} Tagen"
+   },
+   "elapsedManyHoursAgo": {
+      "message": "vor {{value}} Stunden"
+   },
+   "elapsedManyMinutesAgo": {
+      "message": "vor {{value}} Minuten"
+   },
+   "elapsedOneDayAgo": {
+      "message": "vor einem Tag"
+   },
+   "elapsedOneHourAgo": {
+      "message": "vor einer Stunde"
+   },
+   "elapsedOneMinuteAgo": {
+      "message": "vor einer Minute"
+   },
+   "errorCantConnectTo": {
+      "message": "Netzwerkfehler: {{msg}}"
+   },
+   "extShortDesc": {
+      "message": "Blockiert unerwünschte Web-Tracker."
+   },
+   "extra1pPageNameDesc": {
+      "message": "Ihre benutzerdefinierten Filter verwalten"
+   },
+   "extra3pPageNameDesc": {
+      "message": "Filter von Drittanbietern zum Schutz Ihrer Privatsphäre sowie vor Trackern"
+   },
+   "extraAddFilter": {
+      "message": "Filter hinzufügen"
+   },
+   "extraAddRrule": {
+      "message": "Temporäre Regel hinzufügen"
+   },
+   "extraAddSetting": {
+      "message": "Einstellung hinzufügen"
+   },
+   "extraAddSite": {
+      "message": "Website hinzufügen"
+   },
+   "extraAdsFilters": {
+      "message": "Filter hinzufügen"
+   },
+   "extraAdvancedUserSettings": {
+      "message": "Erweiterte Benutzereinstellungen"
+   },
+   "extraAllowOnSites": {
+      "message": "Tracker auf diesen Websites zulassen"
+   },
+   "extraBlockMediaElementsLargerThan": {
+      "message": "Medienelemente blockieren, die größer sind als"
+   },
+   "extraBtnAdd": {
+      "message": "hinzufügen"
+   },
+   "extraBtnCancel": {
+      "message": "abbrechen"
+   },
+   "extraBtnEdit": {
+      "message": "Bearbeiten"
+   },
+   "extraBtnExport": {
+      "message": "exportieren"
+   },
+   "extraBtnImport": {
+      "message": "importieren"
+   },
+   "extraBtnRemove": {
+      "message": "Entfernen"
+   },
+   "extraBtnUpdateAll": {
+      "message": "alle aktualisieren"
+   },
+   "extraDefaultBehaviour": {
+      "message": "Standardverhalten"
+   },
+   "extraEditFilter": {
+      "message": "Filter bearbeiten"
+   },
+   "extraEditRule": {
+      "message": "Temporäre Regel bearbeiten"
+   },
+   "extraEditSetting": {
+      "message": "Einstellung bearbeiten"
+   },
+   "extraEditSite": {
+      "message": "Website bearbeiten"
+   },
+   "extraGeneralSettings": {
+      "message": "Allgemeine Einstellungen"
+   },
+   "extraGeneralSettingsDesc": {
+      "message": "Von CCleaner Anti-Tracking angezeigte Informationen verwalten"
+   },
+   "extraIndexDescription": {
+      "message": "Blockieren Sie Tracker für ein schnelleres und sichereres Surferlebnis"
+   },
+   "extraIndexFooter": {
+      "message": "Powered by uBlock Origin."
+   },
+   "extraIndexHeader": {
+      "message": "Erweiterte Einstellungen von CCleaner Anti-Tracking"
+   },
+   "extraInterstitialBlocking": {
+      "message": "Blockierung von Interstitial-Inhalten aktivieren"
+   },
+   "extraLabelFilter": {
+      "message": "Filter"
+   },
+   "extraLearnMore": {
+      "message": "Mehr erfahren"
+   },
+   "extraManageFilters": {
+      "message": "Filter verwalten"
+   },
+   "extraMyCustomFilter": {
+      "message": "Benutzerdefinierte Filter"
+   },
+   "extraPrivacy": {
+      "message": "Privatsphäre"
+   },
+   "extraRule": {
+      "message": "Regel"
+   },
+   "extraRuleDefinition": {
+      "message": "Regeldefinition"
+   },
+   "extraRuleSyntax": {
+      "message": "Syntax für Regeln"
+   },
+   "extraRulesPageNameDesc": {
+      "message": "Liste Ihrer dynamischen Filterregeln"
+   },
+   "extraSetting": {
+      "message": "Einstellung"
+   },
+   "extraShowMore": {
+      "message": "Mehr anzeigen"
+   },
+   "extraSite": {
+      "message": "Website"
+   },
+   "extraSlider0": {
+      "message": "Werbung nicht blockieren"
+   },
+   "extraSlider100": {
+      "message": "Werbeblockierung (maximal)"
+   },
+   "extraSlider50": {
+      "message": "Werbeblockierung (moderat)"
+   },
+   "extraSourceDestinationTypeAction": {
+      "message": "Quelle Ziel Typ Aktion."
+   },
+   "extraWhitelistPageNameDesc": {
+      "message": "Liste der Websites, auf denen Tracker erlaubt sind"
+   },
+   "fennecMenuItemBlockingOff": {
+      "message": "Aus"
+   },
+   "genericApplyChanges": {
+      "message": "Änderungen übernehmen"
+   },
+   "genericBytes": {
+      "message": "Byte"
+   },
+   "genericCopyToClipboard": {
+      "message": "In Zwischenablage kopieren"
+   },
+   "genericMergeViewScrollLock": {
+      "message": "Bildlaufsperre umschalten"
+   },
+   "genericRevert": {
+      "message": "Zurücksetzen"
+   },
+   "genericSubmit": {
+      "message": "Senden"
+   },
+   "logAll": {
+      "message": "Alle"
+   },
+   "logBehindTheScene": {
+      "message": "Im Hintergrund"
+   },
+   "logFilterPrompt": {
+      "message": "Filter-Protokolleinträge"
+   },
+   "logMaxEntriesTip": {
+      "message": "Maximale Anzahl an Protokolleinträgen"
+   },
+   "logRequestsHeaderDomain": {
+      "message": "Domain"
+   },
+   "logRequestsHeaderFilter": {
+      "message": "Filter"
+   },
+   "logRequestsHeaderType": {
+      "message": "Typ"
+   },
+   "logRequestsHeaderURL": {
+      "message": "URL"
+   },
+   "loggerClearTip": {
+      "message": "Logger-Inhalt löschen"
+   },
+   "loggerCurrentTab": {
+      "message": "Aktuelle Registerkarte"
+   },
+   "loggerDomInspectorTip": {
+      "message": "DOM Inspector umschalten"
+   },
+   "loggerEntryDetailsContext": {
+      "message": "Kontext"
+   },
+   "loggerEntryDetailsFilter": {
+      "message": "Filter"
+   },
+   "loggerEntryDetailsFilterList": {
+      "message": "Filterliste"
+   },
+   "loggerEntryDetailsHeader": {
+      "message": "Details"
+   },
+   "loggerEntryDetailsPartyness": {
+      "message": "Anbietertyp"
+   },
+   "loggerEntryDetailsRootContext": {
+      "message": "Root-Kontext"
+   },
+   "loggerEntryDetailsRule": {
+      "message": "Regel"
+   },
+   "loggerEntryDetailsType": {
+      "message": "Typ"
+   },
+   "loggerEntryDetailsURL": {
+      "message": "URL"
+   },
+   "loggerExportEncodeMarkdown": {
+      "message": "Markdown"
+   },
+   "loggerExportEncodePlain": {
+      "message": "Nur-Text"
+   },
+   "loggerExportFormatList": {
+      "message": "Liste"
+   },
+   "loggerExportFormatTable": {
+      "message": "Tabelle"
+   },
+   "loggerInfoTip": {
+      "message": "uBlock Origin Wiki: Logger"
+   },
+   "loggerPauseTip": {
+      "message": "Logger anhalten (alle eingehenden Daten verwerfen)"
+   },
+   "loggerPopupPanelTip": {
+      "message": "Popup-Bereich umschalten"
+   },
+   "loggerReloadTip": {
+      "message": "Inhalt der Registerkarte neu laden"
+   },
+   "loggerRowFiltererBuiltin1p": {
+      "message": "Erstanbieter"
+   },
+   "loggerRowFiltererBuiltin3p": {
+      "message": "Drittanbieter"
+   },
+   "loggerRowFiltererBuiltinAllowed": {
+      "message": "erlaubt"
+   },
+   "loggerRowFiltererBuiltinBlocked": {
+      "message": "blockiert"
+   },
+   "loggerRowFiltererBuiltinEventful": {
+      "message": "Ereignisse"
+   },
+   "loggerRowFiltererBuiltinNot": {
+      "message": "Nicht"
+   },
+   "loggerRowFiltererBuiltinTip": {
+      "message": "Logger-Filteroptionen"
+   },
+   "loggerRowFiltererButtonTip": {
+      "message": "Logger-Filter deaktivieren"
+   },
+   "loggerSettingDiscardPrompt": {
+      "message": "Logger-Einträge, die nicht alle drei folgenden Bedingungen erfüllen, werden automatisch verworfen:"
+   },
+   "loggerSettingHideColumnContext": {
+      "message": "{{input}} Kontext"
+   },
+   "loggerSettingHideColumnFilter": {
+      "message": "{{input}} Filter/Regel"
+   },
+   "loggerSettingHideColumnPartyness": {
+      "message": "{{input}} Anbietertyp"
+   },
+   "loggerSettingHideColumnTime": {
+      "message": "{{input}} Zeit"
+   },
+   "loggerSettingHideColumnsPrompt": {
+      "message": "Spalten ausblenden:"
+   },
+   "loggerSettingPerEntryLineCount": {
+      "message": "Im vertikal erweiterten Modus {{input}} Zeilen pro Eintrag verwenden"
+   },
+   "loggerSettingPerEntryMaxAge": {
+      "message": "Einträge aus den letzten {{input}} Minuten beibehalten"
+   },
+   "loggerSettingPerTabMaxEntries": {
+      "message": "Höchstens {{input}} Einträge pro Registerkarte beibehalten"
+   },
+   "loggerSettingPerTabMaxLoads": {
+      "message": "Höchstens {{input}} Seitenladevorgänge pro Registerkarte beibehalten"
+   },
+   "loggerStaticFilteringFinderSentence1": {
+      "message": "Statischer Filter \u003Ccode>{{filter}}\u003C/code> gefunden in:"
+   },
+   "loggerStaticFilteringFinderSentence2": {
+      "message": "Der statische Filter \u003Ccode>{{filter}}\u003C/code> wurde in keiner der derzeit aktivierten Filterlisten gefunden"
+   },
+   "loggerStaticFilteringHeader": {
+      "message": "Statische Filterung"
+   },
+   "loggerStaticFilteringSentence": {
+      "message": "{{action}}: Netzwerkanforderungen {{type}}, {{br}}deren URL-Adresse {{url}} entspricht {{br}}und deren Ursprung {{origin}} ist,{{br}}{{importance}} es gibt einen übereinstimmenden Ausnahmefilter."
+   },
+   "loggerStaticFilteringSentencePartAllow": {
+      "message": "Erlauben"
+   },
+   "loggerStaticFilteringSentencePartAnyOrigin": {
+      "message": "von beliebig"
+   },
+   "loggerStaticFilteringSentencePartAnyType": {
+      "message": "eines beliebigen Typs"
+   },
+   "loggerStaticFilteringSentencePartBlock": {
+      "message": "Blockieren"
+   },
+   "loggerStaticFilteringSentencePartImportant": {
+      "message": "auch wenn"
+   },
+   "loggerStaticFilteringSentencePartNotImportant": {
+      "message": "außer wenn"
+   },
+   "loggerStaticFilteringSentencePartOrigin": {
+      "message": "Von? {{origin}}?"
+   },
+   "loggerStaticFilteringSentencePartType": {
+      "message": "vom Typ ?{{type}}?"
+   },
+   "loggerURLFilteringContextLabel": {
+      "message": "Kontext:"
+   },
+   "loggerURLFilteringHeader": {
+      "message": "Dynamische URL-Filterung"
+   },
+   "loggerURLFilteringTypeLabel": {
+      "message": "Typ:"
+   },
+   "loggerUnpauseTip": {
+      "message": "Logger fortsetzen"
+   },
+   "pickerContextMenuEntry": {
+      "message": "Element blockieren"
+   },
+   "pickerCosmeticFilters": {
+      "message": "Kosmetische Filter"
+   },
+   "pickerCosmeticFiltersHint": {
+      "message": "Klick, Strg-Klick"
+   },
+   "pickerCreate": {
+      "message": "Erstellen"
+   },
+   "pickerNetFilters": {
+      "message": "Netzwerkfilter"
+   },
+   "pickerPick": {
+      "message": "Auswählen"
+   },
+   "pickerPreview": {
+      "message": "Vorschau"
+   },
+   "pickerQuit": {
+      "message": "Beenden"
+   },
+   "popup1pScriptRulePrompt": {
+      "message": "Scripte von Erstanbietern"
+   },
+   "popup3pAnyRulePrompt": {
+      "message": "Inhalte von Drittanbietern"
+   },
+   "popup3pFrameRulePrompt": {
+      "message": "Frames von Drittanbietern"
+   },
+   "popup3pPassiveRulePrompt": {
+      "message": "CSS/Bilder von Drittanbietern"
+   },
+   "popup3pScriptRulePrompt": {
+      "message": "Scripte von Drittanbietern"
+   },
+   "popupAdvancedSettings": {
+      "message": "Erweiterte Einstellungen"
+   },
+   "popupAnyRulePrompt": {
+      "message": "Alle"
+   },
+   "popupExtraAdsAllowedOnSites": {
+      "message": "Tracker sind auf dieser Seite erlaubt"
+   },
+   "popupExtraAdsBlockedOnPage": {
+      "message": "Blockierte Tracker auf dieser Seite"
+   },
+   "popupExtraAdsBlockedOnSites": {
+      "message": "Tracker sind auf dieser Seite blockiert"
+   },
+   "popupExtraAdsBlockedTotal": {
+      "message": "Blockierte Tracker gesamt"
+   },
+   "popupExtraLessOptions": {
+      "message": "Weniger Optionen"
+   },
+   "popupExtraListAllowedSites": {
+      "message": "Liste zugelassener Websites"
+   },
+   "popupExtraMoreInformation": {
+      "message": "Weitere Informationen"
+   },
+   "popupExtraMoreOptions": {
+      "message": "Mehr Optionen"
+   },
+   "popupExtraNoSitesAddedYet": {
+      "message": "Noch keine Websites hinzugefügt"
+   },
+   "popupExtraProtectionCanNotEnabled": {
+      "message": "Schutz kann auf dieser Website nicht aktiviert werden"
+   },
+   "popupExtraProtectionDisabledForSession": {
+      "message": "Schutz für diese Sitzung kann nicht aktiviert werden"
+   },
+   "popupExtraSeeListAllowedSites": {
+      "message": "Liste aller zugelassenen Websites anzeigen"
+   },
+   "popupHitDomainCount": {
+      "message": "{{count}} von {{total}}"
+   },
+   "popupHitDomainCountPrompt": {
+      "message": "Verbundene Domains"
+   },
+   "popupImageRulePrompt": {
+      "message": "Bilder"
+   },
+   "popupInlineScriptRulePrompt": {
+      "message": "Inline-Scripte"
+   },
+   "popupTipDashboard": {
+      "message": "Dashboard öffnen"
+   },
+   "popupTipGlobalRules": {
+      "message": "Globale Regeln: Diese Spalte enthält Regeln, die für alle Websites gelten."
+   },
+   "popupTipLocalRules": {
+      "message": "Lokale Regeln: Diese Spalte enthält Regeln, die nur für die aktuelle Website gelten.\nLokale Regeln setzen globale Regeln außer Kraft."
+   },
+   "popupTipLog": {
+      "message": "Logger öffnen"
+   },
+   "popupTipNoCosmeticFiltering": {
+      "message": "Kosmetische Filter für diese Website umschalten"
+   },
+   "popupTipNoCosmeticFiltering1": {
+      "message": "Klicken, um kosmetische Filter auf dieser Website zu deaktivieren"
+   },
+   "popupTipNoCosmeticFiltering2": {
+      "message": "Klicken, um kosmetische Filter auf dieser Website zu aktivieren"
+   },
+   "popupTipNoLargeMedia": {
+      "message": "Blockieren großer Medienelemente für diese Website umschalten"
+   },
+   "popupTipNoLargeMedia1": {
+      "message": "Klicken, um große Medienelemente auf dieser Website zu blockieren"
+   },
+   "popupTipNoLargeMedia2": {
+      "message": "Klicken, um große Medienelemente auf dieser Website nicht mehr zu blockieren"
+   },
+   "popupTipNoPopups": {
+      "message": "Blockieren aller Popups für diese Website umschalten"
+   },
+   "popupTipNoPopups1": {
+      "message": "Klicken, um alle Popups auf dieser Website zu blockieren"
+   },
+   "popupTipNoPopups2": {
+      "message": "Klicken, um nicht mehr alle Popups auf dieser Website zu blockieren"
+   },
+   "popupTipNoRemoteFonts": {
+      "message": "Blockieren von Remote-Schriftarten für diese Website umschalten"
+   },
+   "popupTipNoRemoteFonts1": {
+      "message": "Klicken, um Remote-Schriftarten auf dieser Website zu blockieren"
+   },
+   "popupTipNoRemoteFonts2": {
+      "message": "Klicken, um Remote-Schriftarten auf dieser Website nicht mehr zu blockieren"
+   },
+   "popupTipNoScripting1": {
+      "message": "Klicken, um JavaScript auf dieser Website zu deaktivieren"
+   },
+   "popupTipNoScripting2": {
+      "message": "Klicken, um JavaScript auf dieser Website nicht mehr zu deaktivieren"
+   },
+   "popupTipPicker": {
+      "message": "In den Elementauswahlmodus wechseln"
+   },
+   "popupTipRevertRules": {
+      "message": "Klicken Sie, um Ihre Änderungen zurückzusetzen."
+   },
+   "popupTipSaveRules": {
+      "message": "Klicken Sie, um Ihre Änderungen permanent zu speichern."
+   },
+   "popupTipZapper": {
+      "message": "In den Element-Zappermodus wechseln"
+   },
+   "rulesCommit": {
+      "message": "Festschreiben"
+   },
+   "rulesEdit": {
+      "message": "Bearbeiten"
+   },
+   "rulesEditDiscard": {
+      "message": "Verwerfen"
+   },
+   "rulesEditSave": {
+      "message": "Speichern"
+   },
+   "rulesExport": {
+      "message": "In Datei exportieren"
+   },
+   "rulesFormatHint": {
+      "message": "Regelsyntax: \u003Ccode>Quelle Ziel Typ Aktion\u003C/code> (\u003Ca href='https://github.com/gorhill/uBlock/wiki/Dynamic-filtering:-rule-syntax'>Vollständige Dokumentation\u003C/a>)."
+   },
+   "rulesHint": {
+      "message": "Liste Ihrer dynamischen Filterregeln."
+   },
+   "rulesImport": {
+      "message": "Aus Datei importieren..."
+   },
+   "rulesPageName": {
+      "message": "Meine Regeln"
+   },
+   "rulesPermanentHeader": {
+      "message": "Permanente Regeln"
+   },
+   "rulesRevert": {
+      "message": "Zurücksetzen"
+   },
+   "rulesTemporaryHeader": {
+      "message": "Temporäre Regeln"
+   },
+   "settingPerSiteSwitchGroup": {
+      "message": "Standardverhalten"
+   },
+   "settingPerSiteSwitchGroupSynopsis": {
+      "message": "Diese Standardverhaltensweisen können für einzelne Websites außer Kraft gesetzt werden"
+   },
+   "settingsAdvancedUserPrompt": {
+      "message": "Ich bin ein erfahrener Benutzer (\u003Ca href='https://github.com/gorhill/uBlock/wiki/Advanced-user-features'>Pflichtlektüre\u003C/a>)"
+   },
+   "settingsAdvancedUserSettings": {
+      "message": "Erweiterte Einstellungen"
+   },
+   "settingsCloudStorageEnabledPrompt": {
+      "message": "Cloud-Speicherunterstützung aktivieren"
+   },
+   "settingsCollapseBlockedPrompt": {
+      "message": "Platzhalter für blockierte Elemente ausblenden"
+   },
+   "settingsColorBlindPrompt": {
+      "message": "Bei Farbsehschwäche geeignet"
+   },
+   "settingsContextMenuPrompt": {
+      "message": "Kontextmenü nutzen, sofern angebracht"
+   },
+   "settingsHyperlinkAuditingDisabledPrompt": {
+      "message": "Hyperlink-Prüfung deaktivieren"
+   },
+   "settingsIconBadgePrompt": {
+      "message": "Anzahl blockierter Anforderungen auf dem Symbol anzeigen"
+   },
+   "settingsLastBackupPrompt": {
+      "message": "Letzte Sicherung:"
+   },
+   "settingsLastRestorePrompt": {
+      "message": "Letzte Wiederherstellung:"
+   },
+   "settingsNoCSPReportsPrompt": {
+      "message": "CSP-Berichte blockieren"
+   },
+   "settingsNoCosmeticFilteringPrompt": {
+      "message": "Kosmetische Filter deaktivieren"
+   },
+   "settingsNoLargeMediaPrompt": {
+      "message": "Medienelemente blockieren, die größer sind als {{input:number}} kB"
+   },
+   "settingsNoRemoteFontsPrompt": {
+      "message": "Remote-Schriftarten blockieren"
+   },
+   "settingsNoScriptingPrompt": {
+      "message": "JavaScript deaktivieren"
+   },
+   "settingsPageName": {
+      "message": "Einstellungen"
+   },
+   "settingsPrefetchingDisabledPrompt": {
+      "message": "Vorab-Abruf deaktivieren (um Verbindungen für blockierte Netzwerkanforderungen zu verhindern)"
+   },
+   "settingsStorageUsed": {
+      "message": "Belegter Speicher: {{value}} Byte"
+   },
+   "settingsTooltipsPrompt": {
+      "message": "QuickInfos deaktivieren"
+   },
+   "settingsWebRTCIPAddressHiddenPrompt": {
+      "message": "Verhindern, dass WebRTC lokale IP-Adressen freigibt"
+   },
+   "shortcutCapturePlaceholder": {
+      "message": "Verknüpfung eingeben"
+   },
+   "shortcutsPageName": {
+      "message": "Verknüpfungen"
+   },
+   "showDashboardButton": {
+      "message": "Dashboard anzeigen"
+   },
+   "showNetworkLogButton": {
+      "message": "Logger anzeigen"
+   },
+   "statsPageName": {
+      "message": "CCleaner Anti-Tracking – Logger"
+   },
+   "subscriberConfirm": {
+      "message": "CCleaner Anti-Tracking: Folgende URL zu Ihren benutzerdefinierten Filterlisten hinzufügen?\n\nTitel: \"{{title}}\"\nURL: {{url}}"
+   },
+   "whitelistApply": {
+      "message": "Änderungen übernehmen"
+   },
+   "whitelistExport": {
+      "message": "Exportieren"
+   },
+   "whitelistExportFilename": {
+      "message": "CCleaner Anti-Tracking-whitelist_{{datetime}}.txt"
+   },
+   "whitelistImport": {
+      "message": "Importieren und anhängen"
+   },
+   "whitelistPageName": {
+      "message": "Whitelist"
+   },
+   "whitelistPrompt": {
+      "message": "Die Whitelist-Richtlinien schreiben vor, auf welchen Webseiten CCleaner Anti-Tracking deaktiviert werden soll. Ein Eintrag pro Zeile. Ungültige Richtlinien werden ohne Meldung ignoriert und auskommentiert."
+   }
+}

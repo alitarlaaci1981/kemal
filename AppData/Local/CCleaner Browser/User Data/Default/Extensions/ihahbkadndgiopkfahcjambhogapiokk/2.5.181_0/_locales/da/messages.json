@@ -1,0 +1,28 @@
+{
+   "appDescription": {
+      "message": "Forklæder din browsers fingeraftryk og begrænser onlinesporing"
+   },
+   "appName": {
+      "message": "Anti-fingeraftryk"
+   },
+   "popupStatusDisabled": {
+      "description": "Popup label shown when afp is disabled for current website",
+      "message": "Fingeraftryksbeskyttelse er deaktiveret på dette websted"
+   },
+   "popupStatusEnabled": {
+      "description": "Popup label shown when afp is enabled for current website",
+      "message": "Fingeraftryksbeskyttelse er aktiveret på dette websted"
+   },
+   "popupTotalFingerprintsAttemptsDetected": {
+      "description": "Popup total fingerprints attempts detected label",
+      "message": "Forsøg med fingeraftryk registreret i alt"
+   },
+   "settingsAdvanced": {
+      "description": "Settings page title",
+      "message": "Avancerede indstillinger for Anti-fingeraftryk"
+   },
+   "settingsSocialMediaLoginDetectionPrevention": {
+      "description": "Settings page social media login detection prevention title",
+      "message": "Forhindring af registrering af login på sociale medier"
+   }
+}

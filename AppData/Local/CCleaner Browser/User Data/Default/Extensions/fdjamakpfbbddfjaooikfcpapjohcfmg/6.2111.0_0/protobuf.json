@@ -1,0 +1,554 @@
+{
+    "nested": {
+        "communicationInitPackage": {
+            "nested": {
+                "CommunicationInitRequest": {
+                    "fields": {
+                        "from": {
+                            "type": "string",
+                            "id": 1
+                        },
+                        "to": {
+                            "type": "string",
+                            "id": 2
+                        },
+                        "subject": {
+                            "type": "string",
+                            "id": 3
+                        },
+                        "body": {
+                            "type": "Body",
+                            "id": 4
+                        }
+                    },
+                    "nested": {
+                        "Body": {
+                            "fields": {
+                                "message": {
+                                    "type": "string",
+                                    "id": 1
+                                }
+                            }
+                        }
+                    }
+                },
+                "CommunicationInitResponse": {
+                    "fields": {
+                        "from": {
+                            "type": "string",
+                            "id": 1
+                        },
+                        "to": {
+                            "type": "string",
+                            "id": 2
+                        },
+                        "subject": {
+                            "type": "string",
+                            "id": 3
+                        },
+                        "body": {
+                            "type": "Body",
+                            "id": 4
+                        }
+                    },
+                    "nested": {
+                        "Body": {
+                            "fields": {
+                                "message": {
+                                    "type": "string",
+                                    "id": 1
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        "communicationPingPackage": {
+            "nested": {
+                "CommunicationPingRequest": {
+                    "fields": {
+                        "from": {
+                            "type": "string",
+                            "id": 1
+                        },
+                        "to": {
+                            "type": "string",
+                            "id": 2
+                        },
+                        "subject": {
+                            "type": "string",
+                            "id": 3
+                        },
+                        "body": {
+                            "type": "Body",
+                            "id": 4
+                        }
+                    },
+                    "nested": {
+                        "Body": {
+                            "fields": {
+                                "message": {
+                                    "type": "string",
+                                    "id": 1
+                                }
+                            }
+                        }
+                    }
+                },
+                "CommunicationPingResponse": {
+                    "fields": {
+                        "from": {
+                            "type": "string",
+                            "id": 1
+                        },
+                        "to": {
+                            "type": "string",
+                            "id": 2
+                        },
+                        "subject": {
+                            "type": "string",
+                            "id": 3
+                        },
+                        "body": {
+                            "type": "Body",
+                            "id": 4
+                        }
+                    },
+                    "nested": {
+                        "Body": {
+                            "fields": {
+                                "message": {
+                                    "type": "string",
+                                    "id": 1
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        "errorPackage": {
+            "nested": {
+                "ErrorResponse": {
+                    "fields": {
+                        "from": {
+                            "type": "string",
+                            "id": 1
+                        },
+                        "to": {
+                            "type": "string",
+                            "id": 2
+                        },
+                        "subject": {
+                            "type": "string",
+                            "id": 3
+                        },
+                        "body": {
+                            "type": "Body",
+                            "id": 4
+                        }
+                    },
+                    "nested": {
+                        "Body": {
+                            "fields": {
+                                "message": {
+                                    "type": "string",
+                                    "id": 1
+                                },
+                                "type": {
+                                    "type": "string",
+                                    "id": 2
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        "openApplicationPackage": {
+            "nested": {
+                "OpenApplication": {
+                    "fields": {
+                        "from": {
+                            "type": "string",
+                            "id": 1
+                        },
+                        "to": {
+                            "type": "string",
+                            "id": 2
+                        },
+                        "subject": {
+                            "type": "string",
+                            "id": 3
+                        },
+                        "body": {
+                            "type": "Body",
+                            "id": 4
+                        }
+                    },
+                    "nested": {
+                        "Body": {
+                            "fields": {
+                                "message": {
+                                    "type": "string",
+                                    "id": 1
+                                },
+                                "data": {
+                                    "type": "Data",
+                                    "id": 2
+                                }
+                            },
+                            "nested": {
+                                "Data": {
+                                    "fields": {
+                                        "link": {
+                                            "type": "string",
+                                            "id": 1
+                                        },
+                                        "identifier": {
+                                            "type": "string",
+                                            "id": 2
+                                        },
+                                        "origin": {
+                                            "type": "string",
+                                            "id": 3
+                                        }
+                                    }
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        "loginPackage": {
+            "nested": {
+                "LoginRequest": {
+                    "fields": {
+                        "from": {
+                            "type": "string",
+                            "id": 1
+                        },
+                        "to": {
+                            "type": "string",
+                            "id": 2
+                        },
+                        "subject": {
+                            "type": "string",
+                            "id": 3
+                        },
+                        "body": {
+                            "type": "Body",
+                            "id": 4
+                        }
+                    },
+                    "nested": {
+                        "Body": {
+                            "fields": {
+                                "message": {
+                                    "type": "string",
+                                    "id": 1
+                                },
+                                "data": {
+                                    "type": "Data",
+                                    "id": 2
+                                }
+                            },
+                            "nested": {
+                                "Data": {
+                                    "fields": {
+                                        "forceLogin": {
+                                            "type": "bool",
+                                            "id": 1
+                                        }
+                                    }
+                                }
+                            }
+                        }
+                    }
+                },
+                "LoginResponse": {
+                    "fields": {
+                        "from": {
+                            "type": "string",
+                            "id": 1
+                        },
+                        "to": {
+                            "type": "string",
+                            "id": 2
+                        },
+                        "subject": {
+                            "type": "string",
+                            "id": 3
+                        },
+                        "body": {
+                            "type": "Body",
+                            "id": 4
+                        }
+                    },
+                    "nested": {
+                        "Body": {
+                            "fields": {
+                                "message": {
+                                    "type": "string",
+                                    "id": 1
+                                },
+                                "data": {
+                                    "type": "Data",
+                                    "id": 2
+                                }
+                            },
+                            "nested": {
+                                "Data": {
+                                    "fields": {
+                                        "userLoggedIn": {
+                                            "type": "bool",
+                                            "id": 1
+                                        },
+                                        "login": {
+                                            "type": "string",
+                                            "id": 2
+                                        }
+                                    }
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        "logoutPackage": {
+            "nested": {
+                "LogoutRequest": {
+                    "fields": {
+                        "from": {
+                            "type": "string",
+                            "id": 1
+                        },
+                        "to": {
+                            "type": "string",
+                            "id": 2
+                        },
+                        "subject": {
+                            "type": "string",
+                            "id": 3
+                        },
+                        "body": {
+                            "type": "Body",
+                            "id": 4
+                        }
+                    },
+                    "nested": {
+                        "Body": {
+                            "fields": {
+                                "message": {
+                                    "type": "string",
+                                    "id": 1
+                                }
+                            }
+                        }
+                    }
+                },
+                "LogoutResponse": {
+                    "fields": {
+                        "from": {
+                            "type": "string",
+                            "id": 1
+                        },
+                        "to": {
+                            "type": "string",
+                            "id": 2
+                        },
+                        "subject": {
+                            "type": "string",
+                            "id": 3
+                        },
+                        "body": {
+                            "type": "Body",
+                            "id": 4
+                        }
+                    },
+                    "nested": {
+                        "Body": {
+                            "fields": {
+                                "message": {
+                                    "type": "string",
+                                    "id": 1
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        "registerPackage": {
+            "nested": {
+                "RegisterRequest": {
+                    "fields": {
+                        "from": {
+                            "type": "string",
+                            "id": 1
+                        },
+                        "to": {
+                            "type": "string",
+                            "id": 2
+                        },
+                        "subject": {
+                            "type": "string",
+                            "id": 3
+                        },
+                        "body": {
+                            "type": "Body",
+                            "id": 4
+                        }
+                    },
+                    "nested": {
+                        "Body": {
+                            "fields": {
+                                "message": {
+                                    "type": "string",
+                                    "id": 1
+                                }
+                            }
+                        }
+                    }
+                },
+                "RegisterResponse": {
+                    "fields": {
+                        "from": {
+                            "type": "string",
+                            "id": 1
+                        },
+                        "to": {
+                            "type": "string",
+                            "id": 2
+                        },
+                        "subject": {
+                            "type": "string",
+                            "id": 3
+                        },
+                        "body": {
+                            "type": "Body",
+                            "id": 4
+                        }
+                    },
+                    "nested": {
+                        "Body": {
+                            "fields": {
+                                "message": {
+                                    "type": "string",
+                                    "id": 1
+                                },
+                                "data": {
+                                    "type": "Data",
+                                    "id": 2
+                                }
+                            },
+                            "nested": {
+                                "Data": {
+                                    "fields": {
+                                        "login": {
+                                            "type": "string",
+                                            "id": 1
+                                        },
+                                        "token": {
+                                            "type": "string",
+                                            "id": 2
+                                        }
+                                    }
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        "sharedSessionPackage": {
+            "nested": {
+                "SharedSessionRequest": {
+                    "fields": {
+                        "from": {
+                            "type": "string",
+                            "id": 1
+                        },
+                        "to": {
+                            "type": "string",
+                            "id": 2
+                        },
+                        "subject": {
+                            "type": "string",
+                            "id": 3
+                        },
+                        "body": {
+                            "type": "Body",
+                            "id": 4
+                        }
+                    },
+                    "nested": {
+                        "Body": {
+                            "fields": {
+                                "message": {
+                                    "type": "string",
+                                    "id": 1
+                                }
+                            }
+                        }
+                    }
+                },
+                "SharedSessionResponse": {
+                    "fields": {
+                        "from": {
+                            "type": "string",
+                            "id": 1
+                        },
+                        "to": {
+                            "type": "string",
+                            "id": 2
+                        },
+                        "subject": {
+                            "type": "string",
+                            "id": 3
+                        },
+                        "body": {
+                            "type": "Body",
+                            "id": 4
+                        }
+                    },
+                    "nested": {
+                        "Body": {
+                            "fields": {
+                                "message": {
+                                    "type": "string",
+                                    "id": 1
+                                },
+                                "data": {
+                                    "type": "Data",
+                                    "id": 2
+                                }
+                            },
+                            "nested": {
+                                "Data": {
+                                    "fields": {
+                                        "login": {
+                                            "type": "string",
+                                            "id": 1
+                                        },
+                                        "password": {
+                                            "type": "string",
+                                            "id": 2
+                                        },
+                                        "serverKey": {
+                                            "type": "string",
+                                            "id": 3
+                                        }
+                                    }
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+        }
+    }
+}

@@ -1,0 +1,860 @@
+{
+   "1pApplyChanges": {
+      "message": "Anvend ændringer"
+   },
+   "1pExport": {
+      "message": "Eksportér"
+   },
+   "1pFormatHint": {
+      "message": "Ét filter per linje. Et filter kan være et almindeligt værtsnavn eller et Adblock Plus-kompatibelt filter. Linjer med &lsquo;!&rsquo; foran ignoreres."
+   },
+   "1pImport": {
+      "message": "Importér og tilføj"
+   },
+   "1pPageName": {
+      "message": " Mine filtre"
+   },
+   "3pApplyChanges": {
+      "message": "Anvend ændringer"
+   },
+   "3pAutoUpdatePrompt1": {
+      "message": "Opdater automatisk filterlister"
+   },
+   "3pExternalListObsolete": {
+      "message": "Forældet."
+   },
+   "3pExternalListsHint": {
+      "message": "Én URL per linje. Linjer med &lsquo;!&rsquo; foran ignoreres. Ugyldige URL'er ignoreres diskret."
+   },
+   "3pGroupAds": {
+      "message": "Reklamer"
+   },
+   "3pGroupAnnoyances": {
+      "message": "Irritationsmomenter"
+   },
+   "3pGroupCustom": {
+      "message": "Tilpasset"
+   },
+   "3pGroupDefault": {
+      "message": "Netværksfiltre og kosmetiske filtre"
+   },
+   "3pGroupMalware": {
+      "message": "Malwaredomæner"
+   },
+   "3pGroupMultipurpose": {
+      "message": "Multiformål"
+   },
+   "3pGroupPrivacy": {
+      "message": "Fortrolighed"
+   },
+   "3pGroupRegions": {
+      "message": "Områder, sprog"
+   },
+   "3pIgnoreGenericCosmeticFilters": {
+      "message": "Ignorer generiske kosmetiske filtre"
+   },
+   "3pIgnoreGenericCosmeticFiltersInfo": {
+      "message": "\u003Cp>Generiske kosmetiske filtre.\u003Cp>Selvom generiske kosmetiske filtre håndteres effektivt af CCleaner Anti-Tracking, kan de stadig bidrage med målbar hukommelses- og CPU-belastning på nogle websider, særligt de store og ældre.\u003Cp>Aktivering af denne indstilling vil fjerne den hukommelses- og CPU-belastning, der føjes til websider som et resultat af generiske kosmetiske filtre, samt reducere CCleaner Anti-Trackings eget hukommelsesforbrug.\u003Cp>Det anbefales at aktivere denne indstilling på mindre kraftfulde enheder."
+   },
+   "3pImport": {
+      "message": "Importér ..."
+   },
+   "3pLastUpdate": {
+      "message": "Seneste opdatering: {{ago}}.\nKlik for at gennemtvinge en opdatering."
+   },
+   "3pListsOfBlockedHostsHeader": {
+      "message": "Lister over blokerede værter"
+   },
+   "3pListsOfBlockedHostsPerListStats": {
+      "message": "{{used}} brugt ud af {{total}}"
+   },
+   "3pListsOfBlockedHostsPrompt": {
+      "message": "{{netFilterCount}} netværksfiltre ＋ {{cosmeticFilterCount}} kosmetiske filtre fra:"
+   },
+   "3pNetworkError": {
+      "message": "En netværksfejl forhindrede ressourcen i at blive opdateret."
+   },
+   "3pPageName": {
+      "message": "Tredjepartsfiltre"
+   },
+   "3pParseAllABPHideFiltersInfo": {
+      "message": "\u003Cp>Denne indstilling aktiverer analyse og gennemtvingning af \u003Ca href=\"https://adblockplus.org/en/faq_internal#elemhide\">Adblock Plus-kompatible &ldquo;element skjules&rdquo;-filtre\u003C/a>. Disse filtre er reelt kosmetiske og skjuler elementer på en webside, der betragtes som visuelt forstyrrende, og som ikke kan blokeres af den netanmodningsbaserede filtersoftware.\u003C/p>\u003Cp>Aktivering af denne funktion øger CCleaner Anti-Trackings hukommelsesforbrug.\u003C/p>"
+   },
+   "3pParseAllABPHideFiltersPrompt1": {
+      "message": "Analysér og gennemtving kosmetiske filtre"
+   },
+   "3pPurgeAll": {
+      "message": "Slet alle cacher"
+   },
+   "3pUpdateNow": {
+      "message": "Opdater nu"
+   },
+   "3pUpdating": {
+      "message": "Opdaterer..."
+   },
+   "aboutBackupDataButton": {
+      "message": "Sikkerhedskopiér til fil"
+   },
+   "aboutBackupFilename": {
+      "message": "CCleaner Anti-Tracking-backup_{{datetime}}.txt"
+   },
+   "aboutChangelog": {
+      "message": "Ændringslog"
+   },
+   "aboutCode": {
+      "message": "Kildekode (GPLv3)"
+   },
+   "aboutContributors": {
+      "message": "Bidragydere"
+   },
+   "aboutDependencies": {
+      "message": "Eksterne afhængigheder (GPLv3-kompatibel):"
+   },
+   "aboutIssues": {
+      "message": "Problemsporing"
+   },
+   "aboutPageName": {
+      "message": "Om"
+   },
+   "aboutResetDataButton": {
+      "message": "Nulstil til standardindstillinger..."
+   },
+   "aboutResetDataConfirm": {
+      "message": "Alle dine indstillinger fjernes, og CCleaner Anti-Tracking genstartes.\n\nNulstil CCleaner Anti-Tracking til fabriksindstillinger?"
+   },
+   "aboutRestoreDataButton": {
+      "message": "Gendan fra fil..."
+   },
+   "aboutRestoreDataConfirm": {
+      "message": "Alle dine indstillinger overskrives med data, der blev sikkerhedskopieret {{time}}, og CCleaner Anti-Tracking genstartes.\n\nOverskriv alle eksisterende indstillinger med sikkerhedskopierede data?"
+   },
+   "aboutRestoreDataError": {
+      "message": "Dataene kunne ikke læses eller er ugyldige"
+   },
+   "aboutSupport": {
+      "message": "Support"
+   },
+   "aboutWiki": {
+      "message": "Wiki"
+   },
+   "advancedSettingsPageName": {
+      "message": "Avancerede indstillinger"
+   },
+   "advancedSettingsWarning": {
+      "message": "Advarsel! Skift disse avancerede indstillinger på eget ansvar."
+   },
+   "assetViewerPageName": {
+      "message": "uBlock-aktivfremviser"
+   },
+   "cloudDeviceNamePrompt": {
+      "message": "Denne enheds navn:"
+   },
+   "cloudPull": {
+      "message": "Importér fra cloudlager"
+   },
+   "cloudPullAndMerge": {
+      "message": "Importér fra cloudlager, og flet med nuværende indstillinger"
+   },
+   "cloudPush": {
+      "message": "Eksportér til cloudlager"
+   },
+   "contextMenuTemporarilyAllowLargeMediaElements": {
+      "message": "Tillad midlertidigt store medieelementer"
+   },
+   "dashboardName": {
+      "message": "#titel# – dashboard"
+   },
+   "docblockedBack": {
+      "message": "Gå tilbage"
+   },
+   "docblockedClose": {
+      "message": "Luk dette vindue"
+   },
+   "docblockedDisablePermanent": {
+      "message": "Permanent"
+   },
+   "docblockedDisableTemporary": {
+      "message": "Midlertidigt"
+   },
+   "docblockedFoundIn": {
+      "message": "Fundet i:"
+   },
+   "docblockedNoParamsPrompt": {
+      "message": "uden parametre"
+   },
+   "docblockedProceed": {
+      "message": "Deaktiver streng blokering for {{hostname}}"
+   },
+   "docblockedPrompt1": {
+      "message": "CCleaner Anti-Tracking har forhindret følgende side i at blive indlæst:"
+   },
+   "docblockedPrompt2": {
+      "message": "På grund af følgende filter"
+   },
+   "dummy": {
+      "message": "Denne post skal være den sidste"
+   },
+   "elapsedManyDaysAgo": {
+      "message": "{{value}} dage siden"
+   },
+   "elapsedManyHoursAgo": {
+      "message": "{{value}} timer siden"
+   },
+   "elapsedManyMinutesAgo": {
+      "message": "{{value}} minutter siden"
+   },
+   "elapsedOneDayAgo": {
+      "message": "en dag siden"
+   },
+   "elapsedOneHourAgo": {
+      "message": "en time siden"
+   },
+   "elapsedOneMinuteAgo": {
+      "message": "et minut siden"
+   },
+   "errorCantConnectTo": {
+      "message": "Netværksfejl: {{msg}}"
+   },
+   "extShortDesc": {
+      "message": "Blokerer indtrængende webtrackere."
+   },
+   "extra1pPageNameDesc": {
+      "message": "Administrer dine brugerdefinerede filtre"
+   },
+   "extra3pPageNameDesc": {
+      "message": "Tredjepartsfiltre til trackere og fortrolighed"
+   },
+   "extraAddFilter": {
+      "message": "Tilføj filter"
+   },
+   "extraAddRrule": {
+      "message": "Tilføj midlertidig regel"
+   },
+   "extraAddSetting": {
+      "message": "Tilføj indstilling"
+   },
+   "extraAddSite": {
+      "message": "Tilføj websted"
+   },
+   "extraAdsFilters": {
+      "message": "Reklamefiltre"
+   },
+   "extraAdvancedUserSettings": {
+      "message": "Avancerede brugerindstillinger"
+   },
+   "extraAllowOnSites": {
+      "message": "Tillad trackere på disse websteder"
+   },
+   "extraBlockMediaElementsLargerThan": {
+      "message": "Bloker medieelementer, der er større end"
+   },
+   "extraBtnAdd": {
+      "message": "tilføj"
+   },
+   "extraBtnCancel": {
+      "message": "annuller"
+   },
+   "extraBtnEdit": {
+      "message": "Rediger"
+   },
+   "extraBtnExport": {
+      "message": "eksportér"
+   },
+   "extraBtnImport": {
+      "message": "importér"
+   },
+   "extraBtnRemove": {
+      "message": "Fjern"
+   },
+   "extraBtnUpdateAll": {
+      "message": "opdater alle"
+   },
+   "extraDefaultBehaviour": {
+      "message": "Standardadfærd"
+   },
+   "extraEditFilter": {
+      "message": "Rediger filter"
+   },
+   "extraEditRule": {
+      "message": "Rediger midlertidig regel"
+   },
+   "extraEditSetting": {
+      "message": "Rediger indstilling"
+   },
+   "extraEditSite": {
+      "message": "Rediger websted"
+   },
+   "extraGeneralSettings": {
+      "message": "Generelle indstillinger"
+   },
+   "extraGeneralSettingsDesc": {
+      "message": "Administrer, hvilke oplysninger CCleaner Anti-Tracking viser"
+   },
+   "extraIndexDescription": {
+      "message": "Bloker trackere for at browse hurtigere og sikrere"
+   },
+   "extraIndexFooter": {
+      "message": "Powered by uBlock Origin."
+   },
+   "extraIndexHeader": {
+      "message": "Avancerede indstillinger for CCleaner Anti-Tracking"
+   },
+   "extraInterstitialBlocking": {
+      "message": "Aktivér blokering af uønskede elementer"
+   },
+   "extraLabelFilter": {
+      "message": "Filter"
+   },
+   "extraLearnMore": {
+      "message": "Se mere"
+   },
+   "extraManageFilters": {
+      "message": "Administrer filtre"
+   },
+   "extraMyCustomFilter": {
+      "message": "Mine brugerdefinerede filtre"
+   },
+   "extraPrivacy": {
+      "message": "Fortrolighed"
+   },
+   "extraRule": {
+      "message": "Regel"
+   },
+   "extraRuleDefinition": {
+      "message": "Regeldefinition"
+   },
+   "extraRuleSyntax": {
+      "message": "Regelsyntaks"
+   },
+   "extraRulesPageNameDesc": {
+      "message": "Liste over dine regler for dynamisk filtrering"
+   },
+   "extraSetting": {
+      "message": "Indstilling"
+   },
+   "extraShowMore": {
+      "message": "Vis mere"
+   },
+   "extraSite": {
+      "message": "Websted"
+   },
+   "extraSlider0": {
+      "message": "Bloker ikke reklamer"
+   },
+   "extraSlider100": {
+      "message": "Maksimal reklameblokering"
+   },
+   "extraSlider50": {
+      "message": "Moderat reklameblokering"
+   },
+   "extraSourceDestinationTypeAction": {
+      "message": "kilde destination type handling."
+   },
+   "extraWhitelistPageNameDesc": {
+      "message": "Liste over websteder, hvor trackere er tilladt"
+   },
+   "fennecMenuItemBlockingOff": {
+      "message": "fra"
+   },
+   "genericApplyChanges": {
+      "message": "Anvend ændringer"
+   },
+   "genericBytes": {
+      "message": "byte"
+   },
+   "genericCopyToClipboard": {
+      "message": "Kopiér til udklipsholder"
+   },
+   "genericMergeViewScrollLock": {
+      "message": "Slå låst rulning til/fra"
+   },
+   "genericRevert": {
+      "message": "Tilbagefør"
+   },
+   "genericSubmit": {
+      "message": "Send"
+   },
+   "logAll": {
+      "message": "Alle"
+   },
+   "logBehindTheScene": {
+      "message": "Bag scenen"
+   },
+   "logFilterPrompt": {
+      "message": "filtrer logposter"
+   },
+   "logMaxEntriesTip": {
+      "message": "Maksimale antal logposter"
+   },
+   "logRequestsHeaderDomain": {
+      "message": "Domæne"
+   },
+   "logRequestsHeaderFilter": {
+      "message": "Filter"
+   },
+   "logRequestsHeaderType": {
+      "message": "Type"
+   },
+   "logRequestsHeaderURL": {
+      "message": "URL"
+   },
+   "loggerClearTip": {
+      "message": "Ryd logger"
+   },
+   "loggerCurrentTab": {
+      "message": "Aktuel fane"
+   },
+   "loggerDomInspectorTip": {
+      "message": "Slå DOM-inspektør til/fra"
+   },
+   "loggerEntryDetailsContext": {
+      "message": "Kontekst"
+   },
+   "loggerEntryDetailsFilter": {
+      "message": "Filter"
+   },
+   "loggerEntryDetailsFilterList": {
+      "message": "Filterliste"
+   },
+   "loggerEntryDetailsHeader": {
+      "message": "Detaljer"
+   },
+   "loggerEntryDetailsPartyness": {
+      "message": "Partrelation"
+   },
+   "loggerEntryDetailsRootContext": {
+      "message": "Rodkontekst"
+   },
+   "loggerEntryDetailsRule": {
+      "message": "Regel"
+   },
+   "loggerEntryDetailsType": {
+      "message": "Type"
+   },
+   "loggerEntryDetailsURL": {
+      "message": "URL"
+   },
+   "loggerExportEncodeMarkdown": {
+      "message": "Nedmærkning"
+   },
+   "loggerExportEncodePlain": {
+      "message": "Almindelig"
+   },
+   "loggerExportFormatList": {
+      "message": "Liste"
+   },
+   "loggerExportFormatTable": {
+      "message": "Tabel"
+   },
+   "loggerInfoTip": {
+      "message": "Wiki om uBlock-oprindelse: loggeren"
+   },
+   "loggerPauseTip": {
+      "message": "Sæt logger på pause (kassér alle indgående data)"
+   },
+   "loggerPopupPanelTip": {
+      "message": "Slå panel til pop op-beskeder til/fra"
+   },
+   "loggerReloadTip": {
+      "message": "Genindlæs faneindhold"
+   },
+   "loggerRowFiltererBuiltin1p": {
+      "message": "førstepart"
+   },
+   "loggerRowFiltererBuiltin3p": {
+      "message": "tredjepart"
+   },
+   "loggerRowFiltererBuiltinAllowed": {
+      "message": "tilladt"
+   },
+   "loggerRowFiltererBuiltinBlocked": {
+      "message": "blokeret"
+   },
+   "loggerRowFiltererBuiltinEventful": {
+      "message": "med hændelser"
+   },
+   "loggerRowFiltererBuiltinNot": {
+      "message": "Ikke"
+   },
+   "loggerRowFiltererBuiltinTip": {
+      "message": "Indstillinger for loggerfiltrering"
+   },
+   "loggerRowFiltererButtonTip": {
+      "message": "Slå loggerfiltrering til/fra"
+   },
+   "loggerSettingDiscardPrompt": {
+      "message": "Loggerposter, der ikke opfylder alle tre betingelser herunder, kasseres automatisk:"
+   },
+   "loggerSettingHideColumnContext": {
+      "message": "{{input}} kontekst"
+   },
+   "loggerSettingHideColumnFilter": {
+      "message": "{{input}} filter/regel"
+   },
+   "loggerSettingHideColumnPartyness": {
+      "message": "{{input}}-partrelation"
+   },
+   "loggerSettingHideColumnTime": {
+      "message": "{{input}} tidspunkt"
+   },
+   "loggerSettingHideColumnsPrompt": {
+      "message": "Skjul kolonner:"
+   },
+   "loggerSettingPerEntryLineCount": {
+      "message": "Brug {{input}} linjer pr. post i tilstand med lodret udvidelse"
+   },
+   "loggerSettingPerEntryMaxAge": {
+      "message": "Bevar poster fra de seneste {{input}} minutter"
+   },
+   "loggerSettingPerTabMaxEntries": {
+      "message": "Bevar højst {{input}} poster pr. fane"
+   },
+   "loggerSettingPerTabMaxLoads": {
+      "message": "Bevar højst {{input}} sideindlæsninger pr. fane"
+   },
+   "loggerStaticFilteringFinderSentence1": {
+      "message": "Statisk filter \u003Ccode>{{filter}}\u003C/code> fundet i:"
+   },
+   "loggerStaticFilteringFinderSentence2": {
+      "message": "Statisk filter \u003Ccode>{{filter}}\u003C/code> kunne ikke findes i nogen af de filterlister, der er aktiveret i øjeblikket"
+   },
+   "loggerStaticFilteringHeader": {
+      "message": "Statisk filtrering"
+   },
+   "loggerStaticFilteringSentence": {
+      "message": "{{action}}-netværksanmodninger for {{type}}, {{br}}hvis URL-adresse matcher {{url}}, {{br}}og hvis oprindelse er {{origin}},{{br}}{{importance}}, vil have et matchende undtagelsesfilter."
+   },
+   "loggerStaticFilteringSentencePartAllow": {
+      "message": "Tillad"
+   },
+   "loggerStaticFilteringSentencePartAnyOrigin": {
+      "message": "fra hvor som helst"
+   },
+   "loggerStaticFilteringSentencePartAnyType": {
+      "message": "enhver type"
+   },
+   "loggerStaticFilteringSentencePartBlock": {
+      "message": "Blokér"
+   },
+   "loggerStaticFilteringSentencePartImportant": {
+      "message": "selv hvis"
+   },
+   "loggerStaticFilteringSentencePartNotImportant": {
+      "message": "undtagen når"
+   },
+   "loggerStaticFilteringSentencePartOrigin": {
+      "message": "fra ?{{origin}}?"
+   },
+   "loggerStaticFilteringSentencePartType": {
+      "message": "type ?{{type}}?"
+   },
+   "loggerURLFilteringContextLabel": {
+      "message": "Kontekst:"
+   },
+   "loggerURLFilteringHeader": {
+      "message": "Dynamisk URL-filtrering"
+   },
+   "loggerURLFilteringTypeLabel": {
+      "message": "Type:"
+   },
+   "loggerUnpauseTip": {
+      "message": "Annuller pause af logger"
+   },
+   "pickerContextMenuEntry": {
+      "message": "Bloker element"
+   },
+   "pickerCosmeticFilters": {
+      "message": "Kosmetiske filtre"
+   },
+   "pickerCosmeticFiltersHint": {
+      "message": "Klik, ctrl-klik"
+   },
+   "pickerCreate": {
+      "message": "Opret"
+   },
+   "pickerNetFilters": {
+      "message": "Netværksfiltre"
+   },
+   "pickerPick": {
+      "message": "Vælg"
+   },
+   "pickerPreview": {
+      "message": "Vis"
+   },
+   "pickerQuit": {
+      "message": "Afslut"
+   },
+   "popup1pScriptRulePrompt": {
+      "message": "førstepartsscripts"
+   },
+   "popup3pAnyRulePrompt": {
+      "message": "tredjepart"
+   },
+   "popup3pFrameRulePrompt": {
+      "message": "tredjepartsframes"
+   },
+   "popup3pPassiveRulePrompt": {
+      "message": "tredjeparts-css/billeder"
+   },
+   "popup3pScriptRulePrompt": {
+      "message": "tredjepartsscripts"
+   },
+   "popupAdvancedSettings": {
+      "message": "Avancerede indstillinger"
+   },
+   "popupAnyRulePrompt": {
+      "message": "alle"
+   },
+   "popupExtraAdsAllowedOnSites": {
+      "message": "Trackere tillades på dette websted"
+   },
+   "popupExtraAdsBlockedOnPage": {
+      "message": "Blokerede trackere på denne side"
+   },
+   "popupExtraAdsBlockedOnSites": {
+      "message": "Trackere blokeres på dette websted"
+   },
+   "popupExtraAdsBlockedTotal": {
+      "message": "Blokerede trackere i alt"
+   },
+   "popupExtraLessOptions": {
+      "message": "Færre indstillinger"
+   },
+   "popupExtraListAllowedSites": {
+      "message": "Liste over tilladte websteder"
+   },
+   "popupExtraMoreInformation": {
+      "message": "Flere oplysninger"
+   },
+   "popupExtraMoreOptions": {
+      "message": "Flere indstillinger"
+   },
+   "popupExtraNoSitesAddedYet": {
+      "message": "Ingen websteder tilføjet endnu"
+   },
+   "popupExtraProtectionCanNotEnabled": {
+      "message": "Beskyttelse på dette websted kan ikke aktiveres"
+   },
+   "popupExtraProtectionDisabledForSession": {
+      "message": "Beskyttelse til denne session kan ikke aktiveres"
+   },
+   "popupExtraSeeListAllowedSites": {
+      "message": "Se listen over tilladte websteder"
+   },
+   "popupHitDomainCount": {
+      "message": "{{count}} ud af {{total}}"
+   },
+   "popupHitDomainCountPrompt": {
+      "message": "domæner tilsluttet"
+   },
+   "popupImageRulePrompt": {
+      "message": "billeder"
+   },
+   "popupInlineScriptRulePrompt": {
+      "message": "integrerede scripts"
+   },
+   "popupTipDashboard": {
+      "message": "Åbn dashboardet"
+   },
+   "popupTipGlobalRules": {
+      "message": "Globale regler: Denne kolonne er til regler, der gælder for alle websteder."
+   },
+   "popupTipLocalRules": {
+      "message": "Lokale regler: Denne kolonne er til regler, der kun gælder for det aktuelle websted.\nLokale regler tilsidesætter globale regler."
+   },
+   "popupTipLog": {
+      "message": "Åbn loggeren"
+   },
+   "popupTipNoCosmeticFiltering": {
+      "message": "Slå kosmetisk filtrering til/fra for dette websted"
+   },
+   "popupTipNoCosmeticFiltering1": {
+      "message": "Klik for at deaktivere kosmetisk filtrering på dette websted"
+   },
+   "popupTipNoCosmeticFiltering2": {
+      "message": "Klik for at aktivere kosmetisk filtrering på dette websted"
+   },
+   "popupTipNoLargeMedia": {
+      "message": "Slå blokering af store medieelementer til/fra for dette websted"
+   },
+   "popupTipNoLargeMedia1": {
+      "message": "Klik for at blokere store medieelementer på dette websted"
+   },
+   "popupTipNoLargeMedia2": {
+      "message": "Klik for ikke længere at blokere store medieelementer på dette websted"
+   },
+   "popupTipNoPopups": {
+      "message": "Slå blokering af alle pop pop-beskeder til/fra for dette websted"
+   },
+   "popupTipNoPopups1": {
+      "message": "Klik for at blokere alle pop op-beskeder på dette websted"
+   },
+   "popupTipNoPopups2": {
+      "message": "Klik, hvis du ikke længere vil blokere alle pop op-beskeder på dette websted"
+   },
+   "popupTipNoRemoteFonts": {
+      "message": "Slå blokering af fjernskrifttyper til/fra for dette websted"
+   },
+   "popupTipNoRemoteFonts1": {
+      "message": "Klik for at blokere fjernskrifttyper på dette websted"
+   },
+   "popupTipNoRemoteFonts2": {
+      "message": "Klik for ikke længere at blokere fjernskrifttyper på dette websted"
+   },
+   "popupTipNoScripting1": {
+      "message": "Klik for at deaktivere JavaScript på dette websted"
+   },
+   "popupTipNoScripting2": {
+      "message": "Klik for ikke længere at deaktivere JavaScript på dette websted"
+   },
+   "popupTipPicker": {
+      "message": "Aktivér elementvælgertilstand"
+   },
+   "popupTipRevertRules": {
+      "message": "Klik for at tilbageføre dine ændringer."
+   },
+   "popupTipSaveRules": {
+      "message": "Klik for at gøre dine ændringer permanente."
+   },
+   "popupTipZapper": {
+      "message": "Aktivér elementzappertilstand"
+   },
+   "rulesCommit": {
+      "message": "Bekræft"
+   },
+   "rulesEdit": {
+      "message": "Rediger"
+   },
+   "rulesEditDiscard": {
+      "message": "Annuller"
+   },
+   "rulesEditSave": {
+      "message": "Gem"
+   },
+   "rulesExport": {
+      "message": "Eksportér til fil"
+   },
+   "rulesFormatHint": {
+      "message": "Regelsyntaks: \u003Ccode>kilde-/destinationstypehandling\u003C/code> (\u003Ca href='https://github.com/gorhill/uBlock/wiki/Dynamic-filtering:-rule-syntax'>fuld dokumentation\u003C/a>)."
+   },
+   "rulesHint": {
+      "message": "Liste over dine regler for dynamisk filtrering."
+   },
+   "rulesImport": {
+      "message": "Importér fra fil..."
+   },
+   "rulesPageName": {
+      "message": "Mine regler"
+   },
+   "rulesPermanentHeader": {
+      "message": "Permanente regler"
+   },
+   "rulesRevert": {
+      "message": "Tilbagefør"
+   },
+   "rulesTemporaryHeader": {
+      "message": "Midlertidige regler"
+   },
+   "settingPerSiteSwitchGroup": {
+      "message": "Standardadfærd"
+   },
+   "settingPerSiteSwitchGroupSynopsis": {
+      "message": "Denne standardadfærd kan overskrives på webstedsbasis"
+   },
+   "settingsAdvancedUserPrompt": {
+      "message": "Jeg er en erfaren bruger (\u003Ca href='https://github.com/gorhill/uBlock/wiki/Advanced-user-features'>påkrævet læsning\u003C/a>)"
+   },
+   "settingsAdvancedUserSettings": {
+      "message": "avancerede indstillinger"
+   },
+   "settingsCloudStorageEnabledPrompt": {
+      "message": "Aktivér understøttelse af cloudlager"
+   },
+   "settingsCollapseBlockedPrompt": {
+      "message": "Skjul pladsholdere for blokerede elementer"
+   },
+   "settingsColorBlindPrompt": {
+      "message": "Farveblindvenlig"
+   },
+   "settingsContextMenuPrompt": {
+      "message": "Brug genvejsmenuen, hvor det er relevant"
+   },
+   "settingsHyperlinkAuditingDisabledPrompt": {
+      "message": "Deaktiver hyperlinkovervågning"
+   },
+   "settingsIconBadgePrompt": {
+      "message": "Vis antallet af blokerede anmodninger på ikonet"
+   },
+   "settingsLastBackupPrompt": {
+      "message": "Seneste sikkerhedskopi:"
+   },
+   "settingsLastRestorePrompt": {
+      "message": "Seneste gendannelse:"
+   },
+   "settingsNoCSPReportsPrompt": {
+      "message": "Bloker CSP-rapporter"
+   },
+   "settingsNoCosmeticFilteringPrompt": {
+      "message": "Deaktiver kosmetisk filtrering"
+   },
+   "settingsNoLargeMediaPrompt": {
+      "message": "Blokér medieelementer, der er større end {{input:number}} KB"
+   },
+   "settingsNoRemoteFontsPrompt": {
+      "message": "Bloker fjernskrifttyper"
+   },
+   "settingsNoScriptingPrompt": {
+      "message": "Deaktiver JavaScript"
+   },
+   "settingsPageName": {
+      "message": "Indstillinger"
+   },
+   "settingsPrefetchingDisabledPrompt": {
+      "message": "Deaktiver præ-hentning (for at forhindre en forbindelse i at blokere netværksanmodninger)"
+   },
+   "settingsStorageUsed": {
+      "message": "Lager brugt: {{value}} byte"
+   },
+   "settingsTooltipsPrompt": {
+      "message": "Deaktiver værktøjstips"
+   },
+   "settingsWebRTCIPAddressHiddenPrompt": {
+      "message": "Undgå, at WebRTC lækker lokale IP-adresser"
+   },
+   "shortcutCapturePlaceholder": {
+      "message": "Skriv en genvej"
+   },
+   "shortcutsPageName": {
+      "message": "Genveje"
+   },
+   "showDashboardButton": {
+      "message": "Vis dashboard"
+   },
+   "showNetworkLogButton": {
+      "message": "Vis logger"
+   },
+   "statsPageName": {
+      "message": "#titel# – logger"
+   },
+   "subscriberConfirm": {
+      "message": "CCleaner Anti-Tracking: Føj følgende URL til dine brugerdefinerede filterlister?\n\nTitel: \"{{title}}\"\nURL: {{url}}"
+   },
+   "whitelistApply": {
+      "message": "Anvend ændringer"
+   },
+   "whitelistExport": {
+      "message": "Eksportér"
+   },
+   "whitelistExportFilename": {
+      "message": "CCleaner Anti-Tracking-whitelist_{{datetime}}.txt"
+   },
+   "whitelistImport": {
+      "message": "Importér og tilføj"
+   },
+   "whitelistPageName": {
+      "message": "Tilladelsesliste"
+   },
+   "whitelistPrompt": {
+      "message": "Hvidlistedirektiverne dikterer, på hvilke websider CCleaner Anti-Tracking skal deaktiveres. Én post per linje. Ugyldige direktiver ignoreres diskret og udkommenteres."
+   }
+}

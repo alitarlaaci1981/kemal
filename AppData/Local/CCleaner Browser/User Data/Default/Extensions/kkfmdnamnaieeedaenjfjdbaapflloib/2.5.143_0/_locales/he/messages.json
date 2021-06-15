@@ -1,0 +1,117 @@
+{
+   "appDesc": {
+      "message": "הורד סרטונים לצפייה לא מקוונת"
+   },
+   "appName": {
+      "message": "מוריד סרטוני וידאו"
+   },
+   "barDetachBtn": {
+      "description": "The Detach button text as visible on the floating bar",
+      "message": "נתק"
+   },
+   "barDownloadBtn": {
+      "description": "The Download button text as visible on the floating bar",
+      "message": "הורד"
+   },
+   "barMediaBtn": {
+      "description": "The Media button text as visible on the floating bar",
+      "message": "מדיה"
+   },
+   "barQualityAudio": {
+      "description": "Audio title",
+      "message": "שמע"
+   },
+   "barQualityVideo": {
+      "description": "Video title",
+      "message": "סרטון"
+   },
+   "barSettingsAbout": {
+      "description": "About Button in settings popup",
+      "message": "מידע נוסף"
+   },
+   "barSettingsBtn": {
+      "description": "The Settings button text as visible on the floating bar",
+      "message": "הגדרות"
+   },
+   "barSettingsDescription": {
+      "description": "Video download feature description in settings popup",
+      "message": "מופעל על ידי CCleaner Secure Browser"
+   },
+   "barSettingsDoNotShow": {
+      "description": "Button in settings popup disabling video-downloader",
+      "message": "אל תציג זאת שוב"
+   },
+   "barSettingsDoNotShowForSite": {
+      "description": "Button in settings popup disabling video-downloader for exact site",
+      "message": "אל תציג זאת שוב באתר הזה"
+   },
+   "barSettingsTitle": {
+      "description": "Settings popup title in the floating bar",
+      "message": "הגדרות"
+   },
+   "eulaContinue": {
+      "description": "EUlA continue button",
+      "message": "המשך"
+   },
+   "eulaText": {
+      "description": "EULA message displayed to the user",
+      "message": "קבלת \u003Cdiv>\u003Ca target='blank' href='$link$'>הסכם הרישיון למשתמשי קצה\u003C/a>\u003C/div> היא אישור והסכמה לכך שבאחריותך להשתמש ב'מוריד סרטוני וידאו' בהתאם לחוקי זכויות היוצרים הרלוונטיים ולתנאי השימוש של כל אתר.",
+      "placeholders": {
+         "link": {
+            "content": "$1"
+         }
+      }
+   },
+   "eulaTitle": {
+      "description": "EULA popup title",
+      "message": "לפני ההורדה"
+   },
+   "eulaUnderstandAccept": {
+      "description": "EULA user agreement checkbox text",
+      "message": "אני מבין ומקבל את הסכם הרישיון למשתמשי קצה"
+   },
+   "extensionName": {
+      "description": "Name shown in the extension button in SZB Control Center.",
+      "message": "מוריד סרטוני וידאו"
+   },
+   "extensionTitle": {
+      "description": "Title shown on hover over the extension button in SZB Control Center.",
+      "message": "הורד סרטונים לצפייה לא מקוונת."
+   },
+   "optionUnknownSize": {
+      "description": "Videa or audio download option of unknown size",
+      "message": "גודל לא ידוע"
+   },
+   "popupAudioHeading": {
+      "description": "The heading of the audio section in the media popup list",
+      "message": "שמע"
+   },
+   "popupDisabledFor": {
+      "description": "Page was disabled for video downloader",
+      "message": "'מוריד סרטוני וידאו' מושבת עבור"
+   },
+   "popupDownloadBtn": {
+      "description": "The Download button text as visible in the media popup list",
+      "message": "הורד"
+   },
+   "popupEnable": {
+      "description": "Enable video downloader for current page",
+      "message": "הפעל"
+   },
+   "popupNoVideos": {
+      "description": "Page does not contain any videos",
+      "message": "אין סרטונים להורדה בדף הזה"
+   },
+   "popupNoVideos_v2": {
+      "description": "",
+      "message": "כדי להוריד סרטון, עבור אל דף הפרטים שלו."
+   },
+   "popupVideoHeading": {
+      "description": "The heading of the video section in the media popup list",
+      "message": "סרטון"
+   },
+   "reattachBtn": {
+      "description": "The Reattach button text as visible on the detached video page",
+      "message": "חבר מחדש"
+   }
+}

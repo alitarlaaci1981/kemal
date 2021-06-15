@@ -1,0 +1,117 @@
+{
+   "appDesc": {
+      "message": "Скачивание видео для автономного просмотра"
+   },
+   "appName": {
+      "message": "Скачивание видео"
+   },
+   "barDetachBtn": {
+      "description": "The Detach button text as visible on the floating bar",
+      "message": "Отсоединить"
+   },
+   "barDownloadBtn": {
+      "description": "The Download button text as visible on the floating bar",
+      "message": "Скачать"
+   },
+   "barMediaBtn": {
+      "description": "The Media button text as visible on the floating bar",
+      "message": "Мультимедиа"
+   },
+   "barQualityAudio": {
+      "description": "Audio title",
+      "message": "Аудио"
+   },
+   "barQualityVideo": {
+      "description": "Video title",
+      "message": "Видео"
+   },
+   "barSettingsAbout": {
+      "description": "About Button in settings popup",
+      "message": "Подробнее"
+   },
+   "barSettingsBtn": {
+      "description": "The Settings button text as visible on the floating bar",
+      "message": "Настройки"
+   },
+   "barSettingsDescription": {
+      "description": "Video download feature description in settings popup",
+      "message": "На платформе CCleaner Secure Browser"
+   },
+   "barSettingsDoNotShow": {
+      "description": "Button in settings popup disabling video-downloader",
+      "message": "Больше не показывать"
+   },
+   "barSettingsDoNotShowForSite": {
+      "description": "Button in settings popup disabling video-downloader for exact site",
+      "message": "Не показывать на этом сайте"
+   },
+   "barSettingsTitle": {
+      "description": "Settings popup title in the floating bar",
+      "message": "Настройки"
+   },
+   "eulaContinue": {
+      "description": "EUlA continue button",
+      "message": "Продолжить"
+   },
+   "eulaText": {
+      "description": "EULA message displayed to the user",
+      "message": "Принимая условия нашего \u003Cdiv>\u003Ca target='blank' href='$link$'>Лицензионного соглашения с пользователем\u003C/a>\u003C/div> (EULA), вы признаете и соглашаетесь, что несете ответственность за использование функции «Скачивание видео» в соответствии с применимыми законами об авторском праве и условиями использования любого веб-сайта.",
+      "placeholders": {
+         "link": {
+            "content": "$1"
+         }
+      }
+   },
+   "eulaTitle": {
+      "description": "EULA popup title",
+      "message": "Перед скачиванием"
+   },
+   "eulaUnderstandAccept": {
+      "description": "EULA user agreement checkbox text",
+      "message": "Я понимаю и принимаю условия Лицензионного соглашения с пользователем"
+   },
+   "extensionName": {
+      "description": "Name shown in the extension button in SZB Control Center.",
+      "message": "Скачивание видео"
+   },
+   "extensionTitle": {
+      "description": "Title shown on hover over the extension button in SZB Control Center.",
+      "message": "Скачивание видео для автономного просмотра."
+   },
+   "optionUnknownSize": {
+      "description": "Videa or audio download option of unknown size",
+      "message": "неизвестный размер"
+   },
+   "popupAudioHeading": {
+      "description": "The heading of the audio section in the media popup list",
+      "message": "Аудио"
+   },
+   "popupDisabledFor": {
+      "description": "Page was disabled for video downloader",
+      "message": "Скачивание видео отключено для"
+   },
+   "popupDownloadBtn": {
+      "description": "The Download button text as visible in the media popup list",
+      "message": "Скачать"
+   },
+   "popupEnable": {
+      "description": "Enable video downloader for current page",
+      "message": "Включить"
+   },
+   "popupNoVideos": {
+      "description": "Page does not contain any videos",
+      "message": "На этой странице нет видео для скачивания"
+   },
+   "popupNoVideos_v2": {
+      "description": "",
+      "message": "Чтобы скачать видео, откройте страницу с данными о нем."
+   },
+   "popupVideoHeading": {
+      "description": "The heading of the video section in the media popup list",
+      "message": "Видео"
+   },
+   "reattachBtn": {
+      "description": "The Reattach button text as visible on the detached video page",
+      "message": "Присоединить"
+   }
+}

@@ -1,0 +1,117 @@
+{
+   "appDesc": {
+      "message": "オフライン視聴用にビデオをダウンロードします"
+   },
+   "appName": {
+      "message": "ビデオ ダウンローダー"
+   },
+   "barDetachBtn": {
+      "description": "The Detach button text as visible on the floating bar",
+      "message": "分離"
+   },
+   "barDownloadBtn": {
+      "description": "The Download button text as visible on the floating bar",
+      "message": "ダウンロード"
+   },
+   "barMediaBtn": {
+      "description": "The Media button text as visible on the floating bar",
+      "message": "メディア"
+   },
+   "barQualityAudio": {
+      "description": "Audio title",
+      "message": "オーディオ"
+   },
+   "barQualityVideo": {
+      "description": "Video title",
+      "message": "ビデオ"
+   },
+   "barSettingsAbout": {
+      "description": "About Button in settings popup",
+      "message": "詳細な情報"
+   },
+   "barSettingsBtn": {
+      "description": "The Settings button text as visible on the floating bar",
+      "message": "設定"
+   },
+   "barSettingsDescription": {
+      "description": "Video download feature description in settings popup",
+      "message": "CCleaner セキュア ブラウザ付属機能"
+   },
+   "barSettingsDoNotShow": {
+      "description": "Button in settings popup disabling video-downloader",
+      "message": "次回から表示しない"
+   },
+   "barSettingsDoNotShowForSite": {
+      "description": "Button in settings popup disabling video-downloader for exact site",
+      "message": "今後このサイトでは表示しない"
+   },
+   "barSettingsTitle": {
+      "description": "Settings popup title in the floating bar",
+      "message": "設定"
+   },
+   "eulaContinue": {
+      "description": "EUlA continue button",
+      "message": "続行"
+   },
+   "eulaText": {
+      "description": "EULA message displayed to the user",
+      "message": "アバストの\u003Cdiv>\u003Ca target='blank' href='$link$'>使用許諾条項\u003C/a>\u003C/div>（EULA）に承諾することで、ユーザーはビデオ ダウンローダーの使用にあたり、対象となる著作権およびすべてのウェブサイトの利用規約に準拠する責任を理解し同意するものとします。",
+      "placeholders": {
+         "link": {
+            "content": "$1"
+         }
+      }
+   },
+   "eulaTitle": {
+      "description": "EULA popup title",
+      "message": "ダウンロードする前にお読みください"
+   },
+   "eulaUnderstandAccept": {
+      "description": "EULA user agreement checkbox text",
+      "message": "EULA を理解し同意します"
+   },
+   "extensionName": {
+      "description": "Name shown in the extension button in SZB Control Center.",
+      "message": "ビデオ ダウンローダー"
+   },
+   "extensionTitle": {
+      "description": "Title shown on hover over the extension button in SZB Control Center.",
+      "message": "オフライン視聴用にビデオをダウンロードします。"
+   },
+   "optionUnknownSize": {
+      "description": "Videa or audio download option of unknown size",
+      "message": "サイズ不明"
+   },
+   "popupAudioHeading": {
+      "description": "The heading of the audio section in the media popup list",
+      "message": "オーディオ"
+   },
+   "popupDisabledFor": {
+      "description": "Page was disabled for video downloader",
+      "message": "ビデオ ダウンローダーは次のページでは無効です："
+   },
+   "popupDownloadBtn": {
+      "description": "The Download button text as visible in the media popup list",
+      "message": "ダウンロード"
+   },
+   "popupEnable": {
+      "description": "Enable video downloader for current page",
+      "message": "有効にする"
+   },
+   "popupNoVideos": {
+      "description": "Page does not contain any videos",
+      "message": "このページにはダウンロードするビデオがありません"
+   },
+   "popupNoVideos_v2": {
+      "description": "",
+      "message": "ビデオをダウンロードするには、その詳細ページに移動します。"
+   },
+   "popupVideoHeading": {
+      "description": "The heading of the video section in the media popup list",
+      "message": "ビデオ"
+   },
+   "reattachBtn": {
+      "description": "The Reattach button text as visible on the detached video page",
+      "message": "再結合"
+   }
+}

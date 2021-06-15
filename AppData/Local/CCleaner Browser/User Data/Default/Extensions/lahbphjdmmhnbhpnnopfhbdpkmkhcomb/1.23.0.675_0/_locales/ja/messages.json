@@ -1,0 +1,860 @@
+{
+   "1pApplyChanges": {
+      "message": "変更を適用"
+   },
+   "1pExport": {
+      "message": "エクスポート"
+   },
+   "1pFormatHint": {
+      "message": "1 行で 1 つのフィルターを規定します。フィルターにはホスト名そのまま、またはアドブロック プラス互換のフィルターを設定できます。「&lsquo;!&rsquo;」で始まる行は無視されます。"
+   },
+   "1pImport": {
+      "message": "インポートして追加"
+   },
+   "1pPageName": {
+      "message": "マイ フィルター"
+   },
+   "3pApplyChanges": {
+      "message": "変更を適用"
+   },
+   "3pAutoUpdatePrompt1": {
+      "message": "フィルター リストを自動的にアップデートします"
+   },
+   "3pExternalListObsolete": {
+      "message": "古くなっています。"
+   },
+   "3pExternalListsHint": {
+      "message": "1 行で 1 件の URL を規定します。「&lsquo;!&rsquo;」で始まる行は無視されます。無効な URL はユーザーが確認しなくても無視されます。"
+   },
+   "3pGroupAds": {
+      "message": "広告"
+   },
+   "3pGroupAnnoyances": {
+      "message": "厄介な問題"
+   },
+   "3pGroupCustom": {
+      "message": "カスタム"
+   },
+   "3pGroupDefault": {
+      "message": "ネットワークおよびコスメティック フィルター"
+   },
+   "3pGroupMalware": {
+      "message": "マルウェア ドメイン"
+   },
+   "3pGroupMultipurpose": {
+      "message": "多目的"
+   },
+   "3pGroupPrivacy": {
+      "message": "プライバシー"
+   },
+   "3pGroupRegions": {
+      "message": "地域、言語"
+   },
+   "3pIgnoreGenericCosmeticFilters": {
+      "message": "一般コスメティック フィルターを無視します"
+   },
+   "3pIgnoreGenericCosmeticFiltersInfo": {
+      "message": "\u003Cp>一般コスメティック フィルターとは、すべてのウェブ サイトに適用することを意図したコスメティック フィルターです。\u003Cp>CCleaner Anti-Tracking で効率的に処理していても、一般コスメティック フィルターを使用することで、大型サイトや老舗サイトなど、一部のウェブ ページではメモリと CPU のオーバーヘッドが大幅に追加されます。\u003Cp>このオプションを有効にすると、一般コスメティック フィルターの処理で、ウェブ ページに加わるメモリと CPU のオーバーヘッドを排除でき、CCleaner Anti-Tracking 自体のメモリ フットプリントを縮小できます。\u003Cp>パワーに制限のあるデバイスでは、このオプションを有効にするようおすすめします。"
+   },
+   "3pImport": {
+      "message": "インポート..."
+   },
+   "3pLastUpdate": {
+      "message": "前回のアップデートは {{ago}} 前です。\n強制的にアップデートする場合はクリックします。"
+   },
+   "3pListsOfBlockedHostsHeader": {
+      "message": "ブロックされたホストのリスト"
+   },
+   "3pListsOfBlockedHostsPerListStats": {
+      "message": "{{used}}/{{total}} が使用済み"
+   },
+   "3pListsOfBlockedHostsPrompt": {
+      "message": "{{netFilterCount}} 件のネットワーク フィルターと{{cosmeticFilterCount}} 件のコスメティック フィルター。場所："
+   },
+   "3pNetworkError": {
+      "message": "ネットワーク エラーが発生し、リソースをアップデートできませんでした。"
+   },
+   "3pPageName": {
+      "message": "サード パーティ製フィルター"
+   },
+   "3pParseAllABPHideFiltersInfo": {
+      "message": "\u003Cp>このオプションでは、\u003Ca href=\"https://adblockplus.org/en/faq_internal#elemhide\">アドブロック プラス互換の&ldquo;要素を非表示にする&rdquo;フィルター\u003C/a>の構文解析と実行を有効にできます。 これらのフィルターは基本的に見た目のフィルターです。ページの外観を損ねたりするウェブ ページ内の要素 (ネット リクエスト ベースのフィルタリング エンジンではブロックできないもの) を非表示にするために使用します。\u003C/p>\u003Cp>この機能を有効にすると、CCleaner Anti-Tracking のメモリ フットプリントが大きくなります。\u003C/p>"
+   },
+   "3pParseAllABPHideFiltersPrompt1": {
+      "message": "コスメティック フィルターの構文解析と実行"
+   },
+   "3pPurgeAll": {
+      "message": "キャッシュをすべて削除"
+   },
+   "3pUpdateNow": {
+      "message": "今すぐアップデート"
+   },
+   "3pUpdating": {
+      "message": "アップデートしています..."
+   },
+   "aboutBackupDataButton": {
+      "message": "バック アップ ファイルを作成"
+   },
+   "aboutBackupFilename": {
+      "message": "CCleaner Anti-Tracking-backup_{{datetime}}.txt"
+   },
+   "aboutChangelog": {
+      "message": "ログの変更"
+   },
+   "aboutCode": {
+      "message": "ソース コード（GPLv3）"
+   },
+   "aboutContributors": {
+      "message": "協力者"
+   },
+   "aboutDependencies": {
+      "message": "外部の依存関係（GPLv3 と互換性あり）："
+   },
+   "aboutIssues": {
+      "message": "問題トラッカー"
+   },
+   "aboutPageName": {
+      "message": "情報"
+   },
+   "aboutResetDataButton": {
+      "message": "初期設定にリセット..."
+   },
+   "aboutResetDataConfirm": {
+      "message": "ユーザーの設定がすべて削除され、CCleaner Anti-Tracking が再起動します。\n\nCCleaner Anti-Tracking を出荷時の状態にリセットしますか？"
+   },
+   "aboutRestoreDataButton": {
+      "message": "ファイルから復元..."
+   },
+   "aboutRestoreDataConfirm": {
+      "message": "ユーザーの設定はすべて、 {{time}} に作成されたバック アップ データで上書きされ、CCleaner Anti-Tracking が再起動します。\n\n既存設定をすべてバック アップ データで上書きしますか？"
+   },
+   "aboutRestoreDataError": {
+      "message": "読み取れないか無効なデータです"
+   },
+   "aboutSupport": {
+      "message": "サポート"
+   },
+   "aboutWiki": {
+      "message": "Wiki"
+   },
+   "advancedSettingsPageName": {
+      "message": "詳細設定"
+   },
+   "advancedSettingsWarning": {
+      "message": "警告：これらの詳細設定の変更は、ご自身の責任において行ってください。"
+   },
+   "assetViewerPageName": {
+      "message": "uBlock? ? アセット ビューア"
+   },
+   "cloudDeviceNamePrompt": {
+      "message": "このデバイス名："
+   },
+   "cloudPull": {
+      "message": "クラウド ストレージからインポート"
+   },
+   "cloudPullAndMerge": {
+      "message": "クラウド ストレージからインポートし、現在の設定とマージ"
+   },
+   "cloudPush": {
+      "message": "クラウド ストレージにエクスポート"
+   },
+   "contextMenuTemporarilyAllowLargeMediaElements": {
+      "message": "大容量メディア要素を一時的に許可"
+   },
+   "dashboardName": {
+      "message": "CCleaner Anti-Tracking - ダッシュボード"
+   },
+   "docblockedBack": {
+      "message": "戻る"
+   },
+   "docblockedClose": {
+      "message": "このウィンドウを終了"
+   },
+   "docblockedDisablePermanent": {
+      "message": "無期限"
+   },
+   "docblockedDisableTemporary": {
+      "message": "一時"
+   },
+   "docblockedFoundIn": {
+      "message": "検出場所："
+   },
+   "docblockedNoParamsPrompt": {
+      "message": "パラメーター不適用"
+   },
+   "docblockedProceed": {
+      "message": "{{hostname}} の詳細ブロックを無効化"
+   },
+   "docblockedPrompt1": {
+      "message": "CCleaner Anti-Tracking により次のページの読み込みが阻止されました。"
+   },
+   "docblockedPrompt2": {
+      "message": "理由：次のフィルター"
+   },
+   "dummy": {
+      "message": "このエントリを最終エントリとする必要があります"
+   },
+   "elapsedManyDaysAgo": {
+      "message": "{{value}} 日前"
+   },
+   "elapsedManyHoursAgo": {
+      "message": "{{value}} 時間前"
+   },
+   "elapsedManyMinutesAgo": {
+      "message": "{{value}} 分前"
+   },
+   "elapsedOneDayAgo": {
+      "message": "1 日前"
+   },
+   "elapsedOneHourAgo": {
+      "message": "1 時間前"
+   },
+   "elapsedOneMinuteAgo": {
+      "message": "1 分前"
+   },
+   "errorCantConnectTo": {
+      "message": "ネットワーク エラー：{{msg}}"
+   },
+   "extShortDesc": {
+      "message": "侵入的なウェブ トラッカーをブロックします。"
+   },
+   "extra1pPageNameDesc": {
+      "message": "カスタム フィルターを管理"
+   },
+   "extra3pPageNameDesc": {
+      "message": "サードパーティ製のトラッカーおよびプライバシー フィルター"
+   },
+   "extraAddFilter": {
+      "message": "フィルターを追加"
+   },
+   "extraAddRrule": {
+      "message": "一時的なルールを追加"
+   },
+   "extraAddSetting": {
+      "message": "設定を追加"
+   },
+   "extraAddSite": {
+      "message": "サイトを追加"
+   },
+   "extraAdsFilters": {
+      "message": "フィルターを追加"
+   },
+   "extraAdvancedUserSettings": {
+      "message": "詳細なユーザー設定"
+   },
+   "extraAllowOnSites": {
+      "message": "次のサイトでトラッカーを許可"
+   },
+   "extraBlockMediaElementsLargerThan": {
+      "message": "許可するメディアの最大サイズを指定"
+   },
+   "extraBtnAdd": {
+      "message": "追加"
+   },
+   "extraBtnCancel": {
+      "message": "キャンセル"
+   },
+   "extraBtnEdit": {
+      "message": "編集"
+   },
+   "extraBtnExport": {
+      "message": "エクスポート"
+   },
+   "extraBtnImport": {
+      "message": "インポート"
+   },
+   "extraBtnRemove": {
+      "message": "削除"
+   },
+   "extraBtnUpdateAll": {
+      "message": "すべて更新"
+   },
+   "extraDefaultBehaviour": {
+      "message": "デフォルトの動作"
+   },
+   "extraEditFilter": {
+      "message": "フィルターを編集"
+   },
+   "extraEditRule": {
+      "message": "一時的なルールを編集"
+   },
+   "extraEditSetting": {
+      "message": "設定を編集"
+   },
+   "extraEditSite": {
+      "message": "サイトを編集"
+   },
+   "extraGeneralSettings": {
+      "message": "全般設定"
+   },
+   "extraGeneralSettingsDesc": {
+      "message": "CCleaner Anti-Tracking で表示される情報を管理"
+   },
+   "extraIndexDescription": {
+      "message": "トラッカーをブロックして高速、安全にウェブを閲覧"
+   },
+   "extraIndexFooter": {
+      "message": "Powered by uBlock Origin."
+   },
+   "extraIndexHeader": {
+      "message": "CCleaner Anti-Tracking の詳細設定"
+   },
+   "extraInterstitialBlocking": {
+      "message": "広告ブロックを有効化"
+   },
+   "extraLabelFilter": {
+      "message": "フィルター"
+   },
+   "extraLearnMore": {
+      "message": "詳細"
+   },
+   "extraManageFilters": {
+      "message": "フィルターを管理"
+   },
+   "extraMyCustomFilter": {
+      "message": "カスタム フィルター"
+   },
+   "extraPrivacy": {
+      "message": "プライバシー"
+   },
+   "extraRule": {
+      "message": "ルール"
+   },
+   "extraRuleDefinition": {
+      "message": "ルールの定義"
+   },
+   "extraRuleSyntax": {
+      "message": "ルール構文"
+   },
+   "extraRulesPageNameDesc": {
+      "message": "動的フィルター ルールのリスト"
+   },
+   "extraSetting": {
+      "message": "設定"
+   },
+   "extraShowMore": {
+      "message": "詳細表示"
+   },
+   "extraSite": {
+      "message": "サイト"
+   },
+   "extraSlider0": {
+      "message": "広告をブロックしない"
+   },
+   "extraSlider100": {
+      "message": "最大限の広告ブロック"
+   },
+   "extraSlider50": {
+      "message": "中程度の広告ブロック"
+   },
+   "extraSourceDestinationTypeAction": {
+      "message": "送信元 移動先 タイプ アクション。"
+   },
+   "extraWhitelistPageNameDesc": {
+      "message": "トラッカーを許可するサイトのリスト"
+   },
+   "fennecMenuItemBlockingOff": {
+      "message": "オフ"
+   },
+   "genericApplyChanges": {
+      "message": "変更を適用"
+   },
+   "genericBytes": {
+      "message": "バイト"
+   },
+   "genericCopyToClipboard": {
+      "message": "クリップボードにコピー"
+   },
+   "genericMergeViewScrollLock": {
+      "message": "スクロール ロックを切り替える"
+   },
+   "genericRevert": {
+      "message": "元に戻す"
+   },
+   "genericSubmit": {
+      "message": "送信"
+   },
+   "logAll": {
+      "message": "すべて"
+   },
+   "logBehindTheScene": {
+      "message": "バックグラウンド"
+   },
+   "logFilterPrompt": {
+      "message": "ログ エントリにフィルターを適用します"
+   },
+   "logMaxEntriesTip": {
+      "message": "ログ エントリの最大数"
+   },
+   "logRequestsHeaderDomain": {
+      "message": "ドメイン"
+   },
+   "logRequestsHeaderFilter": {
+      "message": "フィルター"
+   },
+   "logRequestsHeaderType": {
+      "message": "種類"
+   },
+   "logRequestsHeaderURL": {
+      "message": "URL"
+   },
+   "loggerClearTip": {
+      "message": "ロガーを削除"
+   },
+   "loggerCurrentTab": {
+      "message": "現在のタブ"
+   },
+   "loggerDomInspectorTip": {
+      "message": "DOM Inspector を切り替える"
+   },
+   "loggerEntryDetailsContext": {
+      "message": "コンテキスト"
+   },
+   "loggerEntryDetailsFilter": {
+      "message": "フィルター"
+   },
+   "loggerEntryDetailsFilterList": {
+      "message": "フィルター リスト"
+   },
+   "loggerEntryDetailsHeader": {
+      "message": "詳細"
+   },
+   "loggerEntryDetailsPartyness": {
+      "message": "パーティ"
+   },
+   "loggerEntryDetailsRootContext": {
+      "message": "ルート コンテキスト"
+   },
+   "loggerEntryDetailsRule": {
+      "message": "ルール"
+   },
+   "loggerEntryDetailsType": {
+      "message": "種類"
+   },
+   "loggerEntryDetailsURL": {
+      "message": "URL"
+   },
+   "loggerExportEncodeMarkdown": {
+      "message": "マークダウン"
+   },
+   "loggerExportEncodePlain": {
+      "message": "プレーン"
+   },
+   "loggerExportFormatList": {
+      "message": "リスト"
+   },
+   "loggerExportFormatTable": {
+      "message": "テーブル"
+   },
+   "loggerInfoTip": {
+      "message": "uBlock Origin wiki：ロガー"
+   },
+   "loggerPauseTip": {
+      "message": "ロガーを一時停止（受信したデータをすべて破棄）"
+   },
+   "loggerPopupPanelTip": {
+      "message": "ポップアップ パネルを切り替える"
+   },
+   "loggerReloadTip": {
+      "message": "タブ コンテンツを再読み込み"
+   },
+   "loggerRowFiltererBuiltin1p": {
+      "message": "ファースト パーティー"
+   },
+   "loggerRowFiltererBuiltin3p": {
+      "message": "サード パーティー"
+   },
+   "loggerRowFiltererBuiltinAllowed": {
+      "message": "許可済み"
+   },
+   "loggerRowFiltererBuiltinBlocked": {
+      "message": "ブロック済み"
+   },
+   "loggerRowFiltererBuiltinEventful": {
+      "message": "重大"
+   },
+   "loggerRowFiltererBuiltinNot": {
+      "message": "ではない"
+   },
+   "loggerRowFiltererBuiltinTip": {
+      "message": "ロガーのフィルター処理オプション"
+   },
+   "loggerRowFiltererButtonTip": {
+      "message": "フィルター処理を切り替える"
+   },
+   "loggerSettingDiscardPrompt": {
+      "message": "次の 3 つの条件をすべて満たさないロガー エントリは自動的に破棄されます："
+   },
+   "loggerSettingHideColumnContext": {
+      "message": "{{input}} コンテキスト"
+   },
+   "loggerSettingHideColumnFilter": {
+      "message": "{{input}} フィルター／ルール"
+   },
+   "loggerSettingHideColumnPartyness": {
+      "message": "{{input}} パーティ"
+   },
+   "loggerSettingHideColumnTime": {
+      "message": "{{input}} 時間"
+   },
+   "loggerSettingHideColumnsPrompt": {
+      "message": "列を隠す："
+   },
+   "loggerSettingPerEntryLineCount": {
+      "message": "垂直拡張モードでは、1 エントリあたり {{input}} 行を使用"
+   },
+   "loggerSettingPerEntryMaxAge": {
+      "message": "過去 {{input}} 分間のエントリを保持"
+   },
+   "loggerSettingPerTabMaxEntries": {
+      "message": "タブあたり最大 {{input}} 個のエントリを保持"
+   },
+   "loggerSettingPerTabMaxLoads": {
+      "message": "タブあたり最大 {{input}} ページを読み込んで保持"
+   },
+   "loggerStaticFilteringFinderSentence1": {
+      "message": "静的フィルター \u003Ccode>{{filter}}\u003C/code> が次の場所で見つかりました："
+   },
+   "loggerStaticFilteringFinderSentence2": {
+      "message": "静的フィルター \u003Ccode>{{filter}}\u003C/code> が現在有効化されているフィルター リストに見つかりません"
+   },
+   "loggerStaticFilteringHeader": {
+      "message": "静的フィルター処理"
+   },
+   "loggerStaticFilteringSentence": {
+      "message": "URL アドレスが {{url}} {{br}} と一致する {{origin}} からの {{br}} {{type}} のネットワーク要求を {{action}} 。{{br}} {{importance}} 一致条件の例外フィルターが存在する場合。"
+   },
+   "loggerStaticFilteringSentencePartAllow": {
+      "message": "許可"
+   },
+   "loggerStaticFilteringSentencePartAnyOrigin": {
+      "message": "すべて"
+   },
+   "loggerStaticFilteringSentencePartAnyType": {
+      "message": "いずれかの種類"
+   },
+   "loggerStaticFilteringSentencePartBlock": {
+      "message": "ブロック"
+   },
+   "loggerStaticFilteringSentencePartImportant": {
+      "message": "次の場合も同様："
+   },
+   "loggerStaticFilteringSentencePartNotImportant": {
+      "message": "次の場合を除く："
+   },
+   "loggerStaticFilteringSentencePartOrigin": {
+      "message": "?{{origin}}?"
+   },
+   "loggerStaticFilteringSentencePartType": {
+      "message": "種類 ?{{type}}?"
+   },
+   "loggerURLFilteringContextLabel": {
+      "message": "コンテキスト："
+   },
+   "loggerURLFilteringHeader": {
+      "message": "動的 URL フィルター処理"
+   },
+   "loggerURLFilteringTypeLabel": {
+      "message": "種類："
+   },
+   "loggerUnpauseTip": {
+      "message": "ロガーの一時停止を取り消す"
+   },
+   "pickerContextMenuEntry": {
+      "message": "要素をブロック"
+   },
+   "pickerCosmeticFilters": {
+      "message": "コスメティック フィルター"
+   },
+   "pickerCosmeticFiltersHint": {
+      "message": "クリックしたあと、CTRL キーを押しながらクリックします"
+   },
+   "pickerCreate": {
+      "message": "作成"
+   },
+   "pickerNetFilters": {
+      "message": "ネットワーク フィルター"
+   },
+   "pickerPick": {
+      "message": "選択"
+   },
+   "pickerPreview": {
+      "message": "プレビュー"
+   },
+   "pickerQuit": {
+      "message": "終了"
+   },
+   "popup1pScriptRulePrompt": {
+      "message": "ファースト パーティー スクリプト"
+   },
+   "popup3pAnyRulePrompt": {
+      "message": "サード パーティー"
+   },
+   "popup3pFrameRulePrompt": {
+      "message": "サード パーティー フレーム"
+   },
+   "popup3pPassiveRulePrompt": {
+      "message": "サード パーティー CSS／イメージ"
+   },
+   "popup3pScriptRulePrompt": {
+      "message": "サード パーティー スクリプト"
+   },
+   "popupAdvancedSettings": {
+      "message": "詳細設定"
+   },
+   "popupAnyRulePrompt": {
+      "message": "すべて"
+   },
+   "popupExtraAdsAllowedOnSites": {
+      "message": "このサイトではトラッカーが許可されています"
+   },
+   "popupExtraAdsBlockedOnPage": {
+      "message": "このページでブロックしたトラッカー"
+   },
+   "popupExtraAdsBlockedOnSites": {
+      "message": "このサイトではトラッカーがブロックされています"
+   },
+   "popupExtraAdsBlockedTotal": {
+      "message": "ブロックされたトラッカーの合計"
+   },
+   "popupExtraLessOptions": {
+      "message": "オプションの簡易表示"
+   },
+   "popupExtraListAllowedSites": {
+      "message": "許可されているサイトのリスト"
+   },
+   "popupExtraMoreInformation": {
+      "message": "詳細な情報"
+   },
+   "popupExtraMoreOptions": {
+      "message": "オプションの詳細表示"
+   },
+   "popupExtraNoSitesAddedYet": {
+      "message": "サイトがまだ追加されていません"
+   },
+   "popupExtraProtectionCanNotEnabled": {
+      "message": "このサイトでは保護を有効にできません"
+   },
+   "popupExtraProtectionDisabledForSession": {
+      "message": "このセッションの保護を有効にすることはできません"
+   },
+   "popupExtraSeeListAllowedSites": {
+      "message": "許可されている全サイトのリストを表示"
+   },
+   "popupHitDomainCount": {
+      "message": "{{count}}／{{total}}"
+   },
+   "popupHitDomainCountPrompt": {
+      "message": "接続済みのドメイン"
+   },
+   "popupImageRulePrompt": {
+      "message": "画像"
+   },
+   "popupInlineScriptRulePrompt": {
+      "message": "インライン スクリプト"
+   },
+   "popupTipDashboard": {
+      "message": "ダッシュボードを開く"
+   },
+   "popupTipGlobalRules": {
+      "message": "グローバル ルール：この列にはすべてのサイトに適用されるルールが入ります。"
+   },
+   "popupTipLocalRules": {
+      "message": "ローカル ルール：この列には現在のサイトにのみ適用するルールが入ります。ローカル ルールはグローバル ルールよりも優先されます。"
+   },
+   "popupTipLog": {
+      "message": "ロガーを開く"
+   },
+   "popupTipNoCosmeticFiltering": {
+      "message": "このサイトのコスメティック フィルターを切り替える"
+   },
+   "popupTipNoCosmeticFiltering1": {
+      "message": "クリックして、このサイトのコスメティック フィルターを無効化"
+   },
+   "popupTipNoCosmeticFiltering2": {
+      "message": "クリックして、このサイトのコスメティック フィルターを有効化"
+   },
+   "popupTipNoLargeMedia": {
+      "message": "このサイトの大容量のメディア要素に対するブロックを切り替える"
+   },
+   "popupTipNoLargeMedia1": {
+      "message": "クリックして、このサイトの大容量のメディア要素をブロック"
+   },
+   "popupTipNoLargeMedia2": {
+      "message": "クリックして、このサイトの大容量のメディア要素を今後ブロックしない"
+   },
+   "popupTipNoPopups": {
+      "message": "このサイトのすべてのポップアップへのブロックを切り替える"
+   },
+   "popupTipNoPopups1": {
+      "message": "クリックして、このサイトのすべてのポップアップをブロック"
+   },
+   "popupTipNoPopups2": {
+      "message": "クリックして、このサイトのすべてのポップアップを今後ブロックしない"
+   },
+   "popupTipNoRemoteFonts": {
+      "message": "このサイトのリモート フォントへのブロックを切り替える"
+   },
+   "popupTipNoRemoteFonts1": {
+      "message": "クリックして、このサイトのリモート フォントをブロック"
+   },
+   "popupTipNoRemoteFonts2": {
+      "message": "クリックして、このサイトのリモート フォントを今後ブロックしない"
+   },
+   "popupTipNoScripting1": {
+      "message": "クリックして、このサイトの JavaScript を無効化"
+   },
+   "popupTipNoScripting2": {
+      "message": "クリックして、このサイトの JavaScript を今後無効化しない"
+   },
+   "popupTipPicker": {
+      "message": "エレメント選択モードを開く"
+   },
+   "popupTipRevertRules": {
+      "message": "クリックして、変更を元に戻します。"
+   },
+   "popupTipSaveRules": {
+      "message": "クリックして、変更を無期限にします。"
+   },
+   "popupTipZapper": {
+      "message": "エレメント ザッパー モードを開く"
+   },
+   "rulesCommit": {
+      "message": "コミット"
+   },
+   "rulesEdit": {
+      "message": "編集"
+   },
+   "rulesEditDiscard": {
+      "message": "破棄"
+   },
+   "rulesEditSave": {
+      "message": "保存"
+   },
+   "rulesExport": {
+      "message": "ファイルにエクスポート"
+   },
+   "rulesFormatHint": {
+      "message": "ルール構文：\u003Ccode>ソース 宛先 タイプ アクション\u003C/code>（\u003Ca href='https://github.com/gorhill/uBlock/wiki/Dynamic-filtering:-rule-syntax'>詳細マニュアル\u003C/a>）。"
+   },
+   "rulesHint": {
+      "message": "動的フィルター処理ルールのリスト。"
+   },
+   "rulesImport": {
+      "message": "ファイルからインポート..."
+   },
+   "rulesPageName": {
+      "message": "マイ ルール"
+   },
+   "rulesPermanentHeader": {
+      "message": "無期限のルール"
+   },
+   "rulesRevert": {
+      "message": "元に戻す"
+   },
+   "rulesTemporaryHeader": {
+      "message": "一時的なルール"
+   },
+   "settingPerSiteSwitchGroup": {
+      "message": "初期設定の動作"
+   },
+   "settingPerSiteSwitchGroupSynopsis": {
+      "message": "この初期設定の動作は、サイト単位で上書きできます"
+   },
+   "settingsAdvancedUserPrompt": {
+      "message": "私は上級ユーザーです（\u003Ca href='https://github.com/gorhill/uBlock/wiki/Advanced-user-features'>必須資料\u003C/a>）"
+   },
+   "settingsAdvancedUserSettings": {
+      "message": "詳細設定"
+   },
+   "settingsCloudStorageEnabledPrompt": {
+      "message": "クラウド ストレージのサポートを有効にします"
+   },
+   "settingsCollapseBlockedPrompt": {
+      "message": "ブロックした要素のプレース ホルダーを非表示にします"
+   },
+   "settingsColorBlindPrompt": {
+      "message": "色覚障害対応"
+   },
+   "settingsContextMenuPrompt": {
+      "message": "適宜、コンテキスト メニューを使用します"
+   },
+   "settingsHyperlinkAuditingDisabledPrompt": {
+      "message": "ハイパーリンクの監査を無効にします"
+   },
+   "settingsIconBadgePrompt": {
+      "message": "アイコンでブロックされたリクエストの数を表示します"
+   },
+   "settingsLastBackupPrompt": {
+      "message": "前回のバックアップ："
+   },
+   "settingsLastRestorePrompt": {
+      "message": "前回の復元："
+   },
+   "settingsNoCSPReportsPrompt": {
+      "message": "CSP レポートをブロックします"
+   },
+   "settingsNoCosmeticFilteringPrompt": {
+      "message": "コスメティック フィルターを無効にします"
+   },
+   "settingsNoLargeMediaPrompt": {
+      "message": "{{input:number}} kB を超えるメディア要素をブロック"
+   },
+   "settingsNoRemoteFontsPrompt": {
+      "message": "リモート フォントをブロックします"
+   },
+   "settingsNoScriptingPrompt": {
+      "message": "JavaScript を無効化"
+   },
+   "settingsPageName": {
+      "message": "設定"
+   },
+   "settingsPrefetchingDisabledPrompt": {
+      "message": "（ブロックしたネットワーク要求の接続をすべて阻止するため）プリフェッチを無効にします"
+   },
+   "settingsStorageUsed": {
+      "message": "ストレージ使用量：{{value}} バイト"
+   },
+   "settingsTooltipsPrompt": {
+      "message": "ツールチップを無効にします"
+   },
+   "settingsWebRTCIPAddressHiddenPrompt": {
+      "message": "WebRTC でローカル IP アドレスの情報が洩れないようにします"
+   },
+   "shortcutCapturePlaceholder": {
+      "message": "ショートカットを入力"
+   },
+   "shortcutsPageName": {
+      "message": "ショートカット"
+   },
+   "showDashboardButton": {
+      "message": "ダッシュボードを表示"
+   },
+   "showNetworkLogButton": {
+      "message": "ロガーを表示"
+   },
+   "statsPageName": {
+      "message": "CCleaner Anti-Tracking - ロガー"
+   },
+   "subscriberConfirm": {
+      "message": "CCleaner Anti-Tracking：次の URL をカスタム フィルター リストに追加しますか？\n\nタイトル：\"{{title}}\"\nURL：{{url}}"
+   },
+   "whitelistApply": {
+      "message": "変更を適用"
+   },
+   "whitelistExport": {
+      "message": "エクスポート"
+   },
+   "whitelistExportFilename": {
+      "message": "CCleaner Anti-Tracking-whitelist_{{datetime}}.txt"
+   },
+   "whitelistImport": {
+      "message": "インポートして追加"
+   },
+   "whitelistPageName": {
+      "message": "ホワイトリスト"
+   },
+   "whitelistPrompt": {
+      "message": "ホワイトリスト指令では、CCleaner Anti-Tracking を無効にするウェブ ページを記述します。1 行で 1 件の指令を規定します。無効な指令はユーザーが確認しなくても無視され、コメント アウトされます。"
+   }
+}

@@ -1,0 +1,117 @@
+{
+    "appName": {
+        "message": "Спампоўка відэа"
+    },
+    "appDesc": {
+        "message": "Спампоўвайце відэа для аўтаномнага прагляду"
+    },
+    "barMediaBtn": {
+        "message": "Мультымедыя",
+        "description": "The Media button text as visible on the floating bar"
+    },
+    "barDownloadBtn": {
+        "message": "Спампаваць",
+        "description": "The Download button text as visible on the floating bar"
+    },
+    "barDetachBtn": {
+        "message": "Адлучыць",
+        "description": "The Detach button text as visible on the floating bar"
+    },
+    "barSettingsTitle": {
+        "message": "Налады",
+        "description": "Settings popup title in the floating bar"
+    },
+    "barSettingsDoNotShow": {
+        "message": "Больш не паказваць",
+        "description": "Button in settings popup disabling video-downloader"
+    },
+    "barSettingsDoNotShowForSite": {
+        "message": "Не паказваць на гэтым сайце",
+        "description": "Button in settings popup disabling video-downloader for exact site"
+    },
+    "barSettingsAbout": {
+        "message": "Падрабязней",
+        "description": "About Button in settings popup"
+    },
+    "barQualityVideo": {
+        "message": "Відэа",
+        "description": "Video title"
+    },
+    "barQualityAudio": {
+        "message": "Аўдыё",
+        "description": "Audio title"
+    },
+    "barSettingsDescription": {
+        "message": "Нас аснове тэхналогіі CCleaner Secure Browser",
+        "description": "Video download feature description in settings popup"
+    },
+    "barSettingsBtn": {
+        "message": "Налады",
+        "description": "The Settings button text as visible on the floating bar"
+    },
+    "extensionName": {
+        "message": "Спампоўка відэа",
+        "description": "Name shown in the extension button in SZB Control Center."
+    },
+    "extensionTitle": {
+        "message": "Спампоўвайце відэа для аўтаномнага прагляду.",
+        "description": "Title shown on hover over the extension button in SZB Control Center."
+    },
+    "popupAudioHeading": {
+        "message": "Аўдыё",
+        "description": "The heading of the audio section in the media popup list"
+    },
+    "popupVideoHeading": {
+        "message": "Відэа",
+        "description": "The heading of the video section in the media popup list"
+    },
+    "popupDownloadBtn": {
+        "message": "Спампаваць",
+        "description": "The Download button text as visible in the media popup list"
+    },
+    "reattachBtn": {
+        "message": "Далучыць",
+        "description": "The Reattach button text as visible on the detached video page"
+    },
+    "optionUnknownSize": {
+        "message": "невядомы памер",
+        "description": "Videa or audio download option of unknown size"
+    },
+    "popupNoVideos": {
+        "message": "На гэтай старонцы няма відэа для спампоўкі",
+        "description": "Page does not contain any videos"
+    },
+    "popupNoVideos_v2": {
+        "message": "Каб спампаваць відэа, адкрыйце старонку з яго падрабязнасцямі.",
+        "description": ""
+    },
+    "popupDisabledFor": {
+        "message": "Спампоўка відэа адключана для",
+        "description": "Page was disabled for video downloader"
+    },
+    "popupEnable": {
+        "message": "Уключыць",
+        "description": "Enable video downloader for current page"
+    },
+    "eulaText": {
+        "message": "Прымаючы ўмовы <div><a target='blank' href='$link$'>Ліцэнзійнага пагаднення канчатковага карыстальніка<\/a><\/div> (EULA), вы разумееце і пагаджаецеся, што несяце адказнасць на выкарыстанне функцыі «Спампоўка відэа» ў адпаведнасці з прымянімымі законамі аб аўтарскім праве і ўмовамі выкарыстання любога вэб-сайта.",
+        "description": "EULA message displayed to the user",
+        "placeholders": {
+            "link": {
+                "content": "$1"
+            }
+        }
+    },
+    "eulaTitle": {
+        "message": "Перад спампоўкай",
+        "description": "EULA popup title"
+    },
+    "eulaUnderstandAccept": {
+        "message": "Я разумею і прымаю ўмовы EULA",
+        "description": "EULA user agreement checkbox text"
+    },
+    "eulaContinue": {
+        "message": "Працягнуць",
+        "description": "EUlA continue button"
+    }
+}

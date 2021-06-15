@@ -1,0 +1,28 @@
+{
+   "appDescription": {
+      "message": "ブラウザーの指紋を隠してオンライン トラッキングを制限します"
+   },
+   "appName": {
+      "message": "指紋採取対策"
+   },
+   "popupStatusDisabled": {
+      "description": "Popup label shown when afp is disabled for current website",
+      "message": "このサイトでは指紋採取保護が無効になっています"
+   },
+   "popupStatusEnabled": {
+      "description": "Popup label shown when afp is enabled for current website",
+      "message": "このサイトでは指紋採取保護が有効になっています"
+   },
+   "popupTotalFingerprintsAttemptsDetected": {
+      "description": "Popup total fingerprints attempts detected label",
+      "message": "検出された指紋採取の試みの合計数"
+   },
+   "settingsAdvanced": {
+      "description": "Settings page title",
+      "message": "指紋採取対策の詳細設定"
+   },
+   "settingsSocialMediaLoginDetectionPrevention": {
+      "description": "Settings page social media login detection prevention title",
+      "message": "ソーシャル メディア ログイン検知防止機能"
+   }
+}

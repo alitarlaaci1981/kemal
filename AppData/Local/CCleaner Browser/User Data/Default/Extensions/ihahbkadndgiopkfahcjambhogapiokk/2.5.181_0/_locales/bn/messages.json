@@ -1,0 +1,28 @@
+{
+   "appDescription": {
+      "message": "অনলাইন ট্র্যাকিং সীমিত করুন এবং আপনার ব্রাউজারের ফিঙ্গারপ্রিন্ট গোপন করুন"
+   },
+   "appName": {
+      "message": "অ্যান্টি-ফিঙ্গার প্রিন্টিং"
+   },
+   "popupStatusDisabled": {
+      "description": "Popup label shown when afp is disabled for current website",
+      "message": "আঙ্গুলের ছাপ এই সাইটে নিষ্ক্রিয় করা হয়েছে"
+   },
+   "popupStatusEnabled": {
+      "description": "Popup label shown when afp is enabled for current website",
+      "message": "আঙ্গুলের ছাপ এই সাইটে সক্রিয় করা হয়েছে"
+   },
+   "popupTotalFingerprintsAttemptsDetected": {
+      "description": "Popup total fingerprints attempts detected label",
+      "message": "সর্বমোট আঙ্গুলের ছাপ-দিয়ে প্রচেষ্টা সনাক্ত করা হয়েছে"
+   },
+   "settingsAdvanced": {
+      "description": "Settings page title",
+      "message": "অ্যান্টি-ফিঙ্গার প্রিন্টিং উন্নত সেটিংস"
+   },
+   "settingsSocialMediaLoginDetectionPrevention": {
+      "description": "Settings page social media login detection prevention title",
+      "message": "সোশাল মিডিয়া লগইন সনাক্তকরণ প্রতিরোধ"
+   }
+}

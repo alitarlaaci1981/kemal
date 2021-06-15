@@ -1,0 +1,117 @@
+{
+   "appDesc": {
+      "message": "Download videos for offline viewing"
+   },
+   "appName": {
+      "message": "Video Downloader"
+   },
+   "barDetachBtn": {
+      "description": "The Detach button text as visible on the floating bar",
+      "message": "Detach"
+   },
+   "barDownloadBtn": {
+      "description": "The Download button text as visible on the floating bar",
+      "message": "Download"
+   },
+   "barMediaBtn": {
+      "description": "The Media button text as visible on the floating bar",
+      "message": "Media"
+   },
+   "barQualityAudio": {
+      "description": "Audio title",
+      "message": "Audio"
+   },
+   "barQualityVideo": {
+      "description": "Video title",
+      "message": "Video"
+   },
+   "barSettingsAbout": {
+      "description": "About Button in settings popup",
+      "message": "More information"
+   },
+   "barSettingsBtn": {
+      "description": "The Settings button text as visible on the floating bar",
+      "message": "Settings"
+   },
+   "barSettingsDescription": {
+      "description": "Video download feature description in settings popup",
+      "message": "Powered by CCleaner Secure Browser"
+   },
+   "barSettingsDoNotShow": {
+      "description": "Button in settings popup disabling video-downloader",
+      "message": "Do not show again"
+   },
+   "barSettingsDoNotShowForSite": {
+      "description": "Button in settings popup disabling video-downloader for exact site",
+      "message": "Do not show on this site"
+   },
+   "barSettingsTitle": {
+      "description": "Settings popup title in the floating bar",
+      "message": "Settings"
+   },
+   "eulaContinue": {
+      "description": "EUlA continue button",
+      "message": "Continue"
+   },
+   "eulaText": {
+      "description": "EULA message displayed to the user",
+      "message": "By accepting our \u003Cdiv>\u003Ca target='blank' href='$link$'>End User License Agreement\u003C/a>\u003C/div> (EULA), you acknowledge and agree that it is your responsibility to use Video Downloader in compliance with applicable copyright laws and the terms of use of any website.",
+      "placeholders": {
+         "link": {
+            "content": "$1"
+         }
+      }
+   },
+   "eulaTitle": {
+      "description": "EULA popup title",
+      "message": "Before you download"
+   },
+   "eulaUnderstandAccept": {
+      "description": "EULA user agreement checkbox text",
+      "message": "I understand and accept the EULA"
+   },
+   "extensionName": {
+      "description": "Name shown in the extension button in SZB Control Center.",
+      "message": "Video Downloader"
+   },
+   "extensionTitle": {
+      "description": "Title shown on hover over the extension button in SZB Control Center.",
+      "message": "Download videos for offline viewing."
+   },
+   "optionUnknownSize": {
+      "description": "Videa or audio download option of unknown size",
+      "message": "unknown size"
+   },
+   "popupAudioHeading": {
+      "description": "The heading of the audio section in the media popup list",
+      "message": "Audio"
+   },
+   "popupDisabledFor": {
+      "description": "Page was disabled for video downloader",
+      "message": "Video downloader is disabled for"
+   },
+   "popupDownloadBtn": {
+      "description": "The Download button text as visible in the media popup list",
+      "message": "Download"
+   },
+   "popupEnable": {
+      "description": "Enable video downloader for current page",
+      "message": "Enable"
+   },
+   "popupNoVideos": {
+      "description": "Page does not contain any videos",
+      "message": "There are no videos to download on this page"
+   },
+   "popupNoVideos_v2": {
+      "description": "",
+      "message": "In order to download a video, go to its detail page."
+   },
+   "popupVideoHeading": {
+      "description": "The heading of the video section in the media popup list",
+      "message": "Video"
+   },
+   "reattachBtn": {
+      "description": "The Reattach button text as visible on the detached video page",
+      "message": "Reattach"
+   }
+}

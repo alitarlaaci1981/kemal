@@ -1,0 +1,875 @@
+{
+   "1pApplyChanges": {
+      "message": "Pielietot izmaiņas"
+   },
+   "1pExport": {
+      "message": "Eksportēt"
+   },
+   "1pExportFilename": {
+      "message": "CCleaner Anti-Tracking-static-filters_{{datetime}}.txt"
+   },
+   "1pFormatHint": {
+      "message": "Viens filtrs katrai rindai. Filtrs var būt vienkāršs resursdatora nosaukums vai ar Adblock Plus saderīgs filtrs. Rindas ar prefiksu &lsquo;!&rsquo; tiks ignorētas."
+   },
+   "1pImport": {
+      "message": "Importēt un pievienot"
+   },
+   "1pPageName": {
+      "message": " Mani filtri"
+   },
+   "3pApplyChanges": {
+      "message": "Pielietot izmaiņas"
+   },
+   "3pAutoUpdatePrompt1": {
+      "message": "Automātiskās atjaunināšanas filtru saraksti"
+   },
+   "3pExternalListObsolete": {
+      "message": "Novecojis."
+   },
+   "3pExternalListsHint": {
+      "message": "Viens URL katrā rindā. Rindas, kurām ir prefikss &lsquo;!&rsquo;, tiks ignorētas. Nederīgie URL tiks klusām ignorēti."
+   },
+   "3pGroupAds": {
+      "message": "Reklāmas"
+   },
+   "3pGroupAnnoyances": {
+      "message": "Apgrūtinājumi"
+   },
+   "3pGroupCustom": {
+      "message": "Pielāgots"
+   },
+   "3pGroupDefault": {
+      "message": "Tīkla & kosmētikas filtri"
+   },
+   "3pGroupMalware": {
+      "message": "Ļaunprogrammatūras domēni"
+   },
+   "3pGroupMultipurpose": {
+      "message": "Universāls"
+   },
+   "3pGroupPrivacy": {
+      "message": "Privātums"
+   },
+   "3pGroupRegions": {
+      "message": "Reģioni, valodas"
+   },
+   "3pIgnoreGenericCosmeticFilters": {
+      "message": "Ignorēt vispārējos kosmētiskos filtrus"
+   },
+   "3pIgnoreGenericCosmeticFiltersInfo": {
+      "message": "\u003Cp>Vispārēji kosmētiskie filtri ir kosmētiski filtri, ko paredzēts izmantot visās tīmekļa vietnēs.\u003Cp>Kaut arī kosmētiskos filtrus efektīvi apstrādā CCleaner Anti-Tracking, tie joprojām var ievērojami tērēt atmiņu un pārslogot centrālo procesoru dažās tīmekļa lapās, it īpaši lielās un sen pastāvošās.\u003Cp>Iespējojot šo opciju, tiek samazināta atmiņas un centrālā procesora pārslodze, kas tīmekļa lapām tiek pievienota vispārēju kosmētisko filtru apstrādes gadījumā, kā arī samazināts pašas CCleaner Anti-Tracking atmiņas patēriņa apjoms.\u003Cp>Ieteicams šo opciju iespējot mazāk jaudīgās ierīcēs."
+   },
+   "3pImport": {
+      "message": "Importēt..."
+   },
+   "3pLastUpdate": {
+      "message": "Pēdējoreiz atjaunināts: {{ago}}.\nNoklikšķiniet, lai atjauninātu piespiedu kārtā."
+   },
+   "3pListsOfBlockedHostsHeader": {
+      "message": "Bloķēto resursdatoru saraksti"
+   },
+   "3pListsOfBlockedHostsPerListStats": {
+      "message": "{{used}} izmantoti no {{total}}"
+   },
+   "3pListsOfBlockedHostsPrompt": {
+      "message": "{{netFilterCount}} tīkla filtri ＋ {{cosmeticFilterCount}} kosmētiskie filtri no:"
+   },
+   "3pNetworkError": {
+      "message": "Tīkla kļūda neļāva atjaunināt resursu."
+   },
+   "3pPageName": {
+      "message": "Trešās puses filtri"
+   },
+   "3pParseAllABPHideFiltersInfo": {
+      "message": "\u003Cp>Ar šo opciju tiek iespējota parsēšana un ieviešana \u003Ca href=\"https://adblockplus.org/en/faq_internal#elemhide\">ar Adblock Plus saderīgiem &ldquo;elementu slēpšanas&rdquo; filtriem\u003C/a>. Šie filtri būtībā ir kosmētiski, tiek izmantoti to elementu paslēpšanai tīmekļa lapā, kuri tiek uzskatīti par vizuālu traucējumu un kurus nevar bloķēt ar tīkla pieprasījuma bāzes filtrēšanas programmu.\u003C/p>\u003Cp>Ieslēdzot šo līdzekli, palielinās CCleaner Anti-Tracking atmiņas lietojuma apjoms.\u003C/p>"
+   },
+   "3pParseAllABPHideFiltersPrompt1": {
+      "message": "Parsēt un ieviest kosmētiskos filtrus"
+   },
+   "3pPurgeAll": {
+      "message": "Iztīrīt visas kešatmiņas"
+   },
+   "3pUpdateNow": {
+      "message": "Atjaunināt tūlīt"
+   },
+   "3pUpdating": {
+      "message": "Atjaunina..."
+   },
+   "aboutBackupDataButton": {
+      "message": "Atpakaļ uz failu"
+   },
+   "aboutBackupFilename": {
+      "message": "CCleaner Anti-Tracking-backup_{{datetime}}.txt"
+   },
+   "aboutChangelog": {
+      "message": "Mainīt žurnālu"
+   },
+   "aboutCode": {
+      "message": "Avota kods (GPLv3)"
+   },
+   "aboutContributors": {
+      "message": "Atbalstītāji"
+   },
+   "aboutDependencies": {
+      "message": "Ārējās atkarības (saderība ar GPLv3):"
+   },
+   "aboutIssues": {
+      "message": "Problēmu izsekotājs"
+   },
+   "aboutPageName": {
+      "message": "Par"
+   },
+   "aboutResetDataButton": {
+      "message": "Atjaunot noklusējuma iestatījumus..."
+   },
+   "aboutResetDataConfirm": {
+      "message": "Visi jūsu iestatījumi tiks noņemti, un CCleaner Anti-Tracking tiks restartēts.\n\nVai CCleaner Anti-Tracking atiestatīt uz rūpnīcas iestatījumiem?"
+   },
+   "aboutRestoreDataButton": {
+      "message": "Atjaunot no faila..."
+   },
+   "aboutRestoreDataConfirm": {
+      "message": "Visi iestatījumi tiks pārrakstīti, izmantojot {{time}} dublētos datus, un CCleaner Anti-Tracking tiks restartēts.\n\nVai pārrakstīt visus esošos iestatījumus, izmantojot dublētos datus?"
+   },
+   "aboutRestoreDataError": {
+      "message": "Datus nevarēja nolasīt vai tie nav derīgi"
+   },
+   "aboutSupport": {
+      "message": "Atbalsts"
+   },
+   "aboutWiki": {
+      "message": "Wiki"
+   },
+   "advancedSettingsPageName": {
+      "message": "Papildu iestatījumi"
+   },
+   "advancedSettingsWarning": {
+      "message": "Brīdinājums! Mainot papildu iestatījumus, jūs pats uzņematies risku."
+   },
+   "assetViewerPageName": {
+      "message": "uBlock? ? Aktīva skatītājs"
+   },
+   "cloudDeviceNamePrompt": {
+      "message": "Šīs ierīces nosaukums:"
+   },
+   "cloudNoData": {
+      "message": "...\n..."
+   },
+   "cloudPull": {
+      "message": "Importēt no mākoņa krātuves"
+   },
+   "cloudPullAndMerge": {
+      "message": "Importēt no mākoņa krātuves un sapludināt ar pašreizējiem iestatījumiem"
+   },
+   "cloudPush": {
+      "message": "Eksportēt uz mākoņa krātuvi"
+   },
+   "contextMenuTemporarilyAllowLargeMediaElements": {
+      "message": "Īslaicīgi atļaut lielus multivides elementus"
+   },
+   "dashboardName": {
+      "message": "CCleaner Anti-Tracking — informācijas panelis"
+   },
+   "docblockedBack": {
+      "message": "Doties atpakaļ"
+   },
+   "docblockedClose": {
+      "message": "Aizvērt šo logu"
+   },
+   "docblockedDisablePermanent": {
+      "message": "Pastāvīgi"
+   },
+   "docblockedDisableTemporary": {
+      "message": "Īslaicīgi"
+   },
+   "docblockedFoundIn": {
+      "message": "Atrasts šeit:"
+   },
+   "docblockedNoParamsPrompt": {
+      "message": "bez parametriem"
+   },
+   "docblockedProceed": {
+      "message": "Atspējot {{hostname}} stingro bloķēšanu"
+   },
+   "docblockedPrompt1": {
+      "message": "CCleaner Anti-Tracking neļāva ielādēt šo lapu:"
+   },
+   "docblockedPrompt2": {
+      "message": "Šī filtra dēļ"
+   },
+   "dummy": {
+      "message": "Šai ievadnei ir jābūt pēdējai"
+   },
+   "elapsedManyDaysAgo": {
+      "message": "pirms {{value}} dienām"
+   },
+   "elapsedManyHoursAgo": {
+      "message": "pirms {{value}} stundām"
+   },
+   "elapsedManyMinutesAgo": {
+      "message": "pirms {{value}} minūtēm"
+   },
+   "elapsedOneDayAgo": {
+      "message": "pirms dienas"
+   },
+   "elapsedOneHourAgo": {
+      "message": "pirms stundas"
+   },
+   "elapsedOneMinuteAgo": {
+      "message": "pirms minūtes"
+   },
+   "errorCantConnectTo": {
+      "message": "Tīkla kļūda: {{msg}}"
+   },
+   "extName": {
+      "message": "CCleaner Anti-Tracking"
+   },
+   "extShortDesc": {
+      "message": "Bloķē uzmācīgus tīmekļa izsekotājus."
+   },
+   "extra1pPageNameDesc": {
+      "message": "Pārvaldiet savus pielāgotos filtrus"
+   },
+   "extra3pPageNameDesc": {
+      "message": "Izsekotāji un privātuma trešo pušu filtri"
+   },
+   "extraAddFilter": {
+      "message": "Pievienot filtru"
+   },
+   "extraAddRrule": {
+      "message": "Pievienot pagaidu kārtulu"
+   },
+   "extraAddSetting": {
+      "message": "Pievienot iestatījumu"
+   },
+   "extraAddSite": {
+      "message": "Pievienot vietni"
+   },
+   "extraAdsFilters": {
+      "message": "Reklāmu filtri"
+   },
+   "extraAdvancedUserSettings": {
+      "message": "Papildu lietotāja iestatījumi"
+   },
+   "extraAllowOnSites": {
+      "message": "Atļaut izsekotājus šajās vietnēs"
+   },
+   "extraBlockMediaElementsLargerThan": {
+      "message": "Bloķēt multivides elementus, kas lielāki par"
+   },
+   "extraBtnAdd": {
+      "message": "pievienot"
+   },
+   "extraBtnCancel": {
+      "message": "atcelt"
+   },
+   "extraBtnEdit": {
+      "message": "Rediģēt"
+   },
+   "extraBtnExport": {
+      "message": "eksportēt"
+   },
+   "extraBtnImport": {
+      "message": "importēt"
+   },
+   "extraBtnRemove": {
+      "message": "Noņemt"
+   },
+   "extraBtnUpdateAll": {
+      "message": "atjaunināt visu"
+   },
+   "extraDefaultBehaviour": {
+      "message": "Noklusējuma rīcība"
+   },
+   "extraEditFilter": {
+      "message": "Rediģēt filtru"
+   },
+   "extraEditRule": {
+      "message": "Rediģēt pagaidu kārtulu"
+   },
+   "extraEditSetting": {
+      "message": "Rediģēt iestatījumu"
+   },
+   "extraEditSite": {
+      "message": "Rediģēt vietni"
+   },
+   "extraGeneralSettings": {
+      "message": "Vispārējie iestatījumi"
+   },
+   "extraGeneralSettingsDesc": {
+      "message": "Pārvaldīt CCleaner Anti-Tracking rādīto informāciju"
+   },
+   "extraIndexDescription": {
+      "message": "Bloķēt izsekotājus ātrākai un drošākai pārlūkošanai"
+   },
+   "extraIndexFooter": {
+      "message": "Nodrošina uBlock Origin."
+   },
+   "extraIndexHeader": {
+      "message": "CCleaner Anti-Tracking papildu iestatījumi"
+   },
+   "extraIndexTitle": {
+      "message": "#uzruna#"
+   },
+   "extraInterstitialBlocking": {
+      "message": "Iespējot iespiešanās bloķēšanu"
+   },
+   "extraLabelFilter": {
+      "message": "Filtrs"
+   },
+   "extraLearnMore": {
+      "message": "Uzzināt vairāk"
+   },
+   "extraManageFilters": {
+      "message": "Pārvaldīt filtrus"
+   },
+   "extraMyCustomFilter": {
+      "message": "Mani pielāgotie filtri"
+   },
+   "extraPrivacy": {
+      "message": "Privātums"
+   },
+   "extraRule": {
+      "message": "Kārtula"
+   },
+   "extraRuleDefinition": {
+      "message": "Kārtulas definīcija"
+   },
+   "extraRuleSyntax": {
+      "message": "Kārtulas sintakse"
+   },
+   "extraRulesPageNameDesc": {
+      "message": "Jūsu dinamisko filtrēšanas kārtulu saraksts"
+   },
+   "extraSetting": {
+      "message": "Iestatījums"
+   },
+   "extraShowMore": {
+      "message": "Rādīt vairāk"
+   },
+   "extraSite": {
+      "message": "Vietne"
+   },
+   "extraSlider0": {
+      "message": "Nebloķēt reklāmas"
+   },
+   "extraSlider100": {
+      "message": "Maksimāla reklāmu bloķēšana"
+   },
+   "extraSlider50": {
+      "message": "Mērena reklāmu bloķēšana"
+   },
+   "extraSourceDestinationTypeAction": {
+      "message": "avota mērķa tipa darbība."
+   },
+   "extraWhitelistPageNameDesc": {
+      "message": "Saraksts ar vietnēm, kurās izsekotāji ir atļauti"
+   },
+   "fennecMenuItemBlockingOff": {
+      "message": "izslēgts"
+   },
+   "genericApplyChanges": {
+      "message": "Pielietot izmaiņas"
+   },
+   "genericBytes": {
+      "message": "baiti"
+   },
+   "genericCopyToClipboard": {
+      "message": "Kopēt uz starpliktuvi"
+   },
+   "genericMergeViewScrollLock": {
+      "message": "Pārslēgt bloķēto ritināšanu"
+   },
+   "genericRevert": {
+      "message": "Atjaunot iepriekšējo"
+   },
+   "genericSubmit": {
+      "message": "Iesniegt"
+   },
+   "logAll": {
+      "message": "Viss"
+   },
+   "logBehindTheScene": {
+      "message": "Aiz skatuves"
+   },
+   "logFilterPrompt": {
+      "message": "filtrēt žurnāla ierakstus"
+   },
+   "logMaxEntriesTip": {
+      "message": "Maksimālais žurnāla ierakstu skaits"
+   },
+   "logRequestsHeaderDomain": {
+      "message": "Domēns"
+   },
+   "logRequestsHeaderFilter": {
+      "message": "Filtrs"
+   },
+   "logRequestsHeaderType": {
+      "message": "Tips"
+   },
+   "logRequestsHeaderURL": {
+      "message": "URL"
+   },
+   "loggerClearTip": {
+      "message": "Notīrīt nolasītāju"
+   },
+   "loggerCurrentTab": {
+      "message": "Pašreizējā cilne"
+   },
+   "loggerDomInspectorTip": {
+      "message": "Pārslēgt DOM inspektoru"
+   },
+   "loggerEntryDetailsContext": {
+      "message": "Konteksts"
+   },
+   "loggerEntryDetailsFilter": {
+      "message": "Filtrs"
+   },
+   "loggerEntryDetailsFilterList": {
+      "message": "Filtru saraksts"
+   },
+   "loggerEntryDetailsHeader": {
+      "message": "Dati"
+   },
+   "loggerEntryDetailsPartyness": {
+      "message": "Piesaiste"
+   },
+   "loggerEntryDetailsRootContext": {
+      "message": "Saknes konteksts"
+   },
+   "loggerEntryDetailsRule": {
+      "message": "Kārtula"
+   },
+   "loggerEntryDetailsType": {
+      "message": "Tips"
+   },
+   "loggerEntryDetailsURL": {
+      "message": "URL"
+   },
+   "loggerExportEncodeMarkdown": {
+      "message": "Pazemināšana"
+   },
+   "loggerExportEncodePlain": {
+      "message": "Vienkāršs"
+   },
+   "loggerExportFormatList": {
+      "message": "Saraksts"
+   },
+   "loggerExportFormatTable": {
+      "message": "Tabula"
+   },
+   "loggerInfoTip": {
+      "message": "uBlock izcelsmes wiki: nolasītājs"
+   },
+   "loggerPauseTip": {
+      "message": "Pauzēt nolasītāju (atmest visus ienākošos datus)"
+   },
+   "loggerPopupPanelTip": {
+      "message": "Pārslēgt uzniru paneli"
+   },
+   "loggerReloadTip": {
+      "message": "Atkārtoti ielādēt cilnes saturu"
+   },
+   "loggerRowFiltererBuiltin1p": {
+      "message": "1. puse"
+   },
+   "loggerRowFiltererBuiltin3p": {
+      "message": "3. puse"
+   },
+   "loggerRowFiltererBuiltinAllowed": {
+      "message": "atļauts"
+   },
+   "loggerRowFiltererBuiltinBlocked": {
+      "message": "bloķēts"
+   },
+   "loggerRowFiltererBuiltinEventful": {
+      "message": "notikumiem bagāts"
+   },
+   "loggerRowFiltererBuiltinNot": {
+      "message": "Nav"
+   },
+   "loggerRowFiltererBuiltinTip": {
+      "message": "Nolasītāja filtrēšanas opcijas"
+   },
+   "loggerRowFiltererButtonTip": {
+      "message": "Pārslēgt nolasītāja filtrēšanu"
+   },
+   "loggerSettingDiscardPrompt": {
+      "message": "Nolasītāja ievadnes, kas neatbilst visiem trim tālāk norādītajiem nosacījumiem, tiks automātiski atmestas:"
+   },
+   "loggerSettingHideColumnContext": {
+      "message": "{{input}} konteksts"
+   },
+   "loggerSettingHideColumnFilter": {
+      "message": "{{input}} filtrs/kārtula"
+   },
+   "loggerSettingHideColumnPartyness": {
+      "message": "{{input}} iesaiste"
+   },
+   "loggerSettingHideColumnTime": {
+      "message": "{{input}} laiks"
+   },
+   "loggerSettingHideColumnsPrompt": {
+      "message": "Paslēpt kolonnas:"
+   },
+   "loggerSettingPerEntryLineCount": {
+      "message": "Izmantot {{input}} rindas katrai ievadnei vertikālā izvērsuma režīmā"
+   },
+   "loggerSettingPerEntryMaxAge": {
+      "message": "Saglabāt ievadnes no pēdējām {{input}} minūtēm"
+   },
+   "loggerSettingPerTabMaxEntries": {
+      "message": "Saglabāt ne vairāk kā {{input}} ievadnes katrai cilnei"
+   },
+   "loggerSettingPerTabMaxLoads": {
+      "message": "Saglabāt ne vairāk kā {{input}} lapas ielādes katrai cilnei"
+   },
+   "loggerStaticFilteringFinderSentence1": {
+      "message": "Statiskais filtrs \u003Ccode>{{filter}}\u003C/code> atrasts šeit:"
+   },
+   "loggerStaticFilteringFinderSentence2": {
+      "message": "Statisko filtru \u003Ccode>{{filter}}\u003C/code> nevarēja atrast nevienā no pašlaik iespējotajiem filtru sarakstiem"
+   },
+   "loggerStaticFilteringHeader": {
+      "message": "Statiskā filtrēšana"
+   },
+   "loggerStaticFilteringSentence": {
+      "message": "{{action}} tīkla pieprasījumiem ar tipu {{type}} {{br}}, kura URL adrese atbilst {{url}} {{br}}un kura izcelsme ir {{origin}},{{br}}{{importance}} ir atbilstīgs izņēmuma filtrs."
+   },
+   "loggerStaticFilteringSentencePartAllow": {
+      "message": "Atļaut"
+   },
+   "loggerStaticFilteringSentencePartAnyOrigin": {
+      "message": "no jebkuras vietas"
+   },
+   "loggerStaticFilteringSentencePartAnyType": {
+      "message": "jebkurš tips"
+   },
+   "loggerStaticFilteringSentencePartBlock": {
+      "message": "Bloķēt"
+   },
+   "loggerStaticFilteringSentencePartImportant": {
+      "message": "pat ja"
+   },
+   "loggerStaticFilteringSentencePartNotImportant": {
+      "message": "izņemot, kad"
+   },
+   "loggerStaticFilteringSentencePartOrigin": {
+      "message": "no ?{{origin}}?"
+   },
+   "loggerStaticFilteringSentencePartType": {
+      "message": "tips ?{{type}}?"
+   },
+   "loggerURLFilteringContextLabel": {
+      "message": "Konteksts:"
+   },
+   "loggerURLFilteringHeader": {
+      "message": "Dinamiskā URL filtrēšana"
+   },
+   "loggerURLFilteringTypeLabel": {
+      "message": "Tips:"
+   },
+   "loggerUnpauseTip": {
+      "message": "Pārtraukt nolasītāja pauzi"
+   },
+   "pickerContextMenuEntry": {
+      "message": "Bloķēt elementu"
+   },
+   "pickerCosmeticFilters": {
+      "message": "Kosmētiskie filtri"
+   },
+   "pickerCosmeticFiltersHint": {
+      "message": "Klikšķis, Ctrl-klikšķis"
+   },
+   "pickerCreate": {
+      "message": "Izveidot"
+   },
+   "pickerNetFilters": {
+      "message": "Tīkla filtri"
+   },
+   "pickerPick": {
+      "message": "Paņemt"
+   },
+   "pickerPreview": {
+      "message": "Priekšskatījums"
+   },
+   "pickerQuit": {
+      "message": "Iziet"
+   },
+   "popup1pScriptRulePrompt": {
+      "message": "1. puses skripti"
+   },
+   "popup3pAnyRulePrompt": {
+      "message": "3. puse"
+   },
+   "popup3pFrameRulePrompt": {
+      "message": "Trešās puses struktūras"
+   },
+   "popup3pPassiveRulePrompt": {
+      "message": "3. puses css/attēli"
+   },
+   "popup3pScriptRulePrompt": {
+      "message": "3. puses skripti"
+   },
+   "popupAdvancedSettings": {
+      "message": "Papildu iestatījumi"
+   },
+   "popupAnyRulePrompt": {
+      "message": "viss"
+   },
+   "popupExtraAdsAllowedOnSites": {
+      "message": "Izsekotāji šajā vietnē tiek atļauti"
+   },
+   "popupExtraAdsBlockedOnPage": {
+      "message": "Šajā lapā bloķētie izsekotāji"
+   },
+   "popupExtraAdsBlockedOnSites": {
+      "message": "Izsekotāji šajā vietnē tiek bloķēti"
+   },
+   "popupExtraAdsBlockedTotal": {
+      "message": "Bloķētie izsekotāji kopumā"
+   },
+   "popupExtraLessOptions": {
+      "message": "Mazāk opciju"
+   },
+   "popupExtraListAllowedSites": {
+      "message": "Atļauto vietņu saraksts"
+   },
+   "popupExtraMoreInformation": {
+      "message": "Papildinformācija"
+   },
+   "popupExtraMoreOptions": {
+      "message": "Vairāk opciju"
+   },
+   "popupExtraNoSitesAddedYet": {
+      "message": "Vēl nav pievienotas vietnes"
+   },
+   "popupExtraProtectionCanNotEnabled": {
+      "message": "Nevar iespējot aizsardzību šajā vietnē"
+   },
+   "popupExtraProtectionDisabledForSession": {
+      "message": "Nevar iespējot aizsardzību šai sesijai"
+   },
+   "popupExtraSeeListAllowedSites": {
+      "message": "Skatīt atļauto vietņu sarakstu"
+   },
+   "popupHitDomainCount": {
+      "message": "{{count}} no {{total}}"
+   },
+   "popupHitDomainCountPrompt": {
+      "message": "savienotie domēni"
+   },
+   "popupImageRulePrompt": {
+      "message": "attēli"
+   },
+   "popupInlineScriptRulePrompt": {
+      "message": "iekļautie skripti"
+   },
+   "popupTipDashboard": {
+      "message": "Atvērt informācijas paneli"
+   },
+   "popupTipGlobalRules": {
+      "message": "Globālās kārtulas: šī kolonna ir paredzēta kārtulām, kas attiecas uz visām vietnēm."
+   },
+   "popupTipLocalRules": {
+      "message": "Vietējās kārtulas: šī kolonna ir paredzēta kārtulām, kas attiecas tikai uz pašreizējo vietni.\nVietējās kārtulas ignorē globālās kārtulas."
+   },
+   "popupTipLog": {
+      "message": "Atvērt nolasītāju"
+   },
+   "popupTipNoCosmeticFiltering": {
+      "message": "Pārslēgt kosmētisko filtrēšanu šai vietnei"
+   },
+   "popupTipNoCosmeticFiltering1": {
+      "message": "Noklikšķiniet, lai atspējotu kosmētisko filtrēšanu šajā vietnē"
+   },
+   "popupTipNoCosmeticFiltering2": {
+      "message": "Noklikšķiniet, lai iespējotu kosmētisko filtrēšanu šajā vietnē"
+   },
+   "popupTipNoLargeMedia": {
+      "message": "Pārslēgt lielo multivides elementu bloķēšanu šai vietnei"
+   },
+   "popupTipNoLargeMedia1": {
+      "message": "Noklikšķiniet, lai bloķētu lielos multivides elementus šajā vietnē"
+   },
+   "popupTipNoLargeMedia2": {
+      "message": "Noklikšķiniet, lai vairs nebloķētu lielos multivides elementus šajā vietnē"
+   },
+   "popupTipNoPopups": {
+      "message": "Pārslēgt visu uzniru bloķēšanu šai vietnei"
+   },
+   "popupTipNoPopups1": {
+      "message": "Noklikšķiniet, lai bloķētu visas uznires šai vietnei"
+   },
+   "popupTipNoPopups2": {
+      "message": "Noklikšķiniet, lai vairs nebloķētu visas uznires šajā vietnē"
+   },
+   "popupTipNoRemoteFonts": {
+      "message": "Pārslēgt attālo fontu bloķēšanu šai vietnei"
+   },
+   "popupTipNoRemoteFonts1": {
+      "message": "Noklikšķiniet, lai bloķētu attālos fontus šajā vietnē"
+   },
+   "popupTipNoRemoteFonts2": {
+      "message": "Noklikšķiniet, lai vairs nebloķētu attālos fontus šajā vietnē"
+   },
+   "popupTipNoScripting1": {
+      "message": "Noklikšķiniet, lai atspējotu JavaScript šajā vietnē"
+   },
+   "popupTipNoScripting2": {
+      "message": "Noklikšķiniet, lai vairs neatspējotu JavaScript šajā vietnē"
+   },
+   "popupTipPicker": {
+      "message": "Atvērt elementu paņemšanas režīmu"
+   },
+   "popupTipRevertRules": {
+      "message": "Noklikšķiniet, lai atgrieztu savas izmaiņas."
+   },
+   "popupTipSaveRules": {
+      "message": "Noklikšķiniet, lai izmaiņas kļūtu neatgriezeniskas."
+   },
+   "popupTipZapper": {
+      "message": "Atvērt elementu iznīcināšanas režīmu"
+   },
+   "rulesCommit": {
+      "message": "Iesniegt"
+   },
+   "rulesDefaultFileName": {
+      "message": "CCleaner Anti-Tracking-dynamic-rules_{{datetime}}.txt"
+   },
+   "rulesEdit": {
+      "message": "Rediģēt"
+   },
+   "rulesEditDiscard": {
+      "message": "Atmest"
+   },
+   "rulesEditSave": {
+      "message": "Saglabāt"
+   },
+   "rulesExport": {
+      "message": "Eksportēt uz failu"
+   },
+   "rulesFormatHint": {
+      "message": "Kārtulas sintakse: \u003Ccode>avota mērķa tipa darbība\u003C/code> (\u003Ca href='https://github.com/gorhill/uBlock/wiki/Dynamic-filtering:-rule-syntax'>pilna dokumentācija\u003C/a>)."
+   },
+   "rulesHint": {
+      "message": "Jūsu dinamisko filtrēšanas kārtulu saraksts."
+   },
+   "rulesImport": {
+      "message": "Importēt no faila..."
+   },
+   "rulesPageName": {
+      "message": "Mani noteikumi"
+   },
+   "rulesPermanentHeader": {
+      "message": "Pastāvīgie noteikumi"
+   },
+   "rulesRevert": {
+      "message": "Atjaunot iepriekšējo"
+   },
+   "rulesTemporaryHeader": {
+      "message": "Pagaidu noteikumi"
+   },
+   "settingPerSiteSwitchGroup": {
+      "message": "Noklusējuma rīcība"
+   },
+   "settingPerSiteSwitchGroupSynopsis": {
+      "message": "Šīs noklusējuma darbības var tikt ignorētas konkrētai vietnei"
+   },
+   "settingsAdvancedUserPrompt": {
+      "message": "Es esmu pieredzējis lietotājs (\u003Ca href='https://github.com/gorhill/uBlock/wiki/Advanced-user-features'>nepieciešama lasīšana\u003C/a>)"
+   },
+   "settingsAdvancedUserSettings": {
+      "message": "papildu iestatījumi"
+   },
+   "settingsCloudStorageEnabledPrompt": {
+      "message": "Iespējot mākoņa krātuves atbalstu"
+   },
+   "settingsCollapseBlockedPrompt": {
+      "message": "Slēpt bloķētu elementu vietturus"
+   },
+   "settingsColorBlindPrompt": {
+      "message": "Draudzīgs daltoniķiem"
+   },
+   "settingsContextMenuPrompt": {
+      "message": "Izmantojiet konteksta izvēlni, ja tas ir piemēroti"
+   },
+   "settingsHyperlinkAuditingDisabledPrompt": {
+      "message": "Atspējot hipersaites pārbaudi"
+   },
+   "settingsIconBadgePrompt": {
+      "message": "Rādīt bloķēto pieprasījumu skaitu uz ikonas"
+   },
+   "settingsLastBackupPrompt": {
+      "message": "Pēdējā dublēšana:"
+   },
+   "settingsLastRestorePrompt": {
+      "message": "Pēdējā atjaunošana:"
+   },
+   "settingsNoCSPReportsPrompt": {
+      "message": "Bloķēt CSP ziņojumus"
+   },
+   "settingsNoCosmeticFilteringPrompt": {
+      "message": "Atspējot kosmētisko filtrēšanu"
+   },
+   "settingsNoLargeMediaPrompt": {
+      "message": "Bloķēt multivides elementus, kas lielāki par {{input:number}} kB"
+   },
+   "settingsNoRemoteFontsPrompt": {
+      "message": "Bloķēt attālos fontus"
+   },
+   "settingsNoScriptingPrompt": {
+      "message": "Atspējot JavaScript"
+   },
+   "settingsPageName": {
+      "message": "Iestatījumi"
+   },
+   "settingsPrefetchingDisabledPrompt": {
+      "message": "Atspējot iepriekšēju paņemšanu (lai novērstu jebkuru savienojumu bloķētiem tīkla pieprasījumiem)"
+   },
+   "settingsStorageUsed": {
+      "message": "Izmantotā krātus: {{value}} baiti"
+   },
+   "settingsTooltipsPrompt": {
+      "message": "Izslēgt rīku padomus"
+   },
+   "settingsWebRTCIPAddressHiddenPrompt": {
+      "message": "Neļaut WebRTC nopludināt vietējās IP adreses"
+   },
+   "shortcutCapturePlaceholder": {
+      "message": "Ievadiet saīsni"
+   },
+   "shortcutsPageName": {
+      "message": "Saīsnes"
+   },
+   "showDashboardButton": {
+      "message": "Rādīt informācijas paneli"
+   },
+   "showNetworkLogButton": {
+      "message": "Rādīt nolasītāju"
+   },
+   "statsPageName": {
+      "message": "CCleaner Anti-Tracking — nolasītājs"
+   },
+   "subscriberConfirm": {
+      "message": "CCleaner Anti-Tracking: vai šo URL pievienot jūsu pielāgoto filtru sarakstam?\n\nNosaukums: “{{title}}”\nURL: {{url}}"
+   },
+   "whitelistApply": {
+      "message": "Pielietot izmaiņas"
+   },
+   "whitelistExport": {
+      "message": "Eksportēt"
+   },
+   "whitelistExportFilename": {
+      "message": "CCleaner Anti-Tracking-whitelist_{{datetime}}.txt"
+   },
+   "whitelistImport": {
+      "message": "Importēt un pievienot"
+   },
+   "whitelistPageName": {
+      "message": "Baltais saraksts"
+   },
+   "whitelistPrompt": {
+      "message": "Baltā saraksta direktīvas norāda, kurās tīmekļa lapās CCleaner Anti-Tracking ir jāatspējo. Viens ieraksts katrā rindā. Nederīgās direktīvas tiks klusām ignorētas un atzīmētas ar komentāru."
+   }
+}

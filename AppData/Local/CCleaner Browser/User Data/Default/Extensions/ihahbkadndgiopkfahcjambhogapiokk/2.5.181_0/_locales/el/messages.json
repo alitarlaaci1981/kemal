@@ -1,0 +1,28 @@
+{
+   "appDescription": {
+      "message": "Συγκαλύπτει το αποτύπωμα του προγράμματος περιήγησης και περιορίζει την παρακολούθηση"
+   },
+   "appName": {
+      "message": "Προστασία Αποτυπώματος"
+   },
+   "popupStatusDisabled": {
+      "description": "Popup label shown when afp is disabled for current website",
+      "message": "Η προστασία δαχτυλικού αποτυπώματος είναι ανενεργή στον ιστότοπο"
+   },
+   "popupStatusEnabled": {
+      "description": "Popup label shown when afp is enabled for current website",
+      "message": "Η προστασία δαχτυλικού αποτυπώματος είναι ενεργή στον ιστότοπο"
+   },
+   "popupTotalFingerprintsAttemptsDetected": {
+      "description": "Popup total fingerprints attempts detected label",
+      "message": "Απόπειρες δακτυλικού αποτυπώματος ανιχνεύθηκαν συνολικά"
+   },
+   "settingsAdvanced": {
+      "description": "Settings page title",
+      "message": "Προχωρημένες Ρυθμίσεις στην Προστασία Αποτυπώματος"
+   },
+   "settingsSocialMediaLoginDetectionPrevention": {
+      "description": "Settings page social media login detection prevention title",
+      "message": "Πρόληψη Εντοπισμού κατά τη Σύνδεση στα Social Media"
+   }
+}

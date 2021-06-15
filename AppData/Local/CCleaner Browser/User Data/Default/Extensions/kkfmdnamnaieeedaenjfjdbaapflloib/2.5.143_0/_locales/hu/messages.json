@@ -1,0 +1,117 @@
+{
+   "appDesc": {
+      "message": "Videók letöltése offline megtekintéshez"
+   },
+   "appName": {
+      "message": "Videóletöltő"
+   },
+   "barDetachBtn": {
+      "description": "The Detach button text as visible on the floating bar",
+      "message": "Leválasztás"
+   },
+   "barDownloadBtn": {
+      "description": "The Download button text as visible on the floating bar",
+      "message": "Letöltés"
+   },
+   "barMediaBtn": {
+      "description": "The Media button text as visible on the floating bar",
+      "message": "Média"
+   },
+   "barQualityAudio": {
+      "description": "Audio title",
+      "message": "Hang"
+   },
+   "barQualityVideo": {
+      "description": "Video title",
+      "message": "Videó"
+   },
+   "barSettingsAbout": {
+      "description": "About Button in settings popup",
+      "message": "További információ"
+   },
+   "barSettingsBtn": {
+      "description": "The Settings button text as visible on the floating bar",
+      "message": "Beállítások"
+   },
+   "barSettingsDescription": {
+      "description": "Video download feature description in settings popup",
+      "message": "Technológia: CCleaner Secure Browser"
+   },
+   "barSettingsDoNotShow": {
+      "description": "Button in settings popup disabling video-downloader",
+      "message": "Ne jelenjen meg újra"
+   },
+   "barSettingsDoNotShowForSite": {
+      "description": "Button in settings popup disabling video-downloader for exact site",
+      "message": "Ne mutassa többet ezen az oldalon"
+   },
+   "barSettingsTitle": {
+      "description": "Settings popup title in the floating bar",
+      "message": "Beállítások"
+   },
+   "eulaContinue": {
+      "description": "EUlA continue button",
+      "message": "Folytatás"
+   },
+   "eulaText": {
+      "description": "EULA message displayed to the user",
+      "message": "A \u003Cdiv>\u003Ca target='blank' href='$link$'>Végfelhasználói licencszerződés\u003C/a>\u003C/div> (EULA) elfogadásával beleegyezik abba, hogy az Ön felelőssége gondoskodni arról, hogy a Videóletöltőt a vonatkozó szerzői jogi törvényeknek és a webhelyek használati feltételeinek megfelelően használja.",
+      "placeholders": {
+         "link": {
+            "content": "$1"
+         }
+      }
+   },
+   "eulaTitle": {
+      "description": "EULA popup title",
+      "message": "Letöltés előtt"
+   },
+   "eulaUnderstandAccept": {
+      "description": "EULA user agreement checkbox text",
+      "message": "Megismertem és elfogadom az EULA tartalmát"
+   },
+   "extensionName": {
+      "description": "Name shown in the extension button in SZB Control Center.",
+      "message": "Videóletöltő"
+   },
+   "extensionTitle": {
+      "description": "Title shown on hover over the extension button in SZB Control Center.",
+      "message": "Töltsön le videókat offline megtekintéshez."
+   },
+   "optionUnknownSize": {
+      "description": "Videa or audio download option of unknown size",
+      "message": "ismeretlen méret"
+   },
+   "popupAudioHeading": {
+      "description": "The heading of the audio section in the media popup list",
+      "message": "Hang"
+   },
+   "popupDisabledFor": {
+      "description": "Page was disabled for video downloader",
+      "message": "A Videóletöltő le van tiltva itt:"
+   },
+   "popupDownloadBtn": {
+      "description": "The Download button text as visible in the media popup list",
+      "message": "Letöltés"
+   },
+   "popupEnable": {
+      "description": "Enable video downloader for current page",
+      "message": "Engedélyezés"
+   },
+   "popupNoVideos": {
+      "description": "Page does not contain any videos",
+      "message": "Az oldalon nincsenek letölthető videók"
+   },
+   "popupNoVideos_v2": {
+      "description": "",
+      "message": "A videók letöltéséhez tekintse meg az adataikat tartalmazó oldalt."
+   },
+   "popupVideoHeading": {
+      "description": "The heading of the video section in the media popup list",
+      "message": "Videó"
+   },
+   "reattachBtn": {
+      "description": "The Reattach button text as visible on the detached video page",
+      "message": "Visszaillesztés"
+   }
+}
