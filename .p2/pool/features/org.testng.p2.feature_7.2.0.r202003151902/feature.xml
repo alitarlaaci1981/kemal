@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feature id="org.testng.p2.feature" label="TestNG P2 Feature" version="7.2.0.r202003151902" provider-name="TestNG Team">
+  <plugin id="com.beust.jcommander" download-size="0" install-size="0" version="1.72" unpack="false" />
+  <plugin id="com.beust.jcommander.source" download-size="0" install-size="0" version="1.72" unpack="false" />
+  <plugin id="org.apache-extras.beanshell.bsh" download-size="0" install-size="0" version="2.0.0.b6" unpack="false" />
+  <plugin id="org.apache-extras.beanshell.bsh.source" download-size="0" install-size="0" version="2.0.0.b6" unpack="false" />
+  <plugin id="org.testng" download-size="0" install-size="0" version="7.2.0.r202003151902" unpack="false" />
+  <plugin id="org.testng.source" download-size="0" install-size="0" version="7.2.0.r202003151902" unpack="false" />
+  <plugin id="org.yaml.snakeyaml" download-size="0" install-size="0" version="1.21.0" unpack="false" />
+  <plugin id="org.yaml.snakeyaml.source" download-size="0" install-size="0" version="1.21.0" unpack="false" />
+</feature>

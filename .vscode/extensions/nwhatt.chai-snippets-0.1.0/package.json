@@ -1,0 +1,42 @@
+{
+	"name": "chai-snippets",
+	"displayName": "Chai snippets",
+	"description": "Chai snippets in both assert and expect varietals.",
+	"license": "MIT",
+	"version": "0.1.0",
+	"icon": "images/icon.png",
+	"keywords": [
+		"chai",
+		"snippet",
+		"assert",
+		"expect"
+	],
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/nwhatt/vs-chai-snippets"
+	},
+	"galleryBanner": {
+		"color": "#00b588",
+		"theme": "dark"
+	},
+	"publisher": "nwhatt",
+	"engines": {
+		"vscode": "^1.0.0"
+	},
+	"categories": [
+		"Snippets"
+	],
+	"contributes": {
+		"snippets": [
+			{
+				"language": "javascript",
+				"path": "./snippets/snippets.json"
+			}
+		]
+	},
+	"__metadata": {
+		"id": "dbfcaca2-cabd-47ce-91f3-8e1276d2b50f",
+		"publisherId": "bf000838-dd5e-4dd8-afd7-8c903b9905ea",
+		"publisherDisplayName": "Nick Hatt"
+	}
+}

@@ -1,0 +1,110 @@
+{
+	"scripts": {
+		"vscode:prepublish": "tsc -p ./",
+		"compile": "tsc -watch -p ./",
+		"postinstall": "node ./node_modules/vscode/bin/install",
+		"test": "node ./node_modules/vscode/bin/test"
+	},
+	"dependencies": {
+		"lodash": "^4.17.5"
+	},
+	"devDependencies": {
+		"@types/lodash": "^4.14.106",
+		"@types/mocha": "^2.2.48",
+		"@types/node": "^6.0.40",
+		"mocha": "^2.3.3",
+		"typescript": "^3.0.1",
+		"vscode": "^1.1.21"
+	},
+	"name": "es6-mocha-snippets",
+	"version": "0.2.2",
+	"license": "MIT",
+	"displayName": "ES6 Mocha Snippets",
+	"description": "Shortcuts to reduce the amount of boiler plate you need to type when creating a test file using mocha.",
+	"galleryBanner": {
+		"color": "#486a8d",
+		"theme": "dark"
+	},
+	"icon": "images/mocha.png",
+	"author": "Cory Noonan",
+	"publisher": "spoonscen",
+	"engines": {
+		"vscode": "^1.26.1"
+	},
+	"categories": [
+		"Snippets"
+	],
+	"keywords": [
+		"mocha",
+		"es6"
+	],
+	"bugs": {
+		"url": "https://github.com/spoonscen/es6-mocha-snippets-vs-code/issues"
+	},
+	"homepage": "https://github.com/spoonscen/es6-mocha-snippets-vs-code",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/spoonscen/es6-mocha-snippets-vs-code.git"
+	},
+	"main": "./out/src/extension",
+	"badges": [
+		{
+			"url": "https://imgur.com/XNjIxuX",
+			"href": "https://mochajs.org/",
+			"description": "Mocha's Homepage"
+		}
+	],
+	"activationEvents": [
+		"onLanguage:typescript",
+		"onLanguage:javascript",
+		"onLanguage:typescriptreact",
+		"onLanguage:javascriptreact"
+	],
+	"contributes": {
+		"configuration": {
+			"type": "object",
+			"title": "Mocha Snippets configuration",
+			"properties": {
+				"mocha-snippets.glob": {
+					"type": "string",
+					"default": null,
+					"description": "Add a custom glob pattern for file (**/*.spec.ts) that you want the extension to apply to."
+				},
+				"mocha-snippets.function-type": {
+					"type": "string",
+					"enum": [
+						"both",
+						"arrow",
+						"function"
+					],
+					"default": "both",
+					"description": "Choose what type of snippets you prefer to use either 'arrow' (() =>), 'function' (function), or both"
+				},
+				"mocha-snippets.quote-type": {
+					"type": "string",
+					"enum": [
+						"single",
+						"double"
+					],
+					"default": "single",
+					"description": "Choose what type of quotes you prefer single or double"
+				},
+				"mocha-snippets.semicolon": {
+					"type": "boolean",
+					"default": true,
+					"description": "Include semicolons in your snippets"
+				},
+				"mocha-snippets.custom-prefix": {
+					"type": "string",
+					"default": null,
+					"description": "Adds a prefix to your snippet shortcuts"
+				}
+			}
+		}
+	},
+	"__metadata": {
+		"id": "d58b4691-21e7-45b7-93c6-ee7e164288cc",
+		"publisherId": "85c9c61f-da4a-4136-bb8d-e51683688de8",
+		"publisherDisplayName": "Cory Noonan"
+	}
+}

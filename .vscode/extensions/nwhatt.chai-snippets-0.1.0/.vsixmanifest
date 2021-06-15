@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PackageManifest Version="2.0.0" xmlns="http://schemas.microsoft.com/developer/vsx-schema/2011" xmlns:d="http://schemas.microsoft.com/developer/vsx-schema-design/2011">
+  <Metadata>
+    <Identity Language="en-US" Id="chai-snippets" Version="0.1.0" Publisher="nwhatt"/>
+    <DisplayName>Chai snippets</DisplayName>
+    <Description xml:space="preserve">Chai snippets in both assert and expect varietals.</Description>
+    <Tags>chai,snippet,assert,expect</Tags>
+    <Categories>Snippets</Categories>
+    <GalleryFlags>Public</GalleryFlags>
+    <Properties>
+      
+        <Property Id="Microsoft.VisualStudio.Services.Links.Source" Value="https://github.com/nwhatt/vs-chai-snippets" />
+        <Property Id="Microsoft.VisualStudio.Services.Links.Getstarted" Value="https://github.com/nwhatt/vs-chai-snippets" />
+        <Property Id="Microsoft.VisualStudio.Services.Links.Repository" Value="https://github.com/nwhatt/vs-chai-snippets" />
+      
+      
+      
+      <Property Id="Microsoft.VisualStudio.Services.Branding.Color" Value="#00b588" />
+      <Property Id="Microsoft.VisualStudio.Services.Branding.Theme" Value="dark" />
+    </Properties>
+    
+    <Icon>extension/images/icon.png</Icon>
+  </Metadata>
+  <Installation>
+    <InstallationTarget Id="Microsoft.VisualStudio.Code"/>
+  </Installation>
+  <Dependencies/>
+  <Assets>
+    <Asset Type="Microsoft.VisualStudio.Code.Manifest" Path="extension/package.json" Addressable="true" />
+    <Asset Type="Microsoft.VisualStudio.Services.Content.Details" Path="extension/README.md" Addressable="true" /><Asset Type="Microsoft.VisualStudio.Services.Icons.Default" Path="extension/images/icon.png" Addressable="true" />
+  </Assets>
+</PackageManifest>
