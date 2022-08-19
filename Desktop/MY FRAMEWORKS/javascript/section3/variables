@@ -1,0 +1,19 @@
+var hairColor 
+var eyecolor
+var phonenumber
+var adress
+----------------
+Naming rules
+1. start with any letter
+2. cant start witha number
+3. any lenght
+4. case sensitive
+5. use camel case
+----------
+var eyecolor = "Green";
+var hairColor= "Blue";
+-------------
+var something = "the world";
+var anotherthing = "the moon";
+var song = "jingle Bell";
+
